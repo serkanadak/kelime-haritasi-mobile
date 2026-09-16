@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "w_above_mentioned",
+    "headword": "above-mentioned",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˌbʌv ˈmenʃənd/",
+    "meanings": [
+      {
+        "tr": "yukarıda bahsedilen, adı geçen",
+        "en": "mentioned earlier in the same text or document",
+        "exampleEn": "Please refer to the above-mentioned terms before signing the contract.",
+        "exampleTr": "Sözleşmeyi imzalamadan önce lütfen yukarıda bahsedilen şartlara başvurun."
+      }
+    ],
+    "synonyms": [
+      "aforesaid",
+      "aforementioned"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_acclimate",
+    "headword": "acclimate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈækləˌmeɪt/",
+    "meanings": [
+      {
+        "tr": "alışmak, uyum sağlamak, iklime alıştırmak",
+        "en": "to get used to a new climate, environment, or situation",
+        "exampleEn": "It took the climbers a week to acclimate to the high altitude.",
+        "exampleTr": "Dağcıların yüksek irtifaya alışması bir hafta sürdü."
+      }
+    ],
+    "synonyms": [
+      "adjust",
+      "adapt",
+      "acclimatize"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_according_to",
+    "headword": "according to",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/əˈkɔːrdɪŋ tuː/",
+    "meanings": [
+      {
+        "tr": "-e göre, -e istinaden",
+        "en": "as stated or reported by a person or source",
+        "exampleEn": "According to the weather forecast, it will rain tomorrow.",
+        "exampleTr": "Hava tahminine göre yarın yağmur yağacak."
+      }
+    ],
+    "synonyms": [
+      "as per",
+      "as stated by"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_acrimony",
+    "headword": "acrimony",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈækrəˌmoʊni/",
+    "meanings": [
+      {
+        "tr": "sertlik, acılık, husumet",
+        "en": "angry and bitter feelings or words",
+        "exampleEn": "The negotiations ended in acrimony, with neither side willing to compromise.",
+        "exampleTr": "Müzakereler, hiçbir tarafın uzlaşmaya yanaşmamasıyla husumet içinde sona erdi."
+      }
+    ],
+    "synonyms": [
+      "bitterness",
+      "rancor",
+      "hostility"
+    ],
+    "antonyms": [
+      "harmony",
+      "goodwill"
+    ]
+  },
+  {
+    "id": "w_adversarial",
+    "headword": "adversarial",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌædvərˈseriəl/",
+    "meanings": [
+      {
+        "tr": "husumetli, karşıt, çekişmeli",
+        "en": "involving opposition or conflict between two sides",
+        "exampleEn": "The two companies had an adversarial relationship for years.",
+        "exampleTr": "İki şirketin yıllarca çekişmeli bir ilişkisi vardı."
+      }
+    ],
+    "synonyms": [
+      "hostile",
+      "antagonistic",
+      "opposing"
+    ],
+    "antonyms": [
+      "cooperative",
+      "friendly"
+    ]
+  },
+  {
+    "id": "w_afloat",
+    "headword": "afloat",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈfloʊt/",
+    "meanings": [
+      {
+        "tr": "su üstünde, batmadan, yüzer halde",
+        "en": "floating on water rather than sinking",
+        "exampleEn": "They struggled to keep the small boat afloat during the storm.",
+        "exampleTr": "Fırtına sırasında küçük tekneyi su üstünde tutmaya çalıştılar."
+      },
+      {
+        "tr": "ayakta, mali açıdan batmadan",
+        "en": "having enough money to stay out of debt or survive financially",
+        "exampleEn": "The company barely stayed afloat during the recession.",
+        "exampleTr": "Şirket, durgunluk döneminde güçbela ayakta kaldı."
+      }
+    ],
+    "synonyms": [
+      "floating",
+      "buoyant"
+    ],
+    "antonyms": [
+      "sunk",
+      "bankrupt"
+    ]
+  },
+  {
+    "id": "w_aforesaid",
+    "headword": "aforesaid",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈfɔːrˌsed/",
+    "meanings": [
+      {
+        "tr": "yukarıda adı geçen, evvelce bahsedilen",
+        "en": "mentioned or named before, especially in a legal document",
+        "exampleEn": "The aforesaid party shall be responsible for all damages.",
+        "exampleTr": "Yukarıda adı geçen taraf, tüm zararlardan sorumlu olacaktır."
+      }
+    ],
+    "synonyms": [
+      "aforementioned",
+      "above-mentioned"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_against",
+    "headword": "against",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈɡenst/",
+    "meanings": [
+      {
+        "tr": "-e karşı, karşısında",
+        "en": "in opposition to someone or something",
+        "exampleEn": "Many people protested against the new law.",
+        "exampleTr": "Birçok insan yeni yasaya karşı protesto düzenledi."
+      },
+      {
+        "tr": "-e dayalı, -e yaslanmış",
+        "en": "touching or leaning on something for support",
+        "exampleEn": "He leaned his bike against the wall.",
+        "exampleTr": "Bisikletini duvara yasladı."
+      }
+    ],
+    "synonyms": [
+      "versus",
+      "opposed to"
+    ],
+    "antonyms": [
+      "for",
+      "with"
+    ]
+  },
+  {
+    "id": "w_age_range",
+    "headword": "age range",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈeɪdʒ ˌreɪndʒ/",
+    "meanings": [
+      {
+        "tr": "yaş aralığı, yaş grubu",
+        "en": "the ages between and including two limits",
+        "exampleEn": "This toy is suitable for children in the age range of three to six.",
+        "exampleTr": "Bu oyuncak üç ila altı yaş aralığındaki çocuklar için uygundur."
+      }
+    ],
+    "synonyms": [
+      "age group",
+      "age bracket"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_all_inclusive",
+    "headword": "all-inclusive",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɔːl ɪnˈkluːsɪv/",
+    "meanings": [
+      {
+        "tr": "her şey dahil",
+        "en": "including everything, especially all costs or services",
+        "exampleEn": "We booked an all-inclusive holiday package to Turkey.",
+        "exampleTr": "Türkiye'ye her şey dahil bir tatil paketi ayırttık."
+      }
+    ],
+    "synonyms": [
+      "comprehensive",
+      "complete"
+    ],
+    "antonyms": [
+      "exclusive",
+      "partial"
+    ]
+  },
+  {
+    "id": "w_allowable",
+    "headword": "allowable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈlaʊəbəl/",
+    "meanings": [
+      {
+        "tr": "izin verilebilir, kabul edilebilir",
+        "en": "permitted by rules or law",
+        "exampleEn": "The maximum allowable weight for the luggage is 23 kilograms.",
+        "exampleTr": "Bagaj için izin verilebilir azami ağırlık 23 kilogramdır."
+      }
+    ],
+    "synonyms": [
+      "permissible",
+      "acceptable"
+    ],
+    "antonyms": [
+      "forbidden",
+      "prohibited"
+    ]
+  },
+  {
+    "id": "w_alongside",
+    "headword": "alongside",
+    "pos": "prep",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˌlɔːŋˈsaɪd/",
+    "meanings": [
+      {
+        "tr": "yanında, yan yana, birlikte",
+        "en": "next to or by the side of something or someone",
+        "exampleEn": "She worked alongside her colleagues to finish the project.",
+        "exampleTr": "Projeyi bitirmek için meslektaşlarıyla birlikte çalıştı."
+      }
+    ],
+    "synonyms": [
+      "beside",
+      "next to",
+      "together with"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_among",
+    "headword": "among",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈmʌŋ/",
+    "meanings": [
+      {
+        "tr": "arasında, içinde",
+        "en": "surrounded by or in the middle of a group",
+        "exampleEn": "She felt safe among her friends.",
+        "exampleTr": "Arkadaşlarının arasında kendini güvende hissetti."
+      }
+    ],
+    "synonyms": [
+      "amongst",
+      "amid",
+      "surrounded by"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_amongst",
+    "headword": "amongst",
+    "pos": "prep",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈmʌŋst/",
+    "meanings": [
+      {
+        "tr": "arasında, içinde",
+        "en": "surrounded by or in the middle of a group (mainly British)",
+        "exampleEn": "The decision caused disagreement amongst the members.",
+        "exampleTr": "Karar, üyeler arasında anlaşmazlığa neden oldu."
+      }
+    ],
+    "synonyms": [
+      "among",
+      "amid"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_an",
+    "headword": "an",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ən/",
+    "meanings": [
+      {
+        "tr": "bir (sesli harfle başlayan kelimelerden önce)",
+        "en": "the indefinite article used before words beginning with a vowel sound",
+        "exampleEn": "She ate an apple for breakfast.",
+        "exampleTr": "Kahvaltıda bir elma yedi."
+      }
+    ],
+    "synonyms": [
+      "a"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_analogically",
+    "headword": "analogically",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌænəˈlɒdʒɪkli/",
+    "meanings": [
+      {
+        "tr": "benzetme yoluyla, analojik olarak",
+        "en": "in a way that involves comparison based on similarity",
+        "exampleEn": "He explained the complex idea analogically, comparing it to a flowing river.",
+        "exampleTr": "Karmaşık fikri, onu akan bir nehre benzeterek analojik olarak açıkladı."
+      }
+    ],
+    "synonyms": [
+      "comparatively"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_and",
+    "headword": "and",
+    "pos": "conj",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ənd/",
+    "meanings": [
+      {
+        "tr": "ve, ile",
+        "en": "used to join words or parts of sentences",
+        "exampleEn": "I bought bread and milk from the store.",
+        "exampleTr": "Mağazadan ekmek ve süt aldım."
+      }
+    ],
+    "synonyms": [
+      "plus",
+      "as well as"
+    ],
+    "antonyms": [
+      "or"
+    ]
+  },
+  {
+    "id": "w_animal_biology",
+    "headword": "animal biology",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈænɪməl baɪˈɒlədʒi/",
+    "meanings": [
+      {
+        "tr": "hayvan biyolojisi, zooloji",
+        "en": "the scientific study of animals and their life processes",
+        "exampleEn": "Her research focuses on animal biology, especially the behavior of mammals.",
+        "exampleTr": "Araştırması hayvan biyolojisine, özellikle memelilerin davranışına odaklanıyor."
+      }
+    ],
+    "synonyms": [
+      "zoology"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_animal_doctor",
+    "headword": "animal doctor",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈænɪməl ˌdɒktər/",
+    "meanings": [
+      {
+        "tr": "veteriner",
+        "en": "an informal term for a veterinarian",
+        "exampleEn": "We took our sick cat to the animal doctor.",
+        "exampleTr": "Hasta kedimizi veterinere götürdük."
+      }
+    ],
+    "synonyms": [
+      "veterinarian",
+      "vet"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_animal_life",
+    "headword": "animal life",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈænɪməl laɪf/",
+    "meanings": [
+      {
+        "tr": "hayvan yaşamı, fauna",
+        "en": "all the animals living in a particular area or environment",
+        "exampleEn": "The rainforest is rich in plant and animal life.",
+        "exampleTr": "Yağmur ormanı bitki ve hayvan yaşamı açısından zengindir."
+      }
+    ],
+    "synonyms": [
+      "fauna",
+      "wildlife"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_another",
+    "headword": "another",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈnʌðər/",
+    "meanings": [
+      {
+        "tr": "bir başka, bir tane daha",
+        "en": "one more or a different one of the same kind",
+        "exampleEn": "Would you like another cup of coffee?",
+        "exampleTr": "Bir fincan kahve daha ister misin?"
+      }
+    ],
+    "synonyms": [
+      "an additional",
+      "a further"
+    ],
+    "antonyms": [
+      "the same"
+    ]
+  },
+  {
+    "id": "w_anti",
+    "headword": "anti",
+    "pos": "prep",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈænti/",
+    "meanings": [
+      {
+        "tr": "karşı, aleyhine olan",
+        "en": "opposed to a particular policy, action, or person",
+        "exampleEn": "She is strongly anti any form of censorship.",
+        "exampleTr": "Her türlü sansüre kesinlikle karşı."
+      }
+    ],
+    "synonyms": [
+      "against",
+      "opposed"
+    ],
+    "antonyms": [
+      "pro"
+    ]
+  },
+  {
+    "id": "w_any",
+    "headword": "any",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈeni/",
+    "meanings": [
+      {
+        "tr": "hiç, herhangi bir",
+        "en": "some amount or number, used in questions and negatives",
+        "exampleEn": "Is there any milk left in the fridge?",
+        "exampleTr": "Buzdolabında hiç süt kaldı mı?"
+      }
+    ],
+    "synonyms": [
+      "some"
+    ],
+    "antonyms": [
+      "none"
+    ]
+  },
+  {
+    "id": "w_anybody",
+    "headword": "anybody",
+    "pos": "pronoun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈeniˌbɒdi/",
+    "meanings": [
+      {
+        "tr": "herhangi biri, hiç kimse",
+        "en": "any person, no matter which",
+        "exampleEn": "Is there anybody here who can speak French?",
+        "exampleTr": "Burada Fransızca konuşabilen biri var mı?"
+      }
+    ],
+    "synonyms": [
+      "anyone",
+      "someone"
+    ],
+    "antonyms": [
+      "nobody"
+    ]
+  },
+  {
+    "id": "w_anyone",
+    "headword": "anyone",
+    "pos": "pronoun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈeniˌwʌn/",
+    "meanings": [
+      {
+        "tr": "herhangi biri, hiç kimse",
+        "en": "any person at all",
+        "exampleEn": "Anyone can learn to cook with a little practice.",
+        "exampleTr": "Biraz pratikle herkes yemek yapmayı öğrenebilir."
+      }
+    ],
+    "synonyms": [
+      "anybody",
+      "somebody"
+    ],
+    "antonyms": [
+      "no one"
+    ]
+  },
+  {
+    "id": "w_anything",
+    "headword": "anything",
+    "pos": "pronoun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈeniˌθɪŋ/",
+    "meanings": [
+      {
+        "tr": "herhangi bir şey, hiçbir şey",
+        "en": "a thing of any kind",
+        "exampleEn": "I don't want anything to eat right now.",
+        "exampleTr": "Şu anda yemek için hiçbir şey istemiyorum."
+      }
+    ],
+    "synonyms": [
+      "something"
+    ],
+    "antonyms": [
+      "nothing"
+    ]
+  },
+  {
+    "id": "w_apathetically",
+    "headword": "apathetically",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌæpəˈθetɪkli/",
+    "meanings": [
+      {
+        "tr": "ilgisizce, kayıtsızca",
+        "en": "in a way that shows no interest, emotion, or concern",
+        "exampleEn": "The students stared apathetically at the teacher, bored by the lecture.",
+        "exampleTr": "Öğrenciler dersten sıkılmış halde öğretmene ilgisizce baktılar."
+      }
+    ],
+    "synonyms": [
+      "indifferently",
+      "listlessly"
+    ],
+    "antonyms": [
+      "enthusiastically",
+      "eagerly"
+    ]
+  },
+  {
+    "id": "w_append",
+    "headword": "append",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈpend/",
+    "meanings": [
+      {
+        "tr": "eklemek, sonuna eklemek, iliştirmek",
+        "en": "to add something to the end of a piece of writing or document",
+        "exampleEn": "Please append your signature to the bottom of the form.",
+        "exampleTr": "Lütfen imzanızı formun altına ekleyin."
+      }
+    ],
+    "synonyms": [
+      "add",
+      "attach",
+      "affix"
+    ],
+    "antonyms": [
+      "remove",
+      "delete"
+    ]
+  },
+  {
+    "id": "w_archaic",
+    "headword": "archaic",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɑːrˈkeɪɪk/",
+    "meanings": [
+      {
+        "tr": "eski, çağ dışı, arkaik",
+        "en": "very old-fashioned or belonging to an earlier period",
+        "exampleEn": "The document was written in archaic language that few people could understand.",
+        "exampleTr": "Belge, çok az kişinin anlayabileceği eski bir dille yazılmıştı."
+      }
+    ],
+    "synonyms": [
+      "outdated",
+      "antiquated",
+      "obsolete"
+    ],
+    "antonyms": [
+      "modern",
+      "current"
+    ]
+  },
+  {
+    "id": "w_as",
+    "headword": "as",
+    "pos": "conj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əz/",
+    "meanings": [
+      {
+        "tr": "-dığı için, -dığı sırada, gibi",
+        "en": "used to say that something happens during the time when something else happens, or to give a reason",
+        "exampleEn": "As it was getting late, we decided to go home.",
+        "exampleTr": "Vakit geç olduğu için eve gitmeye karar verdik."
+      },
+      {
+        "tr": "olarak, gibi",
+        "en": "used to describe the role or function of someone or something",
+        "exampleEn": "She works as a nurse in the local hospital.",
+        "exampleTr": "Yerel hastanede hemşire olarak çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "since",
+      "because",
+      "while"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_aside_from",
+    "headword": "aside from",
+    "pos": "prep",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/əˈsaɪd frəm/",
+    "meanings": [
+      {
+        "tr": "-in dışında, -den başka, hariç",
+        "en": "except for; in addition to",
+        "exampleEn": "Aside from a few minor errors, the report was excellent.",
+        "exampleTr": "Birkaç küçük hata dışında rapor mükemmeldi."
+      }
+    ],
+    "synonyms": [
+      "apart from",
+      "except for",
+      "besides"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_assaulter",
+    "headword": "assaulter",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈsɔːltər/",
+    "meanings": [
+      {
+        "tr": "saldırgan, tecavüzcü",
+        "en": "a person who physically attacks someone",
+        "exampleEn": "The victim was unable to identify the assaulter in the dark.",
+        "exampleTr": "Mağdur, karanlıkta saldırganı teşhis edemedi."
+      }
+    ],
+    "synonyms": [
+      "attacker",
+      "aggressor",
+      "assailant"
+    ],
+    "antonyms": [
+      "victim"
+    ]
+  },
+  {
+    "id": "w_assimilation",
+    "headword": "assimilation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˌsɪməˈleɪʃən/",
+    "meanings": [
+      {
+        "tr": "özümseme, uyum sağlama, asimilasyon",
+        "en": "the process of becoming part of a group or absorbing information",
+        "exampleEn": "The assimilation of immigrants into society can take several generations.",
+        "exampleTr": "Göçmenlerin topluma asimilasyonu birkaç nesil sürebilir."
+      }
+    ],
+    "synonyms": [
+      "absorption",
+      "integration"
+    ],
+    "antonyms": [
+      "segregation"
+    ]
+  },
+  {
+    "id": "w_at",
+    "headword": "at",
+    "pos": "prep",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ət/",
+    "meanings": [
+      {
+        "tr": "-de, -da (yer ya da zaman)",
+        "en": "used to show a particular place, position, or time",
+        "exampleEn": "We will meet at the station at six o'clock.",
+        "exampleTr": "Saat altıda istasyonda buluşacağız."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_athleisure",
+    "headword": "athleisure",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌæθˈleʒər/",
+    "meanings": [
+      {
+        "tr": "spor-günlük giyim (hem spor hem gündelik kullanılan)",
+        "en": "casual, comfortable clothing designed to be worn for exercise and everyday activities",
+        "exampleEn": "Athleisure has become a huge trend in the fashion industry.",
+        "exampleTr": "Spor-günlük giyim, moda endüstrisinde büyük bir trend haline geldi."
+      }
+    ],
+    "synonyms": [
+      "sportswear"
+    ],
+    "antonyms": [
+      "formalwear"
+    ]
+  },
+  {
+    "id": "w_averageness",
+    "headword": "averageness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈævərɪdʒnəs/",
+    "meanings": [
+      {
+        "tr": "sıradanlık, ortalama olma hali",
+        "en": "the quality of being ordinary or not special",
+        "exampleEn": "There was a comforting averageness about the small town.",
+        "exampleTr": "Küçük kasabada rahatlatıcı bir sıradanlık vardı."
+      }
+    ],
+    "synonyms": [
+      "ordinariness",
+      "mediocrity"
+    ],
+    "antonyms": [
+      "excellence",
+      "exceptionality"
+    ]
+  },
+  {
+    "id": "w_awry",
+    "headword": "awry",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈraɪ/",
+    "meanings": [
+      {
+        "tr": "ters gitmek, yanlış gitmek, çarpık",
+        "en": "not according to plan; wrong or twisted to one side",
+        "exampleEn": "Their carefully made plans went awry at the last minute.",
+        "exampleTr": "Özenle yaptıkları planlar son dakikada ters gitti."
+      }
+    ],
+    "synonyms": [
+      "amiss",
+      "askew",
+      "wrong"
+    ],
+    "antonyms": [
+      "right",
+      "straight"
+    ]
+  },
+  {
+    "id": "w_barrenness",
+    "headword": "barrenness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbærənnəs/",
+    "meanings": [
+      {
+        "tr": "kısırlık, çoraklık, verimsizlik",
+        "en": "the state of being empty, infertile, or unproductive",
+        "exampleEn": "The barrenness of the desert stretched as far as the eye could see.",
+        "exampleTr": "Çölün çoraklığı gözün görebildiği kadar uzanıyordu."
+      }
+    ],
+    "synonyms": [
+      "infertility",
+      "desolation"
+    ],
+    "antonyms": [
+      "fertility",
+      "abundance"
+    ]
+  },
+  {
+    "id": "w_be_accountable",
+    "headword": "be accountable",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi əˈkaʊntəbəl/",
+    "meanings": [
+      {
+        "tr": "sorumlu olmak, hesap vermekle yükümlü olmak",
+        "en": "to be responsible for something and required to explain your actions",
+        "exampleEn": "Managers must be accountable for the decisions they make.",
+        "exampleTr": "Yöneticiler aldıkları kararlardan sorumlu olmalıdır."
+      }
+    ],
+    "synonyms": [
+      "be responsible",
+      "be answerable"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_be_alike",
+    "headword": "be alike",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi əˈlaɪk/",
+    "meanings": [
+      {
+        "tr": "benzemek, birbirine benzer olmak",
+        "en": "to be similar to each other",
+        "exampleEn": "The two sisters are very alike in appearance.",
+        "exampleTr": "İki kız kardeş görünüş olarak birbirine çok benziyor."
+      }
+    ],
+    "synonyms": [
+      "be similar",
+      "resemble"
+    ],
+    "antonyms": [
+      "be different"
+    ]
+  },
+  {
+    "id": "w_be_appreciative",
+    "headword": "be appreciative",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi əˈpriːʃətɪv/",
+    "meanings": [
+      {
+        "tr": "minnettar olmak, takdir etmek",
+        "en": "to feel or show gratitude and thankfulness",
+        "exampleEn": "We would be appreciative of any help you could offer.",
+        "exampleTr": "Sunabileceğiniz her türlü yardım için minnettar oluruz."
+      }
+    ],
+    "synonyms": [
+      "be grateful",
+      "be thankful"
+    ],
+    "antonyms": [
+      "be ungrateful"
+    ]
+  },
+  {
+    "id": "w_be_away",
+    "headword": "be away",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi əˈweɪ/",
+    "meanings": [
+      {
+        "tr": "uzakta olmak, yokta olmak, ayrılmış olmak",
+        "en": "to be absent or not present at a place",
+        "exampleEn": "She will be away on business next week.",
+        "exampleTr": "Gelecek hafta iş için şehir dışında olacak."
+      }
+    ],
+    "synonyms": [
+      "be absent",
+      "be gone"
+    ],
+    "antonyms": [
+      "be present"
+    ]
+  },
+  {
+    "id": "w_be_careless",
+    "headword": "be careless",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈkerləs/",
+    "meanings": [
+      {
+        "tr": "dikkatsiz olmak, özensiz olmak",
+        "en": "to not give enough attention or care to what you are doing",
+        "exampleEn": "Don't be careless with your money when you travel.",
+        "exampleTr": "Seyahat ederken paranı harcarken dikkatsiz olma."
+      }
+    ],
+    "synonyms": [
+      "be negligent",
+      "be reckless"
+    ],
+    "antonyms": [
+      "be careful"
+    ]
+  },
+  {
+    "id": "w_be_certain",
+    "headword": "be certain",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈsɜːrtən/",
+    "meanings": [
+      {
+        "tr": "emin olmak, kesin olmak",
+        "en": "to be completely sure about something",
+        "exampleEn": "I am certain that I locked the door before leaving.",
+        "exampleTr": "Çıkmadan önce kapıyı kilitlediğimden eminim."
+      }
+    ],
+    "synonyms": [
+      "be sure",
+      "be confident"
+    ],
+    "antonyms": [
+      "be unsure",
+      "be doubtful"
+    ]
+  },
+  {
+    "id": "w_be_different",
+    "headword": "be different",
+    "pos": "phrase",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈdɪfərənt/",
+    "meanings": [
+      {
+        "tr": "farklı olmak, değişik olmak",
+        "en": "to not be the same as someone or something else",
+        "exampleEn": "My opinion may be different from yours.",
+        "exampleTr": "Benim görüşüm seninkinden farklı olabilir."
+      }
+    ],
+    "synonyms": [
+      "differ",
+      "vary"
+    ],
+    "antonyms": [
+      "be alike",
+      "be similar"
+    ]
+  }
+]

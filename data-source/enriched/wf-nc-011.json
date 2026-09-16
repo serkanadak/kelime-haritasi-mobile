@@ -1,0 +1,1255 @@
+[
+  {
+    "id": "w_endlessness",
+    "headword": "endlessness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɛndləsnəs/",
+    "meanings": [
+      {
+        "tr": "sonsuzluk, bitmezlik",
+        "en": "the quality of having no end or limit",
+        "exampleEn": "The endlessness of the desert made them feel very small.",
+        "exampleTr": "Çölün sonsuzluğu onları çok küçük hissettirdi."
+      }
+    ],
+    "synonyms": [
+      "infinity",
+      "boundlessness"
+    ],
+    "antonyms": [
+      "finiteness"
+    ]
+  },
+  {
+    "id": "w_endow",
+    "headword": "endow",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈdaʊ/",
+    "meanings": [
+      {
+        "tr": "bağışta bulunmak, maddi kaynak sağlamak",
+        "en": "to give a large amount of money to an institution to provide it with an income",
+        "exampleEn": "A wealthy graduate endowed the university with a new library.",
+        "exampleTr": "Varlıklı bir mezun üniversiteye yeni bir kütüphane bağışladı."
+      },
+      {
+        "tr": "donatmak, bahşetmek",
+        "en": "to give someone or something a quality or ability",
+        "exampleEn": "She was endowed with great intelligence and charm.",
+        "exampleTr": "O, büyük bir zeka ve cazibeyle donatılmıştı."
+      }
+    ],
+    "synonyms": [
+      "donate",
+      "bestow",
+      "grant"
+    ],
+    "antonyms": [
+      "deprive"
+    ]
+  },
+  {
+    "id": "w_endowment",
+    "headword": "endowment",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈdaʊmənt/",
+    "meanings": [
+      {
+        "tr": "bağış, vakıf fonu",
+        "en": "money given to an institution to provide it with a regular income",
+        "exampleEn": "The college relies on its large endowment to fund scholarships.",
+        "exampleTr": "Üniversite burslarını finanse etmek için büyük vakıf fonuna dayanıyor."
+      },
+      {
+        "tr": "doğal yetenek, kabiliyet",
+        "en": "a natural quality or ability that a person has",
+        "exampleEn": "Her musical endowment was obvious from an early age.",
+        "exampleTr": "Müzikal yeteneği erken yaşta belliydi."
+      }
+    ],
+    "synonyms": [
+      "fund",
+      "gift",
+      "bequest"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_endurable",
+    "headword": "endurable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈdjʊərəbl̩/",
+    "meanings": [
+      {
+        "tr": "katlanılabilir, dayanılabilir",
+        "en": "able to be tolerated or borne",
+        "exampleEn": "The pain was just endurable with the help of medication.",
+        "exampleTr": "İlaç yardımıyla acı ancak katlanılabilir düzeydeydi."
+      }
+    ],
+    "synonyms": [
+      "bearable",
+      "tolerable"
+    ],
+    "antonyms": [
+      "unbearable",
+      "intolerable"
+    ]
+  },
+  {
+    "id": "w_energising",
+    "headword": "energising",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɛnədʒaɪzɪŋ/",
+    "meanings": [
+      {
+        "tr": "enerji veren, canlandırıcı",
+        "en": "making you feel more energetic and lively",
+        "exampleEn": "A cold shower can be surprisingly energising in the morning.",
+        "exampleTr": "Soğuk bir duş sabahları şaşırtıcı derecede canlandırıcı olabilir."
+      }
+    ],
+    "synonyms": [
+      "invigorating",
+      "stimulating"
+    ],
+    "antonyms": [
+      "tiring",
+      "draining"
+    ]
+  },
+  {
+    "id": "w_engrossing",
+    "headword": "engrossing",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈɡrəʊsɪŋ/",
+    "meanings": [
+      {
+        "tr": "sürükleyici, tüm dikkati çeken",
+        "en": "so interesting that it takes all your attention",
+        "exampleEn": "The novel was so engrossing that I read it in one sitting.",
+        "exampleTr": "Roman o kadar sürükleyiciydi ki bir oturuşta okudum."
+      }
+    ],
+    "synonyms": [
+      "absorbing",
+      "captivating",
+      "gripping"
+    ],
+    "antonyms": [
+      "boring",
+      "dull"
+    ]
+  },
+  {
+    "id": "w_enhancer",
+    "headword": "enhancer",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈhɑːnsə/",
+    "meanings": [
+      {
+        "tr": "artırıcı, geliştirici madde",
+        "en": "a substance or thing that improves the quality or intensity of something",
+        "exampleEn": "Salt is often used as a flavour enhancer in cooking.",
+        "exampleTr": "Tuz yemeklerde sıklıkla bir lezzet artırıcı olarak kullanılır."
+      }
+    ],
+    "synonyms": [
+      "booster",
+      "intensifier"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_ensnare",
+    "headword": "ensnare",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈsneə/",
+    "meanings": [
+      {
+        "tr": "tuzağa düşürmek, ağına düşürmek",
+        "en": "to catch someone or something in a trap, or to trick them into a situation",
+        "exampleEn": "The scheme was designed to ensnare unsuspecting investors.",
+        "exampleTr": "Bu düzen habersiz yatırımcıları tuzağa düşürmek için tasarlanmıştı."
+      }
+    ],
+    "synonyms": [
+      "trap",
+      "entangle",
+      "snare"
+    ],
+    "antonyms": [
+      "free",
+      "release"
+    ]
+  },
+  {
+    "id": "w_entertainment_industry",
+    "headword": "entertainment industry",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɛntəˈteɪnmənt ˈɪndəstri/",
+    "meanings": [
+      {
+        "tr": "eğlence sektörü",
+        "en": "the business of providing films, music, shows and other amusements to the public",
+        "exampleEn": "She has worked in the entertainment industry for over twenty years.",
+        "exampleTr": "O, yirmi yılı aşkın süredir eğlence sektöründe çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "show business"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_enthrone",
+    "headword": "enthrone",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈθrəʊn/",
+    "meanings": [
+      {
+        "tr": "tahta çıkarmak",
+        "en": "to place a king, queen or bishop on a throne in a formal ceremony",
+        "exampleEn": "The young queen was enthroned in a grand cathedral.",
+        "exampleTr": "Genç kraliçe görkemli bir katedralde tahta çıkarıldı."
+      }
+    ],
+    "synonyms": [
+      "crown"
+    ],
+    "antonyms": [
+      "dethrone"
+    ]
+  },
+  {
+    "id": "w_enticingly",
+    "headword": "enticingly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtaɪsɪŋli/",
+    "meanings": [
+      {
+        "tr": "cazip bir şekilde, ayartıcı biçimde",
+        "en": "in a way that is attractive and makes you want something",
+        "exampleEn": "The cakes were enticingly displayed in the shop window.",
+        "exampleTr": "Pastalar dükkan vitrininde cazip bir şekilde sergilenmişti."
+      }
+    ],
+    "synonyms": [
+      "temptingly",
+      "alluringly"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_entirety",
+    "headword": "entirety",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtaɪərəti/",
+    "meanings": [
+      {
+        "tr": "bütünlük, tamamı",
+        "en": "the whole of something",
+        "exampleEn": "The speech was broadcast in its entirety.",
+        "exampleTr": "Konuşma tamamı ile yayınlandı."
+      }
+    ],
+    "synonyms": [
+      "whole",
+      "totality"
+    ],
+    "antonyms": [
+      "part"
+    ]
+  },
+  {
+    "id": "w_entomb",
+    "headword": "entomb",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtuːm/",
+    "meanings": [
+      {
+        "tr": "gömmek, mezara koymak",
+        "en": "to bury a body or trap something as if in a tomb",
+        "exampleEn": "The miners were entombed underground for several days.",
+        "exampleTr": "Madenciler günlerce yer altında gömülü kaldı."
+      }
+    ],
+    "synonyms": [
+      "bury",
+      "inter"
+    ],
+    "antonyms": [
+      "exhume"
+    ]
+  },
+  {
+    "id": "w_entombed",
+    "headword": "entombed",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtuːmd/",
+    "meanings": [
+      {
+        "tr": "gömülü, mezara konmuş",
+        "en": "buried or trapped as if in a tomb",
+        "exampleEn": "The ancient king lay entombed beneath the pyramid.",
+        "exampleTr": "Kadim kral piramidin altında gömülü yatıyordu."
+      }
+    ],
+    "synonyms": [
+      "buried",
+      "interred"
+    ],
+    "antonyms": [
+      "exhumed"
+    ]
+  },
+  {
+    "id": "w_entombment",
+    "headword": "entombment",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtuːmmənt/",
+    "meanings": [
+      {
+        "tr": "gömme, defnetme",
+        "en": "the act of burying someone in a tomb",
+        "exampleEn": "The entombment of the pharaoh was an elaborate ritual.",
+        "exampleTr": "Firavunun defnedilmesi ayrıntılı bir ritüeldi."
+      }
+    ],
+    "synonyms": [
+      "burial",
+      "interment"
+    ],
+    "antonyms": [
+      "exhumation"
+    ]
+  },
+  {
+    "id": "w_entrance_hall",
+    "headword": "entrance hall",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɛntrəns hɔːl/",
+    "meanings": [
+      {
+        "tr": "giriş holü, antre",
+        "en": "the area or room just inside the main door of a building",
+        "exampleEn": "They hung their coats in the entrance hall.",
+        "exampleTr": "Paltolarını giriş holüne astılar."
+      }
+    ],
+    "synonyms": [
+      "foyer",
+      "lobby",
+      "hallway"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_entreaty",
+    "headword": "entreaty",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtriːti/",
+    "meanings": [
+      {
+        "tr": "yalvarma, yakarış",
+        "en": "an earnest or urgent request",
+        "exampleEn": "Despite her tearful entreaties, he refused to stay.",
+        "exampleTr": "Gözyaşları içindeki yalvarışlarına rağmen kalmayı reddetti."
+      }
+    ],
+    "synonyms": [
+      "plea",
+      "appeal",
+      "supplication"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_entr_e",
+    "headword": "entrée",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒntreɪ/",
+    "meanings": [
+      {
+        "tr": "ana yemek (ABD); ara sıcak (İngiltere/Avrupa)",
+        "en": "the main course of a meal, especially in North America",
+        "exampleEn": "For my entrée I ordered grilled salmon.",
+        "exampleTr": "Ana yemek olarak ızgara somon sipariş ettim."
+      },
+      {
+        "tr": "giriş hakkı, kabul edilme",
+        "en": "the right or means to enter a place or group",
+        "exampleEn": "Her talent gave her an entrée into the world of fashion.",
+        "exampleTr": "Yeteneği ona moda dünyasına giriş hakkı sağladı."
+      }
+    ],
+    "synonyms": [
+      "main course",
+      "access"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_equate",
+    "headword": "equate",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈkweɪt/",
+    "meanings": [
+      {
+        "tr": "eşitlemek, bir tutmak",
+        "en": "to consider one thing to be the same as or equal to another",
+        "exampleEn": "Many people wrongly equate wealth with happiness.",
+        "exampleTr": "Birçok insan yanlışlıkla zenginliği mutlulukla bir tutar."
+      }
+    ],
+    "synonyms": [
+      "identify",
+      "associate",
+      "liken"
+    ],
+    "antonyms": [
+      "distinguish",
+      "differentiate"
+    ]
+  },
+  {
+    "id": "w_equestrian",
+    "headword": "equestrian",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈkwɛstriən/",
+    "meanings": [
+      {
+        "tr": "binicilikle ilgili, at binmeye ilişkin",
+        "en": "relating to horse riding",
+        "exampleEn": "She won a medal in an equestrian event at the Olympics.",
+        "exampleTr": "Olimpiyatlarda bir binicilik yarışında madalya kazandı."
+      },
+      {
+        "tr": "atlı, at üstünde",
+        "en": "a person on horseback",
+        "exampleEn": "The statue depicts an equestrian in full armour.",
+        "exampleTr": "Heykel tam zırhlı bir atlıyı tasvir ediyor."
+      }
+    ],
+    "synonyms": [
+      "horse-riding"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_equipping",
+    "headword": "equipping",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈkwɪpɪŋ/",
+    "meanings": [
+      {
+        "tr": "donatma, teçhiz etme",
+        "en": "providing someone or something with the necessary items or skills",
+        "exampleEn": "The school is equipping every classroom with new computers.",
+        "exampleTr": "Okul her sınıfı yeni bilgisayarlarla donatıyor."
+      }
+    ],
+    "synonyms": [
+      "supplying",
+      "outfitting",
+      "furnishing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_equivalence",
+    "headword": "equivalence",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈkwɪvələns/",
+    "meanings": [
+      {
+        "tr": "eşdeğerlik, denklik",
+        "en": "the state of being equal in value, amount, meaning or importance",
+        "exampleEn": "There is no exact equivalence between the two currencies.",
+        "exampleTr": "İki para birimi arasında tam bir eşdeğerlik yoktur."
+      }
+    ],
+    "synonyms": [
+      "equality",
+      "parity",
+      "correspondence"
+    ],
+    "antonyms": [
+      "difference",
+      "inequality"
+    ]
+  },
+  {
+    "id": "w_eradication",
+    "headword": "eradication",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˌrædɪˈkeɪʃn̩/",
+    "meanings": [
+      {
+        "tr": "kökünü kazıma, tamamen yok etme",
+        "en": "the complete destruction or removal of something",
+        "exampleEn": "The eradication of smallpox was a major medical achievement.",
+        "exampleTr": "Çiçek hastalığının kökünün kazınması büyük bir tıbbi başarıydı."
+      }
+    ],
+    "synonyms": [
+      "elimination",
+      "extermination"
+    ],
+    "antonyms": [
+      "spread",
+      "proliferation"
+    ]
+  },
+  {
+    "id": "w_eroded",
+    "headword": "eroded",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈrəʊdɪd/",
+    "meanings": [
+      {
+        "tr": "aşınmış, yıpranmış",
+        "en": "gradually worn away or weakened",
+        "exampleEn": "The heavily eroded cliffs are slowly falling into the sea.",
+        "exampleTr": "Ağır şekilde aşınmış kayalıklar yavaş yavaş denize kayıyor."
+      },
+      {
+        "tr": "zayıflatılmış (güven, hak vb.)",
+        "en": "gradually reduced or destroyed over time",
+        "exampleEn": "Years of scandal had eroded public trust in the government.",
+        "exampleTr": "Yıllarca süren skandallar halkın hükümete olan güvenini aşındırmıştı."
+      }
+    ],
+    "synonyms": [
+      "worn",
+      "weathered"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_erroneously",
+    "headword": "erroneously",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈrəʊniəsli/",
+    "meanings": [
+      {
+        "tr": "yanlışlıkla, hatalı olarak",
+        "en": "in a way that is wrong or incorrect",
+        "exampleEn": "The report erroneously stated that the company was bankrupt.",
+        "exampleTr": "Rapor şirketin iflas ettiğini yanlış bir şekilde belirtti."
+      }
+    ],
+    "synonyms": [
+      "mistakenly",
+      "incorrectly",
+      "wrongly"
+    ],
+    "antonyms": [
+      "correctly",
+      "rightly"
+    ]
+  },
+  {
+    "id": "w_erudite",
+    "headword": "erudite",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɛrʊdaɪt/",
+    "meanings": [
+      {
+        "tr": "bilgili, âlim, engin bilgi sahibi",
+        "en": "having or showing great knowledge gained from study",
+        "exampleEn": "His erudite lecture impressed even the senior professors.",
+        "exampleTr": "Bilgi dolu dersi kıdemli profesörleri bile etkiledi."
+      }
+    ],
+    "synonyms": [
+      "learned",
+      "scholarly",
+      "knowledgeable"
+    ],
+    "antonyms": [
+      "ignorant",
+      "uneducated"
+    ]
+  },
+  {
+    "id": "w_escapee",
+    "headword": "escapee",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˌskeɪˈpiː/",
+    "meanings": [
+      {
+        "tr": "kaçak, firari",
+        "en": "a person who has escaped, especially from prison",
+        "exampleEn": "Police are searching for the escapee who fled last night.",
+        "exampleTr": "Polis dün gece kaçan firariyi arıyor."
+      }
+    ],
+    "synonyms": [
+      "fugitive",
+      "runaway"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_estimation",
+    "headword": "estimation",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɛstɪˈmeɪʃn̩/",
+    "meanings": [
+      {
+        "tr": "tahmin, hesaplama",
+        "en": "an approximate calculation or judgement of value, amount or size",
+        "exampleEn": "In my estimation, the project will take about three months.",
+        "exampleTr": "Benim tahminime göre proje yaklaşık üç ay sürecek."
+      },
+      {
+        "tr": "değer, saygı",
+        "en": "the respect or regard in which someone or something is held",
+        "exampleEn": "Her honesty raised her in the estimation of her colleagues.",
+        "exampleTr": "Dürüstlüğü onu meslektaşlarının gözünde yükseltti."
+      }
+    ],
+    "synonyms": [
+      "assessment",
+      "judgement",
+      "appraisal"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_estrangement",
+    "headword": "estrangement",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈstreɪndʒmənt/",
+    "meanings": [
+      {
+        "tr": "araya soğukluk girmesi, yabancılaşma",
+        "en": "the state of no longer being on friendly terms with someone close to you",
+        "exampleEn": "After years of estrangement, the brothers finally reconciled.",
+        "exampleTr": "Yıllarca süren küslüğün ardından kardeşler nihayet barıştı."
+      }
+    ],
+    "synonyms": [
+      "alienation",
+      "separation"
+    ],
+    "antonyms": [
+      "reconciliation"
+    ]
+  },
+  {
+    "id": "w_etch",
+    "headword": "etch",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɛtʃ/",
+    "meanings": [
+      {
+        "tr": "kazımak, oymak (asit veya araçla)",
+        "en": "to cut a design or letters into a hard surface using acid or a sharp tool",
+        "exampleEn": "The jeweller etched their initials into the ring.",
+        "exampleTr": "Kuyumcu baş harflerini yüzüğe kazıdı."
+      },
+      {
+        "tr": "belleğe kazımak",
+        "en": "to fix something firmly in the mind",
+        "exampleEn": "That terrible day is etched in my memory forever.",
+        "exampleTr": "O korkunç gün sonsuza dek belleğime kazınmıştır."
+      }
+    ],
+    "synonyms": [
+      "engrave",
+      "carve",
+      "inscribe"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_eternal_life",
+    "headword": "eternal life",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈtɜːnl̩ laɪf/",
+    "meanings": [
+      {
+        "tr": "sonsuz yaşam, ebedi hayat",
+        "en": "life that continues forever, especially after death",
+        "exampleEn": "Many religions promise their believers eternal life.",
+        "exampleTr": "Birçok din inananlarına sonsuz yaşam vaat eder."
+      }
+    ],
+    "synonyms": [
+      "immortality",
+      "everlasting life"
+    ],
+    "antonyms": [
+      "mortality"
+    ]
+  },
+  {
+    "id": "w_ethnicity",
+    "headword": "ethnicity",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɛθˈnɪsəti/",
+    "meanings": [
+      {
+        "tr": "etnik köken, etnisite",
+        "en": "the fact of belonging to a particular race or cultural group",
+        "exampleEn": "The survey collected data on age, gender and ethnicity.",
+        "exampleTr": "Anket yaş, cinsiyet ve etnik köken hakkında veri topladı."
+      }
+    ],
+    "synonyms": [
+      "ethnic origin",
+      "heritage"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_euphoria",
+    "headword": "euphoria",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/juːˈfɔːriə/",
+    "meanings": [
+      {
+        "tr": "coşku, aşırı mutluluk hali",
+        "en": "a feeling of great happiness and excitement",
+        "exampleEn": "The team was filled with euphoria after winning the championship.",
+        "exampleTr": "Takım şampiyonluğu kazandıktan sonra coşkuyla doldu."
+      }
+    ],
+    "synonyms": [
+      "elation",
+      "ecstasy",
+      "jubilation"
+    ],
+    "antonyms": [
+      "despair",
+      "misery"
+    ]
+  },
+  {
+    "id": "w_evaluator",
+    "headword": "evaluator",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈvæljueɪtə/",
+    "meanings": [
+      {
+        "tr": "değerlendirici, değerlendirme uzmanı",
+        "en": "a person who judges the quality, value or importance of something",
+        "exampleEn": "An independent evaluator assessed the success of the programme.",
+        "exampleTr": "Bağımsız bir değerlendirici programın başarısını değerlendirdi."
+      }
+    ],
+    "synonyms": [
+      "assessor",
+      "appraiser",
+      "examiner"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_evasion",
+    "headword": "evasion",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈveɪʒn̩/",
+    "meanings": [
+      {
+        "tr": "kaçınma, sıyrılma, atlatma",
+        "en": "the act of avoiding something you are supposed to do, especially in a dishonest way",
+        "exampleEn": "He was charged with tax evasion.",
+        "exampleTr": "Vergi kaçırmaktan suçlandı."
+      }
+    ],
+    "synonyms": [
+      "avoidance",
+      "dodging"
+    ],
+    "antonyms": [
+      "confrontation"
+    ]
+  },
+  {
+    "id": "w_even_though",
+    "headword": "even though",
+    "pos": "conj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈiːvn̩ ðəʊ/",
+    "meanings": [
+      {
+        "tr": "-e rağmen, her ne kadar",
+        "en": "despite the fact that; used to introduce a surprising contrast",
+        "exampleEn": "Even though it was raining, they went for a walk.",
+        "exampleTr": "Yağmur yağmasına rağmen yürüyüşe çıktılar."
+      }
+    ],
+    "synonyms": [
+      "although",
+      "despite the fact that"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_every",
+    "headword": "every",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɛvri/",
+    "meanings": [
+      {
+        "tr": "her (biri)",
+        "en": "used to refer to all the members of a group individually",
+        "exampleEn": "She checks her email every morning.",
+        "exampleTr": "Her sabah e-postasını kontrol eder."
+      }
+    ],
+    "synonyms": [
+      "each",
+      "all"
+    ],
+    "antonyms": [
+      "no",
+      "none"
+    ]
+  },
+  {
+    "id": "w_everybody",
+    "headword": "everybody",
+    "pos": "pronoun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɛvrɪbɒdi/",
+    "meanings": [
+      {
+        "tr": "herkes",
+        "en": "every person",
+        "exampleEn": "Everybody was happy to hear the good news.",
+        "exampleTr": "Herkes iyi haberi duyunca mutlu oldu."
+      }
+    ],
+    "synonyms": [
+      "everyone"
+    ],
+    "antonyms": [
+      "nobody"
+    ]
+  },
+  {
+    "id": "w_everyone",
+    "headword": "everyone",
+    "pos": "pronoun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɛvrɪwʌn/",
+    "meanings": [
+      {
+        "tr": "herkes",
+        "en": "every person",
+        "exampleEn": "Everyone in the class passed the exam.",
+        "exampleTr": "Sınıftaki herkes sınavı geçti."
+      }
+    ],
+    "synonyms": [
+      "everybody"
+    ],
+    "antonyms": [
+      "no one"
+    ]
+  },
+  {
+    "id": "w_everything",
+    "headword": "everything",
+    "pos": "pronoun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɛvriθɪŋ/",
+    "meanings": [
+      {
+        "tr": "her şey",
+        "en": "all things; all that exists or is relevant",
+        "exampleEn": "She told me everything about the trip.",
+        "exampleTr": "Gezi hakkında bana her şeyi anlattı."
+      }
+    ],
+    "synonyms": [
+      "all"
+    ],
+    "antonyms": [
+      "nothing"
+    ]
+  },
+  {
+    "id": "w_evict",
+    "headword": "evict",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈvɪkt/",
+    "meanings": [
+      {
+        "tr": "tahliye etmek, evden çıkarmak",
+        "en": "to force someone to leave a property using a legal process",
+        "exampleEn": "The landlord threatened to evict them for not paying rent.",
+        "exampleTr": "Ev sahibi kirayı ödemedikleri için onları tahliye etmekle tehdit etti."
+      }
+    ],
+    "synonyms": [
+      "expel",
+      "oust",
+      "turn out"
+    ],
+    "antonyms": [
+      "admit",
+      "house"
+    ]
+  },
+  {
+    "id": "w_exacerbate",
+    "headword": "exacerbate",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪɡˈzæsəbeɪt/",
+    "meanings": [
+      {
+        "tr": "kötüleştirmek, alevlendirmek",
+        "en": "to make a bad situation, problem or illness worse",
+        "exampleEn": "The new tax will only exacerbate the country's economic problems.",
+        "exampleTr": "Yeni vergi ülkenin ekonomik sorunlarını yalnızca kötüleştirecek."
+      }
+    ],
+    "synonyms": [
+      "aggravate",
+      "worsen",
+      "intensify"
+    ],
+    "antonyms": [
+      "alleviate",
+      "ease",
+      "improve"
+    ]
+  },
+  {
+    "id": "w_exact_figure",
+    "headword": "exact figure",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ɪɡˈzækt ˈfɪɡə/",
+    "meanings": [
+      {
+        "tr": "kesin rakam, tam sayı",
+        "en": "a precise number or amount, without rounding or approximation",
+        "exampleEn": "I don't know the exact figure, but sales rose by about ten percent.",
+        "exampleTr": "Kesin rakamı bilmiyorum ama satışlar yaklaşık yüzde on arttı."
+      }
+    ],
+    "synonyms": [
+      "precise number"
+    ],
+    "antonyms": [
+      "estimate",
+      "approximation"
+    ]
+  },
+  {
+    "id": "w_excavate",
+    "headword": "excavate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɛkskəveɪt/",
+    "meanings": [
+      {
+        "tr": "kazmak, kazı yapmak",
+        "en": "to dig in the ground to find buried objects or remove earth",
+        "exampleEn": "Archaeologists excavated the ancient city over several years.",
+        "exampleTr": "Arkeologlar antik kenti birkaç yıl boyunca kazdılar."
+      }
+    ],
+    "synonyms": [
+      "dig",
+      "unearth",
+      "dig out"
+    ],
+    "antonyms": [
+      "fill",
+      "bury"
+    ]
+  },
+  {
+    "id": "w_excel_at",
+    "headword": "excel at",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ɪkˈsɛl ət/",
+    "meanings": [
+      {
+        "tr": "-de üstün olmak, çok başarılı olmak",
+        "en": "to be extremely good at a particular activity or subject",
+        "exampleEn": "She excels at mathematics and physics.",
+        "exampleTr": "Matematik ve fizikte çok başarılıdır."
+      }
+    ],
+    "synonyms": [
+      "shine at",
+      "be brilliant at"
+    ],
+    "antonyms": [
+      "struggle with",
+      "fail at"
+    ]
+  }
+]

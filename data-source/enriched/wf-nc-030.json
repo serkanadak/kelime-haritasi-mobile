@@ -1,0 +1,1265 @@
+[
+  {
+    "id": "w_patronize",
+    "headword": "patronize",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpætrənaɪz/",
+    "meanings": [
+      {
+        "tr": "tepeden bakmak, küçümser şekilde davranmak",
+        "en": "to treat someone as if they are less intelligent or important than you",
+        "exampleEn": "Don't patronize me — I understand the problem perfectly well.",
+        "exampleTr": "Bana tepeden bakma — sorunu gayet iyi anlıyorum."
+      },
+      {
+        "tr": "müşterisi olmak, sürekli alışveriş etmek",
+        "en": "to be a regular customer of a shop or business",
+        "exampleEn": "We regularly patronize the small bookshop on the corner.",
+        "exampleTr": "Köşedeki küçük kitapçıdan düzenli olarak alışveriş ederiz."
+      }
+    ],
+    "synonyms": [
+      "condescend",
+      "talk down to"
+    ],
+    "antonyms": [
+      "respect"
+    ]
+  },
+  {
+    "id": "w_peacefulness",
+    "headword": "peacefulness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpiːsfəlnəs/",
+    "meanings": [
+      {
+        "tr": "huzur, dinginlik, sükûnet",
+        "en": "a calm and quiet quality free from disturbance",
+        "exampleEn": "I love the peacefulness of the countryside early in the morning.",
+        "exampleTr": "Sabah erkenden kırsalın huzurunu çok severim."
+      }
+    ],
+    "synonyms": [
+      "calm",
+      "tranquility",
+      "serenity"
+    ],
+    "antonyms": [
+      "chaos",
+      "turmoil"
+    ]
+  },
+  {
+    "id": "w_peasantry",
+    "headword": "peasantry",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpezntri/",
+    "meanings": [
+      {
+        "tr": "köylülük, köylü sınıfı",
+        "en": "poor farmers and farm workers of a country, considered as a group",
+        "exampleEn": "The revolution was driven largely by the discontent of the peasantry.",
+        "exampleTr": "Devrim büyük ölçüde köylü sınıfının hoşnutsuzluğuyla yürütülüyordu."
+      }
+    ],
+    "synonyms": [
+      "peasants"
+    ],
+    "antonyms": [
+      "aristocracy",
+      "nobility"
+    ]
+  },
+  {
+    "id": "w_peasants",
+    "headword": "peasants",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpeznts/",
+    "meanings": [
+      {
+        "tr": "köylüler, çiftçiler",
+        "en": "poor people who work on the land, especially in the past or in poor countries",
+        "exampleEn": "The peasants worked long hours in the fields to pay their rent.",
+        "exampleTr": "Köylüler kiralarını ödeyebilmek için tarlalarda uzun saatler çalışıyordu."
+      }
+    ],
+    "synonyms": [
+      "farmers",
+      "farmhands"
+    ],
+    "antonyms": [
+      "nobles"
+    ]
+  },
+  {
+    "id": "w_pebbly",
+    "headword": "pebbly",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpebli/",
+    "meanings": [
+      {
+        "tr": "çakıllı, çakıl taşlı",
+        "en": "covered with small round stones",
+        "exampleEn": "We walked along the pebbly beach collecting shells.",
+        "exampleTr": "Deniz kabukları toplayarak çakıllı sahil boyunca yürüdük."
+      }
+    ],
+    "synonyms": [
+      "stony",
+      "gravelly"
+    ],
+    "antonyms": [
+      "sandy",
+      "smooth"
+    ]
+  },
+  {
+    "id": "w_peck",
+    "headword": "peck",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pek/",
+    "meanings": [
+      {
+        "tr": "gagalamak",
+        "en": "(of a bird) to bite or hit something with the beak",
+        "exampleEn": "The chickens peck at the grain scattered on the ground.",
+        "exampleTr": "Tavuklar yere serpilmiş taneleri gagalıyor."
+      },
+      {
+        "tr": "hafifçe öpmek, kondurmak",
+        "en": "to kiss someone lightly and quickly",
+        "exampleEn": "She gave him a quick peck on the cheek before leaving.",
+        "exampleTr": "Gitmeden önce yanağına hafif bir öpücük kondurdu."
+      }
+    ],
+    "synonyms": [
+      "nibble",
+      "tap"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_peculiarity",
+    "headword": "peculiarity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pɪˌkjuːliˈærəti/",
+    "meanings": [
+      {
+        "tr": "tuhaflık, kendine özgülük, gariplik",
+        "en": "a strange or unusual feature or habit",
+        "exampleEn": "One peculiarity of the language is that verbs come at the end of the sentence.",
+        "exampleTr": "Bu dilin kendine özgü bir yanı, fiillerin cümlenin sonuna gelmesidir."
+      }
+    ],
+    "synonyms": [
+      "quirk",
+      "oddity",
+      "idiosyncrasy"
+    ],
+    "antonyms": [
+      "normality"
+    ]
+  },
+  {
+    "id": "w_pedestrian_crossing",
+    "headword": "pedestrian crossing",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/pəˌdestriən ˈkrɒsɪŋ/",
+    "meanings": [
+      {
+        "tr": "yaya geçidi",
+        "en": "a specially marked place on a road where vehicles must stop to let people cross",
+        "exampleEn": "Always look both ways before you use a pedestrian crossing.",
+        "exampleTr": "Yaya geçidini kullanmadan önce her zaman iki yana da bak."
+      }
+    ],
+    "synonyms": [
+      "crosswalk",
+      "zebra crossing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_peerless",
+    "headword": "peerless",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɪələs/",
+    "meanings": [
+      {
+        "tr": "eşsiz, emsalsiz, benzersiz",
+        "en": "better than all others; without equal",
+        "exampleEn": "She gave a peerless performance that no one could match.",
+        "exampleTr": "Kimsenin erişemeyeceği eşsiz bir performans sergiledi."
+      }
+    ],
+    "synonyms": [
+      "unrivalled",
+      "matchless",
+      "unequalled"
+    ],
+    "antonyms": [
+      "ordinary",
+      "inferior"
+    ]
+  },
+  {
+    "id": "w_penetrable",
+    "headword": "penetrable",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpenɪtrəbl/",
+    "meanings": [
+      {
+        "tr": "nüfuz edilebilir, geçirilebilir, içine girilebilir",
+        "en": "able to be passed through or entered",
+        "exampleEn": "The soft soil was easily penetrable by the plant's roots.",
+        "exampleTr": "Yumuşak toprağa bitkinin kökleri kolayca nüfuz edebiliyordu."
+      }
+    ],
+    "synonyms": [
+      "permeable"
+    ],
+    "antonyms": [
+      "impenetrable",
+      "impermeable"
+    ]
+  },
+  {
+    "id": "w_per",
+    "headword": "per",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pə/",
+    "meanings": [
+      {
+        "tr": "her biri için, başına",
+        "en": "for each",
+        "exampleEn": "The tickets cost twenty dollars per person.",
+        "exampleTr": "Biletler kişi başı yirmi dolar."
+      }
+    ],
+    "synonyms": [
+      "for each",
+      "a"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_perceptibly",
+    "headword": "perceptibly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈseptəbli/",
+    "meanings": [
+      {
+        "tr": "fark edilebilir şekilde, gözle görülür biçimde",
+        "en": "in a way that can be noticed or seen",
+        "exampleEn": "The temperature dropped perceptibly as the sun went down.",
+        "exampleTr": "Güneş batarken sıcaklık fark edilir biçimde düştü."
+      }
+    ],
+    "synonyms": [
+      "noticeably",
+      "visibly"
+    ],
+    "antonyms": [
+      "imperceptibly"
+    ]
+  },
+  {
+    "id": "w_periodically",
+    "headword": "periodically",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpɪəriˈɒdɪkli/",
+    "meanings": [
+      {
+        "tr": "periyodik olarak, belirli aralıklarla, ara sıra",
+        "en": "from time to time; at regular intervals",
+        "exampleEn": "The machine should be checked periodically for faults.",
+        "exampleTr": "Makine arızalara karşı belirli aralıklarla kontrol edilmelidir."
+      }
+    ],
+    "synonyms": [
+      "occasionally",
+      "intermittently",
+      "regularly"
+    ],
+    "antonyms": [
+      "constantly",
+      "continuously"
+    ]
+  },
+  {
+    "id": "w_perpendicular",
+    "headword": "perpendicular",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpɜːpənˈdɪkjələ/",
+    "meanings": [
+      {
+        "tr": "dik, dikey (bir çizgiye 90 derece)",
+        "en": "at an angle of 90° to a given line or surface",
+        "exampleEn": "Draw a line perpendicular to the base of the triangle.",
+        "exampleTr": "Üçgenin tabanına dik bir çizgi çiz."
+      }
+    ],
+    "synonyms": [
+      "vertical",
+      "upright"
+    ],
+    "antonyms": [
+      "parallel",
+      "horizontal"
+    ]
+  },
+  {
+    "id": "w_perpetual",
+    "headword": "perpetual",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈpetʃuəl/",
+    "meanings": [
+      {
+        "tr": "sürekli, aralıksız, daimi",
+        "en": "never ending or changing; continuing all the time",
+        "exampleEn": "I'm tired of his perpetual complaints about the weather.",
+        "exampleTr": "Havayla ilgili sürekli şikâyetlerinden bıktım."
+      }
+    ],
+    "synonyms": [
+      "constant",
+      "continuous",
+      "endless"
+    ],
+    "antonyms": [
+      "temporary",
+      "occasional"
+    ]
+  },
+  {
+    "id": "w_perplex",
+    "headword": "perplex",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈpleks/",
+    "meanings": [
+      {
+        "tr": "şaşırtmak, kafasını karıştırmak, afallatmak",
+        "en": "to confuse or worry someone because they cannot understand something",
+        "exampleEn": "The strange results continued to perplex the scientists.",
+        "exampleTr": "Tuhaf sonuçlar bilim insanlarının kafasını karıştırmaya devam etti."
+      }
+    ],
+    "synonyms": [
+      "puzzle",
+      "confuse",
+      "baffle"
+    ],
+    "antonyms": [
+      "clarify",
+      "enlighten"
+    ]
+  },
+  {
+    "id": "w_perplexing",
+    "headword": "perplexing",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈpleksɪŋ/",
+    "meanings": [
+      {
+        "tr": "kafa karıştırıcı, şaşırtıcı, anlaşılması güç",
+        "en": "difficult to understand; confusing",
+        "exampleEn": "The instructions were so perplexing that no one could follow them.",
+        "exampleTr": "Talimatlar o kadar kafa karıştırıcıydı ki kimse takip edemedi."
+      }
+    ],
+    "synonyms": [
+      "puzzling",
+      "baffling",
+      "confusing"
+    ],
+    "antonyms": [
+      "clear",
+      "straightforward"
+    ]
+  },
+  {
+    "id": "w_persecutor",
+    "headword": "persecutor",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɜːsɪkjuːtə/",
+    "meanings": [
+      {
+        "tr": "zulmeden kişi, eziyet eden, zalim",
+        "en": "a person who treats others cruelly or unfairly, especially because of their beliefs or race",
+        "exampleEn": "He eventually confronted his former persecutor in court.",
+        "exampleTr": "Sonunda kendisine zulmeden eski kişiyle mahkemede yüzleşti."
+      }
+    ],
+    "synonyms": [
+      "oppressor",
+      "tormentor"
+    ],
+    "antonyms": [
+      "protector",
+      "victim"
+    ]
+  },
+  {
+    "id": "w_pertinence",
+    "headword": "pertinence",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɜːtɪnəns/",
+    "meanings": [
+      {
+        "tr": "ilgililik, konuyla alaka, yerindelik",
+        "en": "the quality of being relevant or appropriate to a particular matter",
+        "exampleEn": "The committee questioned the pertinence of his remarks to the debate.",
+        "exampleTr": "Kurul, onun sözlerinin tartışmayla ilgililiğini sorguladı."
+      }
+    ],
+    "synonyms": [
+      "relevance",
+      "applicability"
+    ],
+    "antonyms": [
+      "irrelevance"
+    ]
+  },
+  {
+    "id": "w_perturb",
+    "headword": "perturb",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈtɜːb/",
+    "meanings": [
+      {
+        "tr": "tedirgin etmek, huzurunu kaçırmak, endişelendirmek",
+        "en": "to make someone anxious or worried",
+        "exampleEn": "The sudden change in his behaviour began to perturb his colleagues.",
+        "exampleTr": "Davranışındaki ani değişiklik meslektaşlarını tedirgin etmeye başladı."
+      }
+    ],
+    "synonyms": [
+      "disturb",
+      "unsettle",
+      "trouble"
+    ],
+    "antonyms": [
+      "calm",
+      "reassure"
+    ]
+  },
+  {
+    "id": "w_pigment",
+    "headword": "pigment",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɪɡmənt/",
+    "meanings": [
+      {
+        "tr": "pigment, boya maddesi, renk maddesi",
+        "en": "a natural substance that gives colour to plants, skin, and other tissues",
+        "exampleEn": "Chlorophyll is the green pigment found in most plants.",
+        "exampleTr": "Klorofil, çoğu bitkide bulunan yeşil pigmenttir."
+      }
+    ],
+    "synonyms": [
+      "colouring",
+      "dye"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pigmentation",
+    "headword": "pigmentation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpɪɡmənˈteɪʃn/",
+    "meanings": [
+      {
+        "tr": "pigmentasyon, renklenme (doku veya derinin doğal rengi)",
+        "en": "the natural colouring of living tissue, especially skin",
+        "exampleEn": "Exposure to the sun can cause changes in skin pigmentation.",
+        "exampleTr": "Güneşe maruz kalmak deri pigmentasyonunda değişikliklere yol açabilir."
+      }
+    ],
+    "synonyms": [
+      "colouring"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pillowslip",
+    "headword": "pillowslip",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɪləʊslɪp/",
+    "meanings": [
+      {
+        "tr": "yastık kılıfı",
+        "en": "a cloth cover for a pillow; a pillowcase",
+        "exampleEn": "She changed the pillowslip because it was stained.",
+        "exampleTr": "Lekelendiği için yastık kılıfını değiştirdi."
+      }
+    ],
+    "synonyms": [
+      "pillowcase"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_placid",
+    "headword": "placid",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈplæsɪd/",
+    "meanings": [
+      {
+        "tr": "sakin, uysal, dingin",
+        "en": "calm and peaceful, not easily excited or annoyed",
+        "exampleEn": "She has a placid temperament and rarely loses her temper.",
+        "exampleTr": "Sakin bir mizacı var ve nadiren öfkelenir."
+      }
+    ],
+    "synonyms": [
+      "calm",
+      "serene",
+      "even-tempered"
+    ],
+    "antonyms": [
+      "agitated",
+      "restless"
+    ]
+  },
+  {
+    "id": "w_plainness",
+    "headword": "plainness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpleɪnnəs/",
+    "meanings": [
+      {
+        "tr": "sadelik, gösterişsizlik, yalınlık",
+        "en": "the quality of being simple and without decoration or complexity",
+        "exampleEn": "The plainness of the room made it feel calm and uncluttered.",
+        "exampleTr": "Odanın sadeliği ona sakin ve derli toplu bir hava veriyordu."
+      }
+    ],
+    "synonyms": [
+      "simplicity",
+      "austerity"
+    ],
+    "antonyms": [
+      "decoration",
+      "ornateness"
+    ]
+  },
+  {
+    "id": "w_planks",
+    "headword": "planks",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/plæŋks/",
+    "meanings": [
+      {
+        "tr": "kalaslar, tahtalar",
+        "en": "long flat pieces of wood used in building",
+        "exampleEn": "They laid wooden planks across the mud to make a path.",
+        "exampleTr": "Yol yapmak için çamurun üzerine tahta kalaslar serdiler."
+      }
+    ],
+    "synonyms": [
+      "boards",
+      "timbers"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_plant_scientist",
+    "headword": "plant scientist",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈplɑːnt ˌsaɪəntɪst/",
+    "meanings": [
+      {
+        "tr": "bitki bilimci, botanikçi",
+        "en": "a scientist who studies plants and how they grow",
+        "exampleEn": "The plant scientist developed a new variety of drought-resistant wheat.",
+        "exampleTr": "Bitki bilimci kuraklığa dayanıklı yeni bir buğday çeşidi geliştirdi."
+      }
+    ],
+    "synonyms": [
+      "botanist"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_plant_based",
+    "headword": "plant-based",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈplɑːnt beɪst/",
+    "meanings": [
+      {
+        "tr": "bitki temelli, bitkisel (gıda için)",
+        "en": "made from or based on plants rather than animal products",
+        "exampleEn": "More people are switching to a plant-based diet for health reasons.",
+        "exampleTr": "Giderek daha fazla insan sağlık nedeniyle bitki temelli beslenmeye geçiyor."
+      }
+    ],
+    "synonyms": [
+      "vegetable-based",
+      "vegan"
+    ],
+    "antonyms": [
+      "animal-based"
+    ]
+  },
+  {
+    "id": "w_plateau",
+    "headword": "plateau",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈplætəʊ/",
+    "meanings": [
+      {
+        "tr": "yayla, plato (yüksek düzlük)",
+        "en": "a large area of high, flat land",
+        "exampleEn": "The village sits on a windswept plateau high in the mountains.",
+        "exampleTr": "Köy, dağların yüksek kesimlerinde rüzgârlı bir platoda yer alıyor."
+      },
+      {
+        "tr": "durağan dönem, ilerlemenin durduğu düzey",
+        "en": "a period when a level of activity or progress stays the same",
+        "exampleEn": "Sales reached a plateau after months of rapid growth.",
+        "exampleTr": "Satışlar aylarca süren hızlı büyümenin ardından durağan bir düzeye ulaştı."
+      }
+    ],
+    "synonyms": [
+      "tableland",
+      "levelling off"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_plausible",
+    "headword": "plausible",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈplɔːzəbl/",
+    "meanings": [
+      {
+        "tr": "akla yatkın, makul, inandırıcı",
+        "en": "seeming likely to be true or reasonable",
+        "exampleEn": "His excuse sounded plausible, so we decided to believe him.",
+        "exampleTr": "Bahanesi akla yatkın geldi, biz de ona inanmaya karar verdik."
+      }
+    ],
+    "synonyms": [
+      "believable",
+      "credible",
+      "reasonable"
+    ],
+    "antonyms": [
+      "implausible",
+      "unlikely"
+    ]
+  },
+  {
+    "id": "w_play_up",
+    "headword": "play up",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpleɪ ˈʌp/",
+    "meanings": [
+      {
+        "tr": "abartmak, öne çıkarmak, vurgulamak",
+        "en": "to emphasize something or make it seem more important than it is",
+        "exampleEn": "The newspapers played up the scandal to sell more copies.",
+        "exampleTr": "Gazeteler daha fazla satmak için skandalı abarttı."
+      },
+      {
+        "tr": "sorun çıkarmak, zorluk çıkarmak (cihaz/kişi)",
+        "en": "to behave badly or not work properly",
+        "exampleEn": "My knee has been playing up since the accident.",
+        "exampleTr": "Dizim kazadan beri beni rahatsız edip duruyor."
+      }
+    ],
+    "synonyms": [
+      "emphasize",
+      "exaggerate",
+      "highlight"
+    ],
+    "antonyms": [
+      "play down",
+      "downplay"
+    ]
+  },
+  {
+    "id": "w_plebeian",
+    "headword": "plebeian",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pləˈbiːən/",
+    "meanings": [
+      {
+        "tr": "avam, halktan biri, sıradan kişi (özellikle antik Roma'da)",
+        "en": "an ordinary person of the lower social classes, especially in ancient Rome",
+        "exampleEn": "In ancient Rome, a plebeian had far fewer rights than a patrician.",
+        "exampleTr": "Antik Roma'da bir avam, bir soyluya göre çok daha az hakka sahipti."
+      }
+    ],
+    "synonyms": [
+      "commoner"
+    ],
+    "antonyms": [
+      "patrician",
+      "aristocrat"
+    ]
+  },
+  {
+    "id": "w_plebeians",
+    "headword": "plebeians",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pləˈbiːənz/",
+    "meanings": [
+      {
+        "tr": "avam, halk tabakası (özellikle antik Roma'da)",
+        "en": "ordinary people of the lower social classes, especially in ancient Rome",
+        "exampleEn": "The plebeians demanded a greater say in how the city was governed.",
+        "exampleTr": "Avam, şehrin nasıl yönetildiği konusunda daha fazla söz hakkı istedi."
+      }
+    ],
+    "synonyms": [
+      "commoners"
+    ],
+    "antonyms": [
+      "patricians",
+      "aristocrats"
+    ]
+  },
+  {
+    "id": "w_pledge_to",
+    "headword": "pledge to",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpledʒ tuː/",
+    "meanings": [
+      {
+        "tr": "-e söz vermek, taahhüt etmek, ant içmek",
+        "en": "to make a formal or serious promise to do something",
+        "exampleEn": "The government pledged to reduce carbon emissions by 2030.",
+        "exampleTr": "Hükümet 2030'a kadar karbon emisyonlarını azaltmaya söz verdi."
+      }
+    ],
+    "synonyms": [
+      "promise to",
+      "vow to",
+      "commit to"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_plenty_of",
+    "headword": "plenty of",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈplenti əv/",
+    "meanings": [
+      {
+        "tr": "bol bol, çok sayıda, bir sürü",
+        "en": "a large amount or number of something; enough or more than enough",
+        "exampleEn": "Don't worry, we have plenty of time to catch the train.",
+        "exampleTr": "Merak etme, treni yakalamak için bol bol vaktimiz var."
+      }
+    ],
+    "synonyms": [
+      "a lot of",
+      "lots of",
+      "abundant"
+    ],
+    "antonyms": [
+      "few",
+      "little",
+      "lack of"
+    ]
+  },
+  {
+    "id": "w_ploy",
+    "headword": "ploy",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/plɔɪ/",
+    "meanings": [
+      {
+        "tr": "taktik, hile, oyun, manevra",
+        "en": "a clever plan or trick used to gain an advantage",
+        "exampleEn": "Lowering the price was just a ploy to attract new customers.",
+        "exampleTr": "Fiyatı düşürmek, yeni müşteri çekmek için bir taktikten ibaretti."
+      }
+    ],
+    "synonyms": [
+      "tactic",
+      "trick",
+      "scheme"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_plug_in",
+    "headword": "plug in",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌplʌɡ ˈɪn/",
+    "meanings": [
+      {
+        "tr": "prize takmak, fişe takmak",
+        "en": "to connect a piece of electrical equipment to an electricity supply",
+        "exampleEn": "Remember to plug in the laptop before the battery dies.",
+        "exampleTr": "Pil bitmeden dizüstü bilgisayarı prize takmayı unutma."
+      }
+    ],
+    "synonyms": [
+      "connect"
+    ],
+    "antonyms": [
+      "unplug"
+    ]
+  },
+  {
+    "id": "w_plumb",
+    "headword": "plumb",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/plʌm/",
+    "meanings": [
+      {
+        "tr": "derinlemesine araştırmak, inceden inceye kavramak",
+        "en": "to try to understand or examine something completely",
+        "exampleEn": "The novel attempts to plumb the depths of human despair.",
+        "exampleTr": "Roman, insan çaresizliğinin derinliklerini kavramaya çalışıyor."
+      },
+      {
+        "tr": "tesisat döşemek, su borularını bağlamak",
+        "en": "to connect an appliance or building to a water supply",
+        "exampleEn": "A plumber came to plumb in the new washing machine.",
+        "exampleTr": "Yeni çamaşır makinesinin tesisatını bağlamak için bir tesisatçı geldi."
+      }
+    ],
+    "synonyms": [
+      "fathom",
+      "probe"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_plunder",
+    "headword": "plunder",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈplʌndə/",
+    "meanings": [
+      {
+        "tr": "yağmalamak, talan etmek, çapul etmek",
+        "en": "to steal goods from a place, especially using force during a war",
+        "exampleEn": "The invading army plundered the city and burned its temples.",
+        "exampleTr": "İstilacı ordu şehri yağmaladı ve tapınaklarını yaktı."
+      }
+    ],
+    "synonyms": [
+      "loot",
+      "pillage",
+      "ransack"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_plus",
+    "headword": "plus",
+    "pos": "prep",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/plʌs/",
+    "meanings": [
+      {
+        "tr": "artı, ile toplandığında",
+        "en": "used to show that one number or amount is added to another",
+        "exampleEn": "Two plus three equals five.",
+        "exampleTr": "İki artı üç, beş eder."
+      },
+      {
+        "tr": "ayrıca, üstelik, bir de",
+        "en": "and also; in addition",
+        "exampleEn": "The flat is spacious, plus it's close to the station.",
+        "exampleTr": "Daire ferah, üstelik istasyona da yakın."
+      }
+    ],
+    "synonyms": [
+      "and",
+      "added to"
+    ],
+    "antonyms": [
+      "minus"
+    ]
+  },
+  {
+    "id": "w_poach",
+    "headword": "poach",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəʊtʃ/",
+    "meanings": [
+      {
+        "tr": "haşlamak, hafif kaynar suda pişirmek",
+        "en": "to cook food, especially eggs or fish, gently in liquid just below boiling point",
+        "exampleEn": "I like to poach an egg for breakfast.",
+        "exampleTr": "Kahvaltıda yumurta haşlamayı severim."
+      },
+      {
+        "tr": "kaçak avlanmak",
+        "en": "to illegally hunt or catch animals on someone else's land",
+        "exampleEn": "Hunters continue to poach elephants for their ivory.",
+        "exampleTr": "Avcılar fildişi için hâlâ kaçak fil avlıyor."
+      },
+      {
+        "tr": "ayartıp transfer etmek, kapmak (personel/müşteri)",
+        "en": "to take staff or customers from a rival, especially unfairly",
+        "exampleEn": "The firm tried to poach our best engineers with higher salaries.",
+        "exampleTr": "Şirket, daha yüksek maaşlarla en iyi mühendislerimizi ayartmaya çalıştı."
+      }
+    ],
+    "synonyms": [
+      "simmer",
+      "steal"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pocketbook",
+    "headword": "pocketbook",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɒkɪtbʊk/",
+    "meanings": [
+      {
+        "tr": "cüzdan; bütçe, mali durum (ABD)",
+        "en": "a person's financial resources or budget; also a small wallet or handbag",
+        "exampleEn": "Rising fuel prices are hitting every family's pocketbook.",
+        "exampleTr": "Artan yakıt fiyatları her ailenin bütçesini vuruyor."
+      }
+    ],
+    "synonyms": [
+      "wallet",
+      "purse",
+      "budget"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_poke",
+    "headword": "poke",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəʊk/",
+    "meanings": [
+      {
+        "tr": "dürtmek, itmek (parmak/sivri bir şeyle)",
+        "en": "to push a finger or a pointed object into or at someone or something",
+        "exampleEn": "She poked him in the ribs to wake him up.",
+        "exampleTr": "Onu uyandırmak için kaburgalarına dürttü."
+      },
+      {
+        "tr": "çıkıntı yapmak, dışarı uzanmak",
+        "en": "to appear or push out through an opening",
+        "exampleEn": "A few weeds poked through the cracks in the pavement.",
+        "exampleTr": "Birkaç ot, kaldırımdaki çatlaklardan dışarı uzanıyordu."
+      }
+    ],
+    "synonyms": [
+      "prod",
+      "jab",
+      "nudge"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_polluter",
+    "headword": "polluter",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈluːtə/",
+    "meanings": [
+      {
+        "tr": "kirletici, çevreyi kirleten (kişi/kuruluş)",
+        "en": "a person, company, or country that causes pollution",
+        "exampleEn": "The factory was named as the region's worst polluter.",
+        "exampleTr": "Fabrika, bölgenin en büyük kirleticisi olarak gösterildi."
+      }
+    ],
+    "synonyms": [
+      "contaminator"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_polymath",
+    "headword": "polymath",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɒlimæθ/",
+    "meanings": [
+      {
+        "tr": "çok yönlü bilgin, hezarfen, çok alanda uzman kişi",
+        "en": "a person who knows a lot about many different subjects",
+        "exampleEn": "Leonardo da Vinci was a true polymath, skilled in art, science, and engineering.",
+        "exampleTr": "Leonardo da Vinci, sanat, bilim ve mühendislikte usta gerçek bir hezarfendi."
+      }
+    ],
+    "synonyms": [
+      "genius",
+      "Renaissance man"
+    ],
+    "antonyms": [
+      "specialist"
+    ]
+  }
+]

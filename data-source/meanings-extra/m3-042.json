@@ -1,0 +1,266 @@
+[
+  {
+    "id": "w_execute",
+    "headword": "execute",
+    "extraMeanings": [
+      {
+        "tr": "idam etmek, ölüm cezasını uygulamak",
+        "en": "to kill someone as a legal punishment",
+        "exampleEn": "He was executed for treason after a lengthy trial.",
+        "exampleTr": "Uzun bir yargılamanın ardından vatana ihanetten idam edildi."
+      }
+    ]
+  },
+  {
+    "id": "w_exhibit",
+    "headword": "exhibit",
+    "extraMeanings": [
+      {
+        "tr": "(bir duygu veya niteliği) sergilemek, göstermek",
+        "en": "to show a feeling, quality, or type of behaviour",
+        "exampleEn": "The patient exhibited all the classic symptoms of the disease.",
+        "exampleTr": "Hasta, hastalığın tüm klasik belirtilerini gösteriyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_exile",
+    "headword": "exile",
+    "extraMeanings": [
+      {
+        "tr": "sürgün etmek, sürgüne göndermek",
+        "en": "to force someone to leave their country and live elsewhere",
+        "exampleEn": "The government exiled several political opponents after the coup.",
+        "exampleTr": "Hükümet, darbeden sonra birçok siyasi muhalifi sürgüne gönderdi."
+      },
+      {
+        "tr": "sürgündeki kişi, vatanından uzaktaki kimse",
+        "en": "a person who is forced to live away from their own country",
+        "exampleEn": "The poet lived as an exile in Paris for twenty years.",
+        "exampleTr": "Şair yirmi yıl boyunca Paris'te bir sürgün olarak yaşadı."
+      }
+    ]
+  },
+  {
+    "id": "w_exploit",
+    "headword": "exploit",
+    "extraMeanings": [
+      {
+        "tr": "kahramanlık, macera, hüner (isim, genellikle çoğul)",
+        "en": "an exciting or brave act or achievement",
+        "exampleEn": "The children loved hearing about their grandfather's wartime exploits.",
+        "exampleTr": "Çocuklar, büyükbabalarının savaş zamanı kahramanlıklarını dinlemeye bayılırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_exposure",
+    "headword": "exposure",
+    "extraMeanings": [
+      {
+        "tr": "(fotoğrafçılıkta) poz, pozlama; filmin ışığa maruz kaldığı süre",
+        "en": "the amount of light allowed to reach the film in a camera; a single photograph",
+        "exampleEn": "This roll of film has thirty-six exposures.",
+        "exampleTr": "Bu film rulosu otuz altı pozluktur."
+      }
+    ]
+  },
+  {
+    "id": "w_extract",
+    "headword": "extract",
+    "extraMeanings": [
+      {
+        "tr": "çıkarmak, sökmek, söküp almak (fiil)",
+        "en": "to remove or take out something, often with effort",
+        "exampleEn": "The dentist had to extract two of her teeth.",
+        "exampleTr": "Diş hekimi onun iki dişini çekmek zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_faculty",
+    "headword": "faculty",
+    "extraMeanings": [
+      {
+        "tr": "öğretim üyeleri, akademik kadro (özellikle ABD)",
+        "en": "the teaching staff of a university or college",
+        "exampleEn": "The faculty voted to change the graduation requirements.",
+        "exampleTr": "Öğretim üyeleri mezuniyet koşullarını değiştirmek için oy kullandı."
+      }
+    ]
+  },
+  {
+    "id": "w_faith",
+    "headword": "faith",
+    "extraMeanings": [
+      {
+        "tr": "din, dini inanç sistemi",
+        "en": "a religion or religious belief system",
+        "exampleEn": "People of all faiths were welcome at the ceremony.",
+        "exampleTr": "Törende her dinden insan hoş karşılanıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_fatigue",
+    "headword": "fatigue",
+    "extraMeanings": [
+      {
+        "tr": "(metal) yorulma, malzeme yorgunluğu",
+        "en": "weakness in metal or other materials caused by repeated stress",
+        "exampleEn": "The crash was caused by metal fatigue in the aircraft's wing.",
+        "exampleTr": "Kaza, uçağın kanadındaki metal yorulmasından kaynaklanıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_fellow",
+    "headword": "fellow",
+    "extraMeanings": [
+      {
+        "tr": "adam, herif, kişi (isim)",
+        "en": "a man or boy",
+        "exampleEn": "He seemed like a decent fellow when I met him.",
+        "exampleTr": "Onunla tanıştığımda düzgün bir adama benziyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_flame",
+    "headword": "flame",
+    "extraMeanings": [
+      {
+        "tr": "(internette) sert/saldırgan mesaj göndermek, hakaret yağdırmak",
+        "en": "to send someone an angry or insulting message online",
+        "exampleEn": "Users flamed him in the comments for his controversial post.",
+        "exampleTr": "Kullanıcılar tartışmalı paylaşımı yüzünden yorumlarda ona ateş püskürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_flank",
+    "headword": "flank",
+    "extraMeanings": [
+      {
+        "tr": "(ordu, grup) yan kanat, cenah",
+        "en": "the right or left side of an army or group",
+        "exampleEn": "The enemy attacked our left flank at dawn.",
+        "exampleTr": "Düşman şafak vakti sol kanadımıza saldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_flap",
+    "headword": "flap",
+    "extraMeanings": [
+      {
+        "tr": "kapak, sarkan parça (zarf kapağı, cep kapağı vb.)",
+        "en": "a flat piece of material fixed on one side that covers an opening",
+        "exampleEn": "She sealed the envelope by licking the flap.",
+        "exampleTr": "Zarfın kapağını yalayarak yapıştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_flick",
+    "headword": "flick",
+    "extraMeanings": [
+      {
+        "tr": "(düğme/anahtar) hızlıca çevirmek, açıp kapamak",
+        "en": "to move a switch quickly to turn something on or off",
+        "exampleEn": "She flicked the light switch and the room went dark.",
+        "exampleTr": "Işık düğmesine dokundu ve oda karardı."
+      }
+    ]
+  },
+  {
+    "id": "w_flip",
+    "headword": "flip",
+    "extraMeanings": [
+      {
+        "tr": "birdenbire öfkelenmek, çıldırmak, kontrolü kaybetmek",
+        "en": "to suddenly become very angry or lose control",
+        "exampleEn": "My dad flipped when he saw the damage to the car.",
+        "exampleTr": "Babam arabadaki hasarı görünce çıldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_flush",
+    "headword": "flush",
+    "extraMeanings": [
+      {
+        "tr": "(yüz) kızarma, al basma (isim)",
+        "en": "a red colour that appears on your face",
+        "exampleEn": "A flush of embarrassment spread across her cheeks.",
+        "exampleTr": "Yanaklarına bir utanç kızarıklığı yayıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_flutter",
+    "headword": "flutter",
+    "extraMeanings": [
+      {
+        "tr": "(kalp) küt küt atma, heyecan, telaş",
+        "en": "a state of nervous or excited feeling",
+        "exampleEn": "She felt a flutter of excitement as the plane took off.",
+        "exampleTr": "Uçak havalanırken içinde bir heyecan telaşı hissetti."
+      }
+    ]
+  },
+  {
+    "id": "w_focus",
+    "headword": "focus",
+    "extraMeanings": [
+      {
+        "tr": "odaklanmak, dikkatini yoğunlaştırmak (fiil)",
+        "en": "to give attention, effort, or thought to a particular thing",
+        "exampleEn": "You need to focus on your studies if you want to pass.",
+        "exampleTr": "Geçmek istiyorsan derslerine odaklanman gerekiyor."
+      },
+      {
+        "tr": "(kamera/mercek) netlemek, odağı ayarlamak",
+        "en": "to adjust a lens so that an image is sharp and clear",
+        "exampleEn": "He focused the camera before taking the shot.",
+        "exampleTr": "Fotoğrafı çekmeden önce kamerayı netledi."
+      }
+    ]
+  },
+  {
+    "id": "w_follower",
+    "headword": "follower",
+    "extraMeanings": [
+      {
+        "tr": "(sosyal medya) takipçi, hesabı takip eden kişi",
+        "en": "a person who subscribes to someone's account on social media",
+        "exampleEn": "The influencer gained a million followers in a single month.",
+        "exampleTr": "Fenomen tek bir ayda bir milyon takipçi kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_flex",
+    "headword": "flex",
+    "extraMeanings": [
+      {
+        "tr": "(kas) germek, kasmak, bükmek",
+        "en": "to tighten a muscle or bend a part of the body",
+        "exampleEn": "The bodybuilder flexed his muscles for the crowd.",
+        "exampleTr": "Vücut geliştirmeci kalabalık için kaslarını kastı."
+      }
+    ]
+  },
+  {
+    "id": "w_fascination",
+    "headword": "fascination",
+    "extraMeanings": [
+      {
+        "tr": "insanı büyüleyen çekicilik, cazibe",
+        "en": "the quality of being very interesting or attractive",
+        "exampleEn": "The old castle held a special fascination for tourists.",
+        "exampleTr": "Eski şato turistler için özel bir cazibeye sahipti."
+      }
+    ]
+  }
+]

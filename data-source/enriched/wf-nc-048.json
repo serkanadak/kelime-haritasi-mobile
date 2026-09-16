@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "w_whiteout",
+    "headword": "whiteout",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwaɪtaʊt/",
+    "meanings": [
+      {
+        "tr": "tipi, kar körlüğü (görüşün sıfıra indiği yoğun kar/sis)",
+        "en": "a weather condition in which snow and cloud make it impossible to see clearly",
+        "exampleEn": "The climbers were trapped by a sudden whiteout near the summit.",
+        "exampleTr": "Dağcılar zirveye yakın ani bir tipiye yakalandı."
+      },
+      {
+        "tr": "düzeltme sıvısı (yazıyı kapatmak için beyaz sıvı)",
+        "en": "a white liquid used to cover mistakes in writing",
+        "exampleEn": "She used whiteout to cover the typo on the form.",
+        "exampleTr": "Formdaki yazım hatasını kapatmak için düzeltme sıvısı kullandı."
+      }
+    ],
+    "synonyms": [
+      "blizzard"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_whittle",
+    "headword": "whittle",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɪtl/",
+    "meanings": [
+      {
+        "tr": "yontmak (bıçakla tahtayı yontmak)",
+        "en": "to make an object by cutting small pieces of wood off",
+        "exampleEn": "He liked to whittle small figures out of pine.",
+        "exampleTr": "Çam ağacından küçük figürler yontmayı severdi."
+      },
+      {
+        "tr": "azaltmak, kısmak (whittle down)",
+        "en": "to gradually reduce the size or number of something",
+        "exampleEn": "We whittled the list of candidates down to three.",
+        "exampleTr": "Aday listesini üçe indirdik."
+      }
+    ],
+    "synonyms": [
+      "carve",
+      "reduce"
+    ],
+    "antonyms": [
+      "increase"
+    ]
+  },
+  {
+    "id": "w_who",
+    "headword": "who",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/huː/",
+    "meanings": [
+      {
+        "tr": "kim (soru zamiri)",
+        "en": "used to ask about the identity of a person",
+        "exampleEn": "Who is going to help me carry these boxes?",
+        "exampleTr": "Bu kutuları taşımama kim yardım edecek?"
+      },
+      {
+        "tr": "ki o, -en/-an (ilgi zamiri, insanlar için)",
+        "en": "used to add information about a person already mentioned",
+        "exampleEn": "The woman who called earlier left a message.",
+        "exampleTr": "Daha önce arayan kadın bir mesaj bıraktı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_whoever",
+    "headword": "whoever",
+    "pos": "pron",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/huːˈevə/",
+    "meanings": [
+      {
+        "tr": "her kim, kim olursa olsun",
+        "en": "the person or people who; any person who",
+        "exampleEn": "Whoever finishes first can leave early.",
+        "exampleTr": "Kim önce bitirirse erken çıkabilir."
+      }
+    ],
+    "synonyms": [
+      "anyone who"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_whom",
+    "headword": "whom",
+    "pos": "pron",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/huːm/",
+    "meanings": [
+      {
+        "tr": "kimi, kime (who'nun nesne hali, resmî)",
+        "en": "used instead of 'who' as the object of a verb or preposition",
+        "exampleEn": "The candidate whom we interviewed was excellent.",
+        "exampleTr": "Mülakat yaptığımız aday çok iyiydi."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_whose",
+    "headword": "whose",
+    "pos": "det",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/huːz/",
+    "meanings": [
+      {
+        "tr": "kimin",
+        "en": "used to ask who something belongs to",
+        "exampleEn": "Whose jacket is this on the chair?",
+        "exampleTr": "Sandalyedeki bu ceket kimin?"
+      },
+      {
+        "tr": "-in ki, kendisinin (ilgi zamiri, iyelik)",
+        "en": "of whom or of which, used to add information",
+        "exampleEn": "That's the author whose book won the prize.",
+        "exampleTr": "İşte kitabı ödül kazanan yazar bu."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_will",
+    "headword": "will",
+    "pos": "modal",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɪl/",
+    "meanings": [
+      {
+        "tr": "-ecek/-acak (gelecek zaman)",
+        "en": "used to talk about what is going to happen in the future",
+        "exampleEn": "I will call you when I get home.",
+        "exampleTr": "Eve varınca seni arayacağım."
+      },
+      {
+        "tr": "irade, istem (isim)",
+        "en": "the mental power to control your thoughts and actions",
+        "exampleEn": "She has a strong will and never gives up.",
+        "exampleTr": "Güçlü bir iradesi var ve asla pes etmez."
+      },
+      {
+        "tr": "vasiyetname (isim)",
+        "en": "a legal document stating who gets your property after you die",
+        "exampleEn": "He left the house to his daughter in his will.",
+        "exampleTr": "Vasiyetinde evi kızına bıraktı."
+      }
+    ],
+    "synonyms": [
+      "determination",
+      "testament"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_willpower",
+    "headword": "willpower",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɪlpaʊə/",
+    "meanings": [
+      {
+        "tr": "irade gücü, azim",
+        "en": "the ability to control your own thoughts and behaviour",
+        "exampleEn": "It takes real willpower to quit smoking.",
+        "exampleTr": "Sigarayı bırakmak gerçek bir irade gücü ister."
+      }
+    ],
+    "synonyms": [
+      "self-control",
+      "determination",
+      "resolve"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_windfall",
+    "headword": "windfall",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɪndfɔːl/",
+    "meanings": [
+      {
+        "tr": "beklenmedik kazanç, devlet kuşu",
+        "en": "an amount of money that you get unexpectedly",
+        "exampleEn": "They received a tax windfall after the new law passed.",
+        "exampleTr": "Yeni yasa çıkınca beklenmedik bir vergi kazancı elde ettiler."
+      }
+    ],
+    "synonyms": [
+      "bonanza",
+      "bonus"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_winning",
+    "headword": "winning",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɪnɪŋ/",
+    "meanings": [
+      {
+        "tr": "kazanan, galip gelen",
+        "en": "successful in a competition or election",
+        "exampleEn": "The winning team celebrated all night.",
+        "exampleTr": "Kazanan takım bütün gece kutlama yaptı."
+      },
+      {
+        "tr": "çekici, insanı etkileyen (winning smile)",
+        "en": "attractive in a way that makes people like you",
+        "exampleEn": "She won them over with her winning smile.",
+        "exampleTr": "Etkileyici gülümsemesiyle onları kendine hayran bıraktı."
+      }
+    ],
+    "synonyms": [
+      "victorious",
+      "charming"
+    ],
+    "antonyms": [
+      "losing"
+    ]
+  },
+  {
+    "id": "w_wintertime",
+    "headword": "wintertime",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɪntətaɪm/",
+    "meanings": [
+      {
+        "tr": "kış mevsimi, kış zamanı",
+        "en": "the season of winter",
+        "exampleEn": "In wintertime the lake often freezes over.",
+        "exampleTr": "Kış mevsiminde göl sık sık donar."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "summertime"
+    ]
+  },
+  {
+    "id": "w_wished_for",
+    "headword": "wished-for",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɪʃt fɔː/",
+    "meanings": [
+      {
+        "tr": "arzu edilen, istenen, umulan",
+        "en": "desired or hoped for",
+        "exampleEn": "The team finally achieved the wished-for result.",
+        "exampleTr": "Takım nihayet umulan sonuca ulaştı."
+      }
+    ],
+    "synonyms": [
+      "desired",
+      "hoped-for"
+    ],
+    "antonyms": [
+      "unwanted"
+    ]
+  },
+  {
+    "id": "w_with",
+    "headword": "with",
+    "pos": "prep",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɪð/",
+    "meanings": [
+      {
+        "tr": "ile, birlikte",
+        "en": "in the company of someone or something",
+        "exampleEn": "I went to the cinema with my friends.",
+        "exampleTr": "Arkadaşlarımla sinemaya gittim."
+      },
+      {
+        "tr": "ile (araç, kullanarak)",
+        "en": "using something as a tool or means",
+        "exampleEn": "She cut the bread with a sharp knife.",
+        "exampleTr": "Ekmeği keskin bir bıçakla kesti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "without"
+    ]
+  },
+  {
+    "id": "w_with_difficulty",
+    "headword": "with difficulty",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/wɪð ˈdɪfɪkəlti/",
+    "meanings": [
+      {
+        "tr": "güçlükle, zorlukla",
+        "en": "in a way that is not easy; only with effort",
+        "exampleEn": "He climbed the stairs with difficulty after the operation.",
+        "exampleTr": "Ameliyattan sonra merdivenleri güçlükle çıktı."
+      }
+    ],
+    "synonyms": [
+      "hardly",
+      "laboriously"
+    ],
+    "antonyms": [
+      "easily"
+    ]
+  },
+  {
+    "id": "w_withdrawn",
+    "headword": "withdrawn",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɪðˈdrɔːn/",
+    "meanings": [
+      {
+        "tr": "içine kapanık, çekingen, sessiz",
+        "en": "quiet and preferring not to be with other people",
+        "exampleEn": "After the loss he became quiet and withdrawn.",
+        "exampleTr": "Kayıptan sonra sessiz ve içine kapanık biri oldu."
+      },
+      {
+        "tr": "geri çekilmiş, geri çekildi (withdraw fiilinin geçmiş ortacı)",
+        "en": "past participle of withdraw; taken back or removed",
+        "exampleEn": "The product was withdrawn from the market after complaints.",
+        "exampleTr": "Ürün şikayetlerin ardından piyasadan çekildi."
+      }
+    ],
+    "synonyms": [
+      "introverted",
+      "reserved"
+    ],
+    "antonyms": [
+      "outgoing"
+    ]
+  },
+  {
+    "id": "w_within",
+    "headword": "within",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɪˈðɪn/",
+    "meanings": [
+      {
+        "tr": "içinde, içerisinde (süre)",
+        "en": "before a period of time has passed",
+        "exampleEn": "The order will arrive within three days.",
+        "exampleTr": "Sipariş üç gün içinde ulaşacak."
+      },
+      {
+        "tr": "içinde, dahilinde (sınır)",
+        "en": "inside the limits or range of something",
+        "exampleEn": "Please stay within the marked area.",
+        "exampleTr": "Lütfen işaretli alanın içinde kalın."
+      }
+    ],
+    "synonyms": [
+      "inside"
+    ],
+    "antonyms": [
+      "outside",
+      "beyond"
+    ]
+  },
+  {
+    "id": "w_without",
+    "headword": "without",
+    "pos": "prep",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɪˈðaʊt/",
+    "meanings": [
+      {
+        "tr": "-siz, olmadan",
+        "en": "not having or using something",
+        "exampleEn": "I can't read without my glasses.",
+        "exampleTr": "Gözlüğüm olmadan okuyamıyorum."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "with"
+    ]
+  },
+  {
+    "id": "w_wobble",
+    "headword": "wobble",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɒbl/",
+    "meanings": [
+      {
+        "tr": "sallanmak, yalpalamak, titremek",
+        "en": "to move unsteadily from side to side",
+        "exampleEn": "The table wobbles because one leg is shorter.",
+        "exampleTr": "Bir bacağı kısa olduğu için masa sallanıyor."
+      }
+    ],
+    "synonyms": [
+      "shake",
+      "teeter"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wobbly",
+    "headword": "wobbly",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɒbli/",
+    "meanings": [
+      {
+        "tr": "sallanan, oynak, titrek",
+        "en": "moving from side to side in an unsteady way",
+        "exampleEn": "Be careful, that ladder is a bit wobbly.",
+        "exampleTr": "Dikkat et, o merdiven biraz sallanıyor."
+      }
+    ],
+    "synonyms": [
+      "shaky",
+      "unsteady"
+    ],
+    "antonyms": [
+      "steady",
+      "stable"
+    ]
+  },
+  {
+    "id": "w_word_for_word",
+    "headword": "word-for-word",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌwɜːd fə ˈwɜːd/",
+    "meanings": [
+      {
+        "tr": "kelimesi kelimesine, birebir",
+        "en": "in exactly the same words; repeated exactly",
+        "exampleEn": "She gave a word-for-word account of the conversation.",
+        "exampleTr": "Konuşmayı kelimesi kelimesine aktardı."
+      }
+    ],
+    "synonyms": [
+      "verbatim",
+      "literal"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wordily",
+    "headword": "wordily",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɜːdɪli/",
+    "meanings": [
+      {
+        "tr": "lafı uzatarak, gereksiz uzun sözlerle",
+        "en": "using too many words; in a long-winded way",
+        "exampleEn": "He explained the rules wordily instead of getting to the point.",
+        "exampleTr": "Sadede gelmek yerine kuralları lafı uzatarak anlattı."
+      }
+    ],
+    "synonyms": [
+      "verbosely"
+    ],
+    "antonyms": [
+      "concisely"
+    ]
+  },
+  {
+    "id": "w_wordlist",
+    "headword": "wordlist",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɜːdlɪst/",
+    "meanings": [
+      {
+        "tr": "kelime listesi",
+        "en": "a list of words, often for study or reference",
+        "exampleEn": "The teacher gave us a wordlist to learn for the exam.",
+        "exampleTr": "Öğretmen sınav için öğrenmemiz gereken bir kelime listesi verdi."
+      }
+    ],
+    "synonyms": [
+      "vocabulary list"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_work_time",
+    "headword": "work time",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɜːk taɪm/",
+    "meanings": [
+      {
+        "tr": "çalışma zamanı, mesai süresi",
+        "en": "the time that is spent doing your job",
+        "exampleEn": "Please don't make personal calls during work time.",
+        "exampleTr": "Lütfen mesai saatlerinde özel arama yapmayın."
+      }
+    ],
+    "synonyms": [
+      "working hours"
+    ],
+    "antonyms": [
+      "free time"
+    ]
+  },
+  {
+    "id": "w_working_class",
+    "headword": "working class",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌwɜːkɪŋ ˈklɑːs/",
+    "meanings": [
+      {
+        "tr": "işçi sınıfı",
+        "en": "the social group made up mainly of people who do physical work for wages",
+        "exampleEn": "He came from a working class family in the north.",
+        "exampleTr": "Kuzeyde işçi sınıfı bir aileden geliyordu."
+      }
+    ],
+    "synonyms": [
+      "proletariat"
+    ],
+    "antonyms": [
+      "upper class"
+    ]
+  },
+  {
+    "id": "w_working_day",
+    "headword": "working day",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌwɜːkɪŋ ˈdeɪ/",
+    "meanings": [
+      {
+        "tr": "iş günü, çalışma günü",
+        "en": "a day on which people go to work; the hours worked in a day",
+        "exampleEn": "Your refund will be processed within five working days.",
+        "exampleTr": "İadeniz beş iş günü içinde işleme alınacak."
+      }
+    ],
+    "synonyms": [
+      "workday",
+      "business day"
+    ],
+    "antonyms": [
+      "day off"
+    ]
+  },
+  {
+    "id": "w_workmanship",
+    "headword": "workmanship",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɜːkmənʃɪp/",
+    "meanings": [
+      {
+        "tr": "işçilik, ustalık, işin kalitesi",
+        "en": "the skill with which something is made",
+        "exampleEn": "The furniture is expensive because of its fine workmanship.",
+        "exampleTr": "Mobilya, ince işçiliği nedeniyle pahalı."
+      }
+    ],
+    "synonyms": [
+      "craftsmanship",
+      "artistry"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_worthlessness",
+    "headword": "worthlessness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɜːθləsnəs/",
+    "meanings": [
+      {
+        "tr": "değersizlik, hiçbir işe yaramama",
+        "en": "the state of having no value or usefulness",
+        "exampleEn": "Depression can bring feelings of worthlessness.",
+        "exampleTr": "Depresyon değersizlik hisleri getirebilir."
+      }
+    ],
+    "synonyms": [
+      "uselessness"
+    ],
+    "antonyms": [
+      "worth",
+      "value"
+    ]
+  },
+  {
+    "id": "w_would",
+    "headword": "would",
+    "pos": "modal",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wʊd/",
+    "meanings": [
+      {
+        "tr": "-ecekti; -er miydi (will'in geçmiş/koşul hali)",
+        "en": "used to talk about a possible or imagined situation",
+        "exampleEn": "I would travel more if I had the money.",
+        "exampleTr": "Param olsa daha çok seyahat ederdim."
+      },
+      {
+        "tr": "-er misiniz (kibar rica)",
+        "en": "used to make a polite request or offer",
+        "exampleEn": "Would you please open the window?",
+        "exampleTr": "Lütfen pencereyi açar mısınız?"
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_would_be",
+    "headword": "would-be",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwʊd biː/",
+    "meanings": [
+      {
+        "tr": "olmaya çalışan, sözde, müstakbel, aday",
+        "en": "hoping or trying to be a particular type of person",
+        "exampleEn": "The workshop is aimed at would-be writers.",
+        "exampleTr": "Atölye, yazar olmak isteyenlere yönelik."
+      }
+    ],
+    "synonyms": [
+      "aspiring",
+      "potential"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wrapped",
+    "headword": "wrapped",
+    "pos": "adj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ræpt/",
+    "meanings": [
+      {
+        "tr": "sarılmış, paketlenmiş",
+        "en": "covered in paper or other material",
+        "exampleEn": "The gifts were beautifully wrapped in gold paper.",
+        "exampleTr": "Hediyeler altın kağıda özenle sarılmıştı."
+      }
+    ],
+    "synonyms": [
+      "covered",
+      "packaged"
+    ],
+    "antonyms": [
+      "unwrapped"
+    ]
+  },
+  {
+    "id": "w_wrath",
+    "headword": "wrath",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɒθ/",
+    "meanings": [
+      {
+        "tr": "öfke, gazap, hiddet",
+        "en": "extreme anger",
+        "exampleEn": "He feared the wrath of his father.",
+        "exampleTr": "Babasının gazabından korkuyordu."
+      }
+    ],
+    "synonyms": [
+      "fury",
+      "rage"
+    ],
+    "antonyms": [
+      "calm"
+    ]
+  },
+  {
+    "id": "w_wristlet",
+    "headword": "wristlet",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɪstlət/",
+    "meanings": [
+      {
+        "tr": "bileklik, bilek bandı; küçük el çantası",
+        "en": "a band, strap, or small bag worn around the wrist",
+        "exampleEn": "She carried a small wristlet instead of a handbag.",
+        "exampleTr": "El çantası yerine küçük bir bileklik çanta taşıdı."
+      }
+    ],
+    "synonyms": [
+      "bracelet",
+      "wristband"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wrongdoer",
+    "headword": "wrongdoer",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɒŋduːə/",
+    "meanings": [
+      {
+        "tr": "suç işleyen, günahkâr, kabahatli kişi",
+        "en": "a person who does something illegal or morally wrong",
+        "exampleEn": "The law should punish the wrongdoer, not the victim.",
+        "exampleTr": "Yasa mağduru değil, suçluyu cezalandırmalı."
+      }
+    ],
+    "synonyms": [
+      "offender",
+      "culprit"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wrongful",
+    "headword": "wrongful",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɒŋfl/",
+    "meanings": [
+      {
+        "tr": "haksız, hukuka aykırı, yersiz",
+        "en": "not fair, morally right, or legal",
+        "exampleEn": "He sued the company for wrongful dismissal.",
+        "exampleTr": "Şirketi haksız işten çıkarma nedeniyle dava etti."
+      }
+    ],
+    "synonyms": [
+      "unjust",
+      "unlawful"
+    ],
+    "antonyms": [
+      "rightful",
+      "lawful"
+    ]
+  },
+  {
+    "id": "w_wrongness",
+    "headword": "wrongness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɒŋnəs/",
+    "meanings": [
+      {
+        "tr": "yanlışlık, hatalılık; ahlaki kötülük",
+        "en": "the quality of being wrong, incorrect, or immoral",
+        "exampleEn": "She sensed the wrongness of the decision immediately.",
+        "exampleTr": "Kararın yanlışlığını hemen sezdi."
+      }
+    ],
+    "synonyms": [
+      "incorrectness"
+    ],
+    "antonyms": [
+      "rightness",
+      "correctness"
+    ]
+  },
+  {
+    "id": "w_wunderkind",
+    "headword": "wunderkind",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwʊndəkɪnd/",
+    "meanings": [
+      {
+        "tr": "harika çocuk, dâhi (genç yaşta çok başarılı kişi)",
+        "en": "a person who is very successful at a young age",
+        "exampleEn": "The tech wunderkind founded her first company at eighteen.",
+        "exampleTr": "Teknoloji dâhisi ilk şirketini on sekiz yaşında kurdu."
+      }
+    ],
+    "synonyms": [
+      "prodigy",
+      "whiz kid"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_yip",
+    "headword": "yip",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/jɪp/",
+    "meanings": [
+      {
+        "tr": "kısa keskin havlama, ciyaklama, cıvıltı",
+        "en": "a short, sharp cry, especially from a dog",
+        "exampleEn": "The puppy gave a happy yip when it saw its owner.",
+        "exampleTr": "Köpek yavrusu sahibini görünce mutlu bir ciyaklama çıkardı."
+      }
+    ],
+    "synonyms": [
+      "yelp"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_you",
+    "headword": "you",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/juː/",
+    "meanings": [
+      {
+        "tr": "sen, siz",
+        "en": "the person or people being spoken to",
+        "exampleEn": "Can you help me with this?",
+        "exampleTr": "Bana bunda yardım edebilir misin?"
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_youngest",
+    "headword": "youngest",
+    "pos": "adj",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈjʌŋɡəst/",
+    "meanings": [
+      {
+        "tr": "en genç, en küçük (yaşça)",
+        "en": "the least old of a group of people or things",
+        "exampleEn": "She is the youngest of five children.",
+        "exampleTr": "Beş çocuğun en küçüğü o."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "oldest",
+      "eldest"
+    ]
+  },
+  {
+    "id": "w_youngster",
+    "headword": "youngster",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈjʌŋstə/",
+    "meanings": [
+      {
+        "tr": "genç, çocuk, delikanlı",
+        "en": "a young person or child",
+        "exampleEn": "The club offers football training for youngsters.",
+        "exampleTr": "Kulüp gençler için futbol antrenmanı sunuyor."
+      }
+    ],
+    "synonyms": [
+      "youth",
+      "kid"
+    ],
+    "antonyms": [
+      "adult"
+    ]
+  },
+  {
+    "id": "w_your",
+    "headword": "your",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/jɔː/",
+    "meanings": [
+      {
+        "tr": "senin, sizin",
+        "en": "belonging to or connected with the person being spoken to",
+        "exampleEn": "Is this your bag on the seat?",
+        "exampleTr": "Koltuktaki bu çanta senin mi?"
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_yours",
+    "headword": "yours",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/jɔːz/",
+    "meanings": [
+      {
+        "tr": "seninki, sizinki",
+        "en": "the thing or things belonging to the person being spoken to",
+        "exampleEn": "My pen is broken; can I borrow yours?",
+        "exampleTr": "Benim kalemim bozuk; seninkini ödünç alabilir miyim?"
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_yourself",
+    "headword": "yourself",
+    "pos": "pron",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/jɔːˈself/",
+    "meanings": [
+      {
+        "tr": "kendin, kendini (dönüşlü zamir)",
+        "en": "used to refer to the person being spoken to as the object",
+        "exampleEn": "Be careful not to hurt yourself.",
+        "exampleTr": "Kendine zarar vermemeye dikkat et."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

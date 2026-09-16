@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "w_ought_to",
+    "headword": "ought to",
+    "pos": "modal verb",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɔːt tə/",
+    "meanings": [
+      {
+        "tr": "-meli, -malı (tavsiye/gereklilik)",
+        "en": "used to say what is the right or advisable thing to do",
+        "exampleEn": "You ought to see a doctor about that cough.",
+        "exampleTr": "O öksürük için bir doktora görünmelisin."
+      },
+      {
+        "tr": "olması beklenir, muhtemelen",
+        "en": "used to say something is probable or expected",
+        "exampleEn": "They left early, so they ought to be there by now.",
+        "exampleTr": "Erken çıktılar, dolayısıyla şimdiye kadar orada olmaları gerekir."
+      }
+    ],
+    "synonyms": [
+      "should",
+      "must"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_our",
+    "headword": "our",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɑːr/",
+    "meanings": [
+      {
+        "tr": "bizim",
+        "en": "belonging to or connected with the speaker and one or more others",
+        "exampleEn": "Our house is at the end of the street.",
+        "exampleTr": "Bizim evimiz sokağın sonunda."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_ours",
+    "headword": "ours",
+    "pos": "pron",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɑːrz/",
+    "meanings": [
+      {
+        "tr": "bizimki, bizimkiler",
+        "en": "used to refer to something belonging to or connected with the speaker and others",
+        "exampleEn": "That car is ours, not theirs.",
+        "exampleTr": "O araba bizimki, onlarınki değil."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_ourselves",
+    "headword": "ourselves",
+    "pos": "pron",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɑːrˈselvz/",
+    "meanings": [
+      {
+        "tr": "kendimiz, kendimizi",
+        "en": "used as the object of a verb or preposition when the subject is 'we'",
+        "exampleEn": "We taught ourselves how to cook.",
+        "exampleTr": "Yemek yapmayı kendi kendimize öğrendik."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_oust",
+    "headword": "oust",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/aʊst/",
+    "meanings": [
+      {
+        "tr": "görevden uzaklaştırmak, devirmek",
+        "en": "to force someone out of a position of power, especially so as to take their place",
+        "exampleEn": "The rebels ousted the president in a bloodless coup.",
+        "exampleTr": "İsyancılar cumhurbaşkanını kansız bir darbeyle görevden uzaklaştırdı."
+      }
+    ],
+    "synonyms": [
+      "overthrow",
+      "depose",
+      "remove"
+    ],
+    "antonyms": [
+      "install",
+      "appoint"
+    ]
+  },
+  {
+    "id": "w_out_of",
+    "headword": "out of",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈaʊt əv/",
+    "meanings": [
+      {
+        "tr": "-den dışarı, -den",
+        "en": "used to show movement away from the inside of a place or thing",
+        "exampleEn": "She took the keys out of her bag.",
+        "exampleTr": "Anahtarları çantasından çıkardı."
+      },
+      {
+        "tr": "-i kalmamış, tükenmiş",
+        "en": "no longer having any of something",
+        "exampleEn": "We are out of milk again.",
+        "exampleTr": "Yine sütümüz kalmadı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "into"
+    ]
+  },
+  {
+    "id": "w_out_of_sync",
+    "headword": "out of sync",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌaʊt əv ˈsɪŋk/",
+    "meanings": [
+      {
+        "tr": "uyumsuz, senkronize olmayan",
+        "en": "not working together or matching correctly in time or agreement",
+        "exampleEn": "The audio was out of sync with the video.",
+        "exampleTr": "Ses, görüntüyle senkronize değildi."
+      }
+    ],
+    "synonyms": [
+      "mismatched",
+      "uncoordinated"
+    ],
+    "antonyms": [
+      "in sync"
+    ]
+  },
+  {
+    "id": "w_outage",
+    "headword": "outage",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈaʊtɪdʒ/",
+    "meanings": [
+      {
+        "tr": "kesinti (elektrik, hizmet vb.)",
+        "en": "a period when a service, especially electricity or the internet, is not available",
+        "exampleEn": "The storm caused a power outage that lasted six hours.",
+        "exampleTr": "Fırtına, altı saat süren bir elektrik kesintisine yol açtı."
+      }
+    ],
+    "synonyms": [
+      "blackout",
+      "interruption"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_outerwear",
+    "headword": "outerwear",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈaʊtərwer/",
+    "meanings": [
+      {
+        "tr": "dış giyim (palto, mont vb.)",
+        "en": "clothes such as coats and jackets that you wear over other clothes when outside",
+        "exampleEn": "The store sells outerwear for cold winter weather.",
+        "exampleTr": "Mağaza, soğuk kış havası için dış giyim satıyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "underwear"
+    ]
+  },
+  {
+    "id": "w_outlay",
+    "headword": "outlay",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈaʊtleɪ/",
+    "meanings": [
+      {
+        "tr": "harcama, masraf, sermaye çıkışı",
+        "en": "an amount of money spent on something, especially as an initial investment",
+        "exampleEn": "Starting the business required a large initial outlay.",
+        "exampleTr": "İşe başlamak büyük bir başlangıç harcaması gerektirdi."
+      }
+    ],
+    "synonyms": [
+      "expenditure",
+      "expense",
+      "investment"
+    ],
+    "antonyms": [
+      "income",
+      "return"
+    ]
+  },
+  {
+    "id": "w_outsized",
+    "headword": "outsized",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈaʊtsaɪzd/",
+    "meanings": [
+      {
+        "tr": "aşırı büyük, olağandışı derecede büyük",
+        "en": "larger than the usual or expected size",
+        "exampleEn": "The small company had an outsized influence on the industry.",
+        "exampleTr": "Küçük şirket, sektör üzerinde olağandışı büyüklükte bir etkiye sahipti."
+      }
+    ],
+    "synonyms": [
+      "oversized",
+      "enormous"
+    ],
+    "antonyms": [
+      "undersized",
+      "tiny"
+    ]
+  },
+  {
+    "id": "w_outstrip",
+    "headword": "outstrip",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌaʊtˈstrɪp/",
+    "meanings": [
+      {
+        "tr": "geçmek, geride bırakmak, aşmak",
+        "en": "to be or become greater than something, or to do better than someone",
+        "exampleEn": "Demand for the product quickly outstripped supply.",
+        "exampleTr": "Ürüne olan talep, arzı hızla aştı."
+      }
+    ],
+    "synonyms": [
+      "surpass",
+      "exceed",
+      "overtake"
+    ],
+    "antonyms": [
+      "lag",
+      "trail"
+    ]
+  },
+  {
+    "id": "w_oven_cooked",
+    "headword": "oven-cooked",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌvən kʊkt/",
+    "meanings": [
+      {
+        "tr": "fırında pişmiş",
+        "en": "cooked using the heat of an oven",
+        "exampleEn": "These oven-cooked fries are healthier than fried ones.",
+        "exampleTr": "Bu fırında pişmiş patatesler, kızartılmış olanlardan daha sağlıklı."
+      }
+    ],
+    "synonyms": [
+      "baked",
+      "roasted"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_overbearing",
+    "headword": "overbearing",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌoʊvərˈberɪŋ/",
+    "meanings": [
+      {
+        "tr": "baskıcı, otoriter, kendini dayatan",
+        "en": "trying to control other people in an unpleasant and forceful way",
+        "exampleEn": "His overbearing manner made the staff feel uncomfortable.",
+        "exampleTr": "Baskıcı tavrı, personelin kendini rahatsız hissetmesine neden oldu."
+      }
+    ],
+    "synonyms": [
+      "domineering",
+      "bossy",
+      "authoritarian"
+    ],
+    "antonyms": [
+      "submissive",
+      "meek"
+    ]
+  },
+  {
+    "id": "w_overcrowding",
+    "headword": "overcrowding",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌoʊvərˈkraʊdɪŋ/",
+    "meanings": [
+      {
+        "tr": "aşırı kalabalıklaşma, tıklım tıklım olma",
+        "en": "the situation in which there are too many people or things in a place",
+        "exampleEn": "Overcrowding on the trains has become a serious problem.",
+        "exampleTr": "Trenlerdeki aşırı kalabalık ciddi bir sorun haline geldi."
+      }
+    ],
+    "synonyms": [
+      "congestion"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_overgeneralization",
+    "headword": "overgeneralization",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌoʊvərˌdʒenrələˈzeɪʃən/",
+    "meanings": [
+      {
+        "tr": "aşırı genelleme",
+        "en": "a statement that is too general and does not consider all the facts or exceptions",
+        "exampleEn": "Saying all teenagers are lazy is an overgeneralization.",
+        "exampleTr": "Bütün gençlerin tembel olduğunu söylemek bir aşırı genellemedir."
+      }
+    ],
+    "synonyms": [
+      "sweeping statement"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_overpaid",
+    "headword": "overpaid",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌoʊvərˈpeɪd/",
+    "meanings": [
+      {
+        "tr": "fazla maaş alan, hak ettiğinden fazla ödenen",
+        "en": "paid too much money for the work you do",
+        "exampleEn": "Many people think top executives are overpaid.",
+        "exampleTr": "Birçok kişi üst düzey yöneticilerin fazla maaş aldığını düşünüyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "underpaid"
+    ]
+  },
+  {
+    "id": "w_overpass",
+    "headword": "overpass",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈoʊvərpæs/",
+    "meanings": [
+      {
+        "tr": "üst geçit",
+        "en": "a bridge that carries a road or railway over another road",
+        "exampleEn": "Traffic slowed as it approached the overpass.",
+        "exampleTr": "Trafik, üst geçide yaklaşırken yavaşladı."
+      }
+    ],
+    "synonyms": [
+      "flyover"
+    ],
+    "antonyms": [
+      "underpass"
+    ]
+  },
+  {
+    "id": "w_oversensitive",
+    "headword": "oversensitive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌoʊvərˈsensətɪv/",
+    "meanings": [
+      {
+        "tr": "aşırı hassas, alıngan",
+        "en": "too easily upset or offended by what other people say or do",
+        "exampleEn": "She is oversensitive to any kind of criticism.",
+        "exampleTr": "Her türlü eleştiriye karşı aşırı hassastır."
+      }
+    ],
+    "synonyms": [
+      "touchy",
+      "thin-skinned"
+    ],
+    "antonyms": [
+      "thick-skinned",
+      "insensitive"
+    ]
+  },
+  {
+    "id": "w_overt",
+    "headword": "overt",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/oʊˈvɜːrt/",
+    "meanings": [
+      {
+        "tr": "açık, aleni, gizli olmayan",
+        "en": "done or shown openly and not hidden",
+        "exampleEn": "There was no overt sign of tension between them.",
+        "exampleTr": "Aralarında açık bir gerginlik belirtisi yoktu."
+      }
+    ],
+    "synonyms": [
+      "open",
+      "obvious",
+      "manifest"
+    ],
+    "antonyms": [
+      "covert",
+      "hidden"
+    ]
+  },
+  {
+    "id": "w_overtly",
+    "headword": "overtly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/oʊˈvɜːrtli/",
+    "meanings": [
+      {
+        "tr": "açıkça, alenen",
+        "en": "in an open way that is not hidden or secret",
+        "exampleEn": "He was never overtly critical of his boss.",
+        "exampleTr": "Patronunu asla açıkça eleştirmedi."
+      }
+    ],
+    "synonyms": [
+      "openly",
+      "publicly"
+    ],
+    "antonyms": [
+      "covertly",
+      "secretly"
+    ]
+  },
+  {
+    "id": "w_ow",
+    "headword": "ow",
+    "pos": "interjection",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/aʊ/",
+    "meanings": [
+      {
+        "tr": "ah, of (ani acı ünlemi)",
+        "en": "used to express sudden pain",
+        "exampleEn": "Ow! That really hurt.",
+        "exampleTr": "Ah! Bu gerçekten canımı yaktı."
+      }
+    ],
+    "synonyms": [
+      "ouch"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_owing_to",
+    "headword": "owing to",
+    "pos": "prep",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈoʊɪŋ tə/",
+    "meanings": [
+      {
+        "tr": "-den dolayı, -nedeniyle",
+        "en": "because of; as a result of",
+        "exampleEn": "The flight was delayed owing to bad weather.",
+        "exampleTr": "Uçuş kötü hava nedeniyle ertelendi."
+      }
+    ],
+    "synonyms": [
+      "because of",
+      "due to"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pa",
+    "headword": "pa",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pɑː/",
+    "meanings": [
+      {
+        "tr": "baba (samimi)",
+        "en": "an informal word for father",
+        "exampleEn": "Pa taught me how to fish when I was young.",
+        "exampleTr": "Baba, ben küçükken bana balık tutmayı öğretti."
+      }
+    ],
+    "synonyms": [
+      "dad",
+      "papa"
+    ],
+    "antonyms": [
+      "ma"
+    ]
+  },
+  {
+    "id": "w_pacific",
+    "headword": "pacific",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈsɪfɪk/",
+    "meanings": [
+      {
+        "tr": "barışçıl, sakin, uzlaşmacı",
+        "en": "peaceful in character or intent",
+        "exampleEn": "He tried to settle the dispute by pacific means.",
+        "exampleTr": "Anlaşmazlığı barışçıl yollarla çözmeye çalıştı."
+      }
+    ],
+    "synonyms": [
+      "peaceful",
+      "peaceable",
+      "calm"
+    ],
+    "antonyms": [
+      "aggressive",
+      "warlike"
+    ]
+  },
+  {
+    "id": "w_pacify",
+    "headword": "pacify",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpæsɪfaɪ/",
+    "meanings": [
+      {
+        "tr": "yatıştırmak, sakinleştirmek",
+        "en": "to make someone who is angry or upset become calm and quiet",
+        "exampleEn": "She tried to pacify the crying baby.",
+        "exampleTr": "Ağlayan bebeği yatıştırmaya çalıştı."
+      }
+    ],
+    "synonyms": [
+      "calm",
+      "appease",
+      "placate"
+    ],
+    "antonyms": [
+      "provoke",
+      "agitate"
+    ]
+  },
+  {
+    "id": "w_pacifying",
+    "headword": "pacifying",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpæsɪfaɪɪŋ/",
+    "meanings": [
+      {
+        "tr": "yatıştırıcı, sakinleştirici",
+        "en": "having the effect of making someone calm or less angry",
+        "exampleEn": "She spoke in a soft, pacifying tone.",
+        "exampleTr": "Yumuşak, yatıştırıcı bir tonda konuştu."
+      }
+    ],
+    "synonyms": [
+      "calming",
+      "soothing"
+    ],
+    "antonyms": [
+      "provocative"
+    ]
+  },
+  {
+    "id": "w_painless",
+    "headword": "painless",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpeɪnləs/",
+    "meanings": [
+      {
+        "tr": "acısız, ağrısız",
+        "en": "causing no physical pain",
+        "exampleEn": "The procedure is quick and completely painless.",
+        "exampleTr": "İşlem hızlı ve tamamen ağrısızdır."
+      },
+      {
+        "tr": "zahmetsiz, kolay",
+        "en": "not involving effort or difficulty",
+        "exampleEn": "They made the whole process painless for us.",
+        "exampleTr": "Tüm süreci bizim için zahmetsiz hale getirdiler."
+      }
+    ],
+    "synonyms": [
+      "effortless",
+      "easy"
+    ],
+    "antonyms": [
+      "painful",
+      "difficult"
+    ]
+  },
+  {
+    "id": "w_paleness",
+    "headword": "paleness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpeɪlnəs/",
+    "meanings": [
+      {
+        "tr": "solgunluk, soluk olma",
+        "en": "the quality of being light in color or of having little color in the face",
+        "exampleEn": "The paleness of her skin worried the doctor.",
+        "exampleTr": "Cildinin solgunluğu doktoru endişelendirdi."
+      }
+    ],
+    "synonyms": [
+      "pallor"
+    ],
+    "antonyms": [
+      "ruddiness"
+    ]
+  },
+  {
+    "id": "w_palpable",
+    "headword": "palpable",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpælpəbl/",
+    "meanings": [
+      {
+        "tr": "elle tutulur, hissedilir, aşikar",
+        "en": "so obvious that it can be easily felt or noticed",
+        "exampleEn": "The tension in the room was palpable.",
+        "exampleTr": "Odadaki gerginlik elle tutulur derecedeydi."
+      }
+    ],
+    "synonyms": [
+      "tangible",
+      "noticeable",
+      "evident"
+    ],
+    "antonyms": [
+      "imperceptible",
+      "intangible"
+    ]
+  },
+  {
+    "id": "w_panhandler",
+    "headword": "panhandler",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpænˌhændlər/",
+    "meanings": [
+      {
+        "tr": "dilenci (ABD, sokakta para isteyen)",
+        "en": "a person who stops people in the street and asks them for money",
+        "exampleEn": "A panhandler asked me for spare change outside the station.",
+        "exampleTr": "Bir dilenci istasyonun önünde benden bozuk para istedi."
+      }
+    ],
+    "synonyms": [
+      "beggar"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_panic_disorder",
+    "headword": "panic disorder",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpænɪk dɪsˌɔːrdər/",
+    "meanings": [
+      {
+        "tr": "panik bozukluğu",
+        "en": "a mental health condition in which a person has sudden repeated attacks of intense fear",
+        "exampleEn": "She was diagnosed with panic disorder after months of sudden attacks.",
+        "exampleTr": "Aylarca süren ani ataklardan sonra ona panik bozukluğu teşhisi kondu."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_parapet",
+    "headword": "parapet",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpærəpət/",
+    "meanings": [
+      {
+        "tr": "korkuluk duvarı, siper duvarı",
+        "en": "a low wall along the edge of a roof, bridge, or balcony",
+        "exampleEn": "He leaned over the parapet to look at the river below.",
+        "exampleTr": "Aşağıdaki nehre bakmak için korkuluk duvarına eğildi."
+      }
+    ],
+    "synonyms": [
+      "balustrade",
+      "barrier"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_parched",
+    "headword": "parched",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pɑːrtʃt/",
+    "meanings": [
+      {
+        "tr": "kupkuru, çok kurumuş",
+        "en": "very dry, especially because of hot weather",
+        "exampleEn": "The parched fields had not seen rain for months.",
+        "exampleTr": "Kupkuru tarlalar aylardır yağmur görmemişti."
+      },
+      {
+        "tr": "çok susamış",
+        "en": "very thirsty",
+        "exampleEn": "After the hike I was completely parched.",
+        "exampleTr": "Yürüyüşten sonra çok susamıştım."
+      }
+    ],
+    "synonyms": [
+      "dry",
+      "arid",
+      "thirsty"
+    ],
+    "antonyms": [
+      "wet",
+      "soaked"
+    ]
+  },
+  {
+    "id": "w_parking_area",
+    "headword": "parking area",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɑːrkɪŋ ˌeriə/",
+    "meanings": [
+      {
+        "tr": "park alanı, otopark",
+        "en": "an area where vehicles can be left for a period of time",
+        "exampleEn": "The parking area behind the mall was almost full.",
+        "exampleTr": "Alışveriş merkezinin arkasındaki park alanı neredeyse doluydu."
+      }
+    ],
+    "synonyms": [
+      "car park",
+      "parking lot"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_partake",
+    "headword": "partake",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pɑːrˈteɪk/",
+    "meanings": [
+      {
+        "tr": "katılmak, iştirak etmek",
+        "en": "to take part in an activity",
+        "exampleEn": "Everyone was invited to partake in the celebrations.",
+        "exampleTr": "Herkes kutlamalara katılmaya davet edildi."
+      }
+    ],
+    "synonyms": [
+      "participate",
+      "join in"
+    ],
+    "antonyms": [
+      "abstain"
+    ]
+  },
+  {
+    "id": "w_partiality",
+    "headword": "partiality",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpɑːrʃiˈæləti/",
+    "meanings": [
+      {
+        "tr": "taraf tutma, yanlılık, kayırma",
+        "en": "unfair support of one person or group instead of another",
+        "exampleEn": "The judge was accused of partiality toward the defendant.",
+        "exampleTr": "Hâkim, davalıya karşı taraf tutmakla suçlandı."
+      },
+      {
+        "tr": "düşkünlük, aşırı sevgi",
+        "en": "a strong liking for something",
+        "exampleEn": "He has a partiality for expensive wine.",
+        "exampleTr": "Pahalı şaraba karşı bir düşkünlüğü var."
+      }
+    ],
+    "synonyms": [
+      "bias",
+      "favoritism",
+      "fondness"
+    ],
+    "antonyms": [
+      "impartiality",
+      "fairness"
+    ]
+  },
+  {
+    "id": "w_pass_on",
+    "headword": "pass on",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpæs ˈɒn/",
+    "meanings": [
+      {
+        "tr": "iletmek, aktarmak",
+        "en": "to give information or an object to someone else",
+        "exampleEn": "Could you pass on this message to your manager?",
+        "exampleTr": "Bu mesajı yöneticine iletir misin?"
+      },
+      {
+        "tr": "vefat etmek (örtmece)",
+        "en": "a polite way to say someone has died",
+        "exampleEn": "Her grandmother passed on last year.",
+        "exampleTr": "Büyükannesi geçen yıl vefat etti."
+      }
+    ],
+    "synonyms": [
+      "forward",
+      "relay",
+      "transmit"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pass_water",
+    "headword": "pass water",
+    "pos": "phrase",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpæs ˈwɔːtər/",
+    "meanings": [
+      {
+        "tr": "idrar yapmak, işemek (kibar ifade)",
+        "en": "a polite or medical way to say to urinate",
+        "exampleEn": "The doctor asked if it hurt when he passed water.",
+        "exampleTr": "Doktor, idrar yaparken acıyıp acımadığını sordu."
+      }
+    ],
+    "synonyms": [
+      "urinate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pass",
+    "headword": "passé",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pæˈseɪ/",
+    "meanings": [
+      {
+        "tr": "modası geçmiş, demode",
+        "en": "no longer fashionable or popular",
+        "exampleEn": "Those styles look rather passé now.",
+        "exampleTr": "O tarzlar artık oldukça modası geçmiş görünüyor."
+      }
+    ],
+    "synonyms": [
+      "outdated",
+      "old-fashioned",
+      "dated"
+    ],
+    "antonyms": [
+      "fashionable",
+      "trendy"
+    ]
+  },
+  {
+    "id": "w_pasture",
+    "headword": "pasture",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpæstʃər/",
+    "meanings": [
+      {
+        "tr": "otlak, mera",
+        "en": "grassy land where animals such as cattle or sheep can feed",
+        "exampleEn": "The cows were grazing in the pasture.",
+        "exampleTr": "İnekler otlakta otluyordu."
+      }
+    ],
+    "synonyms": [
+      "meadow",
+      "grassland"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_patois",
+    "headword": "patois",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpætwɑː/",
+    "meanings": [
+      {
+        "tr": "yerel ağız, halk lehçesi",
+        "en": "a form of a language spoken by people in a particular area that differs from the standard language",
+        "exampleEn": "The locals spoke in a patois that visitors found hard to understand.",
+        "exampleTr": "Yerliler, ziyaretçilerin anlamakta zorlandığı bir yerel ağızla konuşuyordu."
+      }
+    ],
+    "synonyms": [
+      "dialect",
+      "vernacular"
+    ],
+    "antonyms": [
+      "standard language"
+    ]
+  },
+  {
+    "id": "w_patrician",
+    "headword": "patrician",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈtrɪʃən/",
+    "meanings": [
+      {
+        "tr": "soylu, aristokrat",
+        "en": "a member of a family of high social rank, especially in ancient Rome",
+        "exampleEn": "He came from an old patrician family.",
+        "exampleTr": "Eski bir soylu aileden geliyordu."
+      },
+      {
+        "tr": "soylulara özgü, kibar",
+        "en": "showing the qualities of a person of high social class",
+        "exampleEn": "She spoke with a patrician accent.",
+        "exampleTr": "Soylulara özgü bir aksanla konuştu."
+      }
+    ],
+    "synonyms": [
+      "aristocrat",
+      "noble"
+    ],
+    "antonyms": [
+      "plebeian",
+      "commoner"
+    ]
+  }
+]

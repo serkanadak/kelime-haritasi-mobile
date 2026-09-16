@@ -1,0 +1,1313 @@
+[
+  {
+    "id": "w_cloudiness",
+    "headword": "cloudiness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈklaʊdinəs/",
+    "meanings": [
+      {
+        "tr": "bulutluluk, hava kapalılığı",
+        "en": "the state of the sky being covered with clouds",
+        "exampleEn": "The cloudiness increased throughout the afternoon and it soon began to rain.",
+        "exampleTr": "Öğleden sonra boyunca bulutluluk arttı ve kısa süre sonra yağmur yağmaya başladı."
+      },
+      {
+        "tr": "bulanıklık",
+        "en": "lack of clearness or transparency in a liquid",
+        "exampleEn": "The cloudiness of the water suggested it was contaminated.",
+        "exampleTr": "Suyun bulanıklığı kirlenmiş olduğunu gösteriyordu."
+      }
+    ],
+    "synonyms": [
+      "murkiness",
+      "haziness"
+    ],
+    "antonyms": [
+      "clarity",
+      "clearness"
+    ]
+  },
+  {
+    "id": "w_clueless",
+    "headword": "clueless",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkluːləs/",
+    "meanings": [
+      {
+        "tr": "hiçbir fikri olmayan, bilgisiz",
+        "en": "having no knowledge or understanding of something",
+        "exampleEn": "He was completely clueless about how to fix the computer.",
+        "exampleTr": "Bilgisayarı nasıl tamir edeceği konusunda tamamen bilgisizdi."
+      }
+    ],
+    "synonyms": [
+      "ignorant",
+      "unaware",
+      "oblivious"
+    ],
+    "antonyms": [
+      "knowledgeable",
+      "aware",
+      "clued-up"
+    ]
+  },
+  {
+    "id": "w_clump",
+    "headword": "clump",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/klʌmp/",
+    "meanings": [
+      {
+        "tr": "küme, öbek, tutam",
+        "en": "a small group of things growing or gathered closely together",
+        "exampleEn": "A clump of trees stood at the edge of the field.",
+        "exampleTr": "Tarlanın kenarında bir ağaç kümesi vardı."
+      },
+      {
+        "tr": "ağır adımlarla yürümek",
+        "en": "to walk with heavy steps making a dull sound",
+        "exampleEn": "I heard him clump up the stairs in his boots.",
+        "exampleTr": "Botlarıyla merdivenleri ağır adımlarla çıktığını duydum."
+      }
+    ],
+    "synonyms": [
+      "cluster",
+      "tuft",
+      "bunch"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_clutch",
+    "headword": "clutch",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/klʌtʃ/",
+    "meanings": [
+      {
+        "tr": "sıkıca tutmak, kavramak",
+        "en": "to hold something tightly, often out of fear or anxiety",
+        "exampleEn": "She clutched her bag tightly as she walked through the crowd.",
+        "exampleTr": "Kalabalığın içinden geçerken çantasını sıkıca tuttu."
+      },
+      {
+        "tr": "debriyaj",
+        "en": "the mechanism in a vehicle that connects the engine to the wheels",
+        "exampleEn": "He pressed the clutch and shifted into first gear.",
+        "exampleTr": "Debriyaja bastı ve birinci vitese geçti."
+      }
+    ],
+    "synonyms": [
+      "grip",
+      "grasp",
+      "seize"
+    ],
+    "antonyms": [
+      "release",
+      "let go"
+    ]
+  },
+  {
+    "id": "w_coarsen",
+    "headword": "coarsen",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkɔːsən/",
+    "meanings": [
+      {
+        "tr": "kabalaşmak, sertleşmek, pürüzlenmek",
+        "en": "to become or make something rough, harsh, or less refined",
+        "exampleEn": "Years of hard outdoor work had coarsened his hands.",
+        "exampleTr": "Yıllarca süren ağır açık hava işi ellerini sertleştirmişti."
+      }
+    ],
+    "synonyms": [
+      "roughen",
+      "toughen"
+    ],
+    "antonyms": [
+      "soften",
+      "refine"
+    ]
+  },
+  {
+    "id": "w_coat_hanger",
+    "headword": "coat hanger",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkəʊt ˌhæŋə/",
+    "meanings": [
+      {
+        "tr": "elbise askısı",
+        "en": "a curved piece of wood, plastic, or wire for hanging clothes on",
+        "exampleEn": "She hung her jacket on a wooden coat hanger in the wardrobe.",
+        "exampleTr": "Ceketini gardıroptaki ahşap elbise askısına astı."
+      }
+    ],
+    "synonyms": [
+      "clothes hanger",
+      "hanger"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_coddle",
+    "headword": "coddle",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkɒdəl/",
+    "meanings": [
+      {
+        "tr": "şımartmak, aşırı korumak",
+        "en": "to treat someone with excessive care and protection",
+        "exampleEn": "His parents coddled him so much that he never learned to be independent.",
+        "exampleTr": "Ailesi onu o kadar şımarttı ki bağımsız olmayı hiç öğrenemedi."
+      },
+      {
+        "tr": "hafif ateşte pişirmek (yumurta)",
+        "en": "to cook food, especially eggs, gently in water just below boiling point",
+        "exampleEn": "She coddled the eggs in a bowl of warm water.",
+        "exampleTr": "Yumurtaları bir kâse ılık suda hafifçe pişirdi."
+      }
+    ],
+    "synonyms": [
+      "pamper",
+      "spoil",
+      "mollycoddle"
+    ],
+    "antonyms": [
+      "neglect"
+    ]
+  },
+  {
+    "id": "w_cohesive",
+    "headword": "cohesive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəʊˈhiːsɪv/",
+    "meanings": [
+      {
+        "tr": "birbirine bağlı, uyumlu, tutarlı",
+        "en": "united and working together effectively as a whole",
+        "exampleEn": "The coach built a cohesive team that trusted one another.",
+        "exampleTr": "Antrenör birbirine güvenen uyumlu bir takım kurdu."
+      }
+    ],
+    "synonyms": [
+      "united",
+      "unified",
+      "coherent"
+    ],
+    "antonyms": [
+      "disjointed",
+      "fragmented"
+    ]
+  },
+  {
+    "id": "w_cohort",
+    "headword": "cohort",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkəʊhɔːt/",
+    "meanings": [
+      {
+        "tr": "grup, kuşak (ortak özellikli)",
+        "en": "a group of people sharing a common characteristic, especially in a study",
+        "exampleEn": "The study followed a cohort of 500 patients over ten years.",
+        "exampleTr": "Araştırma, 500 hastadan oluşan bir grubu on yıl boyunca izledi."
+      },
+      {
+        "tr": "yandaş, arkadaş",
+        "en": "a companion or associate",
+        "exampleEn": "He arrived at the party with his usual cohort of friends.",
+        "exampleTr": "Partiye her zamanki arkadaş grubuyla geldi."
+      }
+    ],
+    "synonyms": [
+      "group",
+      "generation",
+      "associate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_collective",
+    "headword": "collective",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəˈlektɪv/",
+    "meanings": [
+      {
+        "tr": "ortak, toplu, kolektif",
+        "en": "shared or done by all members of a group together",
+        "exampleEn": "The decision was a collective one, made by the whole team.",
+        "exampleTr": "Karar, tüm ekip tarafından alınan ortak bir karardı."
+      },
+      {
+        "tr": "kooperatif, ortaklık",
+        "en": "a business or organization owned and run jointly by its members",
+        "exampleEn": "The farmers formed a collective to sell their produce.",
+        "exampleTr": "Çiftçiler ürünlerini satmak için bir kooperatif kurdu."
+      }
+    ],
+    "synonyms": [
+      "joint",
+      "shared",
+      "communal"
+    ],
+    "antonyms": [
+      "individual",
+      "personal"
+    ]
+  },
+  {
+    "id": "w_collectively",
+    "headword": "collectively",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəˈlektɪvli/",
+    "meanings": [
+      {
+        "tr": "toplu olarak, hep birlikte",
+        "en": "as a group; by everyone together rather than individually",
+        "exampleEn": "The staff collectively agreed to the new working hours.",
+        "exampleTr": "Çalışanlar yeni mesai saatlerini toplu olarak kabul etti."
+      }
+    ],
+    "synonyms": [
+      "jointly",
+      "together"
+    ],
+    "antonyms": [
+      "individually",
+      "separately"
+    ]
+  },
+  {
+    "id": "w_colossal",
+    "headword": "colossal",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəˈlɒsəl/",
+    "meanings": [
+      {
+        "tr": "devasa, muazzam",
+        "en": "extremely large in size or amount",
+        "exampleEn": "The project required a colossal amount of money and effort.",
+        "exampleTr": "Proje muazzam miktarda para ve çaba gerektirdi."
+      }
+    ],
+    "synonyms": [
+      "huge",
+      "enormous",
+      "gigantic"
+    ],
+    "antonyms": [
+      "tiny",
+      "minuscule"
+    ]
+  },
+  {
+    "id": "w_colourful",
+    "headword": "colourful",
+    "pos": "adj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkʌləfəl/",
+    "meanings": [
+      {
+        "tr": "renkli, rengârenk",
+        "en": "having many bright colours",
+        "exampleEn": "The market was full of colourful fruit and vegetables.",
+        "exampleTr": "Pazar rengârenk meyve ve sebzelerle doluydu."
+      },
+      {
+        "tr": "canlı, ilgi çekici (kişilik, hikâye)",
+        "en": "lively, interesting, and full of variety",
+        "exampleEn": "She told colourful stories about her travels abroad.",
+        "exampleTr": "Yurt dışı seyahatleri hakkında ilgi çekici hikâyeler anlattı."
+      }
+    ],
+    "synonyms": [
+      "bright",
+      "vivid",
+      "vibrant"
+    ],
+    "antonyms": [
+      "dull",
+      "colourless",
+      "drab"
+    ]
+  },
+  {
+    "id": "w_coming_back",
+    "headword": "coming back",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkʌmɪŋ bæk/",
+    "meanings": [
+      {
+        "tr": "geri dönmek, geri gelmek",
+        "en": "returning to a place or state",
+        "exampleEn": "I'll be coming back home next week after the trip.",
+        "exampleTr": "Gezinin ardından önümüzdeki hafta eve geri döneceğim."
+      },
+      {
+        "tr": "yeniden popüler olmak, geri dönmek (moda vb.)",
+        "en": "becoming popular or fashionable again",
+        "exampleEn": "Vinyl records are coming back in a big way.",
+        "exampleTr": "Plaklar büyük bir şekilde yeniden popüler oluyor."
+      }
+    ],
+    "synonyms": [
+      "returning"
+    ],
+    "antonyms": [
+      "leaving",
+      "departing"
+    ]
+  },
+  {
+    "id": "w_commanding_officer",
+    "headword": "commanding officer",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/kəˈmɑːndɪŋ ˈɒfɪsə/",
+    "meanings": [
+      {
+        "tr": "kıta komutanı, birlik komutanı",
+        "en": "the officer in charge of a military unit",
+        "exampleEn": "The soldiers saluted their commanding officer as he entered.",
+        "exampleTr": "Askerler içeri giren birlik komutanını selamladı."
+      }
+    ],
+    "synonyms": [
+      "CO",
+      "commander"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_commentator",
+    "headword": "commentator",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkɒmənteɪtə/",
+    "meanings": [
+      {
+        "tr": "spiker, yorumcu (spor, olay)",
+        "en": "a person who describes and comments on an event, especially on TV or radio",
+        "exampleEn": "The football commentator grew excited as the final goal was scored.",
+        "exampleTr": "Son gol atılırken futbol spikeri heyecanlandı."
+      },
+      {
+        "tr": "yorumcu, uzman görüşçü",
+        "en": "a person who writes or speaks expert opinions on a subject",
+        "exampleEn": "A political commentator analysed the results of the election.",
+        "exampleTr": "Bir siyasi yorumcu seçim sonuçlarını değerlendirdi."
+      }
+    ],
+    "synonyms": [
+      "broadcaster",
+      "analyst",
+      "pundit"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_committed",
+    "headword": "committed",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəˈmɪtɪd/",
+    "meanings": [
+      {
+        "tr": "kendini adamış, bağlı, azimli",
+        "en": "loyal and willing to give your time and energy to something you believe in",
+        "exampleEn": "She is a committed teacher who stays late to help her students.",
+        "exampleTr": "O, öğrencilerine yardım etmek için geç saatlere kalan, kendini işine adamış bir öğretmendir."
+      }
+    ],
+    "synonyms": [
+      "dedicated",
+      "devoted",
+      "loyal"
+    ],
+    "antonyms": [
+      "uncommitted",
+      "indifferent"
+    ]
+  },
+  {
+    "id": "w_commonness",
+    "headword": "commonness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkɒmənnəs/",
+    "meanings": [
+      {
+        "tr": "yaygınlık, olağanlık, sıradanlık",
+        "en": "the quality of being frequent, ordinary, or widely found",
+        "exampleEn": "The commonness of the name made him hard to trace.",
+        "exampleTr": "İsmin yaygınlığı onu bulmayı zorlaştırdı."
+      }
+    ],
+    "synonyms": [
+      "frequency",
+      "ordinariness"
+    ],
+    "antonyms": [
+      "rarity",
+      "uniqueness"
+    ]
+  },
+  {
+    "id": "w_commuter_belt",
+    "headword": "commuter belt",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/kəˈmjuːtə belt/",
+    "meanings": [
+      {
+        "tr": "banliyö kuşağı (şehre çalışmaya gidenlerin yaşadığı çevre bölge)",
+        "en": "the area around a city where people live and travel into the city to work",
+        "exampleEn": "House prices in the commuter belt around London have risen sharply.",
+        "exampleTr": "Londra çevresindeki banliyö kuşağında ev fiyatları hızla yükseldi."
+      }
+    ],
+    "synonyms": [
+      "suburbs",
+      "outskirts"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_compartment",
+    "headword": "compartment",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəmˈpɑːtmənt/",
+    "meanings": [
+      {
+        "tr": "bölme, göz (çanta, mobilya)",
+        "en": "a separate section within a container or space",
+        "exampleEn": "She kept her passport in a hidden compartment of her bag.",
+        "exampleTr": "Pasaportunu çantasının gizli bir bölmesinde tuttu."
+      },
+      {
+        "tr": "kompartıman (tren)",
+        "en": "a separate enclosed section of a railway carriage",
+        "exampleEn": "We had a whole train compartment to ourselves.",
+        "exampleTr": "Bütün bir tren kompartımanı bize aitti."
+      }
+    ],
+    "synonyms": [
+      "section",
+      "division",
+      "bay"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_compelled",
+    "headword": "compelled",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəmˈpeld/",
+    "meanings": [
+      {
+        "tr": "mecbur kalmış, zorunda hissetmiş",
+        "en": "forced or strongly obliged to do something",
+        "exampleEn": "She felt compelled to apologise for her rude behaviour.",
+        "exampleTr": "Kaba davranışı için özür dilemek zorunda hissetti kendini."
+      }
+    ],
+    "synonyms": [
+      "obliged",
+      "forced",
+      "bound"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_complacent",
+    "headword": "complacent",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəmˈpleɪsənt/",
+    "meanings": [
+      {
+        "tr": "rehavete kapılmış, kendini fazla güvende hisseden",
+        "en": "feeling so satisfied with yourself that you stop making an effort",
+        "exampleEn": "After early success, the company became complacent and lost customers.",
+        "exampleTr": "Erken başarının ardından şirket rehavete kapıldı ve müşteri kaybetti."
+      }
+    ],
+    "synonyms": [
+      "smug",
+      "self-satisfied",
+      "unconcerned"
+    ],
+    "antonyms": [
+      "vigilant",
+      "concerned"
+    ]
+  },
+  {
+    "id": "w_compulsion",
+    "headword": "compulsion",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəmˈpʌlʃən/",
+    "meanings": [
+      {
+        "tr": "karşı konulamaz dürtü, güçlü istek",
+        "en": "a strong, often uncontrollable urge to do something",
+        "exampleEn": "He felt a compulsion to check the door lock several times.",
+        "exampleTr": "Kapı kilidini birkaç kez kontrol etmek için karşı konulamaz bir dürtü hissetti."
+      },
+      {
+        "tr": "zorlama, mecburiyet",
+        "en": "the act of forcing someone to do something",
+        "exampleEn": "She signed the contract under compulsion, not by choice.",
+        "exampleTr": "Sözleşmeyi kendi isteğiyle değil, zorlama altında imzaladı."
+      }
+    ],
+    "synonyms": [
+      "urge",
+      "obsession",
+      "coercion"
+    ],
+    "antonyms": [
+      "choice"
+    ]
+  },
+  {
+    "id": "w_computerize",
+    "headword": "computerize",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəmˈpjuːtəraɪz/",
+    "meanings": [
+      {
+        "tr": "bilgisayarlaştırmak, bilgisayara aktarmak",
+        "en": "to convert a system or process to be controlled or done by computer",
+        "exampleEn": "The company decided to computerize its entire accounting system.",
+        "exampleTr": "Şirket tüm muhasebe sistemini bilgisayarlaştırmaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "digitize",
+      "automate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_concerning",
+    "headword": "concerning",
+    "pos": "prep",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈsɜːnɪŋ/",
+    "meanings": [
+      {
+        "tr": "hakkında, ilgili, dair",
+        "en": "about; on the subject of",
+        "exampleEn": "I have a few questions concerning your recent report.",
+        "exampleTr": "Son raporunuzla ilgili birkaç sorum var."
+      },
+      {
+        "tr": "endişe verici, kaygı uyandıran",
+        "en": "causing worry or anxiety",
+        "exampleEn": "The rise in unemployment is deeply concerning.",
+        "exampleTr": "İşsizlikteki artış son derece endişe verici."
+      }
+    ],
+    "synonyms": [
+      "regarding",
+      "about",
+      "worrying"
+    ],
+    "antonyms": [
+      "reassuring"
+    ]
+  },
+  {
+    "id": "w_concierge",
+    "headword": "concierge",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkɒnsieəʒ/",
+    "meanings": [
+      {
+        "tr": "kapı görevlisi, resepsiyon görevlisi (otel)",
+        "en": "a hotel employee who helps guests with bookings, directions, and requests",
+        "exampleEn": "The hotel concierge arranged a taxi to the airport for us.",
+        "exampleTr": "Otel resepsiyon görevlisi bizim için havaalanına bir taksi ayarladı."
+      }
+    ],
+    "synonyms": [
+      "doorkeeper",
+      "attendant"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_conciliatory",
+    "headword": "conciliatory",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈsɪliətəri/",
+    "meanings": [
+      {
+        "tr": "uzlaştırıcı, yatıştırıcı",
+        "en": "intended to make someone less angry and more willing to agree",
+        "exampleEn": "He made a conciliatory gesture by apologising first.",
+        "exampleTr": "Önce özür dileyerek uzlaştırıcı bir jest yaptı."
+      }
+    ],
+    "synonyms": [
+      "appeasing",
+      "placatory",
+      "peacemaking"
+    ],
+    "antonyms": [
+      "antagonistic",
+      "provocative"
+    ]
+  },
+  {
+    "id": "w_conciseness",
+    "headword": "conciseness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈsaɪsnəs/",
+    "meanings": [
+      {
+        "tr": "özlülük, kısa ve öz olma",
+        "en": "the quality of expressing something clearly in few words",
+        "exampleEn": "The report was praised for its conciseness and clarity.",
+        "exampleTr": "Rapor özlülüğü ve netliği nedeniyle övgü aldı."
+      }
+    ],
+    "synonyms": [
+      "brevity",
+      "succinctness"
+    ],
+    "antonyms": [
+      "wordiness",
+      "verbosity"
+    ]
+  },
+  {
+    "id": "w_condemnation",
+    "headword": "condemnation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkɒndemˈneɪʃən/",
+    "meanings": [
+      {
+        "tr": "kınama, mahkûm etme, ayıplama",
+        "en": "the expression of strong disapproval",
+        "exampleEn": "The attack drew widespread condemnation from world leaders.",
+        "exampleTr": "Saldırı, dünya liderlerinden geniş çapta kınama aldı."
+      }
+    ],
+    "synonyms": [
+      "denunciation",
+      "censure",
+      "criticism"
+    ],
+    "antonyms": [
+      "praise",
+      "approval"
+    ]
+  },
+  {
+    "id": "w_conditionally",
+    "headword": "conditionally",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈdɪʃənəli/",
+    "meanings": [
+      {
+        "tr": "koşullu olarak, şarta bağlı olarak",
+        "en": "in a way that depends on certain conditions being met",
+        "exampleEn": "The loan was approved conditionally, pending further documents.",
+        "exampleTr": "Kredi, ek belgeler beklenmek üzere koşullu olarak onaylandı."
+      }
+    ],
+    "synonyms": [
+      "provisionally",
+      "tentatively"
+    ],
+    "antonyms": [
+      "unconditionally",
+      "absolutely"
+    ]
+  },
+  {
+    "id": "w_condole",
+    "headword": "condole",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈdəʊl/",
+    "meanings": [
+      {
+        "tr": "başsağlığı dilemek, taziyede bulunmak",
+        "en": "to express sympathy for someone who is grieving or in trouble",
+        "exampleEn": "Friends gathered to condole with the family after their loss.",
+        "exampleTr": "Arkadaşlar, kayıplarının ardından aileye başsağlığı dilemek için toplandı."
+      }
+    ],
+    "synonyms": [
+      "sympathize",
+      "commiserate"
+    ],
+    "antonyms": [
+      "congratulate"
+    ]
+  },
+  {
+    "id": "w_confectionery",
+    "headword": "confectionery",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈfekʃənəri/",
+    "meanings": [
+      {
+        "tr": "şekerleme, tatlı ürünler",
+        "en": "sweets, chocolates, and other sweet foods collectively",
+        "exampleEn": "The shop sells a wide range of confectionery and chocolates.",
+        "exampleTr": "Dükkân geniş bir yelpazede şekerleme ve çikolata satıyor."
+      }
+    ],
+    "synonyms": [
+      "sweets",
+      "candy"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_confederation",
+    "headword": "confederation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˌfedəˈreɪʃən/",
+    "meanings": [
+      {
+        "tr": "konfederasyon, birlik",
+        "en": "an alliance of states, groups, or organizations that unite for a common purpose",
+        "exampleEn": "The states formed a confederation to defend against invasion.",
+        "exampleTr": "Devletler, işgale karşı savunma amacıyla bir konfederasyon kurdu."
+      }
+    ],
+    "synonyms": [
+      "alliance",
+      "federation",
+      "league"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_confidant",
+    "headword": "confidant",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkɒnfɪdænt/",
+    "meanings": [
+      {
+        "tr": "sırdaş",
+        "en": "a person you trust and share your private feelings or secrets with",
+        "exampleEn": "Her older sister was her closest confidant.",
+        "exampleTr": "Ablası, onun en yakın sırdaşıydı."
+      }
+    ],
+    "synonyms": [
+      "confidante",
+      "intimate",
+      "close friend"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_confide",
+    "headword": "confide",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈfaɪd/",
+    "meanings": [
+      {
+        "tr": "sırrını açmak, içini dökmek, güvenip anlatmak",
+        "en": "to tell someone about a secret or private matter, trusting them not to repeat it",
+        "exampleEn": "She confided in her best friend about her fears.",
+        "exampleTr": "Korkularını en yakın arkadaşına açtı."
+      }
+    ],
+    "synonyms": [
+      "disclose",
+      "reveal",
+      "entrust"
+    ],
+    "antonyms": [
+      "conceal",
+      "withhold"
+    ]
+  },
+  {
+    "id": "w_confidentiality",
+    "headword": "confidentiality",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkɒnfɪdenʃiˈæləti/",
+    "meanings": [
+      {
+        "tr": "gizlilik, mahremiyet",
+        "en": "the state of keeping information secret or private",
+        "exampleEn": "Doctors must respect the confidentiality of their patients.",
+        "exampleTr": "Doktorlar hastalarının gizliliğine saygı göstermek zorundadır."
+      }
+    ],
+    "synonyms": [
+      "secrecy",
+      "privacy",
+      "discretion"
+    ],
+    "antonyms": [
+      "disclosure",
+      "openness"
+    ]
+  },
+  {
+    "id": "w_confidingly",
+    "headword": "confidingly",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈfaɪdɪŋli/",
+    "meanings": [
+      {
+        "tr": "içtenlikle, güvenerek (sır verir gibi)",
+        "en": "in a trusting way, as if sharing a secret",
+        "exampleEn": "She leaned over and whispered confidingly in my ear.",
+        "exampleTr": "Bana doğru eğildi ve kulağıma güvenle bir şeyler fısıldadı."
+      }
+    ],
+    "synonyms": [
+      "trustingly",
+      "intimately"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_confinement",
+    "headword": "confinement",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈfaɪnmənt/",
+    "meanings": [
+      {
+        "tr": "hapis, kapatılma, sınırlandırma",
+        "en": "the state of being kept in a restricted or enclosed space",
+        "exampleEn": "The prisoner spent a month in solitary confinement.",
+        "exampleTr": "Mahkûm bir ayını hücre hapsinde geçirdi."
+      }
+    ],
+    "synonyms": [
+      "imprisonment",
+      "captivity",
+      "detention"
+    ],
+    "antonyms": [
+      "freedom",
+      "liberty"
+    ]
+  },
+  {
+    "id": "w_conflagration",
+    "headword": "conflagration",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkɒnfləˈɡreɪʃən/",
+    "meanings": [
+      {
+        "tr": "büyük yangın",
+        "en": "a large and destructive fire",
+        "exampleEn": "The entire warehouse was destroyed in the conflagration.",
+        "exampleTr": "Bütün depo büyük yangında yok oldu."
+      }
+    ],
+    "synonyms": [
+      "blaze",
+      "inferno",
+      "fire"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_conflate",
+    "headword": "conflate",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈfleɪt/",
+    "meanings": [
+      {
+        "tr": "birbirine karıştırmak, birleştirmek (iki şeyi tek sanmak)",
+        "en": "to combine two or more ideas or things into one, often mistakenly",
+        "exampleEn": "People often conflate wealth with happiness.",
+        "exampleTr": "İnsanlar sıklıkla zenginlik ile mutluluğu birbirine karıştırır."
+      }
+    ],
+    "synonyms": [
+      "merge",
+      "combine",
+      "blend"
+    ],
+    "antonyms": [
+      "separate",
+      "distinguish"
+    ]
+  },
+  {
+    "id": "w_conform",
+    "headword": "conform",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈfɔːm/",
+    "meanings": [
+      {
+        "tr": "uymak, uyum sağlamak (kurallara, normlara)",
+        "en": "to behave according to accepted rules, standards, or expectations",
+        "exampleEn": "All new buildings must conform to safety regulations.",
+        "exampleTr": "Tüm yeni binalar güvenlik yönetmeliklerine uymak zorundadır."
+      }
+    ],
+    "synonyms": [
+      "comply",
+      "adapt",
+      "obey"
+    ],
+    "antonyms": [
+      "rebel",
+      "deviate"
+    ]
+  },
+  {
+    "id": "w_confrontation",
+    "headword": "confrontation",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkɒnfrʌnˈteɪʃən/",
+    "meanings": [
+      {
+        "tr": "yüzleşme, çatışma, karşı karşıya gelme",
+        "en": "a hostile or angry meeting or disagreement between opposing sides",
+        "exampleEn": "He tried to avoid a confrontation with his angry neighbour.",
+        "exampleTr": "Öfkeli komşusuyla bir çatışmadan kaçınmaya çalıştı."
+      }
+    ],
+    "synonyms": [
+      "conflict",
+      "clash",
+      "dispute"
+    ],
+    "antonyms": [
+      "reconciliation",
+      "agreement"
+    ]
+  },
+  {
+    "id": "w_congeal",
+    "headword": "congeal",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈdʒiːl/",
+    "meanings": [
+      {
+        "tr": "pıhtılaşmak, donmak, katılaşmak (sıvı)",
+        "en": "to change from a liquid to a thick, solid state, especially when cooling",
+        "exampleEn": "The gravy had congealed on the cold plate.",
+        "exampleTr": "Sos soğuk tabakta pıhtılaşıp katılaşmıştı."
+      }
+    ],
+    "synonyms": [
+      "solidify",
+      "coagulate",
+      "set"
+    ],
+    "antonyms": [
+      "melt",
+      "liquefy"
+    ]
+  },
+  {
+    "id": "w_congenial",
+    "headword": "congenial",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈdʒiːniəl/",
+    "meanings": [
+      {
+        "tr": "hoş, cana yakın, uyumlu (kişi veya ortam)",
+        "en": "pleasant and agreeable because suited to your taste or nature",
+        "exampleEn": "They found the small town a congenial place to raise their children.",
+        "exampleTr": "Küçük kasabayı çocuklarını yetiştirmek için hoş bir yer buldular."
+      }
+    ],
+    "synonyms": [
+      "agreeable",
+      "pleasant",
+      "friendly"
+    ],
+    "antonyms": [
+      "unpleasant",
+      "disagreeable"
+    ]
+  },
+  {
+    "id": "w_connective",
+    "headword": "connective",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəˈnektɪv/",
+    "meanings": [
+      {
+        "tr": "bağlayıcı, birleştirici",
+        "en": "serving to connect or join things together",
+        "exampleEn": "Connective tissue holds the muscles and organs in place.",
+        "exampleTr": "Bağ dokusu kasları ve organları yerinde tutar."
+      }
+    ],
+    "synonyms": [
+      "linking",
+      "joining",
+      "connecting"
+    ],
+    "antonyms": []
+  }
+]

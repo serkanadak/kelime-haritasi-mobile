@@ -1,0 +1,38 @@
+[
+  {
+    "id": "w_rhetoric",
+    "headword": "rhetoric",
+    "extraMeanings": [
+      {
+        "tr": "boş laf, içi boş söylem, gösterişli ama samimiyetsiz konuşma",
+        "en": "speech or writing that sounds impressive but is insincere or empty",
+        "exampleEn": "Voters are tired of empty political rhetoric with no real action behind it.",
+        "exampleTr": "Seçmenler, arkasında gerçek eylem olmayan boş siyasi lafları duymaktan bıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_taint",
+    "headword": "taint",
+    "extraMeanings": [
+      {
+        "tr": "leke, kusur, bozucu iz (isim)",
+        "en": "a trace of a bad or undesirable quality that spoils something",
+        "exampleEn": "The scandal left a taint on the company's otherwise spotless reputation.",
+        "exampleTr": "Skandal, şirketin aksi halde tertemiz olan itibarında bir leke bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w_virtuoso",
+    "headword": "virtuoso",
+    "extraMeanings": [
+      {
+        "tr": "ustaca, olağanüstü becerikli (sıfat)",
+        "en": "showing exceptional skill or brilliance",
+        "exampleEn": "She gave a virtuoso performance that left the entire audience speechless.",
+        "exampleTr": "Tüm seyirciyi dilsiz bırakan ustaca bir performans sergiledi."
+      }
+    ]
+  }
+]

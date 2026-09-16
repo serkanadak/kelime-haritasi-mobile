@@ -1,0 +1,404 @@
+[
+  {
+    "id": "w_temper",
+    "headword": "temper",
+    "extraMeanings": [
+      {
+        "tr": "yumuşatmak, hafifletmek (fiil)",
+        "en": "to make something less severe or extreme",
+        "exampleEn": "She tried to temper her criticism with a few words of praise.",
+        "exampleTr": "Eleştirisini birkaç övgü sözüyle yumuşatmaya çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_term",
+    "headword": "term",
+    "extraMeanings": [
+      {
+        "tr": "koşul, şart (çoğul: terms)",
+        "en": "the conditions of an agreement or contract",
+        "exampleEn": "Both sides finally agreed on the terms of the contract.",
+        "exampleTr": "İki taraf sonunda sözleşmenin şartları üzerinde anlaştı."
+      },
+      {
+        "tr": "ilişki, ara (be on good/bad terms)",
+        "en": "the type of relationship you have with someone",
+        "exampleEn": "They are still on good terms even after the divorce.",
+        "exampleTr": "Boşandıktan sonra bile hâlâ aralarında iyi bir ilişki var."
+      }
+    ]
+  },
+  {
+    "id": "w_terminal",
+    "headword": "terminal",
+    "extraMeanings": [
+      {
+        "tr": "ölümcül, son evrede (sıfat)",
+        "en": "of an illness that cannot be cured and causes death",
+        "exampleEn": "He was diagnosed with terminal cancer last year.",
+        "exampleTr": "Geçen yıl ona ölümcül kanser teşhisi kondu."
+      }
+    ]
+  },
+  {
+    "id": "w_terrific",
+    "headword": "terrific",
+    "extraMeanings": [
+      {
+        "tr": "muazzam, çok büyük (miktar/derece)",
+        "en": "very great in amount, degree, or intensity",
+        "exampleEn": "The car hit the wall with a terrific force.",
+        "exampleTr": "Araba duvara muazzam bir kuvvetle çarptı."
+      }
+    ]
+  },
+  {
+    "id": "w_tick",
+    "headword": "tick",
+    "extraMeanings": [
+      {
+        "tr": "tik tak sesi (saat sesi)",
+        "en": "the sound a clock or watch makes",
+        "exampleEn": "In the silent room I could hear the tick of the clock.",
+        "exampleTr": "Sessiz odada saatin tik takını duyabiliyordum."
+      },
+      {
+        "tr": "kene (böcek)",
+        "en": "a small insect-like creature that sucks blood",
+        "exampleEn": "The dog had a tick behind its ear after the walk.",
+        "exampleTr": "Köpeğin kulağının arkasında yürüyüşten sonra bir kene vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_tide",
+    "headword": "tide",
+    "extraMeanings": [
+      {
+        "tr": "gidişat, akım, eğilim",
+        "en": "a general trend or direction of events or opinion",
+        "exampleEn": "The tide of public opinion turned against the government.",
+        "exampleTr": "Kamuoyunun gidişatı hükümetin aleyhine döndü."
+      }
+    ]
+  },
+  {
+    "id": "w_till",
+    "headword": "till",
+    "extraMeanings": [
+      {
+        "tr": "-e kadar (edat/bağlaç)",
+        "en": "up to a particular time; until",
+        "exampleEn": "I'll wait here till you come back.",
+        "exampleTr": "Sen dönene kadar burada bekleyeceğim."
+      }
+    ]
+  },
+  {
+    "id": "w_tin",
+    "headword": "tin",
+    "extraMeanings": [
+      {
+        "tr": "konserve kutusu (içindekiyle birlikte)",
+        "en": "a sealed metal container of food",
+        "exampleEn": "We opened a tin of tomatoes for the sauce.",
+        "exampleTr": "Sos için bir konserve domates açtık."
+      }
+    ]
+  },
+  {
+    "id": "w_tone",
+    "headword": "tone",
+    "extraMeanings": [
+      {
+        "tr": "renk tonu, renk derecesi",
+        "en": "a shade or degree of a color",
+        "exampleEn": "The walls were painted in warm tones of yellow.",
+        "exampleTr": "Duvarlar sıcak sarı tonlarıyla boyanmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_tongue",
+    "headword": "tongue",
+    "extraMeanings": [
+      {
+        "tr": "dil, lisan (konuşulan)",
+        "en": "a language spoken by a people",
+        "exampleEn": "English is not her mother tongue.",
+        "exampleTr": "İngilizce onun anadili değil."
+      }
+    ]
+  },
+  {
+    "id": "w_top",
+    "headword": "top",
+    "extraMeanings": [
+      {
+        "tr": "üst, tepe (isim)",
+        "en": "the highest part or point of something",
+        "exampleEn": "We climbed to the top of the hill.",
+        "exampleTr": "Tepenin üstüne kadar tırmandık."
+      },
+      {
+        "tr": "üst giysi, bluz (isim)",
+        "en": "a piece of clothing worn on the upper body",
+        "exampleEn": "She wore a blue top with white jeans.",
+        "exampleTr": "Beyaz kot pantolonla mavi bir bluz giymişti."
+      }
+    ]
+  },
+  {
+    "id": "w_toss",
+    "headword": "toss",
+    "extraMeanings": [
+      {
+        "tr": "yazı tura atmak (para)",
+        "en": "to throw a coin to decide something by chance",
+        "exampleEn": "Let's toss a coin to see who goes first.",
+        "exampleTr": "Kimin önce gideceğini görmek için yazı tura atalım."
+      }
+    ]
+  },
+  {
+    "id": "w_total",
+    "headword": "total",
+    "extraMeanings": [
+      {
+        "tr": "toplam, yekûn (isim)",
+        "en": "the whole amount or number",
+        "exampleEn": "The total came to fifty dollars.",
+        "exampleTr": "Toplam elli dolar tuttu."
+      }
+    ]
+  },
+  {
+    "id": "w_trace",
+    "headword": "trace",
+    "extraMeanings": [
+      {
+        "tr": "izini sürmek, bulmak (fiil)",
+        "en": "to find someone or something by following clues",
+        "exampleEn": "The police managed to trace the missing girl.",
+        "exampleTr": "Polis kayıp kızın izini sürmeyi başardı."
+      },
+      {
+        "tr": "çok az miktar, eser miktar",
+        "en": "a very small amount of something",
+        "exampleEn": "There was a trace of sadness in her voice.",
+        "exampleTr": "Sesinde eser miktarda hüzün vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_trail",
+    "headword": "trail",
+    "extraMeanings": [
+      {
+        "tr": "peşinden sürüklemek/sürünmek (fiil)",
+        "en": "to pull or drag something behind you along the ground",
+        "exampleEn": "Her long dress trailed along the floor.",
+        "exampleTr": "Uzun elbisesi yerde sürünüyordu."
+      },
+      {
+        "tr": "geride kalmak, geride olmak (fiil)",
+        "en": "to be losing in a game or competition",
+        "exampleEn": "Our team was trailing by two goals at half-time.",
+        "exampleTr": "Takımımız ilk yarıda iki golle geride kalıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_trailer",
+    "headword": "trailer",
+    "extraMeanings": [
+      {
+        "tr": "römork, treyler (araç)",
+        "en": "a container pulled behind a vehicle",
+        "exampleEn": "The tractor pulled a trailer full of hay.",
+        "exampleTr": "Traktör saman dolu bir römork çekiyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_transport",
+    "headword": "transport",
+    "extraMeanings": [
+      {
+        "tr": "taşımak, nakletmek (fiil)",
+        "en": "to carry goods or people from one place to another",
+        "exampleEn": "The goods are transported by ship across the ocean.",
+        "exampleTr": "Mallar gemiyle okyanus boyunca taşınıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_trash",
+    "headword": "trash",
+    "extraMeanings": [
+      {
+        "tr": "saçmalık, değersiz şey",
+        "en": "something of very poor quality; nonsense",
+        "exampleEn": "He said the movie was complete trash.",
+        "exampleTr": "Filmin tam bir saçmalık olduğunu söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w_treat",
+    "headword": "treat",
+    "extraMeanings": [
+      {
+        "tr": "davranmak, muamele etmek (fiil)",
+        "en": "to behave toward someone in a particular way",
+        "exampleEn": "She always treats her employees with respect.",
+        "exampleTr": "Çalışanlarına her zaman saygıyla davranır."
+      },
+      {
+        "tr": "tedavi etmek (fiil)",
+        "en": "to give medical care to someone or something",
+        "exampleEn": "The doctor treated the wound carefully.",
+        "exampleTr": "Doktor yarayı dikkatlice tedavi etti."
+      }
+    ]
+  },
+  {
+    "id": "w_trigger",
+    "headword": "trigger",
+    "extraMeanings": [
+      {
+        "tr": "tetiklemek, yol açmak (fiil)",
+        "en": "to cause something to start or happen",
+        "exampleEn": "The news triggered a wave of protests.",
+        "exampleTr": "Haber bir protesto dalgasını tetikledi."
+      }
+    ]
+  },
+  {
+    "id": "w_trim",
+    "headword": "trim",
+    "extraMeanings": [
+      {
+        "tr": "kesmek, kırpmak, budamak (fiil)",
+        "en": "to cut a small amount off something to make it neat",
+        "exampleEn": "He trimmed the hedge in the garden.",
+        "exampleTr": "Bahçedeki çiti kırptı."
+      },
+      {
+        "tr": "süslemek, kenarını süslemek (fiil)",
+        "en": "to decorate something, especially along the edges",
+        "exampleEn": "The dress was trimmed with lace.",
+        "exampleTr": "Elbise dantelle süslenmişti."
+      }
+    ]
+  },
+  {
+    "id": "w_triumph",
+    "headword": "triumph",
+    "extraMeanings": [
+      {
+        "tr": "zafer kazanmak, galip gelmek (fiil)",
+        "en": "to win or be successful",
+        "exampleEn": "Good finally triumphed over evil.",
+        "exampleTr": "İyilik sonunda kötülüğe karşı zafer kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_trumpet",
+    "headword": "trumpet",
+    "extraMeanings": [
+      {
+        "tr": "böbürlenerek ilan etmek, öve öve anlatmak (fiil)",
+        "en": "to announce or talk about something proudly",
+        "exampleEn": "The company trumpeted its record profits.",
+        "exampleTr": "Şirket rekor kârlarını böbürlenerek ilan etti."
+      }
+    ]
+  },
+  {
+    "id": "w_tumble",
+    "headword": "tumble",
+    "extraMeanings": [
+      {
+        "tr": "hızla düşmek, ani düşüş (fiyat/miktar)",
+        "en": "to fall rapidly in amount or value",
+        "exampleEn": "Share prices tumbled after the announcement.",
+        "exampleTr": "Duyurunun ardından hisse fiyatları hızla düştü."
+      }
+    ]
+  },
+  {
+    "id": "w_turn_out",
+    "headword": "turn out",
+    "extraMeanings": [
+      {
+        "tr": "katılmak, gelmek (bir etkinliğe)",
+        "en": "to come or gather for an event",
+        "exampleEn": "Thousands of people turned out to watch the parade.",
+        "exampleTr": "Binlerce kişi geçit törenini izlemek için geldi."
+      },
+      {
+        "tr": "kapatmak, söndürmek (ışık)",
+        "en": "to switch off a light",
+        "exampleEn": "Please turn out the lights before you leave.",
+        "exampleTr": "Lütfen çıkmadan önce ışıkları söndür."
+      }
+    ]
+  },
+  {
+    "id": "w_turn_up",
+    "headword": "turn up",
+    "extraMeanings": [
+      {
+        "tr": "sesini/gücünü açmak, artırmak",
+        "en": "to increase the volume or level of something",
+        "exampleEn": "Can you turn up the radio? I can't hear it.",
+        "exampleTr": "Radyoyu açar mısın? Duyamıyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_twin",
+    "headword": "twin",
+    "extraMeanings": [
+      {
+        "tr": "ikiz, eş, çift (sıfat)",
+        "en": "used to describe two similar things forming a pair",
+        "exampleEn": "The hotel room had twin beds.",
+        "exampleTr": "Otel odasında çift (tek kişilik) yataklar vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_twist",
+    "headword": "twist",
+    "extraMeanings": [
+      {
+        "tr": "bükmek, burmak, çevirmek (fiil)",
+        "en": "to bend or turn something using force",
+        "exampleEn": "She twisted the cap to open the bottle.",
+        "exampleTr": "Şişeyi açmak için kapağı çevirdi."
+      },
+      {
+        "tr": "burkmak, incitmek (fiil)",
+        "en": "to injure a joint by turning it suddenly",
+        "exampleEn": "He twisted his ankle while running.",
+        "exampleTr": "Koşarken ayak bileğini burktu."
+      }
+    ]
+  },
+  {
+    "id": "w_undo",
+    "headword": "undo",
+    "extraMeanings": [
+      {
+        "tr": "bozmak, boşa çıkarmak, telafisiz zarar vermek",
+        "en": "to cancel or reverse the effect of something",
+        "exampleEn": "One careless mistake undid all his hard work.",
+        "exampleTr": "Dikkatsiz bir hata onca emeğini boşa çıkardı."
+      }
+    ]
+  }
+]

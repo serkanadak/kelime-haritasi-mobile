@@ -1,0 +1,338 @@
+[
+  {
+    "id": "w_pulse",
+    "headword": "pulse",
+    "extraMeanings": [
+      {
+        "tr": "baklagil (mercimek, nohut, fasulye vb.)",
+        "en": "the edible seeds of certain plants such as lentils, beans, and peas",
+        "exampleEn": "Lentils, beans, and chickpeas are all types of pulse rich in protein.",
+        "exampleTr": "Mercimek, fasulye ve nohut hepsi protein açısından zengin baklagil türleridir."
+      }
+    ]
+  },
+  {
+    "id": "w_punch",
+    "headword": "punch",
+    "extraMeanings": [
+      {
+        "tr": "meyveli içki, punç",
+        "en": "a cold or hot drink made from fruit juices, often with alcohol",
+        "exampleEn": "She served a fruit punch at the party.",
+        "exampleTr": "Partide meyveli bir içki (punç) ikram etti."
+      },
+      {
+        "tr": "delgeç, zımba (delik açma aleti)",
+        "en": "a tool for making holes",
+        "exampleEn": "He used a punch to make holes in the leather belt.",
+        "exampleTr": "Deri kemerde delik açmak için bir delgeç kullandı."
+      }
+    ]
+  },
+  {
+    "id": "w_purchase",
+    "headword": "purchase",
+    "extraMeanings": [
+      {
+        "tr": "tutuş, tutunacak yer, tutunma",
+        "en": "a firm hold or grip on something",
+        "exampleEn": "He couldn't get any purchase on the slippery rock.",
+        "exampleTr": "Kaygan kayada tutunacak bir yer bulamadı."
+      }
+    ]
+  },
+  {
+    "id": "w_query",
+    "headword": "query",
+    "extraMeanings": [
+      {
+        "tr": "sorgu (veritabanı/bilgisayar sorgusu)",
+        "en": "a request for information from a database or search system",
+        "exampleEn": "The database returned no results for that query.",
+        "exampleTr": "Veritabanı o sorgu için hiçbir sonuç döndürmedi."
+      }
+    ]
+  },
+  {
+    "id": "w_quarry",
+    "headword": "quarry",
+    "extraMeanings": [
+      {
+        "tr": "av, avlanan hayvan; kovalanan kişi",
+        "en": "an animal or person that is being hunted or chased",
+        "exampleEn": "The hunters finally cornered their quarry.",
+        "exampleTr": "Avcılar sonunda avlarını köşeye sıkıştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_queer",
+    "headword": "queer",
+    "extraMeanings": [
+      {
+        "tr": "eşcinsel, kuir (bir cinsel kimlik terimi)",
+        "en": "relating to a sexual or gender identity that is not heterosexual or cisgender",
+        "exampleEn": "She is a proud member of the queer community.",
+        "exampleTr": "Kuir topluluğunun gururlu bir üyesidir."
+      }
+    ]
+  },
+  {
+    "id": "w_quest",
+    "headword": "quest",
+    "extraMeanings": [
+      {
+        "tr": "görev (oyunlarda tamamlanan görev)",
+        "en": "a task or mission in a video game",
+        "exampleEn": "You must complete this quest to unlock the next level.",
+        "exampleTr": "Bir sonraki seviyeyi açmak için bu görevi tamamlamalısın."
+      }
+    ]
+  },
+  {
+    "id": "w_quote",
+    "headword": "quote",
+    "extraMeanings": [
+      {
+        "tr": "alıntı yapmak, aktarmak (fiil)",
+        "en": "to repeat words that someone else has said or written",
+        "exampleEn": "She often quotes Shakespeare in her essays.",
+        "exampleTr": "Makalelerinde sık sık Shakespeare'den alıntı yapar."
+      }
+    ]
+  },
+  {
+    "id": "w_rack",
+    "headword": "rack",
+    "extraMeanings": [
+      {
+        "tr": "kasıp kavurmak, acı vermek, kıvrandırmak (fiil)",
+        "en": "to cause someone great physical or mental suffering",
+        "exampleEn": "He was racked with guilt after the accident.",
+        "exampleTr": "Kazadan sonra suçluluk duygusuyla kıvrandı."
+      }
+    ]
+  },
+  {
+    "id": "w_radical",
+    "headword": "radical",
+    "extraMeanings": [
+      {
+        "tr": "köklü, kökten, radikal (sıfat)",
+        "en": "far-reaching or thorough; affecting the fundamental nature of something",
+        "exampleEn": "The company made radical changes to its business model.",
+        "exampleTr": "Şirket iş modelinde köklü değişiklikler yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_raid",
+    "headword": "raid",
+    "extraMeanings": [
+      {
+        "tr": "baskın yapmak, akın etmek (fiil)",
+        "en": "to make a sudden attack on or search of a place",
+        "exampleEn": "Police raided the building early in the morning.",
+        "exampleTr": "Polis sabahın erken saatlerinde binaya baskın yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_rally",
+    "headword": "rally",
+    "extraMeanings": [
+      {
+        "tr": "toparlanmak, kendine gelmek; (piyasa) yükselmek (fiil)",
+        "en": "to recover or improve after a difficult period",
+        "exampleEn": "The stock market rallied after the announcement.",
+        "exampleTr": "Borsa açıklamanın ardından toparlandı."
+      },
+      {
+        "tr": "ralli (araba yarışı)",
+        "en": "a car-racing competition on public roads",
+        "exampleEn": "He won the international car rally last year.",
+        "exampleTr": "Geçen yıl uluslararası araba rallisini kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_ram",
+    "headword": "ram",
+    "extraMeanings": [
+      {
+        "tr": "toslamak, çarpmak, bindirmek (fiil)",
+        "en": "to hit or push something with great force",
+        "exampleEn": "The truck rammed into the wall.",
+        "exampleTr": "Kamyon duvara toslayarak çarptı."
+      }
+    ]
+  },
+  {
+    "id": "w_ramp",
+    "headword": "ramp",
+    "extraMeanings": [
+      {
+        "tr": "otoyol giriş/çıkış yolu, bağlantı yolu",
+        "en": "a road for entering or leaving a highway",
+        "exampleEn": "Take the exit ramp toward the city center.",
+        "exampleTr": "Şehir merkezine giden çıkış yolunu kullan."
+      }
+    ]
+  },
+  {
+    "id": "w_reaction",
+    "headword": "reaction",
+    "extraMeanings": [
+      {
+        "tr": "kimyasal tepkime, reaksiyon",
+        "en": "a chemical process in which substances change",
+        "exampleEn": "The reaction between the two chemicals produced heat.",
+        "exampleTr": "İki kimyasal arasındaki tepkime ısı üretti."
+      }
+    ]
+  },
+  {
+    "id": "w_rear",
+    "headword": "rear",
+    "extraMeanings": [
+      {
+        "tr": "yetiştirmek, büyütmek (çocuk/hayvan) (fiil)",
+        "en": "to care for and raise a child or animal until it is grown",
+        "exampleEn": "They reared four children on a small farm.",
+        "exampleTr": "Küçük bir çiftlikte dört çocuk büyüttüler."
+      },
+      {
+        "tr": "arka taraf, arka bölüm (isim)",
+        "en": "the back part of something",
+        "exampleEn": "The kitchen is at the rear of the house.",
+        "exampleTr": "Mutfak evin arka tarafındadır."
+      }
+    ]
+  },
+  {
+    "id": "w_reference",
+    "headword": "reference",
+    "extraMeanings": [
+      {
+        "tr": "referans, bonservis (iş için tavsiye mektubu/kişi)",
+        "en": "a letter or person that provides information about someone's character or abilities",
+        "exampleEn": "Her former boss agreed to act as a reference.",
+        "exampleTr": "Eski patronu referans olmayı kabul etti."
+      }
+    ]
+  },
+  {
+    "id": "w_refresh",
+    "headword": "refresh",
+    "extraMeanings": [
+      {
+        "tr": "tazelemek, canlandırmak, dinçleştirmek (fiil)",
+        "en": "to make someone feel less tired or hot",
+        "exampleEn": "A cold shower will refresh you after the long walk.",
+        "exampleTr": "Uzun yürüyüşten sonra soğuk bir duş seni tazeleyecek."
+      },
+      {
+        "tr": "(sayfayı/ekranı) yenilemek (fiil)",
+        "en": "to update a web page or screen with the latest information",
+        "exampleEn": "Refresh the page to see the new comments.",
+        "exampleTr": "Yeni yorumları görmek için sayfayı yenile."
+      }
+    ]
+  },
+  {
+    "id": "w_regard",
+    "headword": "regard",
+    "extraMeanings": [
+      {
+        "tr": "saymak, görmek, addetmek (fiil)",
+        "en": "to consider or think of someone or something in a particular way",
+        "exampleEn": "Many people regard him as a genius.",
+        "exampleTr": "Birçok insan onu bir dahi olarak görür."
+      }
+    ]
+  },
+  {
+    "id": "w_reform",
+    "headword": "reform",
+    "extraMeanings": [
+      {
+        "tr": "reform yapmak, ıslah etmek, düzeltmek (fiil)",
+        "en": "to improve a system, law, or institution by making changes",
+        "exampleEn": "The government promised to reform the tax system.",
+        "exampleTr": "Hükümet vergi sistemini reform etmeyi (düzeltmeyi) vaat etti."
+      }
+    ]
+  },
+  {
+    "id": "w_regret",
+    "headword": "regret",
+    "extraMeanings": [
+      {
+        "tr": "pişman olmak, üzülmek (fiil)",
+        "en": "to feel sorry about something you did or failed to do",
+        "exampleEn": "I regret not telling her the truth.",
+        "exampleTr": "Ona gerçeği söylemediğim için pişmanım."
+      }
+    ]
+  },
+  {
+    "id": "w_reel",
+    "headword": "reel",
+    "extraMeanings": [
+      {
+        "tr": "sendelemek, sallanmak; başı dönmek (fiil)",
+        "en": "to move unsteadily or feel shocked and confused",
+        "exampleEn": "He reeled backwards after the blow.",
+        "exampleTr": "Darbeden sonra geriye doğru sendeledi."
+      }
+    ]
+  },
+  {
+    "id": "w_remark",
+    "headword": "remark",
+    "extraMeanings": [
+      {
+        "tr": "belirtmek, söylemek, dile getirmek (fiil)",
+        "en": "to say something as a comment",
+        "exampleEn": "She remarked that the weather was unusually warm.",
+        "exampleTr": "Havanın alışılmadık derecede sıcak olduğunu söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w_relay",
+    "headword": "relay",
+    "extraMeanings": [
+      {
+        "tr": "iletmek, aktarmak (mesaj/bilgi) (fiil)",
+        "en": "to pass on information or a message to someone else",
+        "exampleEn": "Please relay this message to your team.",
+        "exampleTr": "Lütfen bu mesajı ekibine ilet."
+      }
+    ]
+  },
+  {
+    "id": "w_recap",
+    "headword": "recap",
+    "extraMeanings": [
+      {
+        "tr": "özet, kısa tekrar (isim)",
+        "en": "a short summary of what has been said or done",
+        "exampleEn": "Here is a quick recap of today's main points.",
+        "exampleTr": "İşte bugünün ana noktalarının kısa bir özeti."
+      }
+    ]
+  },
+  {
+    "id": "w_refuge",
+    "headword": "refuge",
+    "extraMeanings": [
+      {
+        "tr": "sığınma, barınma (soyut: koruma bulma hali)",
+        "en": "protection or shelter from danger or trouble",
+        "exampleEn": "They sought refuge from the storm in a nearby cave.",
+        "exampleTr": "Fırtınadan yakındaki bir mağarada sığınma aradılar."
+      }
+    ]
+  }
+]

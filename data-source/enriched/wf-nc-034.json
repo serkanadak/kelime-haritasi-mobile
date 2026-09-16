@@ -1,0 +1,1247 @@
+[
+  {
+    "id": "w_representation",
+    "headword": "representation",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌreprɪzenˈteɪʃən/",
+    "meanings": [
+      {
+        "tr": "temsil, temsil etme",
+        "en": "the act of speaking or acting for someone, or the state of being represented",
+        "exampleEn": "The workers demanded better representation in the company's decisions.",
+        "exampleTr": "İşçiler şirketin kararlarında daha iyi temsil edilmeyi talep etti."
+      },
+      {
+        "tr": "betimleme, gösterim",
+        "en": "the way that someone or something is shown or described",
+        "exampleEn": "The painting is a realistic representation of country life.",
+        "exampleTr": "Tablo, kırsal yaşamın gerçekçi bir betimlemesidir."
+      }
+    ],
+    "synonyms": [
+      "depiction",
+      "portrayal"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_reprisal",
+    "headword": "reprisal",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpraɪzəl/",
+    "meanings": [
+      {
+        "tr": "misilleme, karşılık verme",
+        "en": "a violent or aggressive act done in return for harm suffered",
+        "exampleEn": "They feared reprisals if they spoke out against the regime.",
+        "exampleTr": "Rejime karşı konuşurlarsa misilleme yapılmasından korkuyorlardı."
+      }
+    ],
+    "synonyms": [
+      "retaliation",
+      "revenge",
+      "vengeance"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_reprovingly",
+    "headword": "reprovingly",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpruːvɪŋli/",
+    "meanings": [
+      {
+        "tr": "azarlayarak, kınayarak",
+        "en": "in a way that shows disapproval or criticism",
+        "exampleEn": "She looked at him reprovingly when he interrupted.",
+        "exampleTr": "Sözünü kestiğinde ona azarlarcasına baktı."
+      }
+    ],
+    "synonyms": [
+      "disapprovingly",
+      "critically"
+    ],
+    "antonyms": [
+      "approvingly"
+    ]
+  },
+  {
+    "id": "w_republish",
+    "headword": "republish",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/riːˈpʌblɪʃ/",
+    "meanings": [
+      {
+        "tr": "yeniden yayımlamak",
+        "en": "to publish something again, often in a new form",
+        "exampleEn": "The author decided to republish her first novel with a new cover.",
+        "exampleTr": "Yazar ilk romanını yeni bir kapakla yeniden yayımlamaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "reprint",
+      "reissue"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_repulse",
+    "headword": "repulse",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpʌls/",
+    "meanings": [
+      {
+        "tr": "iğrendirmek, tiksindirmek",
+        "en": "to make someone feel strong dislike or disgust",
+        "exampleEn": "The smell of the rotten food repulsed her.",
+        "exampleTr": "Çürük yemeğin kokusu onu iğrendirdi."
+      },
+      {
+        "tr": "püskürtmek, geri çevirmek",
+        "en": "to force an attacking enemy to withdraw",
+        "exampleEn": "The troops managed to repulse the enemy attack.",
+        "exampleTr": "Birlikler düşman saldırısını püskürtmeyi başardı."
+      }
+    ],
+    "synonyms": [
+      "disgust",
+      "repel",
+      "rebuff"
+    ],
+    "antonyms": [
+      "attract"
+    ]
+  },
+  {
+    "id": "w_repurpose",
+    "headword": "repurpose",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/riːˈpɜːpəs/",
+    "meanings": [
+      {
+        "tr": "yeniden değerlendirmek, farklı bir amaçla kullanmak",
+        "en": "to use something for a different purpose than it was originally intended for",
+        "exampleEn": "They repurposed the old factory into a modern art gallery.",
+        "exampleTr": "Eski fabrikayı modern bir sanat galerisine dönüştürdüler."
+      }
+    ],
+    "synonyms": [
+      "reuse",
+      "recycle",
+      "adapt"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_resettle",
+    "headword": "resettle",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/riːˈsetl/",
+    "meanings": [
+      {
+        "tr": "yeniden yerleştirmek, yeni bir yere yerleşmek",
+        "en": "to help people move to a new place to live, or to move there oneself",
+        "exampleEn": "The government helped to resettle the refugees in safer regions.",
+        "exampleTr": "Hükümet mültecileri daha güvenli bölgelere yeniden yerleştirmeye yardım etti."
+      }
+    ],
+    "synonyms": [
+      "relocate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_residential_area",
+    "headword": "residential area",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌrezɪˈdenʃəl ˈeəriə/",
+    "meanings": [
+      {
+        "tr": "yerleşim bölgesi, konut bölgesi",
+        "en": "an area of a town or city where people live, rather than one with offices or factories",
+        "exampleEn": "They bought a house in a quiet residential area outside the city.",
+        "exampleTr": "Şehrin dışındaki sakin bir yerleşim bölgesinde bir ev satın aldılar."
+      }
+    ],
+    "synonyms": [
+      "neighbourhood",
+      "suburb"
+    ],
+    "antonyms": [
+      "commercial district"
+    ]
+  },
+  {
+    "id": "w_residue",
+    "headword": "residue",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrezɪdjuː/",
+    "meanings": [
+      {
+        "tr": "kalıntı, artık, tortu",
+        "en": "a small amount of something that remains after the main part has gone or been used",
+        "exampleEn": "There was a sticky residue left on the pan after cooking.",
+        "exampleTr": "Pişirdikten sonra tavada yapışkan bir kalıntı kaldı."
+      }
+    ],
+    "synonyms": [
+      "remainder",
+      "remnant",
+      "remains"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_resilience",
+    "headword": "resilience",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈzɪliəns/",
+    "meanings": [
+      {
+        "tr": "dayanıklılık, esneklik, toparlanma gücü",
+        "en": "the ability to recover quickly from difficulties or to return to shape after being bent or stretched",
+        "exampleEn": "Her resilience helped her overcome many personal setbacks.",
+        "exampleTr": "Dayanıklılığı, birçok kişisel aksiliğin üstesinden gelmesine yardım etti."
+      }
+    ],
+    "synonyms": [
+      "toughness",
+      "adaptability",
+      "strength"
+    ],
+    "antonyms": [
+      "fragility",
+      "vulnerability"
+    ]
+  },
+  {
+    "id": "w_resin",
+    "headword": "resin",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrezɪn/",
+    "meanings": [
+      {
+        "tr": "reçine",
+        "en": "a sticky substance produced by some trees, or a similar man-made material used in plastics",
+        "exampleEn": "The furniture was coated with a clear resin for protection.",
+        "exampleTr": "Mobilya, koruma için şeffaf bir reçineyle kaplanmıştı."
+      }
+    ],
+    "synonyms": [
+      "sap"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_resistant",
+    "headword": "resistant",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈzɪstənt/",
+    "meanings": [
+      {
+        "tr": "dirençli, dayanıklı",
+        "en": "not affected or harmed by something, or opposed to something",
+        "exampleEn": "This new material is resistant to heat and water.",
+        "exampleTr": "Bu yeni malzeme ısıya ve suya dayanıklıdır."
+      },
+      {
+        "tr": "karşı koyan, direnen",
+        "en": "opposed to something and refusing to accept it",
+        "exampleEn": "Many employees are resistant to change.",
+        "exampleTr": "Birçok çalışan değişime karşı direnir."
+      }
+    ],
+    "synonyms": [
+      "impervious",
+      "immune",
+      "opposed"
+    ],
+    "antonyms": [
+      "susceptible",
+      "vulnerable"
+    ]
+  },
+  {
+    "id": "w_resounding",
+    "headword": "resounding",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈzaʊndɪŋ/",
+    "meanings": [
+      {
+        "tr": "büyük, kesin (başarı vb.); yankılanan",
+        "en": "very great, or loud and clear",
+        "exampleEn": "The event was a resounding success.",
+        "exampleTr": "Etkinlik büyük bir başarıydı."
+      }
+    ],
+    "synonyms": [
+      "emphatic",
+      "decisive",
+      "clear"
+    ],
+    "antonyms": [
+      "narrow"
+    ]
+  },
+  {
+    "id": "w_respectful",
+    "headword": "respectful",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈspektfəl/",
+    "meanings": [
+      {
+        "tr": "saygılı",
+        "en": "showing politeness or honour towards someone or something",
+        "exampleEn": "He was always respectful towards his teachers.",
+        "exampleTr": "Öğretmenlerine karşı her zaman saygılıydı."
+      }
+    ],
+    "synonyms": [
+      "polite",
+      "courteous",
+      "deferential"
+    ],
+    "antonyms": [
+      "disrespectful",
+      "rude"
+    ]
+  },
+  {
+    "id": "w_respectfully",
+    "headword": "respectfully",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈspektfəli/",
+    "meanings": [
+      {
+        "tr": "saygıyla, saygılı bir şekilde",
+        "en": "in a way that shows politeness or honour towards someone",
+        "exampleEn": "She respectfully disagreed with the committee's decision.",
+        "exampleTr": "Komitenin kararına saygıyla karşı çıktı."
+      }
+    ],
+    "synonyms": [
+      "politely",
+      "courteously"
+    ],
+    "antonyms": [
+      "disrespectfully",
+      "rudely"
+    ]
+  },
+  {
+    "id": "w_restatement",
+    "headword": "restatement",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/riːˈsteɪtmənt/",
+    "meanings": [
+      {
+        "tr": "yeniden ifade etme, yeniden beyan",
+        "en": "the act of saying something again or in a different way",
+        "exampleEn": "His speech was simply a restatement of the party's old policies.",
+        "exampleTr": "Konuşması, partinin eski politikalarının yeniden ifade edilmesinden ibaretti."
+      }
+    ],
+    "synonyms": [
+      "reiteration",
+      "repetition"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_restoration",
+    "headword": "restoration",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌrestəˈreɪʃən/",
+    "meanings": [
+      {
+        "tr": "restorasyon, onarım, eski haline getirme",
+        "en": "the act of returning something to its original condition, or of bringing back a previous situation",
+        "exampleEn": "The restoration of the old cathedral took over ten years.",
+        "exampleTr": "Eski katedralin restorasyonu on yıldan fazla sürdü."
+      }
+    ],
+    "synonyms": [
+      "renovation",
+      "repair",
+      "reinstatement"
+    ],
+    "antonyms": [
+      "destruction"
+    ]
+  },
+  {
+    "id": "w_restraint",
+    "headword": "restraint",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈstreɪnt/",
+    "meanings": [
+      {
+        "tr": "kısıtlama, sınırlama",
+        "en": "a rule or fact that limits or controls what someone can do",
+        "exampleEn": "The government imposed restraints on public spending.",
+        "exampleTr": "Hükümet kamu harcamalarına kısıtlamalar getirdi."
+      },
+      {
+        "tr": "kendine hakim olma, ölçülülük",
+        "en": "calm and controlled behaviour, especially in a difficult situation",
+        "exampleEn": "She showed great restraint by not responding to the insults.",
+        "exampleTr": "Hakaretlere karşılık vermeyerek büyük bir kendine hakimiyet gösterdi."
+      }
+    ],
+    "synonyms": [
+      "limitation",
+      "control",
+      "self-control"
+    ],
+    "antonyms": [
+      "freedom",
+      "excess"
+    ]
+  },
+  {
+    "id": "w_restrictive",
+    "headword": "restrictive",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈstrɪktɪv/",
+    "meanings": [
+      {
+        "tr": "kısıtlayıcı, sınırlayıcı",
+        "en": "limiting the freedom or actions of someone or something",
+        "exampleEn": "The new rules are too restrictive for small businesses.",
+        "exampleTr": "Yeni kurallar küçük işletmeler için fazla kısıtlayıcı."
+      }
+    ],
+    "synonyms": [
+      "limiting",
+      "confining",
+      "constraining"
+    ],
+    "antonyms": [
+      "permissive",
+      "liberal"
+    ]
+  },
+  {
+    "id": "w_retch",
+    "headword": "retch",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/retʃ/",
+    "meanings": [
+      {
+        "tr": "öğürmek",
+        "en": "to make sudden movements and sounds as if you are going to vomit",
+        "exampleEn": "The terrible smell made him retch.",
+        "exampleTr": "Korkunç koku onu öğürttü."
+      }
+    ],
+    "synonyms": [
+      "gag",
+      "heave"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_reticence",
+    "headword": "reticence",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈretɪsəns/",
+    "meanings": [
+      {
+        "tr": "suskunluk, ağzı sıkılık, çekingenlik",
+        "en": "the quality of being unwilling to speak about your thoughts or feelings",
+        "exampleEn": "His reticence about his past made his colleagues curious.",
+        "exampleTr": "Geçmişi hakkındaki suskunluğu meslektaşlarını meraklandırdı."
+      }
+    ],
+    "synonyms": [
+      "reserve",
+      "reluctance",
+      "restraint"
+    ],
+    "antonyms": [
+      "openness",
+      "frankness"
+    ]
+  },
+  {
+    "id": "w_retirement_home",
+    "headword": "retirement home",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈtaɪəmənt həʊm/",
+    "meanings": [
+      {
+        "tr": "huzurevi, bakımevi",
+        "en": "a place where old people live and are cared for",
+        "exampleEn": "After his fall, they moved him to a retirement home.",
+        "exampleTr": "Düşmesinden sonra onu bir huzurevine taşıdılar."
+      }
+    ],
+    "synonyms": [
+      "nursing home",
+      "care home"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_retraction",
+    "headword": "retraction",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈtrækʃən/",
+    "meanings": [
+      {
+        "tr": "geri alma, yalanlama (söz/iddia)",
+        "en": "an official statement saying that something you said before is not true",
+        "exampleEn": "The newspaper printed a retraction of the false story.",
+        "exampleTr": "Gazete asılsız haberle ilgili bir yalanlama yayımladı."
+      }
+    ],
+    "synonyms": [
+      "withdrawal",
+      "disavowal"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_retribution",
+    "headword": "retribution",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌretrɪˈbjuːʃən/",
+    "meanings": [
+      {
+        "tr": "ceza, hak edilen misilleme, ilahi adalet",
+        "en": "deserved and severe punishment for something wrong that someone has done",
+        "exampleEn": "They feared divine retribution for their crimes.",
+        "exampleTr": "İşledikleri suçlar için ilahi bir cezadan korkuyorlardı."
+      }
+    ],
+    "synonyms": [
+      "punishment",
+      "vengeance",
+      "retaliation"
+    ],
+    "antonyms": [
+      "forgiveness",
+      "mercy"
+    ]
+  },
+  {
+    "id": "w_retro",
+    "headword": "retro",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈretrəʊ/",
+    "meanings": [
+      {
+        "tr": "retro, eski tarzda, nostaljik",
+        "en": "using styles or fashions from the recent past",
+        "exampleEn": "The cafe had a retro design from the 1950s.",
+        "exampleTr": "Kafenin 1950'lerden kalma retro bir tasarımı vardı."
+      }
+    ],
+    "synonyms": [
+      "vintage",
+      "old-fashioned",
+      "nostalgic"
+    ],
+    "antonyms": [
+      "modern",
+      "contemporary"
+    ]
+  },
+  {
+    "id": "w_reverberating",
+    "headword": "reverberating",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈvɜːbəreɪtɪŋ/",
+    "meanings": [
+      {
+        "tr": "yankılanan, çınlayan",
+        "en": "echoing or continuing to sound loudly",
+        "exampleEn": "The reverberating sound of the drums filled the hall.",
+        "exampleTr": "Davulların yankılanan sesi salonu doldurdu."
+      }
+    ],
+    "synonyms": [
+      "echoing",
+      "resonating"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_revered",
+    "headword": "revered",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈvɪəd/",
+    "meanings": [
+      {
+        "tr": "saygı duyulan, hürmet edilen",
+        "en": "greatly respected and admired",
+        "exampleEn": "She is a revered figure in the world of science.",
+        "exampleTr": "O, bilim dünyasında saygı duyulan bir figürdür."
+      }
+    ],
+    "synonyms": [
+      "respected",
+      "venerated",
+      "esteemed"
+    ],
+    "antonyms": [
+      "despised",
+      "scorned"
+    ]
+  },
+  {
+    "id": "w_reverent",
+    "headword": "reverent",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrevərənt/",
+    "meanings": [
+      {
+        "tr": "saygı dolu, hürmetkâr",
+        "en": "showing deep respect and admiration",
+        "exampleEn": "The crowd fell into a reverent silence.",
+        "exampleTr": "Kalabalık saygı dolu bir sessizliğe büründü."
+      }
+    ],
+    "synonyms": [
+      "respectful",
+      "deferential",
+      "worshipful"
+    ],
+    "antonyms": [
+      "irreverent",
+      "disrespectful"
+    ]
+  },
+  {
+    "id": "w_reverie",
+    "headword": "reverie",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrevəri/",
+    "meanings": [
+      {
+        "tr": "hayal, dalıp gitme, düş",
+        "en": "a state of pleasant dreamlike thought while awake",
+        "exampleEn": "The sudden noise broke her reverie.",
+        "exampleTr": "Ani gürültü onun hayalini böldü."
+      }
+    ],
+    "synonyms": [
+      "daydream",
+      "musing",
+      "trance"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_reversion",
+    "headword": "reversion",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈvɜːʃən/",
+    "meanings": [
+      {
+        "tr": "geri dönüş, eski hale dönme",
+        "en": "a return to a previous state, condition, or behaviour",
+        "exampleEn": "There was a gradual reversion to older methods of farming.",
+        "exampleTr": "Eski tarım yöntemlerine kademeli bir geri dönüş oldu."
+      }
+    ],
+    "synonyms": [
+      "return",
+      "regression"
+    ],
+    "antonyms": [
+      "progression"
+    ]
+  },
+  {
+    "id": "w_revised_version",
+    "headword": "revised version",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˌvaɪzd ˈvɜːʃən/",
+    "meanings": [
+      {
+        "tr": "gözden geçirilmiş sürüm, düzeltilmiş hali",
+        "en": "a new copy of something that has been changed or corrected",
+        "exampleEn": "Please read the revised version of the contract before signing.",
+        "exampleTr": "İmzalamadan önce sözleşmenin gözden geçirilmiş sürümünü okuyun."
+      }
+    ],
+    "synonyms": [
+      "updated version",
+      "amended version"
+    ],
+    "antonyms": [
+      "original"
+    ]
+  },
+  {
+    "id": "w_revitalize",
+    "headword": "revitalize",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/riːˈvaɪtəlaɪz/",
+    "meanings": [
+      {
+        "tr": "canlandırmak, yeniden hayat vermek",
+        "en": "to give new energy, life, or activity to something",
+        "exampleEn": "The city council hopes to revitalize the old town centre.",
+        "exampleTr": "Belediye meclisi eski şehir merkezini canlandırmayı umuyor."
+      }
+    ],
+    "synonyms": [
+      "rejuvenate",
+      "revive",
+      "reinvigorate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_revitalized",
+    "headword": "revitalized",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/riːˈvaɪtəlaɪzd/",
+    "meanings": [
+      {
+        "tr": "canlanmış, yeniden güç kazanmış",
+        "en": "given new energy, life, or strength",
+        "exampleEn": "She felt revitalized after her long holiday.",
+        "exampleTr": "Uzun tatilinden sonra kendini canlanmış hissetti."
+      }
+    ],
+    "synonyms": [
+      "reinvigorated",
+      "refreshed",
+      "renewed"
+    ],
+    "antonyms": [
+      "exhausted",
+      "drained"
+    ]
+  },
+  {
+    "id": "w_revoke",
+    "headword": "revoke",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈvəʊk/",
+    "meanings": [
+      {
+        "tr": "iptal etmek, geri almak (yetki/izin)",
+        "en": "to officially cancel a decision, permission, or law",
+        "exampleEn": "The authorities revoked his driving licence after the accident.",
+        "exampleTr": "Yetkililer kazadan sonra ehliyetini iptal etti."
+      }
+    ],
+    "synonyms": [
+      "cancel",
+      "withdraw",
+      "annul"
+    ],
+    "antonyms": [
+      "grant",
+      "authorize"
+    ]
+  },
+  {
+    "id": "w_revolt",
+    "headword": "revolt",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈvəʊlt/",
+    "meanings": [
+      {
+        "tr": "isyan, ayaklanma",
+        "en": "a strong and often violent action against authority",
+        "exampleEn": "The peasants rose up in revolt against the king.",
+        "exampleTr": "Köylüler krala karşı isyan çıkardı."
+      },
+      {
+        "tr": "isyan etmek, ayaklanmak",
+        "en": "to take strong or violent action against authority",
+        "exampleEn": "The soldiers revolted against their commanders.",
+        "exampleTr": "Askerler komutanlarına karşı ayaklandı."
+      }
+    ],
+    "synonyms": [
+      "uprising",
+      "rebellion",
+      "mutiny"
+    ],
+    "antonyms": [
+      "obedience",
+      "compliance"
+    ]
+  },
+  {
+    "id": "w_revolver",
+    "headword": "revolver",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈvɒlvə/",
+    "meanings": [
+      {
+        "tr": "tabanca, altıpatlar (toplu tabanca)",
+        "en": "a type of small gun with a revolving cylinder that holds bullets",
+        "exampleEn": "The detective pulled a revolver from his coat.",
+        "exampleTr": "Dedektif ceketinden bir tabanca çıkardı."
+      }
+    ],
+    "synonyms": [
+      "pistol",
+      "handgun"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_revulsion",
+    "headword": "revulsion",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈvʌlʃən/",
+    "meanings": [
+      {
+        "tr": "tiksinti, iğrenme",
+        "en": "a strong feeling of disgust or dislike",
+        "exampleEn": "She felt a wave of revulsion at the sight of the wound.",
+        "exampleTr": "Yaranın görüntüsü karşısında bir tiksinti dalgası hissetti."
+      }
+    ],
+    "synonyms": [
+      "disgust",
+      "repulsion",
+      "loathing"
+    ],
+    "antonyms": [
+      "attraction",
+      "delight"
+    ]
+  },
+  {
+    "id": "w_rideshare",
+    "headword": "rideshare",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈraɪdʃeə/",
+    "meanings": [
+      {
+        "tr": "paylaşımlı yolculuk, ortak araç kullanımı",
+        "en": "an arrangement in which people share a car journey, often booked through an app",
+        "exampleEn": "We took a rideshare to the airport to save money.",
+        "exampleTr": "Para biriktirmek için havaalanına paylaşımlı yolculukla gittik."
+      }
+    ],
+    "synonyms": [
+      "carpool",
+      "ride-hailing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_righteous",
+    "headword": "righteous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈraɪtʃəs/",
+    "meanings": [
+      {
+        "tr": "doğru, dürüst, erdemli; haklı (öfke)",
+        "en": "morally good and correct, or justified by being morally right",
+        "exampleEn": "He was filled with righteous anger at the injustice.",
+        "exampleTr": "Adaletsizlik karşısında haklı bir öfkeyle doldu."
+      }
+    ],
+    "synonyms": [
+      "virtuous",
+      "upright",
+      "just"
+    ],
+    "antonyms": [
+      "wicked",
+      "sinful"
+    ]
+  },
+  {
+    "id": "w_rinse",
+    "headword": "rinse",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪns/",
+    "meanings": [
+      {
+        "tr": "durulamak, çalkalamak",
+        "en": "to wash something with clean water to remove soap or dirt",
+        "exampleEn": "Rinse the vegetables under cold water before cooking.",
+        "exampleTr": "Pişirmeden önce sebzeleri soğuk suyla durulayın."
+      }
+    ],
+    "synonyms": [
+      "wash",
+      "flush"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_rippling",
+    "headword": "rippling",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɪplɪŋ/",
+    "meanings": [
+      {
+        "tr": "dalgalanan, kıpırdayan",
+        "en": "moving in small waves, or forming a series of small movements",
+        "exampleEn": "The rippling water reflected the moonlight.",
+        "exampleTr": "Dalgalanan su ay ışığını yansıtıyordu."
+      }
+    ],
+    "synonyms": [
+      "undulating",
+      "wavy"
+    ],
+    "antonyms": [
+      "still",
+      "calm"
+    ]
+  },
+  {
+    "id": "w_robe",
+    "headword": "robe",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rəʊb/",
+    "meanings": [
+      {
+        "tr": "cüppe, bornoz, uzun giysi",
+        "en": "a long, loose piece of clothing, often worn for ceremonies or after bathing",
+        "exampleEn": "The judge wore a black robe in the courtroom.",
+        "exampleTr": "Yargıç mahkeme salonunda siyah bir cüppe giymişti."
+      }
+    ],
+    "synonyms": [
+      "gown",
+      "cloak"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_robotically",
+    "headword": "robotically",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rəʊˈbɒtɪkli/",
+    "meanings": [
+      {
+        "tr": "robot gibi, otomatik ve duygusuz bir şekilde",
+        "en": "in a mechanical way, without emotion or thought",
+        "exampleEn": "She answered the questions robotically, as if reading from a script.",
+        "exampleTr": "Soruları, sanki bir metinden okurcasına robot gibi yanıtladı."
+      }
+    ],
+    "synonyms": [
+      "mechanically",
+      "automatically"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_robustness",
+    "headword": "robustness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rəʊˈbʌstnəs/",
+    "meanings": [
+      {
+        "tr": "sağlamlık, dayanıklılık, güçlülük",
+        "en": "the quality of being strong and unlikely to fail or break",
+        "exampleEn": "Engineers tested the robustness of the new bridge design.",
+        "exampleTr": "Mühendisler yeni köprü tasarımının sağlamlığını test etti."
+      }
+    ],
+    "synonyms": [
+      "strength",
+      "sturdiness",
+      "durability"
+    ],
+    "antonyms": [
+      "fragility",
+      "weakness"
+    ]
+  },
+  {
+    "id": "w_rollers",
+    "headword": "rollers",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrəʊləz/",
+    "meanings": [
+      {
+        "tr": "silindirler, makaralar; saç bigudileri",
+        "en": "cylindrical objects that turn over and over, used to move, flatten, or curl things",
+        "exampleEn": "She put rollers in her hair to make it curly.",
+        "exampleTr": "Saçını kıvırcık yapmak için bigudiler taktı."
+      }
+    ],
+    "synonyms": [
+      "cylinders",
+      "curlers"
+    ],
+    "antonyms": []
+  }
+]

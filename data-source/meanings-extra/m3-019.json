@@ -1,0 +1,446 @@
+[
+  {
+    "id": "w_command",
+    "headword": "command",
+    "extraMeanings": [
+      {
+        "tr": "hâkim olmak, kumanda etmek (fiil)",
+        "en": "to have authority over someone or a group",
+        "exampleEn": "General Lee commanded an army of thousands of soldiers.",
+        "exampleTr": "General Lee binlerce askerden oluşan bir orduya kumanda etti."
+      },
+      {
+        "tr": "hâkimiyet, hâkim olma (bir konuya/dile)",
+        "en": "good knowledge or control of something",
+        "exampleEn": "She has an excellent command of three languages.",
+        "exampleTr": "Üç dile mükemmel derecede hâkimdir."
+      }
+    ]
+  },
+  {
+    "id": "w_comment",
+    "headword": "comment",
+    "extraMeanings": [
+      {
+        "tr": "yorum yapmak, görüş bildirmek (fiil)",
+        "en": "to express an opinion about something",
+        "exampleEn": "The minister refused to comment on the rumours.",
+        "exampleTr": "Bakan söylentiler hakkında yorum yapmayı reddetti."
+      }
+    ]
+  },
+  {
+    "id": "w_commercial",
+    "headword": "commercial",
+    "extraMeanings": [
+      {
+        "tr": "reklam (radyo/TV), reklam filmi (isim)",
+        "en": "an advertisement on television or radio",
+        "exampleEn": "The movie was interrupted by a long commercial.",
+        "exampleTr": "Film uzun bir reklamla kesildi."
+      }
+    ]
+  },
+  {
+    "id": "w_complement",
+    "headword": "complement",
+    "extraMeanings": [
+      {
+        "tr": "tamamlamak, birbirini tamamlamak (fiil)",
+        "en": "to make something else seem better by combining well with it",
+        "exampleEn": "The wine perfectly complements the cheese.",
+        "exampleTr": "Şarap peyniri mükemmel şekilde tamamlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_complex",
+    "headword": "complex",
+    "extraMeanings": [
+      {
+        "tr": "kompleks, tesis, site (bina topluluğu) (isim)",
+        "en": "a group of buildings or a large structure",
+        "exampleEn": "They built a huge shopping complex outside the city.",
+        "exampleTr": "Şehrin dışında devasa bir alışveriş kompleksi inşa ettiler."
+      },
+      {
+        "tr": "kompleks, saplantı (psikolojik) (isim)",
+        "en": "an emotional problem causing anxiety about something",
+        "exampleEn": "He has a complex about his height.",
+        "exampleTr": "Boyu konusunda bir kompleksi var."
+      }
+    ]
+  },
+  {
+    "id": "w_compliment",
+    "headword": "compliment",
+    "extraMeanings": [
+      {
+        "tr": "iltifat etmek, övmek (fiil)",
+        "en": "to praise or express admiration for someone",
+        "exampleEn": "She complimented me on my cooking.",
+        "exampleTr": "Yemeğim için bana iltifat etti."
+      }
+    ]
+  },
+  {
+    "id": "w_compose",
+    "headword": "compose",
+    "extraMeanings": [
+      {
+        "tr": "kendini toparlamak, sakinleştirmek (fiil)",
+        "en": "to make yourself calm after being upset",
+        "exampleEn": "She took a moment to compose herself before speaking.",
+        "exampleTr": "Konuşmadan önce kendini toparlamak için bir an durdu."
+      }
+    ]
+  },
+  {
+    "id": "w_composition",
+    "headword": "composition",
+    "extraMeanings": [
+      {
+        "tr": "beste (müzik eseri) (isim)",
+        "en": "a piece of music that someone has written",
+        "exampleEn": "This is one of Mozart's finest compositions.",
+        "exampleTr": "Bu, Mozart'ın en güzel bestelerinden biridir."
+      }
+    ]
+  },
+  {
+    "id": "w_conduct",
+    "headword": "conduct",
+    "extraMeanings": [
+      {
+        "tr": "yürütmek, gerçekleştirmek (fiil)",
+        "en": "to organize and carry out an activity",
+        "exampleEn": "The scientists conducted an experiment in the lab.",
+        "exampleTr": "Bilim insanları laboratuvarda bir deney gerçekleştirdi."
+      },
+      {
+        "tr": "orkestra yönetmek (fiil)",
+        "en": "to direct the performance of musicians",
+        "exampleEn": "She conducted the orchestra with great energy.",
+        "exampleTr": "Orkestrayı büyük bir enerjiyle yönetti."
+      }
+    ]
+  },
+  {
+    "id": "w_confidence",
+    "headword": "confidence",
+    "extraMeanings": [
+      {
+        "tr": "gizlilik, sır (gizli tutulan bilgi) (isim)",
+        "en": "a secret or the state of trusting someone with private information",
+        "exampleEn": "I told her the news in confidence.",
+        "exampleTr": "Haberi ona gizlilik içinde söyledim."
+      }
+    ]
+  },
+  {
+    "id": "w_conflict",
+    "headword": "conflict",
+    "extraMeanings": [
+      {
+        "tr": "çatışmak, çelişmek (fiil)",
+        "en": "to be in disagreement or be incompatible",
+        "exampleEn": "His account of events conflicts with hers.",
+        "exampleTr": "Olaylara dair anlatımı onunkiyle çelişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_conservative",
+    "headword": "conservative",
+    "extraMeanings": [
+      {
+        "tr": "ihtiyatlı, temkinli (tahmin/miktar) (sıfat)",
+        "en": "deliberately low or cautious (of an estimate)",
+        "exampleEn": "At a conservative estimate, the trip will cost $2000.",
+        "exampleTr": "İhtiyatlı bir tahminle, gezi 2000 dolara mal olacak."
+      }
+    ]
+  },
+  {
+    "id": "w_consideration",
+    "headword": "consideration",
+    "extraMeanings": [
+      {
+        "tr": "düşüncelilik, saygı, anlayış (başkalarına) (isim)",
+        "en": "kindness and thought for other people's feelings",
+        "exampleEn": "He showed great consideration for the elderly passengers.",
+        "exampleTr": "Yaşlı yolculara büyük bir anlayış gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w_contract",
+    "headword": "contract",
+    "extraMeanings": [
+      {
+        "tr": "büzülmek, kasılmak, küçülmek (fiil)",
+        "en": "to become smaller or shorter",
+        "exampleEn": "Metal contracts as it cools.",
+        "exampleTr": "Metal soğudukça büzülür."
+      },
+      {
+        "tr": "(hastalık) kapmak, yakalanmak (fiil)",
+        "en": "to catch or develop an illness",
+        "exampleEn": "He contracted malaria while travelling abroad.",
+        "exampleTr": "Yurt dışında seyahat ederken sıtmaya yakalandı."
+      }
+    ]
+  },
+  {
+    "id": "w_contrary",
+    "headword": "contrary",
+    "extraMeanings": [
+      {
+        "tr": "tersine, aksine (isim, 'on the contrary')",
+        "en": "the opposite of what has been said",
+        "exampleEn": "I'm not tired; on the contrary, I feel great.",
+        "exampleTr": "Yorgun değilim; aksine, harika hissediyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_count",
+    "headword": "count",
+    "extraMeanings": [
+      {
+        "tr": "saymak (fiil)",
+        "en": "to say numbers in order or find a total",
+        "exampleEn": "The child can count to twenty.",
+        "exampleTr": "Çocuk yirmiye kadar sayabiliyor."
+      },
+      {
+        "tr": "önemli olmak, sayılmak (fiil)",
+        "en": "to be important or to be included",
+        "exampleEn": "Every vote counts in this election.",
+        "exampleTr": "Bu seçimde her oy önemlidir."
+      }
+    ]
+  },
+  {
+    "id": "w_craft",
+    "headword": "craft",
+    "extraMeanings": [
+      {
+        "tr": "tekne, gemi, hava aracı (isim)",
+        "en": "a boat, ship, or aircraft",
+        "exampleEn": "Several small craft were sailing on the lake.",
+        "exampleTr": "Gölde birkaç küçük tekne yol alıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_crash",
+    "headword": "crash",
+    "extraMeanings": [
+      {
+        "tr": "çökmek (bilgisayar/sistem) (fiil)",
+        "en": "to suddenly stop working (of a computer or system)",
+        "exampleEn": "My laptop crashed and I lost all my work.",
+        "exampleTr": "Dizüstü bilgisayarım çöktü ve tüm çalışmamı kaybettim."
+      },
+      {
+        "tr": "çarpmak, kaza yapmak (fiil)",
+        "en": "to hit something violently while moving",
+        "exampleEn": "The car crashed into a tree.",
+        "exampleTr": "Araba bir ağaca çarptı."
+      }
+    ]
+  },
+  {
+    "id": "w_credit",
+    "headword": "credit",
+    "extraMeanings": [
+      {
+        "tr": "övgü, takdir, itibar (isim)",
+        "en": "praise or recognition for something good",
+        "exampleEn": "She deserves credit for solving the problem.",
+        "exampleTr": "Sorunu çözdüğü için takdiri hak ediyor."
+      },
+      {
+        "tr": "jenerik (film/dizi sonundaki isimler) (isim)",
+        "en": "the list of people who worked on a film or show",
+        "exampleEn": "We stayed until the credits rolled at the end of the movie.",
+        "exampleTr": "Filmin sonunda jenerik akana kadar oturduk."
+      }
+    ]
+  },
+  {
+    "id": "w_critical",
+    "headword": "critical",
+    "extraMeanings": [
+      {
+        "tr": "kritik, ciddi (hasta/durum) (sıfat)",
+        "en": "extremely serious or dangerous",
+        "exampleEn": "The patient is in a critical condition after the accident.",
+        "exampleTr": "Hasta kazadan sonra kritik durumda."
+      }
+    ]
+  },
+  {
+    "id": "w_crop",
+    "headword": "crop",
+    "extraMeanings": [
+      {
+        "tr": "kırpmak, kesmek (resim/saç) (fiil)",
+        "en": "to cut off the edges of a picture, or cut short",
+        "exampleEn": "I cropped the photo to remove the background.",
+        "exampleTr": "Arka planı kaldırmak için fotoğrafı kırptım."
+      }
+    ]
+  },
+  {
+    "id": "w_crow",
+    "headword": "crow",
+    "extraMeanings": [
+      {
+        "tr": "ötmek (horoz) (fiil)",
+        "en": "to make the loud cry of a cockerel",
+        "exampleEn": "The rooster crowed at dawn.",
+        "exampleTr": "Horoz şafakta öttü."
+      }
+    ]
+  },
+  {
+    "id": "w_crush",
+    "headword": "crush",
+    "extraMeanings": [
+      {
+        "tr": "ezmek, ezip parçalamak (fiil)",
+        "en": "to press something so hard it breaks or loses shape",
+        "exampleEn": "She crushed the garlic with a knife.",
+        "exampleTr": "Sarımsağı bıçakla ezdi."
+      }
+    ]
+  },
+  {
+    "id": "w_cure",
+    "headword": "cure",
+    "extraMeanings": [
+      {
+        "tr": "iyileştirmek, tedavi etmek (fiil)",
+        "en": "to make an illness or a sick person healthy again",
+        "exampleEn": "The new drug can cure the disease completely.",
+        "exampleTr": "Yeni ilaç hastalığı tamamen iyileştirebiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_curve",
+    "headword": "curve",
+    "extraMeanings": [
+      {
+        "tr": "kıvrılmak, eğrilmek, viraj yapmak (fiil)",
+        "en": "to bend or move in a curved line",
+        "exampleEn": "The road curves sharply to the left.",
+        "exampleTr": "Yol keskin bir şekilde sola kıvrılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_cushion",
+    "headword": "cushion",
+    "extraMeanings": [
+      {
+        "tr": "yumuşatmak, hafifletmek (darbeyi/etkiyi) (fiil)",
+        "en": "to reduce the bad effect of something",
+        "exampleEn": "Savings can cushion the impact of losing a job.",
+        "exampleTr": "Birikimler iş kaybının etkisini hafifletebilir."
+      }
+    ]
+  },
+  {
+    "id": "w_cut",
+    "headword": "cut",
+    "extraMeanings": [
+      {
+        "tr": "kesmek (fiil)",
+        "en": "to divide or wound something using a sharp tool",
+        "exampleEn": "She cut the cake into eight pieces.",
+        "exampleTr": "Pastayı sekiz parçaya kesti."
+      },
+      {
+        "tr": "azaltmak, kısmak (fiil)",
+        "en": "to reduce an amount or level",
+        "exampleEn": "The company decided to cut prices by ten percent.",
+        "exampleTr": "Şirket fiyatları yüzde on düşürmeye karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_cycle",
+    "headword": "cycle",
+    "extraMeanings": [
+      {
+        "tr": "bisiklete binmek (fiil)",
+        "en": "to ride a bicycle",
+        "exampleEn": "I cycle to work every morning.",
+        "exampleTr": "Her sabah işe bisikletle giderim."
+      }
+    ]
+  },
+  {
+    "id": "w_damage",
+    "headword": "damage",
+    "extraMeanings": [
+      {
+        "tr": "zarar vermek, hasar vermek (fiil)",
+        "en": "to harm or spoil something",
+        "exampleEn": "The storm damaged several houses.",
+        "exampleTr": "Fırtına birkaç eve zarar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_dare",
+    "headword": "dare",
+    "extraMeanings": [
+      {
+        "tr": "meydan okumak, kışkırtmak (birini bir şey yapmaya) (fiil)",
+        "en": "to challenge someone to do something risky",
+        "exampleEn": "My friends dared me to jump into the cold lake.",
+        "exampleTr": "Arkadaşlarım soğuk göle atlamam için bana meydan okudu."
+      }
+    ]
+  },
+  {
+    "id": "w_dazzle",
+    "headword": "dazzle",
+    "extraMeanings": [
+      {
+        "tr": "gözünü kamaştırmak; hayran bırakmak (fiil)",
+        "en": "to blind briefly with bright light, or to impress greatly",
+        "exampleEn": "The bright headlights dazzled the driver.",
+        "exampleTr": "Parlak farlar sürücünün gözünü kamaştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_deaf",
+    "headword": "deaf",
+    "extraMeanings": [
+      {
+        "tr": "kulak asmamak, aldırmamak ('deaf to') (sıfat)",
+        "en": "unwilling to listen or pay attention to something",
+        "exampleEn": "He was deaf to all our warnings.",
+        "exampleTr": "Tüm uyarılarımıza kulak asmadı."
+      }
+    ]
+  },
+  {
+    "id": "w_debate",
+    "headword": "debate",
+    "extraMeanings": [
+      {
+        "tr": "tartışmak, müzakere etmek (fiil)",
+        "en": "to discuss a subject formally, or consider carefully",
+        "exampleEn": "The parliament debated the new law for hours.",
+        "exampleTr": "Parlamento yeni yasayı saatlerce tartıştı."
+      }
+    ]
+  }
+]

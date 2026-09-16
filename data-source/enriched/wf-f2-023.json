@@ -1,0 +1,509 @@
+[
+  {
+    "id": "w_cloud_based",
+    "headword": "cloud-based",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈklaʊd ˌbeɪst/",
+    "meanings": [
+      {
+        "tr": "bulut tabanlı (internet üzerindeki sunucularda çalışan)",
+        "en": "stored on or run from remote internet servers rather than a local computer",
+        "exampleEn": "We switched to a cloud-based system so employees can access files from anywhere.",
+        "exampleTr": "Çalışanlar dosyalara her yerden erişebilsin diye bulut tabanlı bir sisteme geçtik."
+      }
+    ],
+    "synonyms": [
+      "online",
+      "hosted"
+    ],
+    "antonyms": [
+      "local",
+      "on-premise"
+    ]
+  },
+  {
+    "id": "w_puny",
+    "headword": "puny",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpjuːni/",
+    "meanings": [
+      {
+        "tr": "cılız, güçsüz, küçük ve zayıf",
+        "en": "small, weak, or unimportant",
+        "exampleEn": "His puny arms could barely lift the box.",
+        "exampleTr": "Cılız kolları kutuyu zar zor kaldırabiliyordu."
+      }
+    ],
+    "synonyms": [
+      "weak",
+      "feeble",
+      "frail"
+    ],
+    "antonyms": [
+      "strong",
+      "powerful",
+      "muscular"
+    ]
+  },
+  {
+    "id": "w_muscular",
+    "headword": "muscular",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmʌskjələr/",
+    "meanings": [
+      {
+        "tr": "kaslı, adaleli",
+        "en": "having well-developed muscles; strong",
+        "exampleEn": "The swimmer had a lean, muscular body.",
+        "exampleTr": "Yüzücünün ince ama kaslı bir vücudu vardı."
+      },
+      {
+        "tr": "kaslarla ilgili, kas-",
+        "en": "relating to the muscles of the body",
+        "exampleEn": "She suffers from a rare muscular disorder.",
+        "exampleTr": "Nadir görülen bir kas hastalığından muzdarip."
+      }
+    ],
+    "synonyms": [
+      "brawny",
+      "strong",
+      "athletic"
+    ],
+    "antonyms": [
+      "puny",
+      "weak",
+      "frail"
+    ]
+  },
+  {
+    "id": "w_cub",
+    "headword": "cub",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kʌb/",
+    "meanings": [
+      {
+        "tr": "(aslan, ayı, kurt gibi hayvanların) yavrusu",
+        "en": "the young of certain wild animals such as lions, bears, and foxes",
+        "exampleEn": "The lioness watched over her three playful cubs.",
+        "exampleTr": "Dişi aslan üç oyuncu yavrusunu gözetliyordu."
+      }
+    ],
+    "synonyms": [
+      "whelp",
+      "offspring"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fanciful",
+    "headword": "fanciful",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfænsɪfəl/",
+    "meanings": [
+      {
+        "tr": "hayal ürünü, gerçek dışı, düşsel",
+        "en": "based on imagination rather than reason or reality",
+        "exampleEn": "He had fanciful ideas about becoming a famous explorer.",
+        "exampleTr": "Ünlü bir kaşif olmakla ilgili hayal ürünü fikirleri vardı."
+      },
+      {
+        "tr": "süslü, alışılmadık derecede süslemeli",
+        "en": "showing unusual and imaginative design",
+        "exampleEn": "The cake was decorated with fanciful swirls of icing.",
+        "exampleTr": "Pasta düşsel kremalı kıvrımlarla süslenmişti."
+      }
+    ],
+    "synonyms": [
+      "imaginative",
+      "unrealistic",
+      "whimsical"
+    ],
+    "antonyms": [
+      "realistic",
+      "practical"
+    ]
+  },
+  {
+    "id": "w_quirky",
+    "headword": "quirky",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwɜːrki/",
+    "meanings": [
+      {
+        "tr": "tuhaf, sıra dışı, kendine özgü (genellikle sevimli anlamda)",
+        "en": "unusual in an interesting or appealing way",
+        "exampleEn": "I love the quirky little cafés in this neighborhood.",
+        "exampleTr": "Bu mahalledeki tuhaf küçük kafeleri çok seviyorum."
+      }
+    ],
+    "synonyms": [
+      "eccentric",
+      "offbeat",
+      "unconventional"
+    ],
+    "antonyms": [
+      "conventional",
+      "ordinary"
+    ]
+  },
+  {
+    "id": "w_testament",
+    "headword": "testament",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtestəmənt/",
+    "meanings": [
+      {
+        "tr": "kanıt, gösterge (bir şeyin iyi ya da doğru olduğunun)",
+        "en": "something that shows or proves that something else exists or is true",
+        "exampleEn": "The team's success is a testament to her leadership.",
+        "exampleTr": "Takımın başarısı, onun liderliğinin bir kanıtıdır."
+      },
+      {
+        "tr": "vasiyetname",
+        "en": "a person's written instructions about what should happen to their property after death",
+        "exampleEn": "He left everything to his sister in his last will and testament.",
+        "exampleTr": "Son vasiyetnamesinde her şeyini kız kardeşine bıraktı."
+      }
+    ],
+    "synonyms": [
+      "proof",
+      "evidence",
+      "testimony"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_bonanza",
+    "headword": "bonanza",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bəˈnænzə/",
+    "meanings": [
+      {
+        "tr": "beklenmedik büyük kazanç, bereket, vurgun",
+        "en": "a situation or event that creates a sudden increase in wealth or good fortune",
+        "exampleEn": "The holiday season was a bonanza for online retailers.",
+        "exampleTr": "Tatil sezonu online perakendeciler için beklenmedik büyük bir kazanç oldu."
+      }
+    ],
+    "synonyms": [
+      "windfall",
+      "jackpot",
+      "boom"
+    ],
+    "antonyms": [
+      "loss",
+      "bust"
+    ]
+  },
+  {
+    "id": "w_hoped_for",
+    "headword": "hoped-for",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhoʊpt fɔːr/",
+    "meanings": [
+      {
+        "tr": "umut edilen, beklenen",
+        "en": "desired or wished for",
+        "exampleEn": "The hoped-for increase in sales never materialized.",
+        "exampleTr": "Umut edilen satış artışı hiçbir zaman gerçekleşmedi."
+      }
+    ],
+    "synonyms": [
+      "desired",
+      "anticipated",
+      "expected"
+    ],
+    "antonyms": [
+      "unexpected",
+      "dreaded"
+    ]
+  },
+  {
+    "id": "w_teeter",
+    "headword": "teeter",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtiːtər/",
+    "meanings": [
+      {
+        "tr": "sallanmak, dengesizce yalpalamak, düşecek gibi olmak",
+        "en": "to move or stand unsteadily as if about to fall",
+        "exampleEn": "She teetered on the edge of the cliff before stepping back.",
+        "exampleTr": "Geri adım atmadan önce uçurumun kenarında sallandı."
+      },
+      {
+        "tr": "eşiğinde olmak, arada kalmak (mecazi)",
+        "en": "to be on the verge of a serious or dangerous situation",
+        "exampleEn": "The company is teetering on the brink of bankruptcy.",
+        "exampleTr": "Şirket iflasın eşiğinde yalpalıyor."
+      }
+    ],
+    "synonyms": [
+      "wobble",
+      "totter",
+      "sway"
+    ],
+    "antonyms": [
+      "steady",
+      "stabilize"
+    ]
+  },
+  {
+    "id": "w_proletariat",
+    "headword": "proletariat",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌproʊləˈteəriət/",
+    "meanings": [
+      {
+        "tr": "proletarya, işçi sınıfı",
+        "en": "the class of workers, especially industrial wage earners who own no means of production",
+        "exampleEn": "Marx believed the proletariat would eventually overthrow the ruling class.",
+        "exampleTr": "Marx, proletaryanın sonunda egemen sınıfı devireceğine inanıyordu."
+      }
+    ],
+    "synonyms": [
+      "working class",
+      "laborers"
+    ],
+    "antonyms": [
+      "bourgeoisie",
+      "aristocracy"
+    ]
+  },
+  {
+    "id": "w_wristband",
+    "headword": "wristband",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɪstbænd/",
+    "meanings": [
+      {
+        "tr": "bileklik, bilek bandı",
+        "en": "a band or strap worn around the wrist, often for identification or sport",
+        "exampleEn": "Each guest received a colored wristband at the entrance.",
+        "exampleTr": "Her konuk girişte renkli bir bileklik aldı."
+      }
+    ],
+    "synonyms": [
+      "bracelet",
+      "band"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_rightful",
+    "headword": "rightful",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈraɪtfəl/",
+    "meanings": [
+      {
+        "tr": "yasal, meşru, haklı sahibi olan",
+        "en": "having a legally or morally just claim to something",
+        "exampleEn": "The court returned the painting to its rightful owner.",
+        "exampleTr": "Mahkeme tabloyu yasal sahibine iade etti."
+      }
+    ],
+    "synonyms": [
+      "legitimate",
+      "lawful",
+      "legal"
+    ],
+    "antonyms": [
+      "unlawful",
+      "illegitimate"
+    ]
+  },
+  {
+    "id": "w_rightness",
+    "headword": "rightness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈraɪtnəs/",
+    "meanings": [
+      {
+        "tr": "doğruluk, haklılık, uygunluk",
+        "en": "the quality of being morally correct or appropriate",
+        "exampleEn": "She never doubted the rightness of her decision.",
+        "exampleTr": "Kararının doğruluğundan hiç şüphe duymadı."
+      }
+    ],
+    "synonyms": [
+      "correctness",
+      "justness",
+      "validity"
+    ],
+    "antonyms": [
+      "wrongness",
+      "incorrectness"
+    ]
+  },
+  {
+    "id": "w_fervour",
+    "headword": "fervour",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɜːvər/",
+    "meanings": [
+      {
+        "tr": "coşku, ateşli istek, tutku",
+        "en": "intense and passionate feeling or enthusiasm",
+        "exampleEn": "The crowd cheered with religious fervour.",
+        "exampleTr": "Kalabalık dini bir coşkuyla tezahürat yaptı."
+      }
+    ],
+    "synonyms": [
+      "passion",
+      "zeal",
+      "ardor"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference"
+    ]
+  },
+  {
+    "id": "w_unzip",
+    "headword": "unzip",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnˈzɪp/",
+    "meanings": [
+      {
+        "tr": "fermuarını açmak",
+        "en": "to open something by undoing a zip",
+        "exampleEn": "He unzipped his jacket because the room was warm.",
+        "exampleTr": "Oda sıcak olduğu için ceketinin fermuarını açtı."
+      },
+      {
+        "tr": "(sıkıştırılmış dosyayı) açmak, çıkarmak",
+        "en": "to extract the contents of a compressed computer file",
+        "exampleEn": "Download the folder and unzip it to install the program.",
+        "exampleTr": "Klasörü indirip programı kurmak için sıkıştırmasını açın."
+      }
+    ],
+    "synonyms": [
+      "unfasten",
+      "extract"
+    ],
+    "antonyms": [
+      "zip",
+      "compress"
+    ]
+  },
+  {
+    "id": "w_interlining",
+    "headword": "interlining",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪntərˌlaɪnɪŋ/",
+    "meanings": [
+      {
+        "tr": "ara astar (kumaşın iki katı arasına konan kumaş)",
+        "en": "a layer of material placed between the fabric and lining of a garment to add shape or warmth",
+        "exampleEn": "The coat has a wool interlining for extra warmth in winter.",
+        "exampleTr": "Palto, kışın ekstra sıcaklık için yün bir ara astara sahip."
+      }
+    ],
+    "synonyms": [
+      "lining",
+      "padding"
+    ],
+    "antonyms": []
+  }
+]

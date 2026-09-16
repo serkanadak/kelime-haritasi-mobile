@@ -1,0 +1,224 @@
+[
+  {
+    "id": "w_wrap",
+    "headword": "wrap",
+    "extraMeanings": [
+      {
+        "tr": "sarmak, paketlemek (fiil)",
+        "en": "to cover something by folding material around it",
+        "exampleEn": "She wrapped the gift in colorful paper.",
+        "exampleTr": "Hediyeyi renkli kağıda sardı."
+      }
+    ]
+  },
+  {
+    "id": "w_yarn",
+    "headword": "yarn",
+    "extraMeanings": [
+      {
+        "tr": "uzun (ve genellikle abartılı) hikaye, masal",
+        "en": "a long story, often one that is not completely true",
+        "exampleEn": "Grandpa loves to spin a yarn about his sailing days.",
+        "exampleTr": "Dede, denizcilik günlerine dair uzun bir hikaye anlatmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w_yell",
+    "headword": "yell",
+    "extraMeanings": [
+      {
+        "tr": "bağırmak, haykırmak (fiil)",
+        "en": "to shout something loudly",
+        "exampleEn": "He yelled at the children to be quiet.",
+        "exampleTr": "Çocuklara sessiz olmaları için bağırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_abuse",
+    "headword": "abuse",
+    "extraMeanings": [
+      {
+        "tr": "kötüye kullanmak, istismar etmek (fiil)",
+        "en": "to use something for the wrong purpose or to treat someone cruelly",
+        "exampleEn": "He was accused of abusing his position of power.",
+        "exampleTr": "Güç konumunu kötüye kullanmakla suçlandı."
+      },
+      {
+        "tr": "küfür, hakaret, sövgü",
+        "en": "rude and offensive words said to someone",
+        "exampleEn": "The referee received a stream of abuse from the crowd.",
+        "exampleTr": "Hakem kalabalıktan bir yığın hakaret aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_accelerator",
+    "headword": "accelerator",
+    "extraMeanings": [
+      {
+        "tr": "hızlandırıcı; bir şeyi hızlandıran unsur/kurum",
+        "en": "something that makes a process happen faster",
+        "exampleEn": "The startup joined a business accelerator program.",
+        "exampleTr": "Girişim bir iş hızlandırıcı programına katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_address",
+    "headword": "address",
+    "extraMeanings": [
+      {
+        "tr": "hitap etmek, konuşma yapmak (fiil)",
+        "en": "to speak formally to a group of people",
+        "exampleEn": "The president addressed the nation on television.",
+        "exampleTr": "Başkan televizyonda ulusa hitap etti."
+      }
+    ]
+  },
+  {
+    "id": "w_acid",
+    "headword": "acid",
+    "extraMeanings": [
+      {
+        "tr": "iğneleyici, sert, ters (sıfat)",
+        "en": "expressed in a bitter or critical way",
+        "exampleEn": "She made an acid remark about his cooking.",
+        "exampleTr": "Onun yemeği hakkında iğneleyici bir yorum yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_acute",
+    "headword": "acute",
+    "extraMeanings": [
+      {
+        "tr": "keskin zekalı, hassas, güçlü (algı)",
+        "en": "very perceptive or sensitive; quick to notice",
+        "exampleEn": "Dogs have an acute sense of smell.",
+        "exampleTr": "Köpeklerin çok keskin bir koku duyusu vardır."
+      }
+    ]
+  },
+  {
+    "id": "w_advance",
+    "headword": "advance",
+    "extraMeanings": [
+      {
+        "tr": "ilerlemek, öne doğru hareket etmek (fiil)",
+        "en": "to move forward",
+        "exampleEn": "The troops advanced toward the city.",
+        "exampleTr": "Birlikler şehre doğru ilerledi."
+      }
+    ]
+  },
+  {
+    "id": "w_alert",
+    "headword": "alert",
+    "extraMeanings": [
+      {
+        "tr": "uyanık, tetikte, dikkatli (sıfat)",
+        "en": "quick to notice and react to things",
+        "exampleEn": "A good driver stays alert at all times.",
+        "exampleTr": "İyi bir sürücü her zaman tetikte kalır."
+      },
+      {
+        "tr": "uyarı, alarm, ikaz (isim)",
+        "en": "a warning to be ready for possible danger",
+        "exampleEn": "The weather service issued a flood alert.",
+        "exampleTr": "Meteoroloji servisi bir sel uyarısı yayınladı."
+      }
+    ]
+  },
+  {
+    "id": "w_alternate",
+    "headword": "alternate",
+    "extraMeanings": [
+      {
+        "tr": "birbiri ardına gelen, dönüşümlü; bir atlayarak olan (sıfat)",
+        "en": "happening in turns, or every second one",
+        "exampleEn": "We meet on alternate Tuesdays.",
+        "exampleTr": "Bir hafta arayla, dönüşümlü salı günlerinde buluşuyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w_amateur",
+    "headword": "amateur",
+    "extraMeanings": [
+      {
+        "tr": "amatör, acemi, beceriksiz (sıfat)",
+        "en": "not skilled or professional",
+        "exampleEn": "The repair looked amateur and soon fell apart.",
+        "exampleTr": "Tamir amatörce görünüyordu ve kısa sürede dağıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_anchor",
+    "headword": "anchor",
+    "extraMeanings": [
+      {
+        "tr": "haber sunucusu, ana sunucu",
+        "en": "a person who presents a news broadcast",
+        "exampleEn": "She works as a news anchor for a national channel.",
+        "exampleTr": "Ulusal bir kanalda haber sunucusu olarak çalışıyor."
+      },
+      {
+        "tr": "demirlemek, sabitlemek, bağlamak (fiil)",
+        "en": "to fix something firmly in position",
+        "exampleEn": "They anchored the tent to the ground with ropes.",
+        "exampleTr": "Çadırı iplerle yere sabitlediler."
+      }
+    ]
+  },
+  {
+    "id": "w_ally",
+    "headword": "ally",
+    "extraMeanings": [
+      {
+        "tr": "birleşmek, taraf tutmak, güç birliği yapmak (fiil)",
+        "en": "to join with another for a common purpose",
+        "exampleEn": "The small nation allied itself with a larger power.",
+        "exampleTr": "Küçük ulus, daha büyük bir güçle güç birliği yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_amplify",
+    "headword": "amplify",
+    "extraMeanings": [
+      {
+        "tr": "ayrıntılandırmak, açıklayarak genişletmek (bir konuyu)",
+        "en": "to add more detail to a statement or idea",
+        "exampleEn": "Could you amplify your last point a little?",
+        "exampleTr": "Son söylediğin noktayı biraz açabilir misin?"
+      }
+    ]
+  },
+  {
+    "id": "w_analog",
+    "headword": "analog",
+    "extraMeanings": [
+      {
+        "tr": "benzer şey, karşılık, muadil (isim)",
+        "en": "something that is similar or comparable to another thing",
+        "exampleEn": "This drug is a synthetic analog of a natural hormone.",
+        "exampleTr": "Bu ilaç, doğal bir hormonun sentetik bir muadilidir."
+      }
+    ]
+  },
+  {
+    "id": "w_amuse",
+    "headword": "amuse",
+    "extraMeanings": [
+      {
+        "tr": "oyalamak, meşgul edip vakit geçirtmek",
+        "en": "to keep someone entertained and occupied",
+        "exampleEn": "The toys amused the children for hours.",
+        "exampleTr": "Oyuncaklar çocukları saatlerce oyaladı."
+      }
+    ]
+  }
+]

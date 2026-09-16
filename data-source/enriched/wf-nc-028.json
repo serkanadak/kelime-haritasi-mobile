@@ -1,0 +1,1264 @@
+[
+  {
+    "id": "w_oblivion",
+    "headword": "oblivion",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈblɪviən/",
+    "meanings": [
+      {
+        "tr": "unutulma, unutulmuşluk",
+        "en": "the state of being completely forgotten",
+        "exampleEn": "The once-famous singer sank into oblivion.",
+        "exampleTr": "Bir zamanlar ünlü olan şarkıcı unutulup gitti."
+      },
+      {
+        "tr": "bilinçsizlik, kendinden geçme",
+        "en": "the state of being unconscious or unaware",
+        "exampleEn": "He drank himself into oblivion.",
+        "exampleTr": "İçe içe kendinden geçti."
+      }
+    ],
+    "synonyms": [
+      "obscurity",
+      "nothingness"
+    ],
+    "antonyms": [
+      "fame",
+      "awareness"
+    ]
+  },
+  {
+    "id": "w_obliviousness",
+    "headword": "obliviousness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈblɪviəsnəs/",
+    "meanings": [
+      {
+        "tr": "farkında olmama, aldırmazlık",
+        "en": "the state of not being aware of what is happening around you",
+        "exampleEn": "Her obliviousness to the danger worried everyone.",
+        "exampleTr": "Tehlikenin farkında olmaması herkesi endişelendirdi."
+      }
+    ],
+    "synonyms": [
+      "unawareness",
+      "ignorance"
+    ],
+    "antonyms": [
+      "awareness",
+      "attentiveness"
+    ]
+  },
+  {
+    "id": "w_obscene",
+    "headword": "obscene",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈsiːn/",
+    "meanings": [
+      {
+        "tr": "müstehcen, ahlak dışı",
+        "en": "offensive or disgusting in a sexual or morally shocking way",
+        "exampleEn": "The website was shut down for showing obscene images.",
+        "exampleTr": "Site müstehcen görüntüler yayınladığı için kapatıldı."
+      },
+      {
+        "tr": "ahlaka aykırı derecede aşırı",
+        "en": "morally offensive because of being excessive",
+        "exampleEn": "They earn obscene amounts of money.",
+        "exampleTr": "Ahlaksızca miktarlarda para kazanıyorlar."
+      }
+    ],
+    "synonyms": [
+      "indecent",
+      "vulgar",
+      "lewd"
+    ],
+    "antonyms": [
+      "decent",
+      "modest"
+    ]
+  },
+  {
+    "id": "w_observance",
+    "headword": "observance",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈzɜːvəns/",
+    "meanings": [
+      {
+        "tr": "(kural/geleneğe) uyma, riayet",
+        "en": "the practice of obeying a law, rule, or custom",
+        "exampleEn": "The observance of traffic laws saves lives.",
+        "exampleTr": "Trafik kurallarına uyulması hayat kurtarır."
+      },
+      {
+        "tr": "(bir günü/töreni) kutlama, anma",
+        "en": "the celebration of a religious or traditional event",
+        "exampleEn": "The observance of Ramadan is important to the family.",
+        "exampleTr": "Ramazan'ın idrak edilmesi aile için önemlidir."
+      }
+    ],
+    "synonyms": [
+      "compliance",
+      "adherence"
+    ],
+    "antonyms": [
+      "violation",
+      "breach"
+    ]
+  },
+  {
+    "id": "w_obsolete",
+    "headword": "obsolete",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒbsəliːt/",
+    "meanings": [
+      {
+        "tr": "modası geçmiş, kullanımdan kalkmış",
+        "en": "no longer used or useful because something newer has replaced it",
+        "exampleEn": "Typewriters have become obsolete.",
+        "exampleTr": "Daktilolar artık modası geçmiş hale geldi."
+      }
+    ],
+    "synonyms": [
+      "outdated",
+      "antiquated",
+      "outmoded"
+    ],
+    "antonyms": [
+      "modern",
+      "current"
+    ]
+  },
+  {
+    "id": "w_obstructive",
+    "headword": "obstructive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈstrʌktɪv/",
+    "meanings": [
+      {
+        "tr": "engelleyici, köstek olan",
+        "en": "deliberately causing difficulties or blocking progress",
+        "exampleEn": "The manager was obstructive and refused to cooperate.",
+        "exampleTr": "Müdür engelleyici davrandı ve iş birliği yapmayı reddetti."
+      }
+    ],
+    "synonyms": [
+      "unhelpful",
+      "hindering"
+    ],
+    "antonyms": [
+      "helpful",
+      "cooperative"
+    ]
+  },
+  {
+    "id": "w_obviousness",
+    "headword": "obviousness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒbviəsnəs/",
+    "meanings": [
+      {
+        "tr": "aşikârlık, apaçıklık",
+        "en": "the quality of being easy to see or understand",
+        "exampleEn": "The obviousness of the mistake embarrassed him.",
+        "exampleTr": "Hatanın apaçık ortada olması onu utandırdı."
+      }
+    ],
+    "synonyms": [
+      "clarity",
+      "evidentness"
+    ],
+    "antonyms": [
+      "obscurity",
+      "subtlety"
+    ]
+  },
+  {
+    "id": "w_occultation",
+    "headword": "occultation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɒkʌlˈteɪʃən/",
+    "meanings": [
+      {
+        "tr": "(astronomi) örtülme, bir gök cisminin başka biriyle gizlenmesi",
+        "en": "the hiding of one celestial body by another passing in front of it",
+        "exampleEn": "Astronomers observed the occultation of the star by the Moon.",
+        "exampleTr": "Gökbilimciler yıldızın Ay tarafından örtülmesini gözlemledi."
+      }
+    ],
+    "synonyms": [
+      "eclipse",
+      "concealment"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_occupant",
+    "headword": "occupant",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒkjʊpənt/",
+    "meanings": [
+      {
+        "tr": "sakin, oturan; içinde bulunan kişi",
+        "en": "a person who lives in or uses a building, room, or vehicle",
+        "exampleEn": "The occupants of the house were evacuated safely.",
+        "exampleTr": "Evin sakinleri güvenli bir şekilde tahliye edildi."
+      }
+    ],
+    "synonyms": [
+      "resident",
+      "tenant",
+      "inhabitant"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_occupational",
+    "headword": "occupational",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɒkjʊˈpeɪʃənl/",
+    "meanings": [
+      {
+        "tr": "mesleki, işle ilgili",
+        "en": "relating to a job or profession",
+        "exampleEn": "Back pain is a common occupational hazard for drivers.",
+        "exampleTr": "Bel ağrısı sürücüler için yaygın bir mesleki risktir."
+      }
+    ],
+    "synonyms": [
+      "professional",
+      "vocational"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_occurrence",
+    "headword": "occurrence",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈkʌrəns/",
+    "meanings": [
+      {
+        "tr": "olay, vaka; meydana gelme",
+        "en": "something that happens; an event",
+        "exampleEn": "Power cuts are a common occurrence in the area.",
+        "exampleTr": "Elektrik kesintileri bölgede sık görülen bir olaydır."
+      }
+    ],
+    "synonyms": [
+      "event",
+      "incident",
+      "happening"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_oceanward",
+    "headword": "oceanward",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈəʊʃənwəd/",
+    "meanings": [
+      {
+        "tr": "okyanusa doğru",
+        "en": "toward the ocean",
+        "exampleEn": "The river flows oceanward through the valley.",
+        "exampleTr": "Nehir vadi boyunca okyanusa doğru akar."
+      }
+    ],
+    "synonyms": [
+      "seaward"
+    ],
+    "antonyms": [
+      "landward",
+      "inland"
+    ]
+  },
+  {
+    "id": "w_ocular",
+    "headword": "ocular",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒkjʊlə/",
+    "meanings": [
+      {
+        "tr": "göze ait, görsel",
+        "en": "relating to the eyes or vision",
+        "exampleEn": "The disease can cause serious ocular damage.",
+        "exampleTr": "Hastalık ciddi göz hasarına yol açabilir."
+      }
+    ],
+    "synonyms": [
+      "optical",
+      "visual"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_oddness",
+    "headword": "oddness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒdnəs/",
+    "meanings": [
+      {
+        "tr": "gariplik, tuhaflık",
+        "en": "the quality of being strange or unusual",
+        "exampleEn": "There was an oddness about the way he spoke.",
+        "exampleTr": "Konuşma tarzında bir tuhaflık vardı."
+      }
+    ],
+    "synonyms": [
+      "strangeness",
+      "peculiarity"
+    ],
+    "antonyms": [
+      "normality",
+      "ordinariness"
+    ]
+  },
+  {
+    "id": "w_odious",
+    "headword": "odious",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈəʊdiəs/",
+    "meanings": [
+      {
+        "tr": "iğrenç, nefret uyandıran",
+        "en": "extremely unpleasant and causing hatred",
+        "exampleEn": "He compared the two leaders in an odious way.",
+        "exampleTr": "İki lideri iğrenç bir şekilde kıyasladı."
+      }
+    ],
+    "synonyms": [
+      "hateful",
+      "repugnant",
+      "detestable"
+    ],
+    "antonyms": [
+      "pleasant",
+      "delightful"
+    ]
+  },
+  {
+    "id": "w_of",
+    "headword": "of",
+    "pos": "prep",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əv/",
+    "meanings": [
+      {
+        "tr": "-in, -nin (aitlik, ilgi belirtir)",
+        "en": "belonging to, relating to, or connected with something",
+        "exampleEn": "She is a friend of mine.",
+        "exampleTr": "O benim bir arkadaşımdır."
+      },
+      {
+        "tr": "-den, -dan (bir bütünün parçası)",
+        "en": "used to show an amount or part of something",
+        "exampleEn": "He drank a cup of coffee.",
+        "exampleTr": "Bir fincan kahve içti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_of_course",
+    "headword": "of course",
+    "pos": "adv",
+    "level": "A2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/əv ˈkɔːs/",
+    "meanings": [
+      {
+        "tr": "tabii ki, elbette",
+        "en": "used to say yes or to show that something is obvious or expected",
+        "exampleEn": "Of course you can come with us.",
+        "exampleTr": "Tabii ki bizimle gelebilirsin."
+      }
+    ],
+    "synonyms": [
+      "certainly",
+      "naturally",
+      "definitely"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_off_peak",
+    "headword": "off-peak",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɒfˈpiːk/",
+    "meanings": [
+      {
+        "tr": "yoğun olmayan (saat/dönem), sakin zaman",
+        "en": "during a period when demand or activity is lower than usual",
+        "exampleEn": "Train tickets are cheaper during off-peak hours.",
+        "exampleTr": "Tren biletleri yoğun olmayan saatlerde daha ucuzdur."
+      }
+    ],
+    "synonyms": [
+      "low-demand",
+      "quiet"
+    ],
+    "antonyms": [
+      "peak",
+      "busy"
+    ]
+  },
+  {
+    "id": "w_off_putting",
+    "headword": "off-putting",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒfˌpʊtɪŋ/",
+    "meanings": [
+      {
+        "tr": "soğutucu, iticilik veren, cesaret kırıcı",
+        "en": "unpleasant in a way that makes you not want something",
+        "exampleEn": "The smell was rather off-putting.",
+        "exampleTr": "Koku oldukça iticiydi."
+      }
+    ],
+    "synonyms": [
+      "unpleasant",
+      "discouraging",
+      "repellent"
+    ],
+    "antonyms": [
+      "appealing",
+      "attractive"
+    ]
+  },
+  {
+    "id": "w_offspring",
+    "headword": "offspring",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒfsprɪŋ/",
+    "meanings": [
+      {
+        "tr": "yavru, evlat, döl",
+        "en": "the young or children of a person or animal",
+        "exampleEn": "The birds feed their offspring several times a day.",
+        "exampleTr": "Kuşlar yavrularını günde birkaç kez besler."
+      }
+    ],
+    "synonyms": [
+      "children",
+      "young",
+      "progeny"
+    ],
+    "antonyms": [
+      "parents"
+    ]
+  },
+  {
+    "id": "w_older",
+    "headword": "older",
+    "pos": "adj",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈəʊldə/",
+    "meanings": [
+      {
+        "tr": "daha yaşlı, daha büyük (yaşça)",
+        "en": "comparative of old; having lived or existed for a longer time",
+        "exampleEn": "My older brother works in London.",
+        "exampleTr": "Benim ağabeyim Londra'da çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "elder"
+    ],
+    "antonyms": [
+      "younger"
+    ]
+  },
+  {
+    "id": "w_on_paper",
+    "headword": "on paper",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ɒn ˈpeɪpə/",
+    "meanings": [
+      {
+        "tr": "kâğıt üzerinde, teoride",
+        "en": "in theory rather than in reality; as it appears in writing",
+        "exampleEn": "On paper, the plan looks perfect, but it may fail in practice.",
+        "exampleTr": "Kâğıt üzerinde plan kusursuz görünüyor ama uygulamada başarısız olabilir."
+      }
+    ],
+    "synonyms": [
+      "in theory",
+      "theoretically"
+    ],
+    "antonyms": [
+      "in practice",
+      "in reality"
+    ]
+  },
+  {
+    "id": "w_on_the_contrary",
+    "headword": "on the contrary",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ɒn ðə ˈkɒntrəri/",
+    "meanings": [
+      {
+        "tr": "aksine, tam tersine",
+        "en": "used to say the opposite of what has just been said is true",
+        "exampleEn": "I'm not tired; on the contrary, I feel great.",
+        "exampleTr": "Yorgun değilim; aksine harika hissediyorum."
+      }
+    ],
+    "synonyms": [
+      "conversely",
+      "instead"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_on_the_other_hand",
+    "headword": "on the other hand",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ɒn ðə ˈʌðə hænd/",
+    "meanings": [
+      {
+        "tr": "öte yandan, diğer taraftan",
+        "en": "used to introduce a different or opposing point of view",
+        "exampleEn": "It's cheap; on the other hand, the quality is poor.",
+        "exampleTr": "Ucuz; öte yandan kalitesi düşük."
+      }
+    ],
+    "synonyms": [
+      "however",
+      "conversely"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_once_a_year",
+    "headword": "once-a-year",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌwʌns ə ˈjɪə/",
+    "meanings": [
+      {
+        "tr": "yılda bir kez olan, yıllık",
+        "en": "happening one time each year",
+        "exampleEn": "It is a once-a-year event that everyone looks forward to.",
+        "exampleTr": "Bu, herkesin dört gözle beklediği yılda bir kez olan bir etkinliktir."
+      }
+    ],
+    "synonyms": [
+      "annual",
+      "yearly"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_one_sided",
+    "headword": "one-sided",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌwʌnˈsaɪdɪd/",
+    "meanings": [
+      {
+        "tr": "tek taraflı, taraflı, önyargılı",
+        "en": "considering only one side or point of view; unfair",
+        "exampleEn": "The report gave a very one-sided account of the events.",
+        "exampleTr": "Rapor olayları çok tek taraflı bir şekilde aktardı."
+      },
+      {
+        "tr": "dengesiz (bir tarafın çok üstün olduğu)",
+        "en": "unequal, with one side much stronger than the other",
+        "exampleEn": "The match was a one-sided contest.",
+        "exampleTr": "Maç tek taraflı bir mücadeleydi."
+      }
+    ],
+    "synonyms": [
+      "biased",
+      "partial",
+      "unfair"
+    ],
+    "antonyms": [
+      "balanced",
+      "impartial"
+    ]
+  },
+  {
+    "id": "w_oneself",
+    "headword": "oneself",
+    "pos": "pron",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wʌnˈself/",
+    "meanings": [
+      {
+        "tr": "kendi, kişinin kendisi (dönüşlü zamir)",
+        "en": "used as the reflexive form of the pronoun 'one'",
+        "exampleEn": "It is important to take care of oneself.",
+        "exampleTr": "Kişinin kendine bakması önemlidir."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_ongoing",
+    "headword": "ongoing",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒnɡəʊɪŋ/",
+    "meanings": [
+      {
+        "tr": "devam eden, süregelen",
+        "en": "continuing to exist or develop",
+        "exampleEn": "The investigation is still ongoing.",
+        "exampleTr": "Soruşturma hâlâ devam ediyor."
+      }
+    ],
+    "synonyms": [
+      "continuing",
+      "current",
+      "in progress"
+    ],
+    "antonyms": [
+      "finished",
+      "completed"
+    ]
+  },
+  {
+    "id": "w_onset",
+    "headword": "onset",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒnset/",
+    "meanings": [
+      {
+        "tr": "başlangıç, ortaya çıkış (genellikle olumsuz bir şeyin)",
+        "en": "the beginning of something, especially something unpleasant",
+        "exampleEn": "The onset of winter brought heavy snow.",
+        "exampleTr": "Kışın başlaması yoğun kar getirdi."
+      }
+    ],
+    "synonyms": [
+      "beginning",
+      "start",
+      "outset"
+    ],
+    "antonyms": [
+      "end",
+      "conclusion"
+    ]
+  },
+  {
+    "id": "w_open_handed",
+    "headword": "open-handed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌəʊpənˈhændɪd/",
+    "meanings": [
+      {
+        "tr": "eli açık, cömert",
+        "en": "generous with money or possessions",
+        "exampleEn": "She was open-handed with her time and money.",
+        "exampleTr": "Zamanı ve parası konusunda eli açıktı."
+      }
+    ],
+    "synonyms": [
+      "generous",
+      "liberal",
+      "bountiful"
+    ],
+    "antonyms": [
+      "stingy",
+      "tight-fisted"
+    ]
+  },
+  {
+    "id": "w_open_mindedness",
+    "headword": "open-mindedness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌəʊpənˈmaɪndɪdnəs/",
+    "meanings": [
+      {
+        "tr": "açık fikirlilik, hoşgörülülük",
+        "en": "willingness to consider new ideas or opinions",
+        "exampleEn": "Her open-mindedness made her a great leader.",
+        "exampleTr": "Açık fikirliliği onu harika bir lider yaptı."
+      }
+    ],
+    "synonyms": [
+      "tolerance",
+      "receptiveness"
+    ],
+    "antonyms": [
+      "narrow-mindedness",
+      "prejudice"
+    ]
+  },
+  {
+    "id": "w_openhandedness",
+    "headword": "openhandedness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌəʊpənˈhændɪdnəs/",
+    "meanings": [
+      {
+        "tr": "cömertlik, eli açıklık",
+        "en": "the quality of being generous",
+        "exampleEn": "His openhandedness toward the poor was well known.",
+        "exampleTr": "Yoksullara karşı cömertliği herkesçe biliniyordu."
+      }
+    ],
+    "synonyms": [
+      "generosity",
+      "liberality"
+    ],
+    "antonyms": [
+      "stinginess",
+      "meanness"
+    ]
+  },
+  {
+    "id": "w_optimization",
+    "headword": "optimization",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɒptɪmaɪˈzeɪʃən/",
+    "meanings": [
+      {
+        "tr": "eniyileme, en uygun hale getirme",
+        "en": "the process of making something as effective or efficient as possible",
+        "exampleEn": "The company focused on the optimization of its supply chain.",
+        "exampleTr": "Şirket tedarik zincirini en uygun hale getirmeye odaklandı."
+      }
+    ],
+    "synonyms": [
+      "improvement",
+      "refinement"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_or",
+    "headword": "or",
+    "pos": "conj",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɔː/",
+    "meanings": [
+      {
+        "tr": "veya, ya da",
+        "en": "used to link alternatives",
+        "exampleEn": "Would you like tea or coffee?",
+        "exampleTr": "Çay mı yoksa kahve mi istersin?"
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_ordinariness",
+    "headword": "ordinariness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɔːdɪnərinəs/",
+    "meanings": [
+      {
+        "tr": "sıradanlık, olağanlık",
+        "en": "the quality of being usual and not special",
+        "exampleEn": "There is a certain beauty in the ordinariness of daily life.",
+        "exampleTr": "Günlük hayatın sıradanlığında belli bir güzellik vardır."
+      }
+    ],
+    "synonyms": [
+      "normality",
+      "commonness"
+    ],
+    "antonyms": [
+      "extraordinariness",
+      "uniqueness"
+    ]
+  },
+  {
+    "id": "w_organic_food",
+    "headword": "organic food",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ɔːˌɡænɪk ˈfuːd/",
+    "meanings": [
+      {
+        "tr": "organik gıda, doğal yöntemlerle üretilen yiyecek",
+        "en": "food produced without artificial chemicals or pesticides",
+        "exampleEn": "Many shoppers prefer organic food for health reasons.",
+        "exampleTr": "Birçok alışverişçi sağlık nedeniyle organik gıdayı tercih eder."
+      }
+    ],
+    "synonyms": [
+      "natural food"
+    ],
+    "antonyms": [
+      "processed food"
+    ]
+  },
+  {
+    "id": "w_organically",
+    "headword": "organically",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɔːˈɡænɪkli/",
+    "meanings": [
+      {
+        "tr": "organik olarak, doğal yöntemlerle",
+        "en": "in a way that uses no artificial chemicals",
+        "exampleEn": "These vegetables are grown organically.",
+        "exampleTr": "Bu sebzeler organik olarak yetiştirilir."
+      },
+      {
+        "tr": "doğal olarak, kendiliğinden gelişerek",
+        "en": "in a way that develops naturally and gradually",
+        "exampleEn": "The business grew organically over the years.",
+        "exampleTr": "İş yıllar içinde doğal olarak büyüdü."
+      }
+    ],
+    "synonyms": [
+      "naturally"
+    ],
+    "antonyms": [
+      "artificially"
+    ]
+  },
+  {
+    "id": "w_organiser",
+    "headword": "organiser",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɔːɡənaɪzə/",
+    "meanings": [
+      {
+        "tr": "düzenleyici, organizatör",
+        "en": "a person who plans and arranges an event or activity",
+        "exampleEn": "The organiser of the conference welcomed the guests.",
+        "exampleTr": "Konferansın düzenleyicisi misafirleri karşıladı."
+      },
+      {
+        "tr": "düzenleyici (eşya/araç), organizer",
+        "en": "a device or item used to keep things arranged and tidy",
+        "exampleEn": "She keeps her appointments in a personal organiser.",
+        "exampleTr": "Randevularını kişisel bir ajandada tutuyor."
+      }
+    ],
+    "synonyms": [
+      "coordinator",
+      "planner"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_oriental",
+    "headword": "oriental",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɔːriˈentl/",
+    "meanings": [
+      {
+        "tr": "doğuya ait, Doğu ile ilgili (özellikle Asya)",
+        "en": "relating to or characteristic of the East, especially Asia",
+        "exampleEn": "The room was decorated with oriental rugs.",
+        "exampleTr": "Oda doğu tarzı halılarla döşenmişti."
+      }
+    ],
+    "synonyms": [
+      "eastern"
+    ],
+    "antonyms": [
+      "occidental",
+      "western"
+    ]
+  },
+  {
+    "id": "w_orientation",
+    "headword": "orientation",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɔːriənˈteɪʃən/",
+    "meanings": [
+      {
+        "tr": "yönelim, eğilim; bakış açısı",
+        "en": "the type of aims or interests a person or organization has",
+        "exampleEn": "The company has a strong customer orientation.",
+        "exampleTr": "Şirketin güçlü bir müşteri yönelimi var."
+      },
+      {
+        "tr": "oryantasyon, tanıtım eğitimi",
+        "en": "training or information given to prepare someone for a new activity",
+        "exampleEn": "New employees attend an orientation on their first day.",
+        "exampleTr": "Yeni çalışanlar ilk günlerinde bir oryantasyona katılır."
+      }
+    ],
+    "synonyms": [
+      "direction",
+      "alignment",
+      "adjustment"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_original_edition",
+    "headword": "original edition",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/əˈrɪdʒɪnl ɪˈdɪʃən/",
+    "meanings": [
+      {
+        "tr": "orijinal baskı, ilk basım",
+        "en": "the first version of a book or publication as it was first produced",
+        "exampleEn": "Collectors pay a lot for the original edition of the novel.",
+        "exampleTr": "Koleksiyoncular romanın orijinal baskısına çok para öder."
+      }
+    ],
+    "synonyms": [
+      "first edition"
+    ],
+    "antonyms": [
+      "reprint"
+    ]
+  },
+  {
+    "id": "w_originator",
+    "headword": "originator",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈrɪdʒɪneɪtə/",
+    "meanings": [
+      {
+        "tr": "yaratıcı, ortaya atan, başlatan kişi",
+        "en": "a person who creates or starts something",
+        "exampleEn": "She is the originator of the idea.",
+        "exampleTr": "Fikri ortaya atan kişi odur."
+      }
+    ],
+    "synonyms": [
+      "creator",
+      "founder",
+      "inventor"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_orthodoxy",
+    "headword": "orthodoxy",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɔːθədɒksi/",
+    "meanings": [
+      {
+        "tr": "genel kabul görmüş görüş, ortodoksluk",
+        "en": "a generally accepted belief, opinion, or practice",
+        "exampleEn": "He challenged the economic orthodoxy of his time.",
+        "exampleTr": "Zamanının iktisadi genel kabullerine meydan okudu."
+      },
+      {
+        "tr": "(dini) inanca sıkı bağlılık, doğru inanç",
+        "en": "strict adherence to accepted religious beliefs",
+        "exampleEn": "Religious orthodoxy shaped every aspect of their lives.",
+        "exampleTr": "Dini ortodoksluk hayatlarının her yönünü şekillendirdi."
+      }
+    ],
+    "synonyms": [
+      "conventionality",
+      "conformity"
+    ],
+    "antonyms": [
+      "heresy",
+      "unorthodoxy"
+    ]
+  },
+  {
+    "id": "w_ostensibly",
+    "headword": "ostensibly",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɒsˈtensɪbli/",
+    "meanings": [
+      {
+        "tr": "görünüşte, sözde, iddiaya göre",
+        "en": "as appears or is stated to be true, though not necessarily so",
+        "exampleEn": "He left ostensibly for health reasons.",
+        "exampleTr": "Görünüşte sağlık nedeniyle ayrıldı."
+      }
+    ],
+    "synonyms": [
+      "apparently",
+      "seemingly",
+      "supposedly"
+    ],
+    "antonyms": [
+      "genuinely",
+      "actually"
+    ]
+  },
+  {
+    "id": "w_ostentatious",
+    "headword": "ostentatious",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɒstenˈteɪʃəs/",
+    "meanings": [
+      {
+        "tr": "gösterişli, göze batan, çalım satan",
+        "en": "designed to impress or attract attention in a showy way",
+        "exampleEn": "They lived in an ostentatious mansion.",
+        "exampleTr": "Gösterişli bir malikânede yaşıyorlardı."
+      }
+    ],
+    "synonyms": [
+      "showy",
+      "flashy",
+      "pretentious"
+    ],
+    "antonyms": [
+      "modest",
+      "understated"
+    ]
+  }
+]

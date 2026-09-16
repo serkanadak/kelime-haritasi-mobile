@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "w_garret",
+    "headword": "garret",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡærət/",
+    "meanings": [
+      {
+        "tr": "tavan arası oda, çatı katı odası",
+        "en": "a small, often unpleasant room at the top of a house, just under the roof",
+        "exampleEn": "The struggling poet lived in a cold garret above the bakery.",
+        "exampleTr": "Zorluk çeken şair, fırının üstündeki soğuk bir çatı arası odasında yaşıyordu."
+      }
+    ],
+    "synonyms": [
+      "attic",
+      "loft"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_gas_pedal",
+    "headword": "gas pedal",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡæs ˌpedl/",
+    "meanings": [
+      {
+        "tr": "gaz pedalı",
+        "en": "the pedal in a vehicle that you press with your foot to make it go faster",
+        "exampleEn": "She pressed the gas pedal and the car sped down the highway.",
+        "exampleTr": "Gaz pedalına bastı ve araba otoyolda hızlandı."
+      }
+    ],
+    "synonyms": [
+      "accelerator",
+      "throttle"
+    ],
+    "antonyms": [
+      "brake"
+    ]
+  },
+  {
+    "id": "w_gastronomy",
+    "headword": "gastronomy",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡæˈstrɒnəmi/",
+    "meanings": [
+      {
+        "tr": "gastronomi, iyi yemek yeme sanatı",
+        "en": "the art and knowledge of good eating and cooking",
+        "exampleEn": "French gastronomy is admired all over the world.",
+        "exampleTr": "Fransız gastronomisi tüm dünyada hayranlıkla karşılanır."
+      }
+    ],
+    "synonyms": [
+      "cuisine",
+      "cookery"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_gatekeeper",
+    "headword": "gatekeeper",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡeɪtkiːpər/",
+    "meanings": [
+      {
+        "tr": "kapı bekçisi; erişimi denetleyen kişi",
+        "en": "a person who controls access to something or someone",
+        "exampleEn": "The assistant acts as a gatekeeper, deciding who gets to meet the CEO.",
+        "exampleTr": "Asistan, CEO ile kimin görüşeceğine karar veren bir kapı bekçisi gibi davranır."
+      }
+    ],
+    "synonyms": [
+      "guardian",
+      "doorkeeper"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_gawky",
+    "headword": "gawky",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡɔːki/",
+    "meanings": [
+      {
+        "tr": "hantal, beceriksiz, sakar (özellikle uzun boylu genç için)",
+        "en": "awkward and clumsy in movement or manner, especially of a tall young person",
+        "exampleEn": "He was a gawky teenager who kept bumping into furniture.",
+        "exampleTr": "Sürekli mobilyalara çarpan sakar bir gençti."
+      }
+    ],
+    "synonyms": [
+      "clumsy",
+      "awkward",
+      "ungainly"
+    ],
+    "antonyms": [
+      "graceful"
+    ]
+  },
+  {
+    "id": "w_gawp",
+    "headword": "gawp",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡɔːp/",
+    "meanings": [
+      {
+        "tr": "aval aval bakmak, ağzı açık bakakalmak",
+        "en": "to stare at someone or something in a stupid or rude way",
+        "exampleEn": "Passers-by stopped to gawp at the wrecked car.",
+        "exampleTr": "Yoldan geçenler hurdaya dönmüş arabaya aval aval bakmak için durdular."
+      }
+    ],
+    "synonyms": [
+      "gape",
+      "gawk",
+      "stare"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_gee",
+    "headword": "gee",
+    "pos": "interjection",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dʒiː/",
+    "meanings": [
+      {
+        "tr": "vay, hadi canım, aa (şaşkınlık ya da coşku)",
+        "en": "used to express surprise, enthusiasm, or sympathy",
+        "exampleEn": "Gee, I didn't expect you to finish so quickly!",
+        "exampleTr": "Vay, bu kadar çabuk bitireceğini beklemiyordum!"
+      }
+    ],
+    "synonyms": [
+      "wow",
+      "gosh"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_generalities",
+    "headword": "generalities",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdʒenəˈrælətiz/",
+    "meanings": [
+      {
+        "tr": "genellemeler, genel ifadeler",
+        "en": "general statements that are not specific or detailed",
+        "exampleEn": "The speech was full of vague generalities and offered no real plan.",
+        "exampleTr": "Konuşma belirsiz genellemelerle doluydu ve gerçek bir plan sunmuyordu."
+      }
+    ],
+    "synonyms": [
+      "abstractions",
+      "platitudes"
+    ],
+    "antonyms": [
+      "specifics",
+      "details"
+    ]
+  },
+  {
+    "id": "w_genial",
+    "headword": "genial",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdʒiːniəl/",
+    "meanings": [
+      {
+        "tr": "güler yüzlü, cana yakın, sıcakkanlı",
+        "en": "friendly, cheerful, and pleasant",
+        "exampleEn": "Our host was a genial man who made everyone feel welcome.",
+        "exampleTr": "Ev sahibimiz herkese kendini hoş hissettiren cana yakın bir adamdı."
+      }
+    ],
+    "synonyms": [
+      "friendly",
+      "affable",
+      "cordial"
+    ],
+    "antonyms": [
+      "unfriendly",
+      "hostile"
+    ]
+  },
+  {
+    "id": "w_germicidal",
+    "headword": "germicidal",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdʒɜːrmɪˈsaɪdl/",
+    "meanings": [
+      {
+        "tr": "mikrop öldürücü",
+        "en": "capable of destroying germs or bacteria",
+        "exampleEn": "The hospital uses a germicidal solution to clean the surfaces.",
+        "exampleTr": "Hastane, yüzeyleri temizlemek için mikrop öldürücü bir solüsyon kullanıyor."
+      }
+    ],
+    "synonyms": [
+      "antibacterial",
+      "disinfectant"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_germinate",
+    "headword": "germinate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdʒɜːrmɪneɪt/",
+    "meanings": [
+      {
+        "tr": "filizlenmek, çimlenmek",
+        "en": "(of a seed) to begin to grow and develop",
+        "exampleEn": "The seeds will germinate within two weeks if kept warm and moist.",
+        "exampleTr": "Tohumlar, sıcak ve nemli tutulursa iki hafta içinde çimlenir."
+      },
+      {
+        "tr": "(fikir vb.) doğmak, gelişmeye başlamak",
+        "en": "(of an idea or feeling) to start to develop",
+        "exampleEn": "The plan began to germinate during their long conversation.",
+        "exampleTr": "Plan, uzun sohbetleri sırasında filizlenmeye başladı."
+      }
+    ],
+    "synonyms": [
+      "sprout",
+      "bud"
+    ],
+    "antonyms": [
+      "wither"
+    ]
+  },
+  {
+    "id": "w_gestural",
+    "headword": "gestural",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdʒestʃərəl/",
+    "meanings": [
+      {
+        "tr": "jestlerle ilgili, el kol hareketlerine dayalı",
+        "en": "relating to or using gestures",
+        "exampleEn": "Sign language relies on a rich gestural vocabulary.",
+        "exampleTr": "İşaret dili, zengin bir jest dağarcığına dayanır."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_get_out",
+    "headword": "get out",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡet ˈaʊt/",
+    "meanings": [
+      {
+        "tr": "çıkmak, dışarı çıkmak; inmek",
+        "en": "to leave a place, or to move out of something such as a vehicle",
+        "exampleEn": "Get out of the car; we've arrived.",
+        "exampleTr": "Arabadan in; geldik."
+      },
+      {
+        "tr": "defol, çık dışarı",
+        "en": "used to tell someone forcefully to leave",
+        "exampleEn": "He shouted at them to get out of his office.",
+        "exampleTr": "Onlara ofisinden defolup gitmelerini bağırdı."
+      }
+    ],
+    "synonyms": [
+      "leave",
+      "exit"
+    ],
+    "antonyms": [
+      "enter"
+    ]
+  },
+  {
+    "id": "w_get_to_the_point",
+    "headword": "get to the point",
+    "pos": "idiom",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡet tə ðə ˈpɔɪnt/",
+    "meanings": [
+      {
+        "tr": "sadede gelmek, asıl konuya gelmek",
+        "en": "to talk about the most important part of something without wasting time",
+        "exampleEn": "Stop rambling and get to the point.",
+        "exampleTr": "Lafı dolandırmayı bırak ve sadede gel."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_girder",
+    "headword": "girder",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡɜːrdər/",
+    "meanings": [
+      {
+        "tr": "kiriş, ana taşıyıcı kiriş (çelik veya beton)",
+        "en": "a large beam of steel or concrete used to build bridges and buildings",
+        "exampleEn": "Steel girders supported the weight of the new bridge.",
+        "exampleTr": "Çelik kirişler yeni köprünün ağırlığını taşıyordu."
+      }
+    ],
+    "synonyms": [
+      "beam",
+      "joist"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_give_out",
+    "headword": "give out",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡɪv ˈaʊt/",
+    "meanings": [
+      {
+        "tr": "dağıtmak, vermek",
+        "en": "to give something to many people",
+        "exampleEn": "The teacher gave out the exam papers to the students.",
+        "exampleTr": "Öğretmen sınav kağıtlarını öğrencilere dağıttı."
+      },
+      {
+        "tr": "tükenmek, bozulmak, çalışmaz hale gelmek",
+        "en": "to stop working or come to an end",
+        "exampleEn": "After ten years the old engine finally gave out.",
+        "exampleTr": "On yıl sonra eski motor sonunda tamamen bozuldu."
+      }
+    ],
+    "synonyms": [
+      "distribute",
+      "hand out"
+    ],
+    "antonyms": [
+      "collect"
+    ]
+  },
+  {
+    "id": "w_gizmo",
+    "headword": "gizmo",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡɪzmoʊ/",
+    "meanings": [
+      {
+        "tr": "alet, aygıt, zımbırtı (adı bilinmeyen küçük cihaz)",
+        "en": "a small device or gadget, especially one whose name you do not know",
+        "exampleEn": "He bought a clever little gizmo for opening jars.",
+        "exampleTr": "Kavanoz açmak için akıllıca küçük bir zımbırtı aldı."
+      }
+    ],
+    "synonyms": [
+      "gadget",
+      "device",
+      "contraption"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_glacis",
+    "headword": "glacis",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡlæsɪs/",
+    "meanings": [
+      {
+        "tr": "meyilli set, eğimli toprak siper (kale önündeki)",
+        "en": "a gently sloping bank, especially one in front of a fortification",
+        "exampleEn": "The attackers had to cross the open glacis under heavy fire.",
+        "exampleTr": "Saldırganlar, yoğun ateş altında açık eğimli siperi geçmek zorundaydı."
+      }
+    ],
+    "synonyms": [
+      "slope",
+      "incline"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_gladdened",
+    "headword": "gladdened",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡlædnd/",
+    "meanings": [
+      {
+        "tr": "sevindirdi, mutlu etti (gladden fiilinin geçmiş hali)",
+        "en": "made someone feel pleased or happy (past tense of gladden)",
+        "exampleEn": "The news of his recovery gladdened the whole family.",
+        "exampleTr": "İyileştiği haberi tüm aileyi sevindirdi."
+      }
+    ],
+    "synonyms": [
+      "delighted",
+      "cheered"
+    ],
+    "antonyms": [
+      "saddened"
+    ]
+  },
+  {
+    "id": "w_gladness",
+    "headword": "gladness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡlædnəs/",
+    "meanings": [
+      {
+        "tr": "sevinç, mutluluk, memnuniyet",
+        "en": "the feeling of being happy and pleased",
+        "exampleEn": "Her heart was filled with gladness at the sight of her old friend.",
+        "exampleTr": "Eski arkadaşını görünce kalbi sevinçle doldu."
+      }
+    ],
+    "synonyms": [
+      "joy",
+      "happiness",
+      "delight"
+    ],
+    "antonyms": [
+      "sadness",
+      "sorrow"
+    ]
+  },
+  {
+    "id": "w_gleefully",
+    "headword": "gleefully",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡliːfəli/",
+    "meanings": [
+      {
+        "tr": "neşeyle, sevinçle, keyifle",
+        "en": "in a way that shows happiness, often about something bad happening to someone else",
+        "exampleEn": "The children gleefully tore open their presents.",
+        "exampleTr": "Çocuklar hediyelerini neşeyle yırtarak açtılar."
+      }
+    ],
+    "synonyms": [
+      "joyfully",
+      "merrily"
+    ],
+    "antonyms": [
+      "gloomily",
+      "sadly"
+    ]
+  },
+  {
+    "id": "w_glisten",
+    "headword": "glisten",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡlɪsn/",
+    "meanings": [
+      {
+        "tr": "parıldamak, ışıldamak (özellikle ıslak veya yağlı yüzey)",
+        "en": "to shine because of being wet or oily",
+        "exampleEn": "Dewdrops glisten on the grass in the morning sun.",
+        "exampleTr": "Çiy taneleri sabah güneşinde çimenlerin üzerinde parıldıyor."
+      }
+    ],
+    "synonyms": [
+      "shimmer",
+      "sparkle",
+      "gleam"
+    ],
+    "antonyms": [
+      "dull"
+    ]
+  },
+  {
+    "id": "w_glistening",
+    "headword": "glistening",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡlɪsnɪŋ/",
+    "meanings": [
+      {
+        "tr": "parıldayan, ışıl ışıl (ıslak veya parlak)",
+        "en": "shining, especially because of being wet",
+        "exampleEn": "Her eyes were glistening with tears.",
+        "exampleTr": "Gözleri yaşlarla ışıl ışıl parlıyordu."
+      }
+    ],
+    "synonyms": [
+      "shimmering",
+      "sparkling",
+      "gleaming"
+    ],
+    "antonyms": [
+      "dull"
+    ]
+  },
+  {
+    "id": "w_gloating",
+    "headword": "gloating",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡloʊtɪŋ/",
+    "meanings": [
+      {
+        "tr": "başkasının başarısızlığından zevk alan, üstünlük taslayan",
+        "en": "showing smug or malicious satisfaction, especially at someone else's misfortune",
+        "exampleEn": "His gloating smile annoyed everyone in the room.",
+        "exampleTr": "Üstünlük taslayan gülümsemesi odadaki herkesi rahatsız etti."
+      }
+    ],
+    "synonyms": [
+      "smug",
+      "triumphant"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_globalism",
+    "headword": "globalism",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡloʊbəlɪzəm/",
+    "meanings": [
+      {
+        "tr": "küreselcilik, küresel bakış açısı/politika",
+        "en": "the belief that economic and foreign policy should be planned on a worldwide scale",
+        "exampleEn": "Critics of globalism argue that it weakens local industries.",
+        "exampleTr": "Küreselciliği eleştirenler, onun yerel sanayileri zayıflattığını savunuyor."
+      }
+    ],
+    "synonyms": [
+      "globalization",
+      "internationalism"
+    ],
+    "antonyms": [
+      "nationalism",
+      "isolationism"
+    ]
+  },
+  {
+    "id": "w_globular",
+    "headword": "globular",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡlɒbjələr/",
+    "meanings": [
+      {
+        "tr": "küresel, top biçiminde, yuvarlak",
+        "en": "shaped like a globe or ball",
+        "exampleEn": "The plant produces small globular fruits.",
+        "exampleTr": "Bitki küçük küresel meyveler üretir."
+      }
+    ],
+    "synonyms": [
+      "spherical",
+      "round"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_glocal",
+    "headword": "glocal",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡloʊkl/",
+    "meanings": [
+      {
+        "tr": "küreyerel (hem küresel hem yerel özellikleri birleştiren)",
+        "en": "combining global and local considerations, especially in business",
+        "exampleEn": "The company follows a glocal strategy, adapting global products to local tastes.",
+        "exampleTr": "Şirket, küresel ürünleri yerel zevklere uyarlayan küreyerel bir strateji izliyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_gloominess",
+    "headword": "gloominess",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡluːminəs/",
+    "meanings": [
+      {
+        "tr": "kasvet, karamsarlık, hüzün",
+        "en": "a feeling of sadness and lack of hope, or a dark and depressing quality",
+        "exampleEn": "The gloominess of the weather matched his low mood.",
+        "exampleTr": "Havanın kasveti onun düşük ruh haliyle uyuşuyordu."
+      }
+    ],
+    "synonyms": [
+      "melancholy",
+      "despondency"
+    ],
+    "antonyms": [
+      "cheerfulness",
+      "brightness"
+    ]
+  },
+  {
+    "id": "w_glower",
+    "headword": "glower",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡlaʊər/",
+    "meanings": [
+      {
+        "tr": "öfkeyle bakmak, ters ters bakmak",
+        "en": "to look at someone or something in an angry way",
+        "exampleEn": "She glowered at him across the table, refusing to speak.",
+        "exampleTr": "Masanın karşısından ona öfkeyle baktı, konuşmayı reddetti."
+      }
+    ],
+    "synonyms": [
+      "scowl",
+      "glare",
+      "frown"
+    ],
+    "antonyms": [
+      "smile"
+    ]
+  },
+  {
+    "id": "w_glut",
+    "headword": "glut",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡlʌt/",
+    "meanings": [
+      {
+        "tr": "aşırı bolluk, arz fazlası",
+        "en": "a supply of something that is much greater than can be sold or used",
+        "exampleEn": "A glut of oil on the market caused prices to fall sharply.",
+        "exampleTr": "Piyasadaki petrol fazlası fiyatların sert şekilde düşmesine neden oldu."
+      }
+    ],
+    "synonyms": [
+      "surplus",
+      "excess",
+      "oversupply"
+    ],
+    "antonyms": [
+      "shortage",
+      "scarcity"
+    ]
+  },
+  {
+    "id": "w_go_against_the_grain",
+    "headword": "go against the grain",
+    "pos": "idiom",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡoʊ əˌɡenst ðə ˈɡreɪn/",
+    "meanings": [
+      {
+        "tr": "yaradılışına/inancına ters düşmek, doğasına aykırı olmak",
+        "en": "to be different from what is normal or natural for someone, and therefore difficult",
+        "exampleEn": "It goes against the grain for her to ask anyone for help.",
+        "exampleTr": "Birinden yardım istemek onun yaradılışına ters düşüyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_go_out",
+    "headword": "go out",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡoʊ ˈaʊt/",
+    "meanings": [
+      {
+        "tr": "dışarı çıkmak, eğlenmeye çıkmak",
+        "en": "to leave your home to do something enjoyable, such as to a restaurant or party",
+        "exampleEn": "We're going out for dinner tonight.",
+        "exampleTr": "Bu akşam yemeğe çıkıyoruz."
+      },
+      {
+        "tr": "sönmek (ışık, ateş)",
+        "en": "(of a light or fire) to stop burning or shining",
+        "exampleEn": "The candle went out when the wind blew.",
+        "exampleTr": "Rüzgar esince mum söndü."
+      }
+    ],
+    "synonyms": [
+      "leave"
+    ],
+    "antonyms": [
+      "stay in"
+    ]
+  },
+  {
+    "id": "w_go_up",
+    "headword": "go up",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡoʊ ˈʌp/",
+    "meanings": [
+      {
+        "tr": "yükselmek, artmak (fiyat, sayı vb.)",
+        "en": "to increase in price, amount, or level",
+        "exampleEn": "House prices have gone up sharply this year.",
+        "exampleTr": "Bu yıl ev fiyatları keskin bir şekilde yükseldi."
+      }
+    ],
+    "synonyms": [
+      "rise",
+      "increase",
+      "climb"
+    ],
+    "antonyms": [
+      "go down",
+      "fall"
+    ]
+  },
+  {
+    "id": "w_go_with_the_flow",
+    "headword": "go with the flow",
+    "pos": "idiom",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡoʊ wɪð ðə ˈfloʊ/",
+    "meanings": [
+      {
+        "tr": "akışına bırakmak, olaylara uyum sağlamak",
+        "en": "to relax and accept a situation rather than trying to change or control it",
+        "exampleEn": "Don't plan every detail; just go with the flow.",
+        "exampleTr": "Her ayrıntıyı planlama; sadece akışına bırak."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_go_getter",
+    "headword": "go-getter",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡoʊˌɡetər/",
+    "meanings": [
+      {
+        "tr": "hırslı ve girişken kişi, başarı peşinde koşan kişi",
+        "en": "a person who is energetic, determined, and ambitious about succeeding",
+        "exampleEn": "The company is looking for a go-getter to lead its sales team.",
+        "exampleTr": "Şirket, satış ekibine liderlik edecek girişken ve hırslı biri arıyor."
+      }
+    ],
+    "synonyms": [
+      "achiever",
+      "self-starter",
+      "hustler"
+    ],
+    "antonyms": [
+      "slacker"
+    ]
+  },
+  {
+    "id": "w_gobble",
+    "headword": "gobble",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡɒbl/",
+    "meanings": [
+      {
+        "tr": "tıkınmak, hızlı ve gürültülü yemek",
+        "en": "to eat something very quickly and greedily",
+        "exampleEn": "He gobbled his breakfast and ran to catch the bus.",
+        "exampleTr": "Kahvaltısını hızla tıkındı ve otobüse yetişmek için koştu."
+      }
+    ],
+    "synonyms": [
+      "devour",
+      "wolf",
+      "guzzle"
+    ],
+    "antonyms": [
+      "nibble"
+    ]
+  },
+  {
+    "id": "w_godhead",
+    "headword": "godhead",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡɒdhed/",
+    "meanings": [
+      {
+        "tr": "ilahlık, Tanrılık, tanrısal öz",
+        "en": "the state or quality of being God; the divine nature",
+        "exampleEn": "Theologians have long debated the nature of the godhead.",
+        "exampleTr": "İlahiyatçılar uzun süredir tanrısallığın doğasını tartışmışlardır."
+      }
+    ],
+    "synonyms": [
+      "divinity",
+      "deity"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_godliness",
+    "headword": "godliness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡɒdlinəs/",
+    "meanings": [
+      {
+        "tr": "dindarlık, Tanrı'ya bağlılık, takva",
+        "en": "the quality of being religious and morally good",
+        "exampleEn": "They believed that cleanliness was next to godliness.",
+        "exampleTr": "Temizliğin dindarlığa yakın bir erdem olduğuna inanıyorlardı."
+      }
+    ],
+    "synonyms": [
+      "piety",
+      "devoutness",
+      "holiness"
+    ],
+    "antonyms": [
+      "ungodliness",
+      "impiety"
+    ]
+  },
+  {
+    "id": "w_going",
+    "headword": "going",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡoʊɪŋ/",
+    "meanings": [
+      {
+        "tr": "gidiş, ayrılış",
+        "en": "the act of leaving a place",
+        "exampleEn": "His going was a great loss to the whole team.",
+        "exampleTr": "Onun gidişi tüm takım için büyük bir kayıptı."
+      },
+      {
+        "tr": "koşullar, gidişat, ilerleme durumu",
+        "en": "the conditions that affect how easy or difficult it is to do something",
+        "exampleEn": "The path was steep, and the going was tough near the summit.",
+        "exampleTr": "Patika dikti ve zirveye yakın gidişat zorlaştı."
+      }
+    ],
+    "synonyms": [
+      "departure",
+      "progress"
+    ],
+    "antonyms": [
+      "arrival"
+    ]
+  },
+  {
+    "id": "w_good_afternoon",
+    "headword": "good afternoon",
+    "pos": "interjection",
+    "level": "A1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡʊd ˌɑːftərˈnuːn/",
+    "meanings": [
+      {
+        "tr": "iyi günler, tünaydın (öğleden sonra selamlaşma)",
+        "en": "used to greet someone politely in the afternoon",
+        "exampleEn": "Good afternoon, everyone; thank you for coming.",
+        "exampleTr": "İyi günler herkese; geldiğiniz için teşekkürler."
+      }
+    ],
+    "synonyms": [
+      "hello"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_good_morning",
+    "headword": "good morning",
+    "pos": "interjection",
+    "level": "A1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡʊd ˈmɔːrnɪŋ/",
+    "meanings": [
+      {
+        "tr": "günaydın (sabah selamlaşma)",
+        "en": "used to greet someone politely in the morning",
+        "exampleEn": "Good morning! Did you sleep well?",
+        "exampleTr": "Günaydın! İyi uyudun mu?"
+      }
+    ],
+    "synonyms": [
+      "hello"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_good_night",
+    "headword": "good night",
+    "pos": "interjection",
+    "level": "A1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡʊd ˈnaɪt/",
+    "meanings": [
+      {
+        "tr": "iyi geceler",
+        "en": "used when leaving someone or going to bed at night",
+        "exampleEn": "Good night, sleep well, and see you in the morning.",
+        "exampleTr": "İyi geceler, iyi uyu, sabah görüşürüz."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_good_turn",
+    "headword": "good turn",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡʊd ˈtɜːrn/",
+    "meanings": [
+      {
+        "tr": "iyilik, yardım eli",
+        "en": "a helpful action that you do for someone",
+        "exampleEn": "He did me a good turn by lending me his car.",
+        "exampleTr": "Arabasını ödünç vererek bana bir iyilik yaptı."
+      }
+    ],
+    "synonyms": [
+      "favor",
+      "kindness"
+    ],
+    "antonyms": [
+      "disservice"
+    ]
+  },
+  {
+    "id": "w_good_wishes",
+    "headword": "good wishes",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡʊd ˈwɪʃɪz/",
+    "meanings": [
+      {
+        "tr": "iyi dilekler, en iyi dilekler",
+        "en": "expressions of hope that good things will happen to someone",
+        "exampleEn": "Please send my good wishes to your family.",
+        "exampleTr": "Lütfen ailene iyi dileklerimi ilet."
+      }
+    ],
+    "synonyms": [
+      "best wishes",
+      "regards"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_good_humored",
+    "headword": "good-humored",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡʊd ˈhjuːmərd/",
+    "meanings": [
+      {
+        "tr": "güler yüzlü, neşeli, hoşgörülü",
+        "en": "friendly and pleasant, not easily made angry",
+        "exampleEn": "Despite the delays, she stayed good-humored throughout the trip.",
+        "exampleTr": "Gecikmelere rağmen yolculuk boyunca güler yüzlü kaldı."
+      }
+    ],
+    "synonyms": [
+      "cheerful",
+      "amiable",
+      "genial"
+    ],
+    "antonyms": [
+      "irritable",
+      "bad-tempered"
+    ]
+  }
+]

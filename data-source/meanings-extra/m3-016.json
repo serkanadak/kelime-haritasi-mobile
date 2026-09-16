@@ -1,0 +1,326 @@
+[
+  {
+    "id": "w_wood",
+    "headword": "wood",
+    "extraMeanings": [
+      {
+        "tr": "orman, koru",
+        "en": "a small forest; an area with many trees",
+        "exampleEn": "We went for a walk in the wood behind our house.",
+        "exampleTr": "Evimizin arkasındaki koruda yürüyüşe çıktık."
+      }
+    ]
+  },
+  {
+    "id": "w_zone",
+    "headword": "zone",
+    "extraMeanings": [
+      {
+        "tr": "kuşatmak/ayırmak (imar için bölge belirlemek, fiil)",
+        "en": "to divide an area into zones for a particular use",
+        "exampleEn": "The land was zoned for residential use only.",
+        "exampleTr": "Arazi yalnızca konut kullanımı için imara ayrıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_youth",
+    "headword": "youth",
+    "extraMeanings": [
+      {
+        "tr": "delikanlı, genç erkek",
+        "en": "a young man, especially a teenager",
+        "exampleEn": "A youth on a bicycle rode past us.",
+        "exampleTr": "Bisikletli bir delikanlı yanımızdan geçti."
+      },
+      {
+        "tr": "gençler, gençlik (genel olarak genç insanlar)",
+        "en": "young people considered as a group",
+        "exampleEn": "The youth of today face many challenges.",
+        "exampleTr": "Bugünün gençliği birçok zorlukla karşı karşıya."
+      }
+    ]
+  },
+  {
+    "id": "w_wine",
+    "headword": "wine",
+    "extraMeanings": [
+      {
+        "tr": "bordo rengi, koyu kırmızı (renk)",
+        "en": "a dark purplish-red colour",
+        "exampleEn": "She wore a dress in a deep wine colour.",
+        "exampleTr": "Koyu bordo renginde bir elbise giymişti."
+      }
+    ]
+  },
+  {
+    "id": "w_absolute",
+    "headword": "absolute",
+    "extraMeanings": [
+      {
+        "tr": "tam, düpedüz (vurgu için)",
+        "en": "used to emphasize something is complete or total",
+        "exampleEn": "What he said was absolute nonsense.",
+        "exampleTr": "Söyledikleri tam bir saçmalıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_absolutely",
+    "headword": "absolutely",
+    "extraMeanings": [
+      {
+        "tr": "kesinlikle (güçlü onay olarak: 'tabii ki')",
+        "en": "used to express strong agreement",
+        "exampleEn": "\"Do you agree?\" \"Absolutely!\"",
+        "exampleTr": "\"Katılıyor musun?\" \"Kesinlikle!\""
+      }
+    ]
+  },
+  {
+    "id": "w_absorb",
+    "headword": "absorb",
+    "extraMeanings": [
+      {
+        "tr": "tüm dikkatini çekmek, kendine kaptırmak",
+        "en": "to take up all of someone's attention or interest",
+        "exampleEn": "She was completely absorbed in her book.",
+        "exampleTr": "Kitabına tamamen kaptırmıştı kendini."
+      }
+    ]
+  },
+  {
+    "id": "w_abstract",
+    "headword": "abstract",
+    "extraMeanings": [
+      {
+        "tr": "özet, özetleme (bilimsel makalenin, isim)",
+        "en": "a short summary of an article or speech",
+        "exampleEn": "Please read the abstract before the full paper.",
+        "exampleTr": "Tam makaleden önce özeti okuyun lütfen."
+      }
+    ]
+  },
+  {
+    "id": "w_accent",
+    "headword": "accent",
+    "extraMeanings": [
+      {
+        "tr": "vurgu, önem verme (bir şeye ağırlık verme)",
+        "en": "special emphasis given to something",
+        "exampleEn": "This school puts the accent on creativity.",
+        "exampleTr": "Bu okul yaratıcılığa vurgu yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_access",
+    "headword": "access",
+    "extraMeanings": [
+      {
+        "tr": "erişmek, ulaşmak (bilgiye/dosyaya; fiil)",
+        "en": "to obtain or retrieve data or information",
+        "exampleEn": "You can access your files from any computer.",
+        "exampleTr": "Dosyalarına herhangi bir bilgisayardan erişebilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w_active",
+    "headword": "active",
+    "extraMeanings": [
+      {
+        "tr": "etken (dilbilgisinde etken çatı)",
+        "en": "in grammar, the form where the subject performs the action",
+        "exampleEn": "Change the sentence from passive to the active voice.",
+        "exampleTr": "Cümleyi edilgen çatıdan etken çatıya çevir."
+      }
+    ]
+  },
+  {
+    "id": "w_ad",
+    "headword": "ad",
+    "extraMeanings": [
+      {
+        "tr": "avantaj (teniste sayı durumu)",
+        "en": "advantage, a scoring situation in tennis",
+        "exampleEn": "It's ad in after that great serve.",
+        "exampleTr": "Bu harika servisten sonra sayı avantajı içeride."
+      }
+    ]
+  },
+  {
+    "id": "w_adapt",
+    "headword": "adapt",
+    "extraMeanings": [
+      {
+        "tr": "uyarlamak (kitabı film/oyun haline getirmek)",
+        "en": "to change a book or play for film, TV or stage",
+        "exampleEn": "The novel was adapted into a film last year.",
+        "exampleTr": "Roman geçen yıl filme uyarlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_admission",
+    "headword": "admission",
+    "extraMeanings": [
+      {
+        "tr": "giriş ücreti",
+        "en": "the money charged to enter a place",
+        "exampleEn": "Admission to the museum is ten dollars.",
+        "exampleTr": "Müzeye giriş on dolar."
+      }
+    ]
+  },
+  {
+    "id": "w_adopt",
+    "headword": "adopt",
+    "extraMeanings": [
+      {
+        "tr": "benimsemek, kabul etmek (yöntem/tutum)",
+        "en": "to start to use a particular method or attitude",
+        "exampleEn": "The company adopted a new safety policy.",
+        "exampleTr": "Şirket yeni bir güvenlik politikası benimsedi."
+      }
+    ]
+  },
+  {
+    "id": "w_affect",
+    "headword": "affect",
+    "extraMeanings": [
+      {
+        "tr": "duygulandırmak, etkilemek (duygusal olarak)",
+        "en": "to cause someone to feel strong emotions",
+        "exampleEn": "The sad news affected her deeply.",
+        "exampleTr": "Üzücü haber onu derinden etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "w_aid",
+    "headword": "aid",
+    "extraMeanings": [
+      {
+        "tr": "yardımcı araç/gereç",
+        "en": "a device or thing that helps you do something",
+        "exampleEn": "A hearing aid helped him understand the conversation.",
+        "exampleTr": "Bir işitme cihazı konuşmayı anlamasına yardımcı oldu."
+      },
+      {
+        "tr": "yardım etmek (fiil)",
+        "en": "to help someone or something",
+        "exampleEn": "The medicine aids digestion.",
+        "exampleTr": "İlaç sindirime yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w_aim",
+    "headword": "aim",
+    "extraMeanings": [
+      {
+        "tr": "nişan almak, yöneltmek (fiil)",
+        "en": "to point a weapon or object at a target",
+        "exampleEn": "He aimed the gun at the target.",
+        "exampleTr": "Silahı hedefe nişan aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_amp",
+    "headword": "amp",
+    "extraMeanings": [
+      {
+        "tr": "amper (elektrik akım birimi)",
+        "en": "a unit of electric current, an ampere",
+        "exampleEn": "This circuit can handle up to thirteen amps.",
+        "exampleTr": "Bu devre on üç ampere kadar dayanabilir."
+      }
+    ]
+  },
+  {
+    "id": "w_angle",
+    "headword": "angle",
+    "extraMeanings": [
+      {
+        "tr": "bakış açısı, açı (bir konuya yaklaşım)",
+        "en": "a particular way of considering something",
+        "exampleEn": "Let's look at the problem from a different angle.",
+        "exampleTr": "Soruna farklı bir açıdan bakalım."
+      }
+    ]
+  },
+  {
+    "id": "w_appeal",
+    "headword": "appeal",
+    "extraMeanings": [
+      {
+        "tr": "temyiz, itiraz (hukukta üst mahkemeye başvuru)",
+        "en": "a formal request to a higher court to change a decision",
+        "exampleEn": "His lawyer filed an appeal against the verdict.",
+        "exampleTr": "Avukatı karara karşı temyiz başvurusunda bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w_application",
+    "headword": "application",
+    "extraMeanings": [
+      {
+        "tr": "uygulama yazılımı, program (bilgisayar)",
+        "en": "a computer program designed for a particular purpose",
+        "exampleEn": "I downloaded a new application on my phone.",
+        "exampleTr": "Telefonuma yeni bir uygulama indirdim."
+      }
+    ]
+  },
+  {
+    "id": "w_approach",
+    "headword": "approach",
+    "extraMeanings": [
+      {
+        "tr": "yaklaşmak (mesafe olarak yakınlaşmak, fiil)",
+        "en": "to come near to something or someone",
+        "exampleEn": "As we approached the house, a dog started barking.",
+        "exampleTr": "Eve yaklaştığımızda bir köpek havlamaya başladı."
+      }
+    ]
+  },
+  {
+    "id": "w_arrest",
+    "headword": "arrest",
+    "extraMeanings": [
+      {
+        "tr": "tutuklamak (fiil)",
+        "en": "to catch someone and take them into police custody",
+        "exampleEn": "The police arrested him for theft.",
+        "exampleTr": "Polis onu hırsızlıktan tutukladı."
+      }
+    ]
+  },
+  {
+    "id": "w_army",
+    "headword": "army",
+    "extraMeanings": [
+      {
+        "tr": "ordu, kalabalık (çok sayıda kişi/şey)",
+        "en": "a very large number of people or things",
+        "exampleEn": "An army of volunteers cleaned up the beach.",
+        "exampleTr": "Bir gönüllü ordusu plajı temizledi."
+      }
+    ]
+  },
+  {
+    "id": "w_wise",
+    "headword": "wise",
+    "extraMeanings": [
+      {
+        "tr": "farkına varmak, uyanmak (wise up: bir şeyin farkına varmak)",
+        "en": "to become aware of the truth of a situation",
+        "exampleEn": "People are finally getting wise to the scam.",
+        "exampleTr": "İnsanlar sonunda dolandırıcılığın farkına varıyor."
+      }
+    ]
+  }
+]

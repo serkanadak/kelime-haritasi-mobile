@@ -1,0 +1,362 @@
+[
+  {
+    "id": "w_support",
+    "headword": "support",
+    "extraMeanings": [
+      {
+        "tr": "desteklemek (fiil)",
+        "en": "to help or encourage someone or something",
+        "exampleEn": "My family always supports me in whatever I do.",
+        "exampleTr": "Ailem ne yaparsam yapayım beni her zaman destekler."
+      },
+      {
+        "tr": "taraftarı olmak, tutmak (bir takımı)",
+        "en": "to like a particular sports team",
+        "exampleEn": "Which football team do you support?",
+        "exampleTr": "Hangi futbol takımını tutuyorsun?"
+      }
+    ]
+  },
+  {
+    "id": "w_survive",
+    "headword": "survive",
+    "extraMeanings": [
+      {
+        "tr": "atlatmak, üstesinden gelmek",
+        "en": "to continue to exist or manage in a difficult situation",
+        "exampleEn": "The company survived the economic crisis.",
+        "exampleTr": "Şirket ekonomik krizi atlattı."
+      }
+    ]
+  },
+  {
+    "id": "w_swallow",
+    "headword": "swallow",
+    "extraMeanings": [
+      {
+        "tr": "kırlangıç (kuş)",
+        "en": "a small bird with pointed wings and a forked tail",
+        "exampleEn": "A swallow built its nest under our roof.",
+        "exampleTr": "Bir kırlangıç çatımızın altına yuva yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_tap",
+    "headword": "tap",
+    "extraMeanings": [
+      {
+        "tr": "hafifçe vurmak, tıklatmak (fiil)",
+        "en": "to hit something gently, usually making a light sound",
+        "exampleEn": "She tapped him on the shoulder to get his attention.",
+        "exampleTr": "Dikkatini çekmek için omzuna hafifçe vurdu."
+      }
+    ]
+  },
+  {
+    "id": "w_tape",
+    "headword": "tape",
+    "extraMeanings": [
+      {
+        "tr": "bantla yapıştırmak; kaydetmek (fiil)",
+        "en": "to record sound or pictures, or to fasten with tape",
+        "exampleEn": "He taped the concert on his phone.",
+        "exampleTr": "Konseri telefonuna kaydetti."
+      }
+    ]
+  },
+  {
+    "id": "w_target",
+    "headword": "target",
+    "extraMeanings": [
+      {
+        "tr": "nişan tahtası, hedef tahtası",
+        "en": "an object you try to hit when shooting",
+        "exampleEn": "The arrow hit the centre of the target.",
+        "exampleTr": "Ok, hedef tahtasının ortasına isabet etti."
+      }
+    ]
+  },
+  {
+    "id": "w_tear",
+    "headword": "tear",
+    "extraMeanings": [
+      {
+        "tr": "yırtmak (fiil)",
+        "en": "to pull something apart or into pieces",
+        "exampleEn": "Be careful not to tear the paper.",
+        "exampleTr": "Kağıdı yırtmamaya dikkat et."
+      }
+    ]
+  },
+  {
+    "id": "w_text",
+    "headword": "text",
+    "extraMeanings": [
+      {
+        "tr": "mesaj atmak, kısa mesaj göndermek (fiil)",
+        "en": "to send someone a written message on a phone",
+        "exampleEn": "I'll text you when I arrive.",
+        "exampleTr": "Vardığımda sana mesaj atarım."
+      }
+    ]
+  },
+  {
+    "id": "w_tip",
+    "headword": "tip",
+    "extraMeanings": [
+      {
+        "tr": "uç, uç kısım",
+        "en": "the pointed end of something",
+        "exampleEn": "The tip of my finger was bleeding.",
+        "exampleTr": "Parmağımın ucu kanıyordu."
+      },
+      {
+        "tr": "devirmek, eğmek (fiil)",
+        "en": "to move so one side is higher, or to pour by tilting",
+        "exampleEn": "He tipped the box and all the toys fell out.",
+        "exampleTr": "Kutuyu eğdi ve bütün oyuncaklar döküldü."
+      }
+    ]
+  },
+  {
+    "id": "w_title",
+    "headword": "title",
+    "extraMeanings": [
+      {
+        "tr": "unvan, sıfat (Bay, Dr. gibi)",
+        "en": "a word used before a name to show rank or profession",
+        "exampleEn": "\"Doctor\" is a title used before a name.",
+        "exampleTr": "\"Doktor\" bir ismin önünde kullanılan bir unvandır."
+      },
+      {
+        "tr": "şampiyonluk, kupa",
+        "en": "the position of being the champion in a sport",
+        "exampleEn": "The team won the title for the third year in a row.",
+        "exampleTr": "Takım üst üste üçüncü yıl şampiyonluğu kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_toast",
+    "headword": "toast",
+    "extraMeanings": [
+      {
+        "tr": "kadeh kaldırmak, şerefe içmek",
+        "en": "to raise a glass and drink in honour of someone",
+        "exampleEn": "Let's drink a toast to the happy couple.",
+        "exampleTr": "Haydi mutlu çift şerefine kadeh kaldıralım."
+      }
+    ]
+  },
+  {
+    "id": "w_tour",
+    "headword": "tour",
+    "extraMeanings": [
+      {
+        "tr": "turne (sanatçı, takım için)",
+        "en": "a series of performances or games in different places",
+        "exampleEn": "The band is on tour in Europe this summer.",
+        "exampleTr": "Grup bu yaz Avrupa turnesinde."
+      }
+    ]
+  },
+  {
+    "id": "w_track",
+    "headword": "track",
+    "extraMeanings": [
+      {
+        "tr": "şarkı, parça (albümdeki)",
+        "en": "a single song or piece of music on an album",
+        "exampleEn": "My favourite track on the album is the last one.",
+        "exampleTr": "Albümdeki en sevdiğim parça sonuncusu."
+      },
+      {
+        "tr": "izini takip etmek, izlemek (fiil)",
+        "en": "to follow the movements of a person or thing",
+        "exampleEn": "The app lets you track your package.",
+        "exampleTr": "Uygulama paketinin izini takip etmene olanak tanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_trade",
+    "headword": "trade",
+    "extraMeanings": [
+      {
+        "tr": "meslek, zanaat",
+        "en": "a job that needs special skill with your hands",
+        "exampleEn": "He learned his trade as a carpenter from his father.",
+        "exampleTr": "Marangozluk mesleğini babasından öğrendi."
+      },
+      {
+        "tr": "takas etmek, değiş tokuş yapmak (fiil)",
+        "en": "to exchange one thing for another",
+        "exampleEn": "I traded my old bike for a skateboard.",
+        "exampleTr": "Eski bisikletimi bir kaykayla takas ettim."
+      }
+    ]
+  },
+  {
+    "id": "w_trap",
+    "headword": "trap",
+    "extraMeanings": [
+      {
+        "tr": "kapana kıstırmak, hapsetmek (fiil)",
+        "en": "to catch or keep someone in a place they cannot escape from",
+        "exampleEn": "The workers were trapped inside the burning building.",
+        "exampleTr": "İşçiler yanan binanın içinde kapana kısılmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_trick",
+    "headword": "trick",
+    "extraMeanings": [
+      {
+        "tr": "kandırmak, aldatmak (fiil)",
+        "en": "to deceive someone in order to get something",
+        "exampleEn": "He tricked me into giving him my password.",
+        "exampleTr": "Beni kandırıp şifremi almasını sağladı."
+      }
+    ]
+  },
+  {
+    "id": "w_tune",
+    "headword": "tune",
+    "extraMeanings": [
+      {
+        "tr": "akort etmek, ayarlamak (fiil)",
+        "en": "to adjust an instrument or a radio/TV",
+        "exampleEn": "The musician tuned his guitar before the concert.",
+        "exampleTr": "Müzisyen konserden önce gitarını akort etti."
+      }
+    ]
+  },
+  {
+    "id": "w_up",
+    "headword": "up",
+    "extraMeanings": [
+      {
+        "tr": "bitmiş, sona ermiş (zaman için)",
+        "en": "finished; when a period of time has ended",
+        "exampleEn": "Time is up; please put your pens down.",
+        "exampleTr": "Süre doldu; lütfen kalemlerinizi bırakın."
+      }
+    ]
+  },
+  {
+    "id": "w_upset",
+    "headword": "upset",
+    "extraMeanings": [
+      {
+        "tr": "üzmek, keyfini kaçırmak (fiil)",
+        "en": "to make someone feel unhappy or worried",
+        "exampleEn": "The bad news really upset her.",
+        "exampleTr": "Kötü haber onu gerçekten üzdü."
+      },
+      {
+        "tr": "bozuk (mide için)",
+        "en": "slightly ill in the stomach",
+        "exampleEn": "I have an upset stomach after eating too much.",
+        "exampleTr": "Çok fazla yedikten sonra midem bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w_use",
+    "headword": "use",
+    "extraMeanings": [
+      {
+        "tr": "kullanmak (fiil)",
+        "en": "to do something with a tool, object, or method",
+        "exampleEn": "Can I use your phone for a minute?",
+        "exampleTr": "Telefonunu bir dakika kullanabilir miyim?"
+      }
+    ]
+  },
+  {
+    "id": "w_value",
+    "headword": "value",
+    "extraMeanings": [
+      {
+        "tr": "değer vermek, kıymet vermek (fiil)",
+        "en": "to think that something is important",
+        "exampleEn": "I really value your friendship.",
+        "exampleTr": "Arkadaşlığına gerçekten değer veriyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_view",
+    "headword": "view",
+    "extraMeanings": [
+      {
+        "tr": "görüş, fikir, bakış açısı",
+        "en": "an opinion or way of thinking about something",
+        "exampleEn": "In my view, we should leave earlier.",
+        "exampleTr": "Bence daha erken çıkmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w_wave",
+    "headword": "wave",
+    "extraMeanings": [
+      {
+        "tr": "el sallamak (fiil)",
+        "en": "to move your hand as a greeting or signal",
+        "exampleEn": "She waved goodbye from the train window.",
+        "exampleTr": "Tren penceresinden el sallayarak veda etti."
+      }
+    ]
+  },
+  {
+    "id": "w_weight",
+    "headword": "weight",
+    "extraMeanings": [
+      {
+        "tr": "ağırlık (halter, spor aleti)",
+        "en": "a heavy object lifted for exercise",
+        "exampleEn": "He lifts weights at the gym every morning.",
+        "exampleTr": "Her sabah spor salonunda ağırlık kaldırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_west",
+    "headword": "west",
+    "extraMeanings": [
+      {
+        "tr": "batı (yön, isim)",
+        "en": "the direction where the sun goes down",
+        "exampleEn": "The sun sets in the west.",
+        "exampleTr": "Güneş batıda batar."
+      }
+    ]
+  },
+  {
+    "id": "w_whole",
+    "headword": "whole",
+    "extraMeanings": [
+      {
+        "tr": "bütün, tamamı (isim olarak)",
+        "en": "a complete thing made of all its parts",
+        "exampleEn": "The two halves make a whole.",
+        "exampleTr": "İki yarım bir bütün eder."
+      }
+    ]
+  },
+  {
+    "id": "w_wild",
+    "headword": "wild",
+    "extraMeanings": [
+      {
+        "tr": "çılgın, coşkun, kontrolsüz",
+        "en": "very excited, uncontrolled, or full of energy",
+        "exampleEn": "The crowd went wild when the band came on stage.",
+        "exampleTr": "Grup sahneye çıkınca kalabalık çılgına döndü."
+      }
+    ]
+  }
+]

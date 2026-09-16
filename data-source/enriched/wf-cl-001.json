@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "w_a_bit",
+    "headword": "a bit",
+    "pos": "phrase",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ə ˈbɪt/",
+    "meanings": [
+      {
+        "tr": "biraz, azıcık",
+        "en": "a small amount or to a small degree",
+        "exampleEn": "I'm a bit tired after the long trip.",
+        "exampleTr": "Uzun yolculuktan sonra biraz yorgunum."
+      }
+    ],
+    "synonyms": [
+      "a little",
+      "slightly",
+      "somewhat"
+    ],
+    "antonyms": [
+      "a lot"
+    ]
+  },
+  {
+    "id": "w_a_couple_of",
+    "headword": "a couple of",
+    "pos": "phrase",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ə ˈkʌpəl əv/",
+    "meanings": [
+      {
+        "tr": "birkaç, iki tane",
+        "en": "two, or a small number of, things or people",
+        "exampleEn": "I'll be ready in a couple of minutes.",
+        "exampleTr": "Birkaç dakika içinde hazır olurum."
+      }
+    ],
+    "synonyms": [
+      "a few",
+      "two",
+      "some"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_a_few",
+    "headword": "a few",
+    "pos": "phrase",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ə ˈfjuː/",
+    "meanings": [
+      {
+        "tr": "birkaç, birazcık",
+        "en": "a small number of people or things",
+        "exampleEn": "There are a few apples left in the basket.",
+        "exampleTr": "Sepette birkaç elma kaldı."
+      }
+    ],
+    "synonyms": [
+      "some",
+      "several",
+      "a couple of"
+    ],
+    "antonyms": [
+      "many",
+      "a lot"
+    ]
+  },
+  {
+    "id": "w_a_lot",
+    "headword": "a lot",
+    "pos": "phrase",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ə ˈlɒt/",
+    "meanings": [
+      {
+        "tr": "çok, bir sürü",
+        "en": "a large amount or number; very much",
+        "exampleEn": "She spends a lot of money on clothes.",
+        "exampleTr": "Kıyafetlere çok para harcıyor."
+      }
+    ],
+    "synonyms": [
+      "much",
+      "plenty",
+      "loads"
+    ],
+    "antonyms": [
+      "a little",
+      "a bit"
+    ]
+  },
+  {
+    "id": "w_abandonment",
+    "headword": "abandonment",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈbændənmənt/",
+    "meanings": [
+      {
+        "tr": "terk etme, bırakma",
+        "en": "the act of leaving someone or something completely, or of giving something up",
+        "exampleEn": "The child suffered from a deep fear of abandonment.",
+        "exampleTr": "Çocuk derin bir terk edilme korkusu yaşadı."
+      },
+      {
+        "tr": "vazgeçme, terk",
+        "en": "the giving up of a plan, right, or activity",
+        "exampleEn": "The abandonment of the project cost the company millions.",
+        "exampleTr": "Projeden vazgeçilmesi şirkete milyonlara mal oldu."
+      }
+    ],
+    "synonyms": [
+      "desertion",
+      "relinquishment"
+    ],
+    "antonyms": [
+      "retention",
+      "continuation"
+    ]
+  },
+  {
+    "id": "w_abbreviate",
+    "headword": "abbreviate",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈbriːvieɪt/",
+    "meanings": [
+      {
+        "tr": "kısaltmak",
+        "en": "to make a word or phrase shorter by leaving out letters or using only the first letters",
+        "exampleEn": "You can abbreviate \"Doctor\" to \"Dr.\"",
+        "exampleTr": "\"Doctor\" kelimesini \"Dr.\" olarak kısaltabilirsin."
+      }
+    ],
+    "synonyms": [
+      "shorten",
+      "abridge",
+      "condense"
+    ],
+    "antonyms": [
+      "lengthen",
+      "expand"
+    ]
+  },
+  {
+    "id": "w_abdomen",
+    "headword": "abdomen",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈæbdəmən/",
+    "meanings": [
+      {
+        "tr": "karın, karın bölgesi",
+        "en": "the part of the body between the chest and the legs containing the stomach and other organs",
+        "exampleEn": "He felt a sharp pain in his abdomen.",
+        "exampleTr": "Karnında keskin bir ağrı hissetti."
+      }
+    ],
+    "synonyms": [
+      "belly",
+      "stomach",
+      "gut"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_abductor",
+    "headword": "abductor",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/æbˈdʌktər/",
+    "meanings": [
+      {
+        "tr": "kaçıran kimse, adam kaçıran",
+        "en": "a person who takes someone away illegally by force or deception",
+        "exampleEn": "The police finally caught the abductor after a long search.",
+        "exampleTr": "Polis uzun bir aramadan sonra sonunda kaçıranı yakaladı."
+      }
+    ],
+    "synonyms": [
+      "kidnapper",
+      "captor"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_aberration",
+    "headword": "aberration",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌæbəˈreɪʃən/",
+    "meanings": [
+      {
+        "tr": "sapma, anormallik, olağandışılık",
+        "en": "a temporary change from what is normal or expected, usually one that is not good",
+        "exampleEn": "The sudden drop in sales was just a temporary aberration.",
+        "exampleTr": "Satışlardaki ani düşüş sadece geçici bir sapmaydı."
+      }
+    ],
+    "synonyms": [
+      "anomaly",
+      "deviation",
+      "irregularity"
+    ],
+    "antonyms": [
+      "norm",
+      "regularity"
+    ]
+  },
+  {
+    "id": "w_abhor",
+    "headword": "abhor",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈhɔːr/",
+    "meanings": [
+      {
+        "tr": "nefret etmek, tiksinmek",
+        "en": "to hate a way of behaving or thinking, often because you think it is morally wrong",
+        "exampleEn": "I abhor all forms of cruelty to animals.",
+        "exampleTr": "Hayvanlara yapılan her türlü zulümden nefret ederim."
+      }
+    ],
+    "synonyms": [
+      "detest",
+      "loathe",
+      "despise"
+    ],
+    "antonyms": [
+      "love",
+      "adore"
+    ]
+  },
+  {
+    "id": "w_abnormality",
+    "headword": "abnormality",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌæbnɔːˈmæləti/",
+    "meanings": [
+      {
+        "tr": "anormallik, düzensizlik",
+        "en": "a feature or condition that is not normal, especially one that causes illness or harm",
+        "exampleEn": "The scan revealed an abnormality in the patient's heart.",
+        "exampleTr": "Tarama, hastanın kalbinde bir anormallik olduğunu ortaya çıkardı."
+      }
+    ],
+    "synonyms": [
+      "irregularity",
+      "deformity",
+      "anomaly"
+    ],
+    "antonyms": [
+      "normality"
+    ]
+  },
+  {
+    "id": "w_abode",
+    "headword": "abode",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈbəʊd/",
+    "meanings": [
+      {
+        "tr": "ikametgah, konut, mesken",
+        "en": "the place where someone lives",
+        "exampleEn": "Welcome to my humble abode.",
+        "exampleTr": "Mütevazı meskenime hoş geldin."
+      }
+    ],
+    "synonyms": [
+      "residence",
+      "dwelling",
+      "home"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_abolition",
+    "headword": "abolition",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌæbəˈlɪʃən/",
+    "meanings": [
+      {
+        "tr": "kaldırma, ilga, lağvetme",
+        "en": "the act of ending an activity or custom officially",
+        "exampleEn": "The abolition of slavery was a major turning point in history.",
+        "exampleTr": "Köleliğin kaldırılması tarihte önemli bir dönüm noktasıydı."
+      }
+    ],
+    "synonyms": [
+      "elimination",
+      "eradication",
+      "repeal"
+    ],
+    "antonyms": [
+      "establishment",
+      "creation"
+    ]
+  },
+  {
+    "id": "w_aboveground",
+    "headword": "aboveground",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈbʌvɡraʊnd/",
+    "meanings": [
+      {
+        "tr": "yer üstünde, toprak üstündeki",
+        "en": "located on or above the surface of the ground",
+        "exampleEn": "They installed an aboveground swimming pool in the backyard.",
+        "exampleTr": "Arka bahçeye yer üstü havuzu kurdular."
+      }
+    ],
+    "synonyms": [
+      "surface",
+      "overground"
+    ],
+    "antonyms": [
+      "underground",
+      "belowground"
+    ]
+  },
+  {
+    "id": "w_abridge",
+    "headword": "abridge",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈbrɪdʒ/",
+    "meanings": [
+      {
+        "tr": "kısaltmak, özetlemek",
+        "en": "to make a book, play, or other piece of writing shorter",
+        "exampleEn": "They decided to abridge the novel for younger readers.",
+        "exampleTr": "Romanı genç okuyucular için kısaltmaya karar verdiler."
+      }
+    ],
+    "synonyms": [
+      "shorten",
+      "condense",
+      "abbreviate"
+    ],
+    "antonyms": [
+      "expand",
+      "lengthen"
+    ]
+  },
+  {
+    "id": "w_absenteeism",
+    "headword": "absenteeism",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌæbsənˈtiːɪzəm/",
+    "meanings": [
+      {
+        "tr": "işe devamsızlık, gelmezlik",
+        "en": "the fact of being frequently away from work or school, especially without a good reason",
+        "exampleEn": "High absenteeism among staff is costing the company money.",
+        "exampleTr": "Personel arasındaki yüksek devamsızlık şirkete para kaybettiriyor."
+      }
+    ],
+    "synonyms": [
+      "truancy",
+      "non-attendance"
+    ],
+    "antonyms": [
+      "attendance",
+      "presence"
+    ]
+  },
+  {
+    "id": "w_absentmindedly",
+    "headword": "absentmindedly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌæbsəntˈmaɪndɪdli/",
+    "meanings": [
+      {
+        "tr": "dalgın dalgın, dalgınlıkla",
+        "en": "in a way that shows you are thinking about something else and not paying attention",
+        "exampleEn": "She absentmindedly stirred her coffee while staring out the window.",
+        "exampleTr": "Pencereden dışarı bakarken dalgın dalgın kahvesini karıştırdı."
+      }
+    ],
+    "synonyms": [
+      "distractedly",
+      "inattentively"
+    ],
+    "antonyms": [
+      "attentively",
+      "carefully"
+    ]
+  },
+  {
+    "id": "w_absorption",
+    "headword": "absorption",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈzɔːpʃən/",
+    "meanings": [
+      {
+        "tr": "emme, soğurma",
+        "en": "the process of taking in a liquid, gas, or other substance",
+        "exampleEn": "The absorption of water by the roots keeps the plant alive.",
+        "exampleTr": "Suyun kökler tarafından emilmesi bitkiyi canlı tutar."
+      },
+      {
+        "tr": "dalma, kendini verme",
+        "en": "the state of being completely interested in something",
+        "exampleEn": "Her absorption in the book was so deep she didn't hear the doorbell.",
+        "exampleTr": "Kitaba öyle dalmıştı ki kapı zilini duymadı."
+      }
+    ],
+    "synonyms": [
+      "assimilation",
+      "uptake"
+    ],
+    "antonyms": [
+      "release",
+      "emission"
+    ]
+  },
+  {
+    "id": "w_abstain",
+    "headword": "abstain",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈsteɪn/",
+    "meanings": [
+      {
+        "tr": "kaçınmak, uzak durmak",
+        "en": "to not do something, especially something enjoyable that you think might be bad",
+        "exampleEn": "He decided to abstain from alcohol during the training season.",
+        "exampleTr": "Antrenman döneminde alkolden uzak durmaya karar verdi."
+      },
+      {
+        "tr": "oy kullanmamak, çekimser kalmak",
+        "en": "to choose not to vote",
+        "exampleEn": "Three members voted in favour and two abstained.",
+        "exampleTr": "Üç üye lehte oy kullandı, ikisi çekimser kaldı."
+      }
+    ],
+    "synonyms": [
+      "refrain",
+      "forgo",
+      "desist"
+    ],
+    "antonyms": [
+      "indulge",
+      "partake"
+    ]
+  },
+  {
+    "id": "w_abstemious",
+    "headword": "abstemious",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈstiːmiəs/",
+    "meanings": [
+      {
+        "tr": "perhizkâr, ölçülü, az yiyip içen",
+        "en": "not allowing yourself to have much food or many enjoyable things, especially alcohol",
+        "exampleEn": "He led an abstemious life, eating little and drinking no alcohol.",
+        "exampleTr": "Az yiyerek ve alkol içmeyerek ölçülü bir hayat sürdü."
+      }
+    ],
+    "synonyms": [
+      "temperate",
+      "moderate",
+      "austere"
+    ],
+    "antonyms": [
+      "indulgent",
+      "gluttonous"
+    ]
+  },
+  {
+    "id": "w_abstinence",
+    "headword": "abstinence",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈæbstɪnəns/",
+    "meanings": [
+      {
+        "tr": "perhiz, kendini tutma, sakınma",
+        "en": "the practice of not doing or having something that is enjoyable but possibly harmful",
+        "exampleEn": "The doctor recommended total abstinence from alcohol.",
+        "exampleTr": "Doktor alkolden tamamen uzak durmayı önerdi."
+      }
+    ],
+    "synonyms": [
+      "self-denial",
+      "temperance",
+      "sobriety"
+    ],
+    "antonyms": [
+      "indulgence",
+      "excess"
+    ]
+  },
+  {
+    "id": "w_abstinent",
+    "headword": "abstinent",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈæbstɪnənt/",
+    "meanings": [
+      {
+        "tr": "perhizkâr, sakınan, kendini tutan",
+        "en": "choosing not to do or have something enjoyable, especially food, alcohol, or sex",
+        "exampleEn": "He has remained abstinent from alcohol for over ten years.",
+        "exampleTr": "On yıldan fazla süredir alkolden uzak durdu."
+      }
+    ],
+    "synonyms": [
+      "temperate",
+      "abstemious",
+      "self-restrained"
+    ],
+    "antonyms": [
+      "indulgent",
+      "self-indulgent"
+    ]
+  },
+  {
+    "id": "w_abyss",
+    "headword": "abyss",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈbɪs/",
+    "meanings": [
+      {
+        "tr": "uçurum, dipsiz derinlik",
+        "en": "a very deep hole that seems to have no bottom",
+        "exampleEn": "They stood at the edge of the abyss, looking down into darkness.",
+        "exampleTr": "Uçurumun kenarında durup karanlığa baktılar."
+      },
+      {
+        "tr": "felaket, çöküş uçurumu",
+        "en": "a difficult situation that brings trouble or destruction",
+        "exampleEn": "The country was sliding into an economic abyss.",
+        "exampleTr": "Ülke ekonomik bir uçuruma doğru kayıyordu."
+      }
+    ],
+    "synonyms": [
+      "chasm",
+      "gulf",
+      "void"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_acceptably",
+    "headword": "acceptably",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əkˈseptəbli/",
+    "meanings": [
+      {
+        "tr": "kabul edilebilir şekilde, yeterince",
+        "en": "in a way that is good enough or satisfactory",
+        "exampleEn": "The team performed acceptably, though not brilliantly.",
+        "exampleTr": "Takım parlak olmasa da kabul edilebilir bir performans gösterdi."
+      }
+    ],
+    "synonyms": [
+      "satisfactorily",
+      "adequately",
+      "tolerably"
+    ],
+    "antonyms": [
+      "unacceptably",
+      "inadequately"
+    ]
+  },
+  {
+    "id": "w_acclaim",
+    "headword": "acclaim",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈkleɪm/",
+    "meanings": [
+      {
+        "tr": "övgü, alkış, beğeni",
+        "en": "public approval and praise",
+        "exampleEn": "The film received widespread critical acclaim.",
+        "exampleTr": "Film geniş çapta eleştirmen övgüsü aldı."
+      },
+      {
+        "tr": "övmek, alkışlamak",
+        "en": "to praise someone or something publicly",
+        "exampleEn": "Critics acclaimed the novel as a masterpiece.",
+        "exampleTr": "Eleştirmenler romanı bir başyapıt olarak övdü."
+      }
+    ],
+    "synonyms": [
+      "praise",
+      "applause",
+      "recognition"
+    ],
+    "antonyms": [
+      "criticism",
+      "condemnation"
+    ]
+  },
+  {
+    "id": "w_acclaimed",
+    "headword": "acclaimed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈkleɪmd/",
+    "meanings": [
+      {
+        "tr": "övgüye değer, beğenilen, saygın",
+        "en": "praised by a lot of people",
+        "exampleEn": "She is an internationally acclaimed pianist.",
+        "exampleTr": "O, uluslararası alanda beğenilen bir piyanisttir."
+      }
+    ],
+    "synonyms": [
+      "celebrated",
+      "renowned",
+      "praised"
+    ],
+    "antonyms": [
+      "criticized",
+      "unknown"
+    ]
+  },
+  {
+    "id": "w_acclimatize",
+    "headword": "acclimatize",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈklaɪmətaɪz/",
+    "meanings": [
+      {
+        "tr": "alışmak, uyum sağlamak, iklime alışmak",
+        "en": "to become used to a new place, situation, or climate",
+        "exampleEn": "It took the climbers a week to acclimatize to the high altitude.",
+        "exampleTr": "Dağcıların yüksek irtifaya alışması bir hafta sürdü."
+      }
+    ],
+    "synonyms": [
+      "adapt",
+      "adjust",
+      "acclimate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_accredited",
+    "headword": "accredited",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈkredɪtɪd/",
+    "meanings": [
+      {
+        "tr": "akredite, onaylı, resmen tanınmış",
+        "en": "officially recognized or approved as meeting a required standard",
+        "exampleEn": "The course is offered by an accredited university.",
+        "exampleTr": "Kurs, akredite bir üniversite tarafından sunulmaktadır."
+      }
+    ],
+    "synonyms": [
+      "certified",
+      "authorized",
+      "approved"
+    ],
+    "antonyms": [
+      "unaccredited",
+      "uncertified"
+    ]
+  },
+  {
+    "id": "w_accumulation",
+    "headword": "accumulation",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˌkjuːmjəˈleɪʃən/",
+    "meanings": [
+      {
+        "tr": "birikim, birikme, toplanma",
+        "en": "an amount of something that has been collected or has gathered over time",
+        "exampleEn": "Years of accumulation had filled the attic with junk.",
+        "exampleTr": "Yıllarca süren birikme, tavan arasını eski eşyalarla doldurmuştu."
+      }
+    ],
+    "synonyms": [
+      "buildup",
+      "collection",
+      "gathering"
+    ],
+    "antonyms": [
+      "depletion",
+      "dispersal"
+    ]
+  },
+  {
+    "id": "w_accumulator",
+    "headword": "accumulator",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈkjuːmjəleɪtər/",
+    "meanings": [
+      {
+        "tr": "biriktirici; akü, akümülatör",
+        "en": "a device or thing that collects or stores something, such as energy or numbers",
+        "exampleEn": "The solar panels feed energy into an accumulator for later use.",
+        "exampleTr": "Güneş panelleri, daha sonra kullanılmak üzere enerjiyi bir akümülatöre aktarır."
+      }
+    ],
+    "synonyms": [
+      "battery",
+      "collector",
+      "store"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_achiever",
+    "headword": "achiever",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈtʃiːvər/",
+    "meanings": [
+      {
+        "tr": "başarılı kişi, başaran kimse",
+        "en": "someone who is successful, especially because they work hard",
+        "exampleEn": "She has always been a high achiever at school and work.",
+        "exampleTr": "Okulda ve işte her zaman çok başarılı biri olmuştur."
+      }
+    ],
+    "synonyms": [
+      "high-flyer",
+      "go-getter",
+      "winner"
+    ],
+    "antonyms": [
+      "underachiever",
+      "failure"
+    ]
+  },
+  {
+    "id": "w_acquittal",
+    "headword": "acquittal",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈkwɪtəl/",
+    "meanings": [
+      {
+        "tr": "beraat, aklanma",
+        "en": "an official decision in a court of law that a person is not guilty of a crime",
+        "exampleEn": "The jury's acquittal surprised everyone in the courtroom.",
+        "exampleTr": "Jürinin beraat kararı mahkeme salonundaki herkesi şaşırttı."
+      }
+    ],
+    "synonyms": [
+      "exoneration",
+      "clearance",
+      "discharge"
+    ],
+    "antonyms": [
+      "conviction",
+      "condemnation"
+    ]
+  },
+  {
+    "id": "w_act_up",
+    "headword": "act up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌækt ˈʌp/",
+    "meanings": [
+      {
+        "tr": "yaramazlık yapmak, sorun çıkarmak (kişi)",
+        "en": "to behave badly or in a way that causes problems",
+        "exampleEn": "The children always act up when they're tired.",
+        "exampleTr": "Çocuklar yorgun olduklarında hep yaramazlık yapar."
+      },
+      {
+        "tr": "bozulmak, düzgün çalışmamak (makine/vücut)",
+        "en": "to fail to work or function properly",
+        "exampleEn": "My knee has been acting up since the accident.",
+        "exampleTr": "Dizim kazadan beri ağrıyıp sorun çıkarıyor."
+      }
+    ],
+    "synonyms": [
+      "misbehave",
+      "play up",
+      "malfunction"
+    ],
+    "antonyms": [
+      "behave"
+    ]
+  },
+  {
+    "id": "w_activewear",
+    "headword": "activewear",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈæktɪvweər/",
+    "meanings": [
+      {
+        "tr": "spor giyim, aktif giyim",
+        "en": "clothing designed to be worn for sports or exercise",
+        "exampleEn": "The brand is expanding its range of activewear for women.",
+        "exampleTr": "Marka, kadınlar için spor giyim yelpazesini genişletiyor."
+      }
+    ],
+    "synonyms": [
+      "sportswear",
+      "athleisure"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_activist",
+    "headword": "activist",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈæktɪvɪst/",
+    "meanings": [
+      {
+        "tr": "aktivist, eylemci",
+        "en": "a person who works to bring about political or social change",
+        "exampleEn": "She is a well-known environmental activist.",
+        "exampleTr": "O, tanınmış bir çevre aktivistidir."
+      }
+    ],
+    "synonyms": [
+      "campaigner",
+      "advocate",
+      "militant"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_ad_lib",
+    "headword": "ad-lib",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌæd ˈlɪb/",
+    "meanings": [
+      {
+        "tr": "doğaçlama yapmak, tulum atmak",
+        "en": "to speak or perform without preparing what you are going to say",
+        "exampleEn": "When he forgot his lines, he had to ad-lib.",
+        "exampleTr": "Repliklerini unutunca doğaçlama yapmak zorunda kaldı."
+      }
+    ],
+    "synonyms": [
+      "improvise",
+      "extemporize"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_addictive",
+    "headword": "addictive",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈdɪktɪv/",
+    "meanings": [
+      {
+        "tr": "bağımlılık yapan, bağımlılık yapıcı",
+        "en": "causing a strong need or desire that is hard to stop",
+        "exampleEn": "Nicotine is a highly addictive substance.",
+        "exampleTr": "Nikotin oldukça bağımlılık yapan bir maddedir."
+      }
+    ],
+    "synonyms": [
+      "habit-forming",
+      "compulsive"
+    ],
+    "antonyms": [
+      "non-addictive"
+    ]
+  },
+  {
+    "id": "w_adherence",
+    "headword": "adherence",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ədˈhɪərəns/",
+    "meanings": [
+      {
+        "tr": "bağlılık, sadakat, uyma",
+        "en": "the fact of behaving according to a particular rule, belief, or standard",
+        "exampleEn": "Strict adherence to the safety rules is essential.",
+        "exampleTr": "Güvenlik kurallarına sıkı sıkıya uyulması şarttır."
+      }
+    ],
+    "synonyms": [
+      "compliance",
+      "conformity",
+      "observance"
+    ],
+    "antonyms": [
+      "violation",
+      "disregard"
+    ]
+  },
+  {
+    "id": "w_adjoining",
+    "headword": "adjoining",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈdʒɔɪnɪŋ/",
+    "meanings": [
+      {
+        "tr": "bitişik, yan yana",
+        "en": "next to or joined with something",
+        "exampleEn": "They booked two adjoining rooms at the hotel.",
+        "exampleTr": "Otelde birbirine bitişik iki oda ayırttılar."
+      }
+    ],
+    "synonyms": [
+      "adjacent",
+      "neighbouring",
+      "connecting"
+    ],
+    "antonyms": [
+      "separate",
+      "distant"
+    ]
+  },
+  {
+    "id": "w_adjudicate",
+    "headword": "adjudicate",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈdʒuːdɪkeɪt/",
+    "meanings": [
+      {
+        "tr": "hüküm vermek, karar vermek, hakemlik yapmak",
+        "en": "to make an official decision about who is right in a disagreement",
+        "exampleEn": "An independent panel will adjudicate the dispute.",
+        "exampleTr": "Bağımsız bir kurul anlaşmazlık hakkında karar verecek."
+      }
+    ],
+    "synonyms": [
+      "judge",
+      "arbitrate",
+      "referee"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_administrator",
+    "headword": "administrator",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ədˈmɪnɪstreɪtər/",
+    "meanings": [
+      {
+        "tr": "yönetici, idareci",
+        "en": "someone whose job is to manage or organize a business, organization, or system",
+        "exampleEn": "The system administrator reset all the passwords.",
+        "exampleTr": "Sistem yöneticisi tüm parolaları sıfırladı."
+      }
+    ],
+    "synonyms": [
+      "manager",
+      "director",
+      "organizer"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_admissible",
+    "headword": "admissible",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ədˈmɪsəbəl/",
+    "meanings": [
+      {
+        "tr": "kabul edilebilir, geçerli (özellikle delil)",
+        "en": "acceptable or allowed, especially in a court of law",
+        "exampleEn": "The judge ruled that the evidence was not admissible.",
+        "exampleTr": "Hâkim, delilin kabul edilemez olduğuna hükmetti."
+      }
+    ],
+    "synonyms": [
+      "acceptable",
+      "allowable",
+      "valid"
+    ],
+    "antonyms": [
+      "inadmissible",
+      "unacceptable"
+    ]
+  },
+  {
+    "id": "w_admonish",
+    "headword": "admonish",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ədˈmɒnɪʃ/",
+    "meanings": [
+      {
+        "tr": "azarlamak, uyarmak, ihtar etmek",
+        "en": "to tell someone firmly that you disapprove of what they have done",
+        "exampleEn": "The teacher admonished the students for being late.",
+        "exampleTr": "Öğretmen, geç kaldıkları için öğrencileri azarladı."
+      }
+    ],
+    "synonyms": [
+      "reprimand",
+      "rebuke",
+      "scold"
+    ],
+    "antonyms": [
+      "praise",
+      "commend"
+    ]
+  },
+  {
+    "id": "w_adoration",
+    "headword": "adoration",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌædəˈreɪʃən/",
+    "meanings": [
+      {
+        "tr": "tapma, hayranlık, çok sevme",
+        "en": "a feeling of great love, respect, or worship",
+        "exampleEn": "She gazed at the baby with pure adoration.",
+        "exampleTr": "Bebeğe saf bir hayranlıkla baktı."
+      }
+    ],
+    "synonyms": [
+      "worship",
+      "devotion",
+      "love"
+    ],
+    "antonyms": [
+      "contempt",
+      "hatred"
+    ]
+  },
+  {
+    "id": "w_adulterated",
+    "headword": "adulterated",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈdʌltəreɪtɪd/",
+    "meanings": [
+      {
+        "tr": "karıştırılmış, hile karıştırılmış, bozulmuş",
+        "en": "made lower in quality by adding something of poorer quality",
+        "exampleEn": "The company was fined for selling adulterated food.",
+        "exampleTr": "Şirket, hile karıştırılmış gıda sattığı için para cezasına çarptırıldı."
+      }
+    ],
+    "synonyms": [
+      "contaminated",
+      "tainted",
+      "diluted"
+    ],
+    "antonyms": [
+      "pure",
+      "unadulterated"
+    ]
+  }
+]

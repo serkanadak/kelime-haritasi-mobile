@@ -1,0 +1,368 @@
+[
+  {
+    "id": "w_forecast",
+    "headword": "forecast",
+    "extraMeanings": [
+      {
+        "tr": "tahmin etmek, öngörmek",
+        "en": "to predict a future event or condition",
+        "exampleEn": "Economists forecast that inflation will fall next year.",
+        "exampleTr": "Ekonomistler enflasyonun gelecek yıl düşeceğini tahmin ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_foreground",
+    "headword": "foreground",
+    "extraMeanings": [
+      {
+        "tr": "ön plana çıkarmak, vurgulamak",
+        "en": "to make something the most prominent or important element",
+        "exampleEn": "The report foregrounds the needs of low-income families.",
+        "exampleTr": "Rapor, düşük gelirli ailelerin ihtiyaçlarını ön plana çıkarıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_fracture",
+    "headword": "fracture",
+    "extraMeanings": [
+      {
+        "tr": "kırmak, çatlatmak; (grup/ilişki) parçalanmak",
+        "en": "to break or crack, or to split apart",
+        "exampleEn": "He fractured his wrist while skiing.",
+        "exampleTr": "Kayak yaparken bileğini kırdı."
+      },
+      {
+        "tr": "bölünme, ayrılık (topluluk/ilişkide)",
+        "en": "a division or split within a group",
+        "exampleEn": "The scandal caused a deep fracture within the party.",
+        "exampleTr": "Skandal, parti içinde derin bir bölünmeye yol açtı."
+      }
+    ]
+  },
+  {
+    "id": "w_foul",
+    "headword": "foul",
+    "extraMeanings": [
+      {
+        "tr": "faul (spor)",
+        "en": "an action against the rules in a sport",
+        "exampleEn": "The referee gave a free kick after the foul.",
+        "exampleTr": "Hakem, fauldan sonra serbest vuruş verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_fret",
+    "headword": "fret",
+    "extraMeanings": [
+      {
+        "tr": "perde (gitar vb. sap üzerindeki)",
+        "en": "a raised ridge on the neck of a stringed instrument",
+        "exampleEn": "She pressed her finger down on the second fret.",
+        "exampleTr": "Parmağını ikinci perdeye bastırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_friction",
+    "headword": "friction",
+    "extraMeanings": [
+      {
+        "tr": "sürtünme (fizik)",
+        "en": "the resistance when one surface moves over another",
+        "exampleEn": "Oil reduces the friction between the moving parts.",
+        "exampleTr": "Yağ, hareketli parçalar arasındaki sürtünmeyi azaltır."
+      }
+    ]
+  },
+  {
+    "id": "w_frontier",
+    "headword": "frontier",
+    "extraMeanings": [
+      {
+        "tr": "bilinmeyen alan, keşfedilmemiş sınır (bilgi/teknoloji)",
+        "en": "the furthest limit of knowledge in a field",
+        "exampleEn": "Artificial intelligence is the new frontier of research.",
+        "exampleTr": "Yapay zeka, araştırmanın yeni sınırıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_fulfill",
+    "headword": "fulfill",
+    "extraMeanings": [
+      {
+        "tr": "tatmin etmek, doyum sağlamak (kişiyi)",
+        "en": "to make someone feel satisfied and happy",
+        "exampleEn": "Her job as a teacher truly fulfills her.",
+        "exampleTr": "Öğretmenlik işi onu gerçekten tatmin ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_gag",
+    "headword": "gag",
+    "extraMeanings": [
+      {
+        "tr": "öğürmek, kusacak gibi olmak",
+        "en": "to retch or nearly vomit",
+        "exampleEn": "The awful smell made me gag.",
+        "exampleTr": "Berbat koku beni öğürttü."
+      },
+      {
+        "tr": "ağzını tıkamak; susturmak, sansürlemek",
+        "en": "to prevent someone from speaking or expressing opinions",
+        "exampleEn": "The government tried to gag the press.",
+        "exampleTr": "Hükümet basını susturmaya çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_gauge",
+    "headword": "gauge",
+    "extraMeanings": [
+      {
+        "tr": "gösterge, ölçüm aleti",
+        "en": "an instrument for measuring amount or level",
+        "exampleEn": "The fuel gauge showed that the tank was nearly empty.",
+        "exampleTr": "Yakıt göstergesi deponun neredeyse boş olduğunu gösteriyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_gaze",
+    "headword": "gaze",
+    "extraMeanings": [
+      {
+        "tr": "gözünü dikmek, uzun uzun bakmak",
+        "en": "to look steadily at something for a long time",
+        "exampleEn": "She gazed out of the window at the sea.",
+        "exampleTr": "Pencereden denize uzun uzun baktı."
+      }
+    ]
+  },
+  {
+    "id": "w_gear",
+    "headword": "gear",
+    "extraMeanings": [
+      {
+        "tr": "uyarlamak, ayarlamak (bir amaca yönelik)",
+        "en": "to design or organize something for a particular purpose",
+        "exampleEn": "The course is geared toward beginners.",
+        "exampleTr": "Kurs, yeni başlayanlara göre uyarlanmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w_generic",
+    "headword": "generic",
+    "extraMeanings": [
+      {
+        "tr": "belirli bir özelliği olmayan, sıradan",
+        "en": "lacking distinctive features; not specific",
+        "exampleEn": "The film has a generic plot that we've all seen before.",
+        "exampleTr": "Filmin, hepimizin daha önce gördüğü sıradan bir konusu var."
+      }
+    ]
+  },
+  {
+    "id": "w_genius",
+    "headword": "genius",
+    "extraMeanings": [
+      {
+        "tr": "olağanüstü yetenek, dâhilik (özellik olarak)",
+        "en": "exceptional natural ability or brilliance",
+        "exampleEn": "It took real genius to solve that problem.",
+        "exampleTr": "O sorunu çözmek gerçek bir deha gerektirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_glare",
+    "headword": "glare",
+    "extraMeanings": [
+      {
+        "tr": "öfkeyle bakmak, dik dik bakmak",
+        "en": "to stare angrily at someone or something",
+        "exampleEn": "She glared at him and left the room.",
+        "exampleTr": "Ona dik dik baktı ve odadan çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_gleam",
+    "headword": "gleam",
+    "extraMeanings": [
+      {
+        "tr": "parıldamak, ışıldamak",
+        "en": "to shine with a soft, steady light",
+        "exampleEn": "The polished floor gleamed in the sunlight.",
+        "exampleTr": "Cilalı zemin güneş ışığında parıldıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_gloss",
+    "headword": "gloss",
+    "extraMeanings": [
+      {
+        "tr": "üstünü örtmek, geçiştirmek (over ile)",
+        "en": "to avoid dealing with something by treating it briefly",
+        "exampleEn": "He glossed over the problems in his report.",
+        "exampleTr": "Raporundaki sorunların üstünü geçiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_glow",
+    "headword": "glow",
+    "extraMeanings": [
+      {
+        "tr": "ışıldamak, parlamak; (duyguyla) parlamak",
+        "en": "to produce a steady light or a warm feeling",
+        "exampleEn": "Her cheeks glowed with excitement.",
+        "exampleTr": "Yanakları heyecandan parlıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_grand",
+    "headword": "grand",
+    "extraMeanings": [
+      {
+        "tr": "bin (dolar/sterlin) (argo)",
+        "en": "a thousand dollars or pounds",
+        "exampleEn": "The car cost me twenty grand.",
+        "exampleTr": "Araba bana yirmi bin (dolar) mal oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_grain",
+    "headword": "grain",
+    "extraMeanings": [
+      {
+        "tr": "damar, doku yönü (ahşap vb.)",
+        "en": "the direction of fibres in wood or fabric",
+        "exampleEn": "Sand the wood along the grain, not across it.",
+        "exampleTr": "Ahşabı damarına ters değil, damar yönünde zımparalayın."
+      },
+      {
+        "tr": "zerre, azıcık (miktar)",
+        "en": "a very small amount of something",
+        "exampleEn": "There isn't a grain of truth in what he said.",
+        "exampleTr": "Söylediklerinde bir zerre gerçeklik yok."
+      }
+    ]
+  },
+  {
+    "id": "w_grasp",
+    "headword": "grasp",
+    "extraMeanings": [
+      {
+        "tr": "kavramak, anlamak",
+        "en": "to understand something fully",
+        "exampleEn": "She quickly grasped the main idea of the lesson.",
+        "exampleTr": "Dersin ana fikrini hemen kavradı."
+      },
+      {
+        "tr": "sıkıca tutmak, kavramak",
+        "en": "to hold something firmly with your hand",
+        "exampleEn": "He grasped the rope and pulled himself up.",
+        "exampleTr": "İpi sıkıca kavradı ve kendini yukarı çekti."
+      }
+    ]
+  },
+  {
+    "id": "w_grip",
+    "headword": "grip",
+    "extraMeanings": [
+      {
+        "tr": "sıkıca tutmak, kavramak",
+        "en": "to hold something very tightly",
+        "exampleEn": "She gripped the railing as the boat rocked.",
+        "exampleTr": "Tekne sallanırken korkuluğu sıkıca tuttu."
+      },
+      {
+        "tr": "esir almak, sarmak (dikkat/ilgi)",
+        "en": "to hold someone's attention completely",
+        "exampleEn": "The movie gripped the audience from start to finish.",
+        "exampleTr": "Film, izleyiciyi başından sonuna kadar esir aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_grin",
+    "headword": "grin",
+    "extraMeanings": [
+      {
+        "tr": "sırıtmak, geniş gülümsemek",
+        "en": "to smile broadly showing your teeth",
+        "exampleEn": "He grinned when he heard the good news.",
+        "exampleTr": "İyi haberi duyunca sırıttı."
+      }
+    ]
+  },
+  {
+    "id": "w_groove",
+    "headword": "groove",
+    "extraMeanings": [
+      {
+        "tr": "ritim, akış (müzikte); iyi giden rutin",
+        "en": "an enjoyable rhythm or a settled routine of doing something well",
+        "exampleEn": "Once the band found their groove, the crowd started dancing.",
+        "exampleTr": "Grup ritmini bulunca kalabalık dans etmeye başladı."
+      }
+    ]
+  },
+  {
+    "id": "w_gross",
+    "headword": "gross",
+    "extraMeanings": [
+      {
+        "tr": "iğrenç, mide bulandırıcı",
+        "en": "very unpleasant or disgusting",
+        "exampleEn": "There was a gross smell coming from the bin.",
+        "exampleTr": "Çöp kutusundan iğrenç bir koku geliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_grounds",
+    "headword": "grounds",
+    "extraMeanings": [
+      {
+        "tr": "tortu, telve (kahve vb.)",
+        "en": "the small solid pieces left at the bottom, especially of coffee",
+        "exampleEn": "She threw the coffee grounds into the compost.",
+        "exampleTr": "Kahve telvesini kompost yığınına attı."
+      }
+    ]
+  },
+  {
+    "id": "w_god",
+    "headword": "god",
+    "extraMeanings": [
+      {
+        "tr": "putlaştırılan kişi/şey, çok önem verilen şey",
+        "en": "a person or thing that is greatly admired or worshipped",
+        "exampleEn": "For him, money became a god.",
+        "exampleTr": "Onun için para bir tanrıya dönüştü."
+      }
+    ]
+  },
+  {
+    "id": "w_gorge",
+    "headword": "gorge",
+    "extraMeanings": [
+      {
+        "tr": "tıka basa yemek, tıkınmak (oneself)",
+        "en": "to eat a large amount greedily",
+        "exampleEn": "They gorged themselves on cake at the party.",
+        "exampleTr": "Partide pastayla tıka basa doydular."
+      }
+    ]
+  }
+]

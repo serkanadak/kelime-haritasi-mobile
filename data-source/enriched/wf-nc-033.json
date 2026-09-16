@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "w_recede",
+    "headword": "recede",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈsiːd/",
+    "meanings": [
+      {
+        "tr": "geri çekilmek, uzaklaşmak",
+        "en": "to move back or away from a position",
+        "exampleEn": "The floodwaters slowly began to recede after the storm.",
+        "exampleTr": "Fırtınadan sonra sel suları yavaşça çekilmeye başladı."
+      },
+      {
+        "tr": "azalmak, zayıflamak",
+        "en": "to become gradually weaker or smaller",
+        "exampleEn": "His hopes of winning began to recede as the results came in.",
+        "exampleTr": "Sonuçlar geldikçe kazanma umutları azalmaya başladı."
+      }
+    ],
+    "synonyms": [
+      "retreat",
+      "withdraw",
+      "diminish"
+    ],
+    "antonyms": [
+      "advance",
+      "approach"
+    ]
+  },
+  {
+    "id": "w_reception_desk",
+    "headword": "reception desk",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈsepʃən desk/",
+    "meanings": [
+      {
+        "tr": "resepsiyon, danışma masası",
+        "en": "the desk where guests or visitors are welcomed in a hotel or office",
+        "exampleEn": "Please leave your key at the reception desk when you check out.",
+        "exampleTr": "Çıkış yaparken anahtarınızı resepsiyona bırakın."
+      }
+    ],
+    "synonyms": [
+      "front desk",
+      "reception"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_receptive",
+    "headword": "receptive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈseptɪv/",
+    "meanings": [
+      {
+        "tr": "açık fikirli, alıcı, olumlu karşılayan",
+        "en": "willing to consider or accept new ideas or suggestions",
+        "exampleEn": "The manager was receptive to our proposal for flexible working hours.",
+        "exampleTr": "Müdür esnek çalışma saatleri önerimize açıktı."
+      }
+    ],
+    "synonyms": [
+      "open",
+      "responsive",
+      "amenable"
+    ],
+    "antonyms": [
+      "resistant",
+      "unreceptive"
+    ]
+  },
+  {
+    "id": "w_recharge",
+    "headword": "recharge",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈtʃɑːrdʒ/",
+    "meanings": [
+      {
+        "tr": "şarj etmek, yeniden doldurmak",
+        "en": "to fill a battery with electrical power again",
+        "exampleEn": "I need to recharge my phone before we leave.",
+        "exampleTr": "Çıkmadan önce telefonumu şarj etmem gerekiyor."
+      },
+      {
+        "tr": "dinlenip enerji toplamak",
+        "en": "to rest in order to regain energy",
+        "exampleEn": "She took a week off to recharge after the busy project.",
+        "exampleTr": "Yoğun projeden sonra enerji toplamak için bir hafta izin aldı."
+      }
+    ],
+    "synonyms": [
+      "refuel",
+      "replenish"
+    ],
+    "antonyms": [
+      "drain",
+      "deplete"
+    ]
+  },
+  {
+    "id": "w_reciprocal",
+    "headword": "reciprocal",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈsɪprəkəl/",
+    "meanings": [
+      {
+        "tr": "karşılıklı, iki taraflı",
+        "en": "involving two people or groups who give each other help or advantages",
+        "exampleEn": "The two countries signed a reciprocal trade agreement.",
+        "exampleTr": "İki ülke karşılıklı bir ticaret anlaşması imzaladı."
+      }
+    ],
+    "synonyms": [
+      "mutual",
+      "shared",
+      "two-way"
+    ],
+    "antonyms": [
+      "one-sided",
+      "unilateral"
+    ]
+  },
+  {
+    "id": "w_recurring",
+    "headword": "recurring",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈkɜːrɪŋ/",
+    "meanings": [
+      {
+        "tr": "tekrarlayan, yinelenen",
+        "en": "happening again and again",
+        "exampleEn": "A recurring problem with the software caused repeated crashes.",
+        "exampleTr": "Yazılımdaki tekrarlayan bir sorun sürekli çökmelere neden oldu."
+      }
+    ],
+    "synonyms": [
+      "repeated",
+      "periodic",
+      "recurrent"
+    ],
+    "antonyms": [
+      "one-off",
+      "isolated"
+    ]
+  },
+  {
+    "id": "w_reduce_standards",
+    "headword": "reduce standards",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈdjuːs ˈstændərdz/",
+    "meanings": [
+      {
+        "tr": "standartları düşürmek",
+        "en": "to lower the level of quality that is expected or required",
+        "exampleEn": "The company refused to reduce standards just to cut costs.",
+        "exampleTr": "Şirket sadece maliyetleri düşürmek için standartları düşürmeyi reddetti."
+      }
+    ],
+    "synonyms": [
+      "lower standards",
+      "compromise quality"
+    ],
+    "antonyms": [
+      "raise standards",
+      "improve quality"
+    ]
+  },
+  {
+    "id": "w_reflect_on",
+    "headword": "reflect on",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈflekt ɒn/",
+    "meanings": [
+      {
+        "tr": "üzerine düşünmek, iyice düşünmek",
+        "en": "to think carefully about something",
+        "exampleEn": "She took some time to reflect on her career choices.",
+        "exampleTr": "Kariyer seçimleri üzerine düşünmek için biraz zaman ayırdı."
+      },
+      {
+        "tr": "bir izlenim yaratmak, yansıtmak",
+        "en": "to affect other people's opinion of someone or something",
+        "exampleEn": "His rude behavior reflects on the whole team.",
+        "exampleTr": "Onun kaba davranışı tüm ekibe kötü yansıyor."
+      }
+    ],
+    "synonyms": [
+      "ponder",
+      "contemplate",
+      "consider"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_refurbish",
+    "headword": "refurbish",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈfɜːrbɪʃ/",
+    "meanings": [
+      {
+        "tr": "yenilemek, elden geçirmek",
+        "en": "to clean, decorate, and equip a building or object to make it look new again",
+        "exampleEn": "They plan to refurbish the old hotel and reopen it next year.",
+        "exampleTr": "Eski oteli yenileyip gelecek yıl yeniden açmayı planlıyorlar."
+      }
+    ],
+    "synonyms": [
+      "renovate",
+      "revamp",
+      "restore"
+    ],
+    "antonyms": [
+      "neglect"
+    ]
+  },
+  {
+    "id": "w_refurbishment",
+    "headword": "refurbishment",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈfɜːrbɪʃmənt/",
+    "meanings": [
+      {
+        "tr": "yenileme, tadilat",
+        "en": "the process of cleaning and improving a building or object",
+        "exampleEn": "The office is closed for refurbishment until next month.",
+        "exampleTr": "Ofis gelecek aya kadar tadilat nedeniyle kapalı."
+      }
+    ],
+    "synonyms": [
+      "renovation",
+      "revamp",
+      "restoration"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_regarding",
+    "headword": "regarding",
+    "pos": "prep",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈɡɑːrdɪŋ/",
+    "meanings": [
+      {
+        "tr": "hakkında, ile ilgili olarak",
+        "en": "about or concerning a particular subject",
+        "exampleEn": "I am writing regarding your recent application.",
+        "exampleTr": "Son başvurunuzla ilgili olarak yazıyorum."
+      }
+    ],
+    "synonyms": [
+      "concerning",
+      "about",
+      "re"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_regressive",
+    "headword": "regressive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈɡresɪv/",
+    "meanings": [
+      {
+        "tr": "gerileyen, geriye giden",
+        "en": "returning to a previous and less advanced state",
+        "exampleEn": "Critics called the new policy a regressive step for education.",
+        "exampleTr": "Eleştirmenler yeni politikayı eğitim için gerileyen bir adım olarak nitelendirdi."
+      },
+      {
+        "tr": "düşük gelirliyi daha çok vergilendiren (vergi için)",
+        "en": "of a tax that takes a larger proportion from low-income earners",
+        "exampleEn": "Sales tax is often criticized as being regressive.",
+        "exampleTr": "Satış vergisi genellikle düşük gelirliyi daha çok etkileyen bir vergi olarak eleştirilir."
+      }
+    ],
+    "synonyms": [
+      "backward",
+      "retrogressive"
+    ],
+    "antonyms": [
+      "progressive"
+    ]
+  },
+  {
+    "id": "w_regularity",
+    "headword": "regularity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌreɡjəˈlærəti/",
+    "meanings": [
+      {
+        "tr": "düzenlilik, muntazamlık",
+        "en": "the quality of happening in a regular, predictable pattern",
+        "exampleEn": "He visits his parents with great regularity every weekend.",
+        "exampleTr": "Her hafta sonu ebeveynlerini büyük bir düzenlilikle ziyaret ediyor."
+      }
+    ],
+    "synonyms": [
+      "consistency",
+      "steadiness",
+      "uniformity"
+    ],
+    "antonyms": [
+      "irregularity",
+      "randomness"
+    ]
+  },
+  {
+    "id": "w_rehearsed",
+    "headword": "rehearsed",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈhɜːrst/",
+    "meanings": [
+      {
+        "tr": "prova edilmiş, ezberlenmiş",
+        "en": "prepared and practiced carefully in advance, sometimes seeming unnatural",
+        "exampleEn": "Her answer sounded too rehearsed to be sincere.",
+        "exampleTr": "Cevabı samimi olamayacak kadar ezberlenmiş geliyordu."
+      }
+    ],
+    "synonyms": [
+      "practiced",
+      "scripted",
+      "prepared"
+    ],
+    "antonyms": [
+      "spontaneous",
+      "improvised"
+    ]
+  },
+  {
+    "id": "w_relapse",
+    "headword": "relapse",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈriːlæps/",
+    "meanings": [
+      {
+        "tr": "nüksetme, tekrar kötüye gitme",
+        "en": "a return to a worse state after an improvement",
+        "exampleEn": "After months of recovery, he suffered a relapse.",
+        "exampleTr": "Aylarca süren iyileşmenin ardından bir nüks yaşadı."
+      },
+      {
+        "tr": "eski kötü hâline dönmek",
+        "en": "to return to a previous bad condition",
+        "exampleEn": "She was afraid she might relapse into her old habits.",
+        "exampleTr": "Eski alışkanlıklarına geri dönmekten korkuyordu."
+      }
+    ],
+    "synonyms": [
+      "recurrence",
+      "setback",
+      "deterioration"
+    ],
+    "antonyms": [
+      "recovery",
+      "improvement"
+    ]
+  },
+  {
+    "id": "w_relegation",
+    "headword": "relegation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌrelɪˈɡeɪʃən/",
+    "meanings": [
+      {
+        "tr": "alt lige düşme, alt sıraya indirme",
+        "en": "the act of moving something or someone to a lower position or rank",
+        "exampleEn": "The team is fighting to avoid relegation this season.",
+        "exampleTr": "Takım bu sezon alt lige düşmemek için mücadele ediyor."
+      }
+    ],
+    "synonyms": [
+      "demotion",
+      "downgrading"
+    ],
+    "antonyms": [
+      "promotion"
+    ]
+  },
+  {
+    "id": "w_relentlessly",
+    "headword": "relentlessly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈlentləsli/",
+    "meanings": [
+      {
+        "tr": "acımasızca, durmaksızın",
+        "en": "in a continuous and determined way that does not stop",
+        "exampleEn": "She worked relentlessly to finish the report on time.",
+        "exampleTr": "Raporu zamanında bitirmek için durmaksızın çalıştı."
+      }
+    ],
+    "synonyms": [
+      "unremittingly",
+      "persistently",
+      "tirelessly"
+    ],
+    "antonyms": [
+      "intermittently"
+    ]
+  },
+  {
+    "id": "w_reliability",
+    "headword": "reliability",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˌlaɪəˈbɪləti/",
+    "meanings": [
+      {
+        "tr": "güvenilirlik",
+        "en": "the quality of being trustworthy or performing consistently well",
+        "exampleEn": "The car is known for its reliability and low maintenance costs.",
+        "exampleTr": "Araba güvenilirliği ve düşük bakım maliyetiyle biliniyor."
+      }
+    ],
+    "synonyms": [
+      "dependability",
+      "trustworthiness",
+      "consistency"
+    ],
+    "antonyms": [
+      "unreliability"
+    ]
+  },
+  {
+    "id": "w_reliably",
+    "headword": "reliably",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈlaɪəbli/",
+    "meanings": [
+      {
+        "tr": "güvenilir bir şekilde, güvenle",
+        "en": "in a way that can be trusted or depended on",
+        "exampleEn": "The old machine still works reliably after many years.",
+        "exampleTr": "Eski makine yıllar sonra hâlâ güvenilir bir şekilde çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "dependably",
+      "consistently"
+    ],
+    "antonyms": [
+      "unreliably"
+    ]
+  },
+  {
+    "id": "w_relinquish",
+    "headword": "relinquish",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈlɪŋkwɪʃ/",
+    "meanings": [
+      {
+        "tr": "bırakmak, vazgeçmek, terk etmek",
+        "en": "to give up or let go of something, especially power or a possession",
+        "exampleEn": "He was forced to relinquish control of the company.",
+        "exampleTr": "Şirketin kontrolünü bırakmak zorunda kaldı."
+      }
+    ],
+    "synonyms": [
+      "surrender",
+      "give up",
+      "abandon"
+    ],
+    "antonyms": [
+      "retain",
+      "keep"
+    ]
+  },
+  {
+    "id": "w_relinquishment",
+    "headword": "relinquishment",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈlɪŋkwɪʃmənt/",
+    "meanings": [
+      {
+        "tr": "vazgeçme, terk etme, bırakma",
+        "en": "the act of giving up something such as a right or possession",
+        "exampleEn": "The agreement required the relinquishment of all claims to the land.",
+        "exampleTr": "Anlaşma, araziye ilişkin tüm hak taleplerinden vazgeçilmesini gerektiriyordu."
+      }
+    ],
+    "synonyms": [
+      "surrender",
+      "renunciation",
+      "abandonment"
+    ],
+    "antonyms": [
+      "retention"
+    ]
+  },
+  {
+    "id": "w_relish",
+    "headword": "relish",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrelɪʃ/",
+    "meanings": [
+      {
+        "tr": "keyfini çıkarmak, büyük zevk almak",
+        "en": "to enjoy something greatly",
+        "exampleEn": "She relishes the challenge of solving difficult problems.",
+        "exampleTr": "Zor problemleri çözmenin verdiği zorluktan büyük keyif alıyor."
+      },
+      {
+        "tr": "turşu sosu, meze sosu",
+        "en": "a spicy or sweet sauce eaten with food to add flavor",
+        "exampleEn": "He added some relish to his hot dog.",
+        "exampleTr": "Sosisli sandviçine biraz turşu sosu ekledi."
+      }
+    ],
+    "synonyms": [
+      "savor",
+      "enjoy",
+      "delight in"
+    ],
+    "antonyms": [
+      "dislike",
+      "dread"
+    ]
+  },
+  {
+    "id": "w_rely_on",
+    "headword": "rely on",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈlaɪ ɒn/",
+    "meanings": [
+      {
+        "tr": "güvenmek, bel bağlamak",
+        "en": "to depend on or trust someone or something",
+        "exampleEn": "You can rely on her to finish the job well.",
+        "exampleTr": "İşi iyi bitireceğine ona güvenebilirsin."
+      }
+    ],
+    "synonyms": [
+      "depend on",
+      "count on",
+      "trust"
+    ],
+    "antonyms": [
+      "distrust"
+    ]
+  },
+  {
+    "id": "w_remake",
+    "headword": "remake",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈmeɪk/",
+    "meanings": [
+      {
+        "tr": "yeniden yapmak, yeniden çekmek",
+        "en": "to make something again or in a new way",
+        "exampleEn": "The studio decided to remake the classic film.",
+        "exampleTr": "Stüdyo klasik filmi yeniden çekmeye karar verdi."
+      },
+      {
+        "tr": "yeni versiyon, yeni çekim (film)",
+        "en": "a new version of an old film or song",
+        "exampleEn": "The remake was more successful than the original.",
+        "exampleTr": "Yeni çekim orijinalinden daha başarılı oldu."
+      }
+    ],
+    "synonyms": [
+      "redo",
+      "recreate",
+      "reproduce"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_remediable",
+    "headword": "remediable",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈmiːdiəbəl/",
+    "meanings": [
+      {
+        "tr": "düzeltilebilir, çare bulunabilir",
+        "en": "able to be corrected or cured",
+        "exampleEn": "Fortunately, the fault in the system was easily remediable.",
+        "exampleTr": "Neyse ki sistemdeki hata kolayca düzeltilebilirdi."
+      }
+    ],
+    "synonyms": [
+      "curable",
+      "fixable",
+      "correctable"
+    ],
+    "antonyms": [
+      "irremediable",
+      "incurable"
+    ]
+  },
+  {
+    "id": "w_reminiscent",
+    "headword": "reminiscent",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌremɪˈnɪsənt/",
+    "meanings": [
+      {
+        "tr": "anımsatan, hatırlatan",
+        "en": "making you think of something else because of similar qualities",
+        "exampleEn": "The music was reminiscent of the 1980s.",
+        "exampleTr": "Müzik 1980'leri anımsatıyordu."
+      }
+    ],
+    "synonyms": [
+      "evocative",
+      "suggestive",
+      "redolent"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_remiss",
+    "headword": "remiss",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈmɪs/",
+    "meanings": [
+      {
+        "tr": "ihmalkâr, kusurlu, savsak",
+        "en": "careless or failing to do what you should do",
+        "exampleEn": "It would be remiss of me not to thank everyone for their help.",
+        "exampleTr": "Herkese yardımları için teşekkür etmemek benim adıma kusur olurdu."
+      }
+    ],
+    "synonyms": [
+      "negligent",
+      "careless",
+      "neglectful"
+    ],
+    "antonyms": [
+      "careful",
+      "diligent"
+    ]
+  },
+  {
+    "id": "w_remodel",
+    "headword": "remodel",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈmɒdəl/",
+    "meanings": [
+      {
+        "tr": "yeniden düzenlemek, tadilat yapmak",
+        "en": "to change the structure or form of something, especially a building",
+        "exampleEn": "They decided to remodel their kitchen this summer.",
+        "exampleTr": "Bu yaz mutfaklarını yeniden düzenlemeye karar verdiler."
+      }
+    ],
+    "synonyms": [
+      "renovate",
+      "refurbish",
+      "revamp"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_remodeling",
+    "headword": "remodeling",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈmɒdəlɪŋ/",
+    "meanings": [
+      {
+        "tr": "yeniden düzenleme, tadilat",
+        "en": "the process of changing the structure or appearance of a building",
+        "exampleEn": "The remodeling of the bathroom took three weeks.",
+        "exampleTr": "Banyonun tadilatı üç hafta sürdü."
+      }
+    ],
+    "synonyms": [
+      "renovation",
+      "refurbishment"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_remorseful",
+    "headword": "remorseful",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈmɔːrsfəl/",
+    "meanings": [
+      {
+        "tr": "pişman, vicdan azabı çeken",
+        "en": "feeling sorry and guilty for something bad you have done",
+        "exampleEn": "He was deeply remorseful for the harm he had caused.",
+        "exampleTr": "Sebep olduğu zarar için derinden pişmandı."
+      }
+    ],
+    "synonyms": [
+      "repentant",
+      "contrite",
+      "apologetic"
+    ],
+    "antonyms": [
+      "unrepentant",
+      "remorseless"
+    ]
+  },
+  {
+    "id": "w_remorsefully",
+    "headword": "remorsefully",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈmɔːrsfəli/",
+    "meanings": [
+      {
+        "tr": "pişmanlıkla, vicdan azabıyla",
+        "en": "in a way that shows you feel sorry and guilty",
+        "exampleEn": "She looked at him remorsefully and apologized.",
+        "exampleTr": "Ona pişmanlıkla baktı ve özür diledi."
+      }
+    ],
+    "synonyms": [
+      "contritely",
+      "repentantly"
+    ],
+    "antonyms": [
+      "remorselessly"
+    ]
+  },
+  {
+    "id": "w_remunerative",
+    "headword": "remunerative",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈmjuːnərətɪv/",
+    "meanings": [
+      {
+        "tr": "kazançlı, para getiren, kârlı",
+        "en": "earning or bringing a good amount of money",
+        "exampleEn": "He gave up teaching for a more remunerative career in finance.",
+        "exampleTr": "Öğretmenliği bırakıp finans alanında daha kazançlı bir kariyere yöneldi."
+      }
+    ],
+    "synonyms": [
+      "profitable",
+      "lucrative",
+      "well-paid"
+    ],
+    "antonyms": [
+      "unprofitable",
+      "unpaid"
+    ]
+  },
+  {
+    "id": "w_renege",
+    "headword": "renege",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈniːɡ/",
+    "meanings": [
+      {
+        "tr": "sözünden dönmek, cayma",
+        "en": "to break a promise or fail to keep an agreement",
+        "exampleEn": "The company reneged on its promise to raise wages.",
+        "exampleTr": "Şirket ücretleri artırma sözünden caydı."
+      }
+    ],
+    "synonyms": [
+      "back out",
+      "default",
+      "welsh"
+    ],
+    "antonyms": [
+      "honor",
+      "fulfill"
+    ]
+  },
+  {
+    "id": "w_renter",
+    "headword": "renter",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrentər/",
+    "meanings": [
+      {
+        "tr": "kiracı",
+        "en": "a person who pays money to use a house, car, or other property",
+        "exampleEn": "As a renter, she was not responsible for major repairs.",
+        "exampleTr": "Kiracı olarak büyük onarımlardan sorumlu değildi."
+      }
+    ],
+    "synonyms": [
+      "tenant",
+      "lessee"
+    ],
+    "antonyms": [
+      "landlord",
+      "owner"
+    ]
+  },
+  {
+    "id": "w_reopen",
+    "headword": "reopen",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈoʊpən/",
+    "meanings": [
+      {
+        "tr": "yeniden açmak, tekrar açılmak",
+        "en": "to open again after being closed",
+        "exampleEn": "The restaurant will reopen after the renovations are complete.",
+        "exampleTr": "Restoran tadilat tamamlandıktan sonra yeniden açılacak."
+      },
+      {
+        "tr": "yeniden ele almak (dava, konu)",
+        "en": "to start dealing with a matter or case again",
+        "exampleEn": "Police decided to reopen the investigation.",
+        "exampleTr": "Polis soruşturmayı yeniden açmaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "restart",
+      "resume"
+    ],
+    "antonyms": [
+      "close",
+      "shut"
+    ]
+  },
+  {
+    "id": "w_reparations",
+    "headword": "reparations",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌrepəˈreɪʃənz/",
+    "meanings": [
+      {
+        "tr": "tazminat, savaş tazminatı",
+        "en": "money paid by a country or group to compensate for damage or wrongdoing",
+        "exampleEn": "The defeated nation was required to pay reparations.",
+        "exampleTr": "Yenilen ülkeden tazminat ödemesi istendi."
+      }
+    ],
+    "synonyms": [
+      "compensation",
+      "redress",
+      "indemnity"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_repartee",
+    "headword": "repartee",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌrepɑːrˈtiː/",
+    "meanings": [
+      {
+        "tr": "hazırcevaplık, nükteli söz atışması",
+        "en": "quick, clever, and witty conversation or replies",
+        "exampleEn": "The two comedians were famous for their sharp repartee.",
+        "exampleTr": "İki komedyen keskin hazırcevaplıklarıyla ünlüydü."
+      }
+    ],
+    "synonyms": [
+      "banter",
+      "wit",
+      "wordplay"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_repayment",
+    "headword": "repayment",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpeɪmənt/",
+    "meanings": [
+      {
+        "tr": "geri ödeme, taksit",
+        "en": "the act of paying back money that was borrowed, or an amount paid",
+        "exampleEn": "The monthly repayment on the loan is quite high.",
+        "exampleTr": "Kredinin aylık geri ödemesi oldukça yüksek."
+      }
+    ],
+    "synonyms": [
+      "reimbursement",
+      "refund",
+      "installment"
+    ],
+    "antonyms": [
+      "loan",
+      "borrowing"
+    ]
+  },
+  {
+    "id": "w_repelled",
+    "headword": "repelled",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpeld/",
+    "meanings": [
+      {
+        "tr": "tiksinen, iğrenen",
+        "en": "feeling strong dislike or disgust toward something",
+        "exampleEn": "She was repelled by the smell of the rotten food.",
+        "exampleTr": "Çürümüş yemeğin kokusundan tiksindi."
+      }
+    ],
+    "synonyms": [
+      "disgusted",
+      "revolted",
+      "repulsed"
+    ],
+    "antonyms": [
+      "attracted",
+      "drawn"
+    ]
+  },
+  {
+    "id": "w_repellent",
+    "headword": "repellent",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpelənt/",
+    "meanings": [
+      {
+        "tr": "iğrenç, itici",
+        "en": "extremely unpleasant, causing disgust",
+        "exampleEn": "His arrogant manner was utterly repellent.",
+        "exampleTr": "Kibirli tavrı son derece iticiydi."
+      },
+      {
+        "tr": "kovucu madde (böcek vb.)",
+        "en": "a substance that keeps insects or other things away",
+        "exampleEn": "Don't forget to bring insect repellent for the hike.",
+        "exampleTr": "Yürüyüş için böcek kovucu getirmeyi unutma."
+      }
+    ],
+    "synonyms": [
+      "repulsive",
+      "disgusting",
+      "revolting"
+    ],
+    "antonyms": [
+      "attractive",
+      "appealing"
+    ]
+  },
+  {
+    "id": "w_rephrase",
+    "headword": "rephrase",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈfreɪz/",
+    "meanings": [
+      {
+        "tr": "yeniden ifade etmek, başka kelimelerle söylemek",
+        "en": "to say or write something again using different words",
+        "exampleEn": "Could you rephrase the question in simpler terms?",
+        "exampleTr": "Soruyu daha basit kelimelerle yeniden ifade edebilir misin?"
+      }
+    ],
+    "synonyms": [
+      "reword",
+      "paraphrase",
+      "restate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_rephrasing",
+    "headword": "rephrasing",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈfreɪzɪŋ/",
+    "meanings": [
+      {
+        "tr": "yeniden ifade etme, başka sözcüklerle anlatma",
+        "en": "the act of expressing something again in different words",
+        "exampleEn": "A careful rephrasing made the sentence much clearer.",
+        "exampleTr": "Dikkatli bir yeniden ifade cümleyi çok daha anlaşılır kıldı."
+      }
+    ],
+    "synonyms": [
+      "rewording",
+      "paraphrasing",
+      "restatement"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_replaceable",
+    "headword": "replaceable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpleɪsəbəl/",
+    "meanings": [
+      {
+        "tr": "değiştirilebilir, yeri doldurulabilir",
+        "en": "able to be replaced by something or someone else",
+        "exampleEn": "The worn parts are easily replaceable.",
+        "exampleTr": "Yıpranmış parçalar kolayca değiştirilebilir."
+      }
+    ],
+    "synonyms": [
+      "exchangeable",
+      "substitutable"
+    ],
+    "antonyms": [
+      "irreplaceable"
+    ]
+  },
+  {
+    "id": "w_replenish",
+    "headword": "replenish",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈplenɪʃ/",
+    "meanings": [
+      {
+        "tr": "yeniden doldurmak, ikmal etmek",
+        "en": "to fill something up again or restore a supply",
+        "exampleEn": "We need to replenish our stock of paper before the meeting.",
+        "exampleTr": "Toplantıdan önce kağıt stokumuzu yeniden doldurmamız gerekiyor."
+      }
+    ],
+    "synonyms": [
+      "refill",
+      "restock",
+      "replace"
+    ],
+    "antonyms": [
+      "deplete",
+      "exhaust"
+    ]
+  },
+  {
+    "id": "w_repose",
+    "headword": "repose",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpoʊz/",
+    "meanings": [
+      {
+        "tr": "dinlenme, huzur, sükûnet",
+        "en": "a state of rest, calm, or peaceful quietness",
+        "exampleEn": "Her face was calm and full of repose as she slept.",
+        "exampleTr": "Uyurken yüzü sakin ve huzur doluydu."
+      }
+    ],
+    "synonyms": [
+      "rest",
+      "calm",
+      "tranquility"
+    ],
+    "antonyms": [
+      "activity",
+      "agitation"
+    ]
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "id": "w_variable",
+    "headword": "variable",
+    "extraMeanings": [
+      {
+        "tr": "değişken (matematik/istatistikte simge)",
+        "en": "a quantity or symbol that can represent different values",
+        "exampleEn": "In the equation, x is the variable you need to solve for.",
+        "exampleTr": "Denklemde x, çözmen gereken değişkendir."
+      }
+    ]
+  },
+  {
+    "id": "w_variant",
+    "headword": "variant",
+    "extraMeanings": [
+      {
+        "tr": "farklı, değişen (sıfat)",
+        "en": "differing from a standard or from others of the same type",
+        "exampleEn": "There are several variant spellings of the word.",
+        "exampleTr": "Kelimenin birkaç farklı yazımı vardır."
+      }
+    ]
+  },
+  {
+    "id": "w_vault",
+    "headword": "vault",
+    "extraMeanings": [
+      {
+        "tr": "atlamak, sıçrayarak aşmak (fiil)",
+        "en": "to jump over something in a single movement, using your hands or a pole",
+        "exampleEn": "He vaulted over the fence and ran into the field.",
+        "exampleTr": "Çiti atlayıp tarlaya doğru koştu."
+      }
+    ]
+  },
+  {
+    "id": "w_vent",
+    "headword": "vent",
+    "extraMeanings": [
+      {
+        "tr": "havalandırma deliği, menfez (isim)",
+        "en": "an opening that allows air, gas, or smoke to pass through",
+        "exampleEn": "Warm air came out of the heating vent.",
+        "exampleTr": "Isıtma menfezinden sıcak hava çıkıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_verse",
+    "headword": "verse",
+    "extraMeanings": [
+      {
+        "tr": "(şarkıda) kıta, bölüm (nakarat dışındaki)",
+        "en": "one of the sections of a song, as opposed to the chorus",
+        "exampleEn": "She forgot the words to the second verse of the song.",
+        "exampleTr": "Şarkının ikinci kıtasının sözlerini unuttu."
+      }
+    ]
+  },
+  {
+    "id": "w_version",
+    "headword": "version",
+    "extraMeanings": [
+      {
+        "tr": "anlatım, bakış açısı (bir olaya dair)",
+        "en": "a particular account of an event from someone's point of view",
+        "exampleEn": "Her version of what happened was completely different from his.",
+        "exampleTr": "Olanlara dair onun anlatımı, adamınkinden tamamen farklıydı."
+      }
+    ]
+  },
+  {
+    "id": "w_very",
+    "headword": "very",
+    "extraMeanings": [
+      {
+        "tr": "çok, pek (zarf)",
+        "en": "to a great degree; extremely",
+        "exampleEn": "She was very tired after the long journey.",
+        "exampleTr": "Uzun yolculuktan sonra çok yorgundu."
+      }
+    ]
+  },
+  {
+    "id": "w_vibrate",
+    "headword": "vibrate",
+    "extraMeanings": [
+      {
+        "tr": "(telefon) titreşim moduna geçmek, titremek",
+        "en": "(of a device) to shake with rapid small movements to signal something",
+        "exampleEn": "My phone vibrated in my pocket during the meeting.",
+        "exampleTr": "Toplantı sırasında telefonum cebimde titredi."
+      }
+    ]
+  },
+  {
+    "id": "w_void",
+    "headword": "void",
+    "extraMeanings": [
+      {
+        "tr": "geçersiz, hükümsüz (sıfat)",
+        "en": "not legally valid or binding",
+        "exampleEn": "The contract was declared void by the court.",
+        "exampleTr": "Sözleşme mahkeme tarafından geçersiz ilan edildi."
+      },
+      {
+        "tr": "geçersiz kılmak, iptal etmek (fiil)",
+        "en": "to officially cancel or make invalid",
+        "exampleEn": "They voided the ticket because it had already been used.",
+        "exampleTr": "Bilet zaten kullanıldığı için onu iptal ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_volunteer",
+    "headword": "volunteer",
+    "extraMeanings": [
+      {
+        "tr": "gönüllü olmak, kendiliğinden üstlenmek (fiil)",
+        "en": "to offer to do something without being asked or forced",
+        "exampleEn": "She volunteered to help organize the charity event.",
+        "exampleTr": "Hayır etkinliğini düzenlemeye yardım etmek için gönüllü oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_vomit",
+    "headword": "vomit",
+    "extraMeanings": [
+      {
+        "tr": "kusmak (fiil)",
+        "en": "to bring up food from the stomach through the mouth",
+        "exampleEn": "He felt sick and vomited after eating the spoiled fish.",
+        "exampleTr": "Bozuk balığı yedikten sonra midesi bulandı ve kustu."
+      }
+    ]
+  },
+  {
+    "id": "w_vow",
+    "headword": "vow",
+    "extraMeanings": [
+      {
+        "tr": "yemin etmek, ant içmek (fiil)",
+        "en": "to make a serious promise to do something",
+        "exampleEn": "He vowed never to make the same mistake again.",
+        "exampleTr": "Aynı hatayı bir daha yapmamaya yemin etti."
+      }
+    ]
+  },
+  {
+    "id": "w_wager",
+    "headword": "wager",
+    "extraMeanings": [
+      {
+        "tr": "bahse girmek, iddiaya girmek (fiil)",
+        "en": "to bet a sum of money on the result of something",
+        "exampleEn": "He wagered fifty dollars on his favorite horse.",
+        "exampleTr": "Favori atına elli dolar bahis oynadı."
+      }
+    ]
+  },
+  {
+    "id": "w_wait",
+    "headword": "wait",
+    "extraMeanings": [
+      {
+        "tr": "beklemek (fiil)",
+        "en": "to stay in a place until something happens or someone arrives",
+        "exampleEn": "We had to wait an hour for the next train.",
+        "exampleTr": "Bir sonraki tren için bir saat beklemek zorunda kaldık."
+      }
+    ]
+  },
+  {
+    "id": "w_want",
+    "headword": "want",
+    "extraMeanings": [
+      {
+        "tr": "istemek, arzu etmek (fiil)",
+        "en": "to have a desire for something",
+        "exampleEn": "I want a cup of coffee before we leave.",
+        "exampleTr": "Gitmeden önce bir fincan kahve istiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_weave",
+    "headword": "weave",
+    "extraMeanings": [
+      {
+        "tr": "dokumak, örmek (fiil)",
+        "en": "to make cloth by crossing threads over and under each other",
+        "exampleEn": "The women weave beautiful carpets by hand.",
+        "exampleTr": "Kadınlar el ile güzel halılar dokuyor."
+      },
+      {
+        "tr": "(kalabalık/trafik arasından) süzülerek ilerlemek (fiil)",
+        "en": "to move along by turning and changing direction to avoid obstacles",
+        "exampleEn": "The motorcyclist weaved through the heavy traffic.",
+        "exampleTr": "Motosikletli, yoğun trafiğin arasından süzülerek geçti."
+      }
+    ]
+  },
+  {
+    "id": "w_weed",
+    "headword": "weed",
+    "extraMeanings": [
+      {
+        "tr": "yabani otları ayıklamak, otları temizlemek (fiil)",
+        "en": "to remove wild plants from a garden or area",
+        "exampleEn": "She spent the afternoon weeding the vegetable garden.",
+        "exampleTr": "Öğleden sonrayı sebze bahçesindeki yabani otları ayıklayarak geçirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_western",
+    "headword": "western",
+    "extraMeanings": [
+      {
+        "tr": "kovboy filmi, western (isim)",
+        "en": "a film or book about cowboys in the American West",
+        "exampleEn": "My grandfather loves watching old westerns on TV.",
+        "exampleTr": "Büyükbabam televizyonda eski kovboy filmleri izlemeyi çok sever."
+      }
+    ]
+  },
+  {
+    "id": "w_whip",
+    "headword": "whip",
+    "extraMeanings": [
+      {
+        "tr": "kırbaç (isim)",
+        "en": "a long piece of leather or rope used to hit animals or people",
+        "exampleEn": "The rider cracked his whip to make the horse go faster.",
+        "exampleTr": "Binici, atı hızlandırmak için kırbacını şaklattı."
+      }
+    ]
+  },
+  {
+    "id": "w_wink",
+    "headword": "wink",
+    "extraMeanings": [
+      {
+        "tr": "göz kırpmak (fiil)",
+        "en": "to close and open one eye quickly, usually as a friendly signal",
+        "exampleEn": "She winked at me to show she was joking.",
+        "exampleTr": "Şaka yaptığını göstermek için bana göz kırptı."
+      }
+    ]
+  },
+  {
+    "id": "w_wipe",
+    "headword": "wipe",
+    "extraMeanings": [
+      {
+        "tr": "silme, silme hareketi (isim)",
+        "en": "an act of cleaning something by rubbing it",
+        "exampleEn": "Give the table a quick wipe before dinner.",
+        "exampleTr": "Yemekten önce masayı hızlıca bir sil."
+      }
+    ]
+  },
+  {
+    "id": "w_witness",
+    "headword": "witness",
+    "extraMeanings": [
+      {
+        "tr": "tanık olmak, şahit olmak (fiil)",
+        "en": "to see something happen, especially an event or crime",
+        "exampleEn": "Several people witnessed the accident on the highway.",
+        "exampleTr": "Birkaç kişi otoyoldaki kazaya tanık oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_wed",
+    "headword": "wed",
+    "extraMeanings": [
+      {
+        "tr": "(fikir/nitelik) birleştirmek, bağdaştırmak",
+        "en": "to combine two different things or qualities",
+        "exampleEn": "The design weds traditional style with modern technology.",
+        "exampleTr": "Tasarım, geleneksel tarzı modern teknolojiyle birleştiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w_win",
+    "headword": "win",
+    "extraMeanings": [
+      {
+        "tr": "kazanmak (fiil)",
+        "en": "to be successful or victorious in a contest or competition",
+        "exampleEn": "Our team won the match in the final minute.",
+        "exampleTr": "Takımımız maçı son dakikada kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_worm",
+    "headword": "worm",
+    "extraMeanings": [
+      {
+        "tr": "(bilgisayar) solucan virüsü",
+        "en": "a type of malicious program that spreads through computer networks",
+        "exampleEn": "The worm spread quickly across thousands of computers.",
+        "exampleTr": "Solucan virüsü binlerce bilgisayara hızla yayıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_worship",
+    "headword": "worship",
+    "extraMeanings": [
+      {
+        "tr": "ibadet etmek, tapmak (fiil)",
+        "en": "to show respect and love for a god through religious activities",
+        "exampleEn": "They gather every Sunday to worship at the church.",
+        "exampleTr": "Her Pazar kilisede ibadet etmek için toplanırlar."
+      },
+      {
+        "tr": "hayran olmak, tapmak (birine)",
+        "en": "to love or admire someone very much",
+        "exampleEn": "She absolutely worships her older brother.",
+        "exampleTr": "Ağabeyine adeta tapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_wreck",
+    "headword": "wreck",
+    "extraMeanings": [
+      {
+        "tr": "mahvetmek, harap etmek (fiil)",
+        "en": "to destroy or badly damage something",
+        "exampleEn": "The storm wrecked several houses along the coast.",
+        "exampleTr": "Fırtına, kıyı boyunca birkaç evi harap etti."
+      }
+    ]
+  },
+  {
+    "id": "w_yawn",
+    "headword": "yawn",
+    "extraMeanings": [
+      {
+        "tr": "esnemek (fiil)",
+        "en": "to open the mouth wide and breathe in deeply because of tiredness",
+        "exampleEn": "He yawned loudly during the boring lecture.",
+        "exampleTr": "Sıkıcı ders sırasında yüksek sesle esnedi."
+      }
+    ]
+  },
+  {
+    "id": "w_yank",
+    "headword": "yank",
+    "extraMeanings": [
+      {
+        "tr": "ani sertçe çekiş (isim)",
+        "en": "a sudden strong pull",
+        "exampleEn": "With one yank, she pulled the rope free.",
+        "exampleTr": "Tek bir sert çekişle ipi kurtardı."
+      }
+    ]
+  },
+  {
+    "id": "w_widow",
+    "headword": "widow",
+    "extraMeanings": [
+      {
+        "tr": "dul bırakmak (fiil, genelde edilgen)",
+        "en": "to cause someone to become a widow or widower",
+        "exampleEn": "She was widowed at a young age when her husband died in the war.",
+        "exampleTr": "Kocası savaşta ölünce genç yaşta dul kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_wit",
+    "headword": "wit",
+    "extraMeanings": [
+      {
+        "tr": "akıl, sağduyu (genelde çoğul: wits)",
+        "en": "the ability to think quickly and make good decisions",
+        "exampleEn": "She had the wit to call for help immediately.",
+        "exampleTr": "Hemen yardım çağıracak akla sahipti."
+      }
+    ]
+  },
+  {
+    "id": "w_vintage",
+    "headword": "vintage",
+    "extraMeanings": [
+      {
+        "tr": "(şarap) bağbozumu yılı, mahsul yılı (isim)",
+        "en": "the year or place in which a particular wine was produced",
+        "exampleEn": "This bottle is from an excellent vintage.",
+        "exampleTr": "Bu şişe mükemmel bir mahsul yılına ait."
+      }
+    ]
+  },
+  {
+    "id": "w_whirl",
+    "headword": "whirl",
+    "extraMeanings": [
+      {
+        "tr": "dönme, fırıl fırıl dönüş; telaş, koşuşturma (isim)",
+        "en": "a fast spinning movement, or a state of busy activity",
+        "exampleEn": "Her life was a whirl of parties and social events.",
+        "exampleTr": "Hayatı, partiler ve sosyal etkinliklerden oluşan bir koşuşturmaydı."
+      }
+    ]
+  }
+]

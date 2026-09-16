@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "w_depressing",
+    "headword": "depressing",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈpresɪŋ/",
+    "meanings": [
+      {
+        "tr": "iç karartıcı, moral bozucu",
+        "en": "making you feel very sad and without hope",
+        "exampleEn": "The news about the factory closing was really depressing.",
+        "exampleTr": "Fabrikanın kapanmasıyla ilgili haber gerçekten iç karartıcıydı."
+      }
+    ],
+    "synonyms": ["dispiriting", "gloomy", "disheartening"],
+    "antonyms": ["cheerful", "uplifting"]
+  },
+  {
+    "id": "w_depression",
+    "headword": "depression",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈpreʃn/",
+    "meanings": [
+      {
+        "tr": "depresyon, ruhsal çöküntü",
+        "en": "a mental state in which you feel very sad and hopeless",
+        "exampleEn": "She suffered from depression after losing her job.",
+        "exampleTr": "İşini kaybettikten sonra depresyon yaşadı."
+      }
+    ],
+    "synonyms": ["melancholy", "despondency"],
+    "antonyms": ["happiness", "elation"]
+  },
+  {
+    "id": "w_deprive",
+    "headword": "deprive",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈpraɪv/",
+    "meanings": [
+      {
+        "tr": "mahrum bırakmak, yoksun bırakmak",
+        "en": "to prevent someone from having something they need",
+        "exampleEn": "The new law could deprive thousands of people of their rights.",
+        "exampleTr": "Yeni yasa binlerce insanı haklarından mahrum bırakabilir."
+      }
+    ],
+    "synonyms": ["dispossess", "strip", "deny"],
+    "antonyms": ["provide", "give"]
+  },
+  {
+    "id": "w_depth",
+    "headword": "depth",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/depθ/",
+    "meanings": [
+      {
+        "tr": "derinlik",
+        "en": "the distance from the top or surface to the bottom of something",
+        "exampleEn": "The lake has a depth of about thirty metres.",
+        "exampleTr": "Gölün derinliği yaklaşık otuz metredir."
+      }
+    ],
+    "synonyms": ["deepness", "profundity"],
+    "antonyms": ["shallowness", "height"]
+  },
+  {
+    "id": "w_derive",
+    "headword": "derive",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈraɪv/",
+    "meanings": [
+      {
+        "tr": "elde etmek, türetmek, kaynaklanmak",
+        "en": "to get or obtain something from a source",
+        "exampleEn": "Many English words derive from Latin.",
+        "exampleTr": "Birçok İngilizce kelime Latinceden türemiştir."
+      }
+    ],
+    "synonyms": ["obtain", "originate", "stem"],
+    "antonyms": []
+  },
+  {
+    "id": "w_deserve",
+    "headword": "deserve",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈzɜːv/",
+    "meanings": [
+      {
+        "tr": "hak etmek, layık olmak",
+        "en": "to be worthy of something because of your actions or qualities",
+        "exampleEn": "After all that hard work, you deserve a holiday.",
+        "exampleTr": "Bunca emekten sonra bir tatili hak ediyorsun."
+      }
+    ],
+    "synonyms": ["merit", "earn", "warrant"],
+    "antonyms": []
+  },
+  {
+    "id": "w_desire",
+    "headword": "desire",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈzaɪə(r)/",
+    "meanings": [
+      {
+        "tr": "arzu, istek",
+        "en": "a strong feeling of wanting something",
+        "exampleEn": "She had a strong desire to travel the world.",
+        "exampleTr": "Dünyayı gezmek için güçlü bir arzusu vardı."
+      }
+    ],
+    "synonyms": ["wish", "longing", "craving"],
+    "antonyms": ["aversion", "indifference"]
+  },
+  {
+    "id": "w_despair",
+    "headword": "despair",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈspeə(r)/",
+    "meanings": [
+      {
+        "tr": "umutsuzluk, çaresizlik",
+        "en": "the feeling of having lost all hope",
+        "exampleEn": "He was filled with despair when he heard the bad news.",
+        "exampleTr": "Kötü haberi duyunca içi umutsuzlukla doldu."
+      }
+    ],
+    "synonyms": ["hopelessness", "desperation"],
+    "antonyms": ["hope", "optimism"]
+  },
+  {
+    "id": "w_desperate",
+    "headword": "desperate",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdespərət/",
+    "meanings": [
+      {
+        "tr": "çaresiz, umutsuz, son derece istekli",
+        "en": "feeling or showing a hopeless sense that a situation is so bad it cannot be dealt with",
+        "exampleEn": "They were desperate for help after the flood.",
+        "exampleTr": "Selden sonra yardım için çaresizdiler."
+      }
+    ],
+    "synonyms": ["hopeless", "frantic", "anxious"],
+    "antonyms": ["hopeful", "composed"]
+  },
+  {
+    "id": "w_destination",
+    "headword": "destination",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˌdestɪˈneɪʃn/",
+    "meanings": [
+      {
+        "tr": "varış yeri, hedef, gidilecek yer",
+        "en": "the place to which someone or something is going",
+        "exampleEn": "Paris is a popular destination for tourists.",
+        "exampleTr": "Paris, turistler için popüler bir varış yeridir."
+      }
+    ],
+    "synonyms": ["endpoint", "terminus"],
+    "antonyms": ["origin", "departure"]
+  },
+  {
+    "id": "w_destruction",
+    "headword": "destruction",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈstrʌkʃn/",
+    "meanings": [
+      {
+        "tr": "yıkım, tahribat, imha",
+        "en": "the act of destroying something or the state of being destroyed",
+        "exampleEn": "The storm caused widespread destruction along the coast.",
+        "exampleTr": "Fırtına kıyı boyunca yaygın bir yıkıma neden oldu."
+      }
+    ],
+    "synonyms": ["devastation", "ruin", "demolition"],
+    "antonyms": ["creation", "construction"]
+  },
+  {
+    "id": "w_destructive",
+    "headword": "destructive",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈstrʌktɪv/",
+    "meanings": [
+      {
+        "tr": "yıkıcı, tahrip edici",
+        "en": "causing great damage or harm",
+        "exampleEn": "Earthquakes can be extremely destructive.",
+        "exampleTr": "Depremler son derece yıkıcı olabilir."
+      }
+    ],
+    "synonyms": ["damaging", "harmful", "ruinous"],
+    "antonyms": ["constructive", "beneficial"]
+  },
+  {
+    "id": "w_detective",
+    "headword": "detective",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈtektɪv/",
+    "meanings": [
+      {
+        "tr": "dedektif, polis hafiyesi",
+        "en": "a person whose job is to investigate crimes",
+        "exampleEn": "The detective questioned all the suspects carefully.",
+        "exampleTr": "Dedektif tüm şüphelileri dikkatlice sorguladı."
+      }
+    ],
+    "synonyms": ["investigator", "sleuth"],
+    "antonyms": []
+  },
+  {
+    "id": "w_determination",
+    "headword": "determination",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˌtɜːmɪˈneɪʃn/",
+    "meanings": [
+      {
+        "tr": "kararlılık, azim",
+        "en": "the quality of continuing to try to do something despite difficulties",
+        "exampleEn": "Her determination to succeed impressed everyone.",
+        "exampleTr": "Başarmaya yönelik kararlılığı herkesi etkiledi."
+      }
+    ],
+    "synonyms": ["resolve", "persistence", "tenacity"],
+    "antonyms": ["hesitation", "indecision"]
+  },
+  {
+    "id": "w_determine",
+    "headword": "determine",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈtɜːmɪn/",
+    "meanings": [
+      {
+        "tr": "belirlemek, saptamak, karar vermek",
+        "en": "to find out or decide something exactly",
+        "exampleEn": "Scientists are trying to determine the cause of the disease.",
+        "exampleTr": "Bilim insanları hastalığın nedenini belirlemeye çalışıyorlar."
+      }
+    ],
+    "synonyms": ["establish", "ascertain", "decide"],
+    "antonyms": []
+  },
+  {
+    "id": "w_devastate",
+    "headword": "devastate",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdevəsteɪt/",
+    "meanings": [
+      {
+        "tr": "harap etmek, yıkıma uğratmak, perişan etmek",
+        "en": "to destroy or badly damage something completely",
+        "exampleEn": "The hurricane devastated the entire region.",
+        "exampleTr": "Kasırga tüm bölgeyi harap etti."
+      }
+    ],
+    "synonyms": ["destroy", "ruin", "wreck"],
+    "antonyms": ["build", "restore"]
+  },
+  {
+    "id": "w_devastating",
+    "headword": "devastating",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdevəsteɪtɪŋ/",
+    "meanings": [
+      {
+        "tr": "yıkıcı, mahvedici, çok kötü",
+        "en": "causing severe damage or shock",
+        "exampleEn": "The fire had a devastating effect on the village.",
+        "exampleTr": "Yangının köy üzerinde yıkıcı bir etkisi oldu."
+      }
+    ],
+    "synonyms": ["destructive", "catastrophic", "ruinous"],
+    "antonyms": ["harmless", "beneficial"]
+  },
+  {
+    "id": "w_development",
+    "headword": "development",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈveləpmənt/",
+    "meanings": [
+      {
+        "tr": "gelişme, kalkınma, geliştirme",
+        "en": "the process of growing or becoming larger or more advanced",
+        "exampleEn": "The development of new technology has changed our lives.",
+        "exampleTr": "Yeni teknolojinin gelişimi hayatımızı değiştirdi."
+      }
+    ],
+    "synonyms": ["growth", "progress", "advancement"],
+    "antonyms": ["decline", "regression"]
+  },
+  {
+    "id": "w_device",
+    "headword": "device",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈvaɪs/",
+    "meanings": [
+      {
+        "tr": "cihaz, aygıt, alet",
+        "en": "an object or machine made for a particular purpose",
+        "exampleEn": "This device can measure your heart rate.",
+        "exampleTr": "Bu cihaz kalp atış hızınızı ölçebilir."
+      }
+    ],
+    "synonyms": ["gadget", "instrument", "apparatus"],
+    "antonyms": []
+  },
+  {
+    "id": "w_devotion",
+    "headword": "devotion",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈvəʊʃn/",
+    "meanings": [
+      {
+        "tr": "bağlılık, adanmışlık, sadakat",
+        "en": "great love, loyalty or dedication to someone or something",
+        "exampleEn": "Her devotion to her family was admirable.",
+        "exampleTr": "Ailesine olan bağlılığı takdire değerdi."
+      }
+    ],
+    "synonyms": ["loyalty", "dedication", "commitment"],
+    "antonyms": ["indifference", "disloyalty"]
+  },
+  {
+    "id": "w_diagram",
+    "headword": "diagram",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdaɪəɡræm/",
+    "meanings": [
+      {
+        "tr": "diyagram, şema, çizim",
+        "en": "a simple drawing that explains how something works",
+        "exampleEn": "The teacher drew a diagram to explain the water cycle.",
+        "exampleTr": "Öğretmen su döngüsünü açıklamak için bir diyagram çizdi."
+      }
+    ],
+    "synonyms": ["chart", "figure", "schematic"],
+    "antonyms": []
+  },
+  {
+    "id": "w_dial",
+    "headword": "dial",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdaɪəl/",
+    "meanings": [
+      {
+        "tr": "kadran, ayar düğmesi",
+        "en": "the round part of a clock, watch or instrument with numbers on it",
+        "exampleEn": "She turned the dial to set the oven temperature.",
+        "exampleTr": "Fırın sıcaklığını ayarlamak için kadranı çevirdi."
+      }
+    ],
+    "synonyms": ["knob", "gauge"],
+    "antonyms": []
+  },
+  {
+    "id": "w_dialog",
+    "headword": "dialog",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdaɪəlɒɡ/",
+    "meanings": [
+      {
+        "tr": "diyalog, karşılıklı konuşma",
+        "en": "a conversation between two or more people",
+        "exampleEn": "The movie has very natural dialog between the characters.",
+        "exampleTr": "Filmde karakterler arasında çok doğal bir diyalog var."
+      }
+    ],
+    "synonyms": ["conversation", "discussion", "talk"],
+    "antonyms": ["monologue"]
+  },
+  {
+    "id": "w_diameter",
+    "headword": "diameter",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/daɪˈæmɪtə(r)/",
+    "meanings": [
+      {
+        "tr": "çap",
+        "en": "a straight line passing through the centre of a circle from one side to the other",
+        "exampleEn": "The circle has a diameter of ten centimetres.",
+        "exampleTr": "Dairenin çapı on santimetredir."
+      }
+    ],
+    "synonyms": ["width", "breadth"],
+    "antonyms": ["radius"]
+  },
+  {
+    "id": "w_diaper",
+    "headword": "diaper",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdaɪəpə(r)/",
+    "meanings": [
+      {
+        "tr": "bebek bezi",
+        "en": "a piece of soft cloth or paper worn by a baby around its bottom",
+        "exampleEn": "The baby needs a clean diaper.",
+        "exampleTr": "Bebeğin temiz bir bezine ihtiyacı var."
+      }
+    ],
+    "synonyms": ["nappy"],
+    "antonyms": []
+  },
+  {
+    "id": "w_differ",
+    "headword": "differ",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɪfə(r)/",
+    "meanings": [
+      {
+        "tr": "farklı olmak, ayrılmak",
+        "en": "to be different from something or someone",
+        "exampleEn": "British and American English differ in spelling.",
+        "exampleTr": "İngiliz ve Amerikan İngilizcesi yazımda farklılık gösterir."
+      }
+    ],
+    "synonyms": ["vary", "contrast", "diverge"],
+    "antonyms": ["agree", "match"]
+  },
+  {
+    "id": "w_digital",
+    "headword": "digital",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɪdʒɪtl/",
+    "meanings": [
+      {
+        "tr": "dijital, sayısal",
+        "en": "using or storing information as electronic signals or numbers",
+        "exampleEn": "She prefers reading digital books on her tablet.",
+        "exampleTr": "Tabletinde dijital kitaplar okumayı tercih ediyor."
+      }
+    ],
+    "synonyms": ["electronic", "computerized"],
+    "antonyms": ["analog"]
+  },
+  {
+    "id": "w_diligence",
+    "headword": "diligence",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɪlɪdʒəns/",
+    "meanings": [
+      {
+        "tr": "çalışkanlık, gayret, özen",
+        "en": "careful and persistent effort in work",
+        "exampleEn": "He completed the project with great diligence.",
+        "exampleTr": "Projeyi büyük bir özenle tamamladı."
+      }
+    ],
+    "synonyms": ["industriousness", "carefulness", "perseverance"],
+    "antonyms": ["laziness", "negligence"]
+  },
+  {
+    "id": "w_dioxide",
+    "headword": "dioxide",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/daɪˈɒksaɪd/",
+    "meanings": [
+      {
+        "tr": "dioksit",
+        "en": "a chemical compound containing two oxygen atoms",
+        "exampleEn": "Plants absorb carbon dioxide from the air.",
+        "exampleTr": "Bitkiler havadan karbon dioksit alır."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_directly",
+    "headword": "directly",
+    "pos": "adv",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dəˈrektli/",
+    "meanings": [
+      {
+        "tr": "doğrudan, doğrudan doğruya",
+        "en": "in a direct way, without anything in between",
+        "exampleEn": "You can contact me directly by email.",
+        "exampleTr": "Bana doğrudan e-posta ile ulaşabilirsiniz."
+      }
+    ],
+    "synonyms": ["straight", "immediately"],
+    "antonyms": ["indirectly"]
+  },
+  {
+    "id": "w_dirt",
+    "headword": "dirt",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɜːt/",
+    "meanings": [
+      {
+        "tr": "kir, pislik, toprak",
+        "en": "any substance that makes something dirty, such as mud or dust",
+        "exampleEn": "His shoes were covered in dirt after the hike.",
+        "exampleTr": "Yürüyüşten sonra ayakkabıları kir içindeydi."
+      }
+    ],
+    "synonyms": ["filth", "grime", "mud"],
+    "antonyms": ["cleanliness"]
+  },
+  {
+    "id": "w_disability",
+    "headword": "disability",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˌdɪsəˈbɪləti/",
+    "meanings": [
+      {
+        "tr": "engellilik, sakatlık, engel",
+        "en": "a physical or mental condition that limits a person's abilities",
+        "exampleEn": "The building has ramps for people with a disability.",
+        "exampleTr": "Binada engelli insanlar için rampalar var."
+      }
+    ],
+    "synonyms": ["impairment", "handicap"],
+    "antonyms": ["ability"]
+  },
+  {
+    "id": "w_disable",
+    "headword": "disable",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪsˈeɪbl/",
+    "meanings": [
+      {
+        "tr": "devre dışı bırakmak, etkisiz hale getirmek",
+        "en": "to stop something from working or being effective",
+        "exampleEn": "You can disable notifications in the settings.",
+        "exampleTr": "Bildirimleri ayarlardan devre dışı bırakabilirsiniz."
+      }
+    ],
+    "synonyms": ["deactivate", "turn off"],
+    "antonyms": ["enable", "activate"]
+  },
+  {
+    "id": "w_disabled",
+    "headword": "disabled",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪsˈeɪbld/",
+    "meanings": [
+      {
+        "tr": "engelli, sakat",
+        "en": "having a physical or mental condition that limits movement or activities",
+        "exampleEn": "The hotel has special rooms for disabled guests.",
+        "exampleTr": "Otelde engelli misafirler için özel odalar var."
+      }
+    ],
+    "synonyms": ["handicapped", "impaired"],
+    "antonyms": ["able-bodied"]
+  },
+  {
+    "id": "w_disagreement",
+    "headword": "disagreement",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˌdɪsəˈɡriːmənt/",
+    "meanings": [
+      {
+        "tr": "anlaşmazlık, uyuşmazlık, fikir ayrılığı",
+        "en": "a situation in which people have different opinions",
+        "exampleEn": "There was a disagreement about how to spend the money.",
+        "exampleTr": "Paranın nasıl harcanacağı konusunda bir anlaşmazlık vardı."
+      }
+    ],
+    "synonyms": ["dispute", "argument", "conflict"],
+    "antonyms": ["agreement", "consensus"]
+  },
+  {
+    "id": "w_disappoint",
+    "headword": "disappoint",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˌdɪsəˈpɔɪnt/",
+    "meanings": [
+      {
+        "tr": "hayal kırıklığına uğratmak",
+        "en": "to make someone feel sad because something was not as good as they hoped",
+        "exampleEn": "I don't want to disappoint my parents.",
+        "exampleTr": "Ailemi hayal kırıklığına uğratmak istemiyorum."
+      }
+    ],
+    "synonyms": ["let down", "dissatisfy"],
+    "antonyms": ["satisfy", "please"]
+  },
+  {
+    "id": "w_disappointment",
+    "headword": "disappointment",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˌdɪsəˈpɔɪntmənt/",
+    "meanings": [
+      {
+        "tr": "hayal kırıklığı",
+        "en": "the feeling of being sad because something did not happen as hoped",
+        "exampleEn": "To his disappointment, the concert was cancelled.",
+        "exampleTr": "Hayal kırıklığına uğrayarak, konserin iptal edildiğini gördü."
+      }
+    ],
+    "synonyms": ["letdown", "dissatisfaction"],
+    "antonyms": ["satisfaction", "delight"]
+  },
+  {
+    "id": "w_disaster",
+    "headword": "disaster",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈzɑːstə(r)/",
+    "meanings": [
+      {
+        "tr": "felaket, afet",
+        "en": "a sudden event that causes great damage or suffering",
+        "exampleEn": "The earthquake was a terrible disaster for the country.",
+        "exampleTr": "Deprem ülke için korkunç bir felaketti."
+      }
+    ],
+    "synonyms": ["catastrophe", "calamity", "tragedy"],
+    "antonyms": ["blessing", "triumph"]
+  },
+  {
+    "id": "w_disastrous",
+    "headword": "disastrous",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈzɑːstrəs/",
+    "meanings": [
+      {
+        "tr": "felaket niteliğinde, çok kötü, feci",
+        "en": "extremely bad or causing great damage",
+        "exampleEn": "The decision had disastrous consequences for the company.",
+        "exampleTr": "Bu karar şirket için feci sonuçlar doğurdu."
+      }
+    ],
+    "synonyms": ["catastrophic", "calamitous", "ruinous"],
+    "antonyms": ["successful", "fortunate"]
+  },
+  {
+    "id": "w_disc-jockey",
+    "headword": "disc jockey",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɪsk dʒɒki/",
+    "meanings": [
+      {
+        "tr": "diskjokey, DJ, radyo/parti sunucusu",
+        "en": "a person who plays recorded music on the radio or at a club",
+        "exampleEn": "The disc jockey played all our favourite songs at the party.",
+        "exampleTr": "Diskjokey partide tüm sevdiğimiz şarkıları çaldı."
+      }
+    ],
+    "synonyms": ["DJ"],
+    "antonyms": []
+  },
+  {
+    "id": "w_discomfort",
+    "headword": "discomfort",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪsˈkʌmfət/",
+    "meanings": [
+      {
+        "tr": "rahatsızlık, huzursuzluk",
+        "en": "a feeling of slight pain or of being physically uncomfortable",
+        "exampleEn": "She felt some discomfort in her back after the long flight.",
+        "exampleTr": "Uzun uçuştan sonra sırtında biraz rahatsızlık hissetti."
+      }
+    ],
+    "synonyms": ["unease", "soreness", "ache"],
+    "antonyms": ["comfort", "ease"]
+  },
+  {
+    "id": "w_discourage",
+    "headword": "discourage",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪsˈkʌrɪdʒ/",
+    "meanings": [
+      {
+        "tr": "cesaretini kırmak, vazgeçirmek, caydırmak",
+        "en": "to make someone less confident or less willing to do something",
+        "exampleEn": "Don't let one failure discourage you from trying again.",
+        "exampleTr": "Bir başarısızlığın tekrar denemekten seni caydırmasına izin verme."
+      }
+    ],
+    "synonyms": ["dishearten", "deter", "dissuade"],
+    "antonyms": ["encourage", "motivate"]
+  },
+  {
+    "id": "w_discovery",
+    "headword": "discovery",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈskʌvəri/",
+    "meanings": [
+      {
+        "tr": "keşif, buluş",
+        "en": "the act of finding something for the first time",
+        "exampleEn": "The discovery of penicillin changed medicine forever.",
+        "exampleTr": "Penisilinin keşfi tıbbı sonsuza dek değiştirdi."
+      }
+    ],
+    "synonyms": ["finding", "breakthrough"],
+    "antonyms": ["concealment"]
+  },
+  {
+    "id": "w_discrimination",
+    "headword": "discrimination",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˌskrɪmɪˈneɪʃn/",
+    "meanings": [
+      {
+        "tr": "ayrımcılık",
+        "en": "the unfair treatment of people because of their race, age or sex",
+        "exampleEn": "The law protects workers from discrimination.",
+        "exampleTr": "Yasa, işçileri ayrımcılığa karşı korur."
+      }
+    ],
+    "synonyms": ["prejudice", "bias", "unfairness"],
+    "antonyms": ["equality", "fairness"]
+  },
+  {
+    "id": "w_disease",
+    "headword": "disease",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈziːz/",
+    "meanings": [
+      {
+        "tr": "hastalık",
+        "en": "an illness affecting humans, animals or plants",
+        "exampleEn": "Doctors are working to find a cure for the disease.",
+        "exampleTr": "Doktorlar bu hastalığa bir tedavi bulmak için çalışıyorlar."
+      }
+    ],
+    "synonyms": ["illness", "sickness", "ailment"],
+    "antonyms": ["health"]
+  },
+  {
+    "id": "w_disgusting",
+    "headword": "disgusting",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪsˈɡʌstɪŋ/",
+    "meanings": [
+      {
+        "tr": "iğrenç, mide bulandırıcı",
+        "en": "extremely unpleasant and making you feel sick",
+        "exampleEn": "The kitchen was in a disgusting state.",
+        "exampleTr": "Mutfak iğrenç bir haldeydi."
+      }
+    ],
+    "synonyms": ["revolting", "repulsive", "nauseating"],
+    "antonyms": ["pleasant", "delightful"]
+  },
+  {
+    "id": "w_dishwasher",
+    "headword": "dishwasher",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɪʃwɒʃə(r)/",
+    "meanings": [
+      {
+        "tr": "bulaşık makinesi",
+        "en": "a machine that washes plates, cups and other dishes",
+        "exampleEn": "Please put the plates in the dishwasher.",
+        "exampleTr": "Lütfen tabakları bulaşık makinesine koy."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_disk",
+    "headword": "disk",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪsk/",
+    "meanings": [
+      {
+        "tr": "disk",
+        "en": "a flat, round object used to store computer data",
+        "exampleEn": "I saved all my files on a hard disk.",
+        "exampleTr": "Tüm dosyalarımı bir sabit diske kaydettim."
+      }
+    ],
+    "synonyms": ["disc"],
+    "antonyms": []
+  },
+  {
+    "id": "w_dissolve",
+    "headword": "dissolve",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈzɒlv/",
+    "meanings": [
+      {
+        "tr": "çözünmek, erimek, eritmek",
+        "en": "to mix with a liquid and become part of it",
+        "exampleEn": "Stir the mixture until the sugar dissolves.",
+        "exampleTr": "Şeker eriyene kadar karışımı karıştırın."
+      }
+    ],
+    "synonyms": ["melt", "liquefy"],
+    "antonyms": ["solidify", "crystallize"]
+  },
+  {
+    "id": "w_distance",
+    "headword": "distance",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɪstəns/",
+    "meanings": [
+      {
+        "tr": "mesafe, uzaklık",
+        "en": "the amount of space between two places or things",
+        "exampleEn": "The distance between the two cities is about 200 kilometres.",
+        "exampleTr": "İki şehir arasındaki mesafe yaklaşık 200 kilometredir."
+      }
+    ],
+    "synonyms": ["span", "gap", "interval"],
+    "antonyms": ["proximity", "closeness"]
+  },
+  {
+    "id": "w_distant",
+    "headword": "distant",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɪstənt/",
+    "meanings": [
+      {
+        "tr": "uzak, ırak",
+        "en": "far away in space or time",
+        "exampleEn": "We could see the distant mountains on the horizon.",
+        "exampleTr": "Ufuktaki uzak dağları görebiliyorduk."
+      }
+    ],
+    "synonyms": ["far", "remote", "faraway"],
+    "antonyms": ["near", "close"]
+  },
+  {
+    "id": "w_distinction",
+    "headword": "distinction",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈstɪŋkʃn/",
+    "meanings": [
+      {
+        "tr": "ayrım, fark, üstün başarı",
+        "en": "a clear difference between two similar things",
+        "exampleEn": "There is an important distinction between the two terms.",
+        "exampleTr": "İki terim arasında önemli bir ayrım vardır."
+      }
+    ],
+    "synonyms": ["difference", "contrast", "differentiation"],
+    "antonyms": ["similarity", "sameness"]
+  },
+  {
+    "id": "w_distinctly",
+    "headword": "distinctly",
+    "pos": "adv",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈstɪŋktli/",
+    "meanings": [
+      {
+        "tr": "açıkça, belirgin bir şekilde",
+        "en": "in a clear and easily noticeable way",
+        "exampleEn": "I distinctly remember locking the door.",
+        "exampleTr": "Kapıyı kilitlediğimi açıkça hatırlıyorum."
+      }
+    ],
+    "synonyms": ["clearly", "noticeably", "markedly"],
+    "antonyms": ["vaguely", "indistinctly"]
+  },
+  {
+    "id": "w_distinguish",
+    "headword": "distinguish",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈstɪŋɡwɪʃ/",
+    "meanings": [
+      {
+        "tr": "ayırt etmek, ayırmak, fark etmek",
+        "en": "to recognize the difference between two or more things",
+        "exampleEn": "Babies soon learn to distinguish their mother's voice.",
+        "exampleTr": "Bebekler kısa sürede annelerinin sesini ayırt etmeyi öğrenir."
+      }
+    ],
+    "synonyms": ["differentiate", "discern", "tell apart"],
+    "antonyms": ["confuse"]
+  },
+  {
+    "id": "w_distribute",
+    "headword": "distribute",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈstrɪbjuːt/",
+    "meanings": [
+      {
+        "tr": "dağıtmak, paylaştırmak",
+        "en": "to give things out to a number of people or places",
+        "exampleEn": "Volunteers will distribute food to the families.",
+        "exampleTr": "Gönüllüler ailelere yiyecek dağıtacak."
+      }
+    ],
+    "synonyms": ["hand out", "allocate", "share out"],
+    "antonyms": ["collect", "gather"]
+  },
+  {
+    "id": "w_distribution",
+    "headword": "distribution",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˌdɪstrɪˈbjuːʃn/",
+    "meanings": [
+      {
+        "tr": "dağıtım, dağılım",
+        "en": "the act of giving or delivering things to many people or places",
+        "exampleEn": "The company handles the distribution of products across Europe.",
+        "exampleTr": "Şirket, ürünlerin Avrupa genelinde dağıtımını yürütüyor."
+      }
+    ],
+    "synonyms": ["allocation", "delivery", "dispersal"],
+    "antonyms": ["collection"]
+  },
+  {
+    "id": "w_district",
+    "headword": "district",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɪstrɪkt/",
+    "meanings": [
+      {
+        "tr": "bölge, ilçe, semt",
+        "en": "an area of a town or country, often with official boundaries",
+        "exampleEn": "She lives in the business district of the city.",
+        "exampleTr": "Şehrin iş bölgesinde yaşıyor."
+      }
+    ],
+    "synonyms": ["area", "region", "zone"],
+    "antonyms": []
+  },
+  {
+    "id": "w_disturbance",
+    "headword": "disturbance",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈstɜːbəns/",
+    "meanings": [
+      {
+        "tr": "rahatsızlık, kargaşa, bozulma",
+        "en": "something that interrupts or stops a peaceful situation",
+        "exampleEn": "The loud party caused a disturbance in the neighbourhood.",
+        "exampleTr": "Gürültülü parti mahallede bir kargaşaya neden oldu."
+      }
+    ],
+    "synonyms": ["disruption", "commotion", "interruption"],
+    "antonyms": ["peace", "calm"]
+  },
+  {
+    "id": "w_dive",
+    "headword": "dive",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/daɪv/",
+    "meanings": [
+      {
+        "tr": "dalış, dalma, atlama",
+        "en": "an act of jumping into water with your head and arms first",
+        "exampleEn": "She made a perfect dive into the pool.",
+        "exampleTr": "Havuza mükemmel bir dalış yaptı."
+      }
+    ],
+    "synonyms": ["plunge", "jump", "leap"],
+    "antonyms": []
+  },
+  {
+    "id": "w_diver",
+    "headword": "diver",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdaɪvə(r)/",
+    "meanings": [
+      {
+        "tr": "dalgıç",
+        "en": "a person who swims under water, often using special equipment",
+        "exampleEn": "The diver explored the coral reef.",
+        "exampleTr": "Dalgıç mercan resifini keşfetti."
+      }
+    ],
+    "synonyms": ["scuba diver"],
+    "antonyms": []
+  },
+  {
+    "id": "w_diverse",
+    "headword": "diverse",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/daɪˈvɜːs/",
+    "meanings": [
+      {
+        "tr": "çeşitli, farklı, çok yönlü",
+        "en": "very different from each other; varied",
+        "exampleEn": "The city has a diverse population from many countries.",
+        "exampleTr": "Şehirde birçok ülkeden gelen çeşitli bir nüfus var."
+      }
+    ],
+    "synonyms": ["varied", "assorted", "different"],
+    "antonyms": ["uniform", "similar"]
+  },
+  {
+    "id": "w_divide",
+    "headword": "divide",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈvaɪd/",
+    "meanings": [
+      {
+        "tr": "ayrım, uçurum, bölünme",
+        "en": "a difference or separation between two groups or things",
+        "exampleEn": "There is a growing divide between rich and poor.",
+        "exampleTr": "Zengin ve fakir arasında giderek büyüyen bir uçurum var."
+      }
+    ],
+    "synonyms": ["gap", "split", "gulf"],
+    "antonyms": ["unity"]
+  },
+  {
+    "id": "w_divine",
+    "headword": "divine",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈvaɪn/",
+    "meanings": [
+      {
+        "tr": "ilahi, kutsal, tanrısal",
+        "en": "coming from or relating to God or a god",
+        "exampleEn": "Many believers see it as a divine sign.",
+        "exampleTr": "Birçok inanan bunu ilahi bir işaret olarak görür."
+      }
+    ],
+    "synonyms": ["holy", "sacred", "heavenly"],
+    "antonyms": ["earthly", "mortal"]
+  },
+  {
+    "id": "w_diving",
+    "headword": "diving",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdaɪvɪŋ/",
+    "meanings": [
+      {
+        "tr": "dalış, dalgıçlık",
+        "en": "the activity or sport of swimming under water or jumping into water",
+        "exampleEn": "We went diving to see the fish near the reef.",
+        "exampleTr": "Resifin yakınındaki balıkları görmek için dalışa gittik."
+      }
+    ],
+    "synonyms": ["scuba diving"],
+    "antonyms": []
+  },
+  {
+    "id": "w_divorced",
+    "headword": "divorced",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɪˈvɔːst/",
+    "meanings": [
+      {
+        "tr": "boşanmış",
+        "en": "no longer married because the marriage has been legally ended",
+        "exampleEn": "Her parents have been divorced for ten years.",
+        "exampleTr": "Anne babası on yıldır boşanmış durumda."
+      }
+    ],
+    "synonyms": ["separated"],
+    "antonyms": ["married"]
+  },
+  {
+    "id": "w_dj",
+    "headword": "DJ",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˌdiːˈdʒeɪ/",
+    "meanings": [
+      {
+        "tr": "DJ, diskjokey",
+        "en": "a person who plays recorded music at a club, party or on the radio",
+        "exampleEn": "The DJ kept everyone dancing all night.",
+        "exampleTr": "DJ herkesi bütün gece dans ettirdi."
+      }
+    ],
+    "synonyms": ["disc jockey"],
+    "antonyms": []
+  },
+  {
+    "id": "w_doc",
+    "headword": "doc",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/dɒk/",
+    "meanings": [
+      {
+        "tr": "belge, doküman (gayrıresmi), doktor (gayrıresmi)",
+        "en": "an informal word for a document or a doctor",
+        "exampleEn": "Can you send me that doc by email?",
+        "exampleTr": "Bana o belgeyi e-posta ile gönderebilir misin?"
+      }
+    ],
+    "synonyms": ["document", "doctor"],
+    "antonyms": []
+  },
+  {
+    "id": "w_document",
+    "headword": "document",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɒkjumənt/",
+    "meanings": [
+      {
+        "tr": "belge, doküman, evrak",
+        "en": "a piece of paper or a computer file with official information",
+        "exampleEn": "Please sign this document before you leave.",
+        "exampleTr": "Lütfen ayrılmadan önce bu belgeyi imzalayın."
+      }
+    ],
+    "synonyms": ["file", "paper", "record"],
+    "antonyms": []
+  },
+  {
+    "id": "w_documentary",
+    "headword": "documentary",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˌdɒkjuˈmentri/",
+    "meanings": [
+      {
+        "tr": "belgesel",
+        "en": "a film or television programme giving facts about a real subject",
+        "exampleEn": "We watched a documentary about ocean life.",
+        "exampleTr": "Okyanus yaşamı hakkında bir belgesel izledik."
+      }
+    ],
+    "synonyms": ["feature", "exposé"],
+    "antonyms": []
+  },
+  {
+    "id": "w_dolphin",
+    "headword": "dolphin",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈdɒlfɪn/",
+    "meanings": [
+      {
+        "tr": "yunus (balığı)",
+        "en": "an intelligent sea animal that breathes air and looks like a large fish",
+        "exampleEn": "We saw a dolphin jumping out of the water.",
+        "exampleTr": "Sudan zıplayan bir yunus gördük."
+      }
+    ],
+    "synonyms": ["porpoise"],
+    "antonyms": []
+  }
+]

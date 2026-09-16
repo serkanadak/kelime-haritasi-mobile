@@ -1,0 +1,638 @@
+[
+  {
+    "id": "w_sum",
+    "headword": "sum",
+    "extraMeanings": [
+      {
+        "tr": "para miktarı",
+        "en": "an amount of money",
+        "exampleEn": "They paid a large sum for the house.",
+        "exampleTr": "Ev için büyük bir para ödediler."
+      },
+      {
+        "tr": "aritmetik işlem, hesap",
+        "en": "a simple calculation in arithmetic",
+        "exampleEn": "The children are learning to do sums at school.",
+        "exampleTr": "Çocuklar okulda aritmetik işlemler yapmayı öğreniyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w_super",
+    "headword": "super",
+    "extraMeanings": [
+      {
+        "tr": "son derece, aşırı (zarf)",
+        "en": "extremely; very",
+        "exampleEn": "The test was super easy.",
+        "exampleTr": "Sınav son derece kolaydı."
+      }
+    ]
+  },
+  {
+    "id": "w_sure",
+    "headword": "sure",
+    "extraMeanings": [
+      {
+        "tr": "tabii, elbette (cevap olarak)",
+        "en": "used to say yes or to agree",
+        "exampleEn": "\"Can you help me?\" \"Sure!\"",
+        "exampleTr": "\"Bana yardım eder misin?\" \"Tabii!\""
+      }
+    ]
+  },
+  {
+    "id": "w_surf",
+    "headword": "surf",
+    "extraMeanings": [
+      {
+        "tr": "sörf yapmak (fiil)",
+        "en": "to ride on waves on a surfboard",
+        "exampleEn": "They go to the beach to surf every weekend.",
+        "exampleTr": "Her hafta sonu sörf yapmak için plaja gidiyorlar."
+      },
+      {
+        "tr": "internette gezinmek (fiil)",
+        "en": "to look at different websites on the internet",
+        "exampleEn": "He spends hours surfing the internet.",
+        "exampleTr": "İnternette gezinerek saatler geçiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w_surprise",
+    "headword": "surprise",
+    "extraMeanings": [
+      {
+        "tr": "şaşırtmak (fiil)",
+        "en": "to make someone feel surprised",
+        "exampleEn": "It surprised me that she left so early.",
+        "exampleTr": "Bu kadar erken gitmesi beni şaşırttı."
+      }
+    ]
+  },
+  {
+    "id": "w_survey",
+    "headword": "survey",
+    "extraMeanings": [
+      {
+        "tr": "incelemek, gözden geçirmek (fiil)",
+        "en": "to look at or examine something carefully",
+        "exampleEn": "She surveyed the room before answering.",
+        "exampleTr": "Cevap vermeden önce odayı inceledi."
+      }
+    ]
+  },
+  {
+    "id": "w_sweet",
+    "headword": "sweet",
+    "extraMeanings": [
+      {
+        "tr": "şeker, tatlı (isim)",
+        "en": "a small piece of sweet food, such as candy",
+        "exampleEn": "The children ate too many sweets.",
+        "exampleTr": "Çocuklar çok fazla şeker yedi."
+      },
+      {
+        "tr": "sevimli, cana yakın",
+        "en": "kind and gentle; charming",
+        "exampleEn": "It was really sweet of you to help.",
+        "exampleTr": "Yardım etmen gerçekten çok inceydi."
+      }
+    ]
+  },
+  {
+    "id": "w_swim",
+    "headword": "swim",
+    "extraMeanings": [
+      {
+        "tr": "yüzmek (fiil)",
+        "en": "to move through water using your body",
+        "exampleEn": "I like to swim in the sea.",
+        "exampleTr": "Denizde yüzmeyi severim."
+      }
+    ]
+  },
+  {
+    "id": "w_table",
+    "headword": "table",
+    "extraMeanings": [
+      {
+        "tr": "tablo, çizelge",
+        "en": "an arrangement of facts or numbers in rows and columns",
+        "exampleEn": "The results are shown in the table below.",
+        "exampleTr": "Sonuçlar aşağıdaki tabloda gösteriliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_tea",
+    "headword": "tea",
+    "extraMeanings": [
+      {
+        "tr": "akşam yemeği (İng. İngilizcesi)",
+        "en": "a light evening meal (British English)",
+        "exampleEn": "We had sausages for tea.",
+        "exampleTr": "Akşam yemeğinde sosis yedik."
+      }
+    ]
+  },
+  {
+    "id": "w_temple",
+    "headword": "temple",
+    "extraMeanings": [
+      {
+        "tr": "şakak",
+        "en": "the flat area on each side of your forehead",
+        "exampleEn": "He rubbed his temples because of the headache.",
+        "exampleTr": "Baş ağrısından dolayı şakaklarını ovaladı."
+      }
+    ]
+  },
+  {
+    "id": "w_test",
+    "headword": "test",
+    "extraMeanings": [
+      {
+        "tr": "test etmek, denemek (fiil)",
+        "en": "to examine or try something to see if it works",
+        "exampleEn": "They tested the new software before selling it.",
+        "exampleTr": "Satmadan önce yeni yazılımı test ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_theater",
+    "headword": "theater",
+    "extraMeanings": [
+      {
+        "tr": "sinema salonu, gösteri salonu",
+        "en": "a place where films are shown or shows are performed",
+        "exampleEn": "The new movie is showing at the theater downtown.",
+        "exampleTr": "Yeni film şehir merkezindeki salonda gösteriliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_thick",
+    "headword": "thick",
+    "extraMeanings": [
+      {
+        "tr": "yoğun, sık",
+        "en": "difficult to see through; dense",
+        "exampleEn": "Thick fog covered the whole city.",
+        "exampleTr": "Yoğun sis tüm şehri kapladı."
+      }
+    ]
+  },
+  {
+    "id": "w_throw",
+    "headword": "throw",
+    "extraMeanings": [
+      {
+        "tr": "atmak, fırlatmak (fiil)",
+        "en": "to send something through the air with your hand",
+        "exampleEn": "He threw the ball to his friend.",
+        "exampleTr": "Topu arkadaşına attı."
+      }
+    ]
+  },
+  {
+    "id": "w_time",
+    "headword": "time",
+    "extraMeanings": [
+      {
+        "tr": "kez, defa, kere",
+        "en": "an occasion when something happens",
+        "exampleEn": "I have seen that film three times.",
+        "exampleTr": "O filmi üç kez izledim."
+      },
+      {
+        "tr": "süre zaman ayarlamak (fiil)",
+        "en": "to measure how long something takes",
+        "exampleEn": "The teacher timed the students during the exam.",
+        "exampleTr": "Öğretmen sınav sırasında öğrencilerin süresini tuttu."
+      }
+    ]
+  },
+  {
+    "id": "w_tool",
+    "headword": "tool",
+    "extraMeanings": [
+      {
+        "tr": "araç, vasıta (mecazi)",
+        "en": "something that helps you do a job or achieve something",
+        "exampleEn": "Language is a powerful tool for communication.",
+        "exampleTr": "Dil, iletişim için güçlü bir araçtır."
+      }
+    ]
+  },
+  {
+    "id": "w_touch",
+    "headword": "touch",
+    "extraMeanings": [
+      {
+        "tr": "dokunmak (fiil)",
+        "en": "to put your hand or finger on something",
+        "exampleEn": "Please don't touch the paintings.",
+        "exampleTr": "Lütfen tablolara dokunmayın."
+      },
+      {
+        "tr": "duygulandırmak, etkilemek (fiil)",
+        "en": "to make someone feel emotional",
+        "exampleEn": "Her kind words touched me deeply.",
+        "exampleTr": "Onun nazik sözleri beni derinden etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "w_tower",
+    "headword": "tower",
+    "extraMeanings": [
+      {
+        "tr": "üzerine yükselmek, tepesinde durmak (fiil)",
+        "en": "to be much taller than the people or things around",
+        "exampleEn": "The building towers over the old houses nearby.",
+        "exampleTr": "Bina, yakındaki eski evlerin üzerine yükseliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_train",
+    "headword": "train",
+    "extraMeanings": [
+      {
+        "tr": "eğitmek, yetiştirmek (fiil)",
+        "en": "to teach a person or animal a skill",
+        "exampleEn": "She trains dogs for the police.",
+        "exampleTr": "Polis için köpek eğitiyor."
+      },
+      {
+        "tr": "antrenman yapmak (fiil)",
+        "en": "to practice for a sport or competition",
+        "exampleEn": "He trains every day for the marathon.",
+        "exampleTr": "Maraton için her gün antrenman yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_trip",
+    "headword": "trip",
+    "extraMeanings": [
+      {
+        "tr": "tökezlemek, ayağı takılmak (fiil)",
+        "en": "to catch your foot and fall or almost fall",
+        "exampleEn": "She tripped over a stone and fell.",
+        "exampleTr": "Bir taşa takılıp düştü."
+      }
+    ]
+  },
+  {
+    "id": "w_true",
+    "headword": "true",
+    "extraMeanings": [
+      {
+        "tr": "sadık, vefalı",
+        "en": "loyal and faithful",
+        "exampleEn": "He is a true friend.",
+        "exampleTr": "O gerçek bir dost, sadık bir arkadaştır."
+      }
+    ]
+  },
+  {
+    "id": "w_try",
+    "headword": "try",
+    "extraMeanings": [
+      {
+        "tr": "denemek, çalışmak (fiil)",
+        "en": "to attempt to do something",
+        "exampleEn": "I will try to finish it today.",
+        "exampleTr": "Bugün bitirmeye çalışacağım."
+      },
+      {
+        "tr": "tatmak, denemek (fiil)",
+        "en": "to test or sample something",
+        "exampleEn": "Try this cake, it's delicious.",
+        "exampleTr": "Bu keki dene, çok lezzetli."
+      }
+    ]
+  },
+  {
+    "id": "w_turkey",
+    "headword": "turkey",
+    "extraMeanings": [
+      {
+        "tr": "hindi eti",
+        "en": "the meat of a turkey eaten as food",
+        "exampleEn": "We eat turkey at Christmas.",
+        "exampleTr": "Noel'de hindi eti yeriz."
+      }
+    ]
+  },
+  {
+    "id": "w_turn",
+    "headword": "turn",
+    "extraMeanings": [
+      {
+        "tr": "dönmek, döndürmek (fiil)",
+        "en": "to move around a central point; to change direction",
+        "exampleEn": "Turn left at the next corner.",
+        "exampleTr": "Bir sonraki köşeden sola dön."
+      },
+      {
+        "tr": "...haline gelmek, dönüşmek (fiil)",
+        "en": "to become or change into something",
+        "exampleEn": "The leaves turn brown in autumn.",
+        "exampleTr": "Yapraklar sonbaharda kahverengiye döner."
+      }
+    ]
+  },
+  {
+    "id": "w_type",
+    "headword": "type",
+    "extraMeanings": [
+      {
+        "tr": "(klavyede) yazmak (fiil)",
+        "en": "to write using a keyboard",
+        "exampleEn": "She typed the letter quickly.",
+        "exampleTr": "Mektubu hızlıca yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w_underline",
+    "headword": "underline",
+    "extraMeanings": [
+      {
+        "tr": "altını çizmek (fiil)",
+        "en": "to draw a line under a word or text",
+        "exampleEn": "Underline the important words in the text.",
+        "exampleTr": "Metindeki önemli kelimelerin altını çiz."
+      },
+      {
+        "tr": "vurgulamak, önemini belirtmek (fiil)",
+        "en": "to emphasize or show that something is important",
+        "exampleEn": "The report underlines the need for change.",
+        "exampleTr": "Rapor, değişim ihtiyacını vurguluyor."
+      }
+    ]
+  },
+  {
+    "id": "w_visit",
+    "headword": "visit",
+    "extraMeanings": [
+      {
+        "tr": "ziyaret etmek (fiil)",
+        "en": "to go to see a person or place",
+        "exampleEn": "We visited our grandparents last week.",
+        "exampleTr": "Geçen hafta büyükanne ve büyükbabamızı ziyaret ettik."
+      }
+    ]
+  },
+  {
+    "id": "w_vote",
+    "headword": "vote",
+    "extraMeanings": [
+      {
+        "tr": "oy vermek (fiil)",
+        "en": "to choose someone or something in an election",
+        "exampleEn": "She voted for the new mayor.",
+        "exampleTr": "Yeni belediye başkanına oy verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_wake",
+    "headword": "wake",
+    "extraMeanings": [
+      {
+        "tr": "uyanmak, uyandırmak (fiil)",
+        "en": "to stop sleeping or to make someone stop sleeping",
+        "exampleEn": "I usually wake up at seven o'clock.",
+        "exampleTr": "Genellikle saat yedide uyanırım."
+      }
+    ]
+  },
+  {
+    "id": "w_walk",
+    "headword": "walk",
+    "extraMeanings": [
+      {
+        "tr": "yürümek (fiil)",
+        "en": "to move on foot",
+        "exampleEn": "We walked to school this morning.",
+        "exampleTr": "Bu sabah okula yürüdük."
+      }
+    ]
+  },
+  {
+    "id": "w_wall",
+    "headword": "wall",
+    "extraMeanings": [
+      {
+        "tr": "sur, çevre duvarı",
+        "en": "a structure built to enclose or defend an area",
+        "exampleEn": "The old city is surrounded by high walls.",
+        "exampleTr": "Eski şehir yüksek surlarla çevrilidir."
+      }
+    ]
+  },
+  {
+    "id": "w_warm",
+    "headword": "warm",
+    "extraMeanings": [
+      {
+        "tr": "sıcakkanlı, samimi",
+        "en": "friendly and kind",
+        "exampleEn": "They gave us a warm welcome.",
+        "exampleTr": "Bize sıcak bir karşılama yaptılar."
+      },
+      {
+        "tr": "ısıtmak, ısınmak (fiil)",
+        "en": "to make or become warmer",
+        "exampleEn": "Warm the milk before you drink it.",
+        "exampleTr": "İçmeden önce sütü ısıt."
+      }
+    ]
+  },
+  {
+    "id": "w_wash",
+    "headword": "wash",
+    "extraMeanings": [
+      {
+        "tr": "yıkamak (fiil)",
+        "en": "to clean something with water",
+        "exampleEn": "Wash your hands before dinner.",
+        "exampleTr": "Akşam yemeğinden önce ellerini yıka."
+      }
+    ]
+  },
+  {
+    "id": "w_watch",
+    "headword": "watch",
+    "extraMeanings": [
+      {
+        "tr": "izlemek, seyretmek (fiil)",
+        "en": "to look at something for a period of time",
+        "exampleEn": "We watched a film last night.",
+        "exampleTr": "Dün gece bir film izledik."
+      },
+      {
+        "tr": "dikkat etmek, göz kulak olmak (fiil)",
+        "en": "to be careful about something; to take care of",
+        "exampleEn": "Watch the children while I'm gone.",
+        "exampleTr": "Ben yokken çocuklara göz kulak ol."
+      }
+    ]
+  },
+  {
+    "id": "w_water",
+    "headword": "water",
+    "extraMeanings": [
+      {
+        "tr": "sulamak (fiil)",
+        "en": "to pour water on plants",
+        "exampleEn": "She waters the flowers every morning.",
+        "exampleTr": "Her sabah çiçekleri sular."
+      }
+    ]
+  },
+  {
+    "id": "w_way",
+    "headword": "way",
+    "extraMeanings": [
+      {
+        "tr": "mesafe, uzaklık",
+        "en": "a distance or period of time",
+        "exampleEn": "It's a long way to the city.",
+        "exampleTr": "Şehre uzun bir yol var."
+      }
+    ]
+  },
+  {
+    "id": "w_well",
+    "headword": "well",
+    "extraMeanings": [
+      {
+        "tr": "iyi, güzel (biçimde) (zarf)",
+        "en": "in a good or satisfactory way",
+        "exampleEn": "She sings very well.",
+        "exampleTr": "Çok güzel şarkı söylüyor."
+      },
+      {
+        "tr": "kuyu (isim)",
+        "en": "a deep hole dug to get water or oil",
+        "exampleEn": "They got water from an old well.",
+        "exampleTr": "Eski bir kuyudan su aldılar."
+      }
+    ]
+  },
+  {
+    "id": "w_wind",
+    "headword": "wind",
+    "extraMeanings": [
+      {
+        "tr": "(saat, ip vb.) kurmak, sarmak (fiil)",
+        "en": "to turn or twist something around",
+        "exampleEn": "He wound the string around his finger.",
+        "exampleTr": "İpi parmağına doladı."
+      },
+      {
+        "tr": "kıvrılmak, dolambaçlı gitmek (fiil)",
+        "en": "to follow a twisting path",
+        "exampleEn": "The road winds through the mountains.",
+        "exampleTr": "Yol dağların arasında kıvrılarak ilerler."
+      }
+    ]
+  },
+  {
+    "id": "w_wish",
+    "headword": "wish",
+    "extraMeanings": [
+      {
+        "tr": "dilemek, istemek (fiil)",
+        "en": "to want something to happen or be true",
+        "exampleEn": "I wish I could speak French.",
+        "exampleTr": "Keşke Fransızca konuşabilseydim."
+      }
+    ]
+  },
+  {
+    "id": "w_word",
+    "headword": "word",
+    "extraMeanings": [
+      {
+        "tr": "söz, vaat",
+        "en": "a promise",
+        "exampleEn": "He gave me his word that he would come.",
+        "exampleTr": "Bana geleceğine dair söz verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_work",
+    "headword": "work",
+    "extraMeanings": [
+      {
+        "tr": "çalışmak (fiil)",
+        "en": "to do a job or activity",
+        "exampleEn": "She works in a hospital.",
+        "exampleTr": "Bir hastanede çalışıyor."
+      },
+      {
+        "tr": "(makine vb.) çalışmak, işlemek (fiil)",
+        "en": "to function or operate correctly",
+        "exampleEn": "This phone doesn't work anymore.",
+        "exampleTr": "Bu telefon artık çalışmıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_worry",
+    "headword": "worry",
+    "extraMeanings": [
+      {
+        "tr": "endişelenmek, merak etmek (fiil)",
+        "en": "to feel anxious about something",
+        "exampleEn": "Don't worry, everything will be fine.",
+        "exampleTr": "Endişelenme, her şey yoluna girecek."
+      }
+    ]
+  },
+  {
+    "id": "w_yard",
+    "headword": "yard",
+    "extraMeanings": [
+      {
+        "tr": "yarda (uzunluk birimi, ~0,91 m)",
+        "en": "a unit of length equal to about 0.91 meters",
+        "exampleEn": "The pool is fifty yards long.",
+        "exampleTr": "Havuz elli yarda uzunluğunda."
+      }
+    ]
+  },
+  {
+    "id": "w_wear",
+    "headword": "wear",
+    "extraMeanings": [
+      {
+        "tr": "aşınmak, eskimek (fiil)",
+        "en": "to become thinner or weaker through use",
+        "exampleEn": "The carpet has worn thin over the years.",
+        "exampleTr": "Halı yıllar içinde aşınıp incelmiş."
+      }
+    ]
+  },
+  {
+    "id": "w_tell",
+    "headword": "tell",
+    "extraMeanings": [
+      {
+        "tr": "ayırt etmek, anlamak",
+        "en": "to know or recognize the difference",
+        "exampleEn": "I can't tell the twins apart.",
+        "exampleTr": "İkizleri birbirinden ayırt edemiyorum."
+      }
+    ]
+  }
+]

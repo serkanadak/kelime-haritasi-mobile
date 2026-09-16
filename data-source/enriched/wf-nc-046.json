@@ -1,0 +1,1204 @@
+[
+  {
+    "id": "w_untrustworthiness",
+    "headword": "untrustworthiness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈtrʌstˌwɜːðinəs/",
+    "meanings": [
+      {
+        "tr": "güvenilmezlik",
+        "en": "the quality of not being able to be trusted or relied on",
+        "exampleEn": "His repeated lies exposed his untrustworthiness to the whole team.",
+        "exampleTr": "Tekrarlanan yalanları, güvenilmezliğini tüm ekibe gösterdi."
+      }
+    ],
+    "synonyms": [
+      "unreliability",
+      "dishonesty"
+    ],
+    "antonyms": [
+      "trustworthiness",
+      "reliability"
+    ]
+  },
+  {
+    "id": "w_unverified",
+    "headword": "unverified",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈverɪfaɪd/",
+    "meanings": [
+      {
+        "tr": "doğrulanmamış",
+        "en": "not confirmed or proven to be true or accurate",
+        "exampleEn": "The report was based on unverified claims from anonymous sources.",
+        "exampleTr": "Rapor, anonim kaynaklardan gelen doğrulanmamış iddialara dayanıyordu."
+      }
+    ],
+    "synonyms": [
+      "unconfirmed",
+      "unproven"
+    ],
+    "antonyms": [
+      "verified",
+      "confirmed"
+    ]
+  },
+  {
+    "id": "w_unwed",
+    "headword": "unwed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈwed/",
+    "meanings": [
+      {
+        "tr": "evlenmemiş, bekar",
+        "en": "not married",
+        "exampleEn": "She raised three children as an unwed mother.",
+        "exampleTr": "Üç çocuğu evlenmemiş bir anne olarak büyüttü."
+      }
+    ],
+    "synonyms": [
+      "unmarried",
+      "single"
+    ],
+    "antonyms": [
+      "married",
+      "wed"
+    ]
+  },
+  {
+    "id": "w_unwieldy",
+    "headword": "unwieldy",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈwiːldi/",
+    "meanings": [
+      {
+        "tr": "hantal, kullanışsız, idaresi zor",
+        "en": "difficult to move or manage because of its size, shape, or complexity",
+        "exampleEn": "The company's unwieldy structure made quick decisions almost impossible.",
+        "exampleTr": "Şirketin hantal yapısı, hızlı kararları neredeyse imkansız hale getirdi."
+      }
+    ],
+    "synonyms": [
+      "cumbersome",
+      "bulky",
+      "awkward"
+    ],
+    "antonyms": [
+      "manageable",
+      "handy"
+    ]
+  },
+  {
+    "id": "w_unwillingness",
+    "headword": "unwillingness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈwɪlɪŋnəs/",
+    "meanings": [
+      {
+        "tr": "isteksizlik, gönülsüzlük",
+        "en": "the state of not wanting to do something",
+        "exampleEn": "Their unwillingness to compromise stalled the negotiations.",
+        "exampleTr": "Uzlaşma konusundaki isteksizlikleri müzakereleri durdurdu."
+      }
+    ],
+    "synonyms": [
+      "reluctance",
+      "hesitancy"
+    ],
+    "antonyms": [
+      "willingness",
+      "eagerness"
+    ]
+  },
+  {
+    "id": "w_unwittingly",
+    "headword": "unwittingly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈwɪtɪŋli/",
+    "meanings": [
+      {
+        "tr": "farkında olmadan, istemeden",
+        "en": "without being aware of what one is doing",
+        "exampleEn": "He unwittingly revealed the secret during the interview.",
+        "exampleTr": "Röportaj sırasında farkında olmadan sırrı açığa çıkardı."
+      }
+    ],
+    "synonyms": [
+      "unknowingly",
+      "inadvertently"
+    ],
+    "antonyms": [
+      "deliberately",
+      "knowingly"
+    ]
+  },
+  {
+    "id": "w_up_and_coming",
+    "headword": "up-and-coming",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌp ən ˈkʌmɪŋ/",
+    "meanings": [
+      {
+        "tr": "geleceği parlak, yükselen",
+        "en": "likely to become successful or popular soon",
+        "exampleEn": "She is an up-and-coming designer whose work is gaining attention.",
+        "exampleTr": "O, işleri dikkat çekmeye başlayan geleceği parlak bir tasarımcı."
+      }
+    ],
+    "synonyms": [
+      "promising",
+      "rising"
+    ],
+    "antonyms": [
+      "declining",
+      "established"
+    ]
+  },
+  {
+    "id": "w_upheaval",
+    "headword": "upheaval",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌpˈhiːvl/",
+    "meanings": [
+      {
+        "tr": "altüst oluş, büyük değişim, kargaşa",
+        "en": "a big change that often causes a lot of disruption or trouble",
+        "exampleEn": "The merger caused a major upheaval within the organization.",
+        "exampleTr": "Birleşme, kuruluş içinde büyük bir altüst oluşa neden oldu."
+      }
+    ],
+    "synonyms": [
+      "turmoil",
+      "disruption",
+      "disturbance"
+    ],
+    "antonyms": [
+      "stability",
+      "calm"
+    ]
+  },
+  {
+    "id": "w_upheld",
+    "headword": "upheld",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌpˈheld/",
+    "meanings": [
+      {
+        "tr": "onadı, destekledi (uphold'un geçmiş hali)",
+        "en": "past tense of uphold; to confirm, support, or maintain something",
+        "exampleEn": "The court upheld the original decision after the appeal.",
+        "exampleTr": "Mahkeme, temyizden sonra ilk kararı onadı."
+      }
+    ],
+    "synonyms": [
+      "confirmed",
+      "maintained",
+      "supported"
+    ],
+    "antonyms": [
+      "overturned",
+      "rejected"
+    ]
+  },
+  {
+    "id": "w_upon",
+    "headword": "upon",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈpɒn/",
+    "meanings": [
+      {
+        "tr": "üzerine, üzerinde",
+        "en": "on; used especially in formal or literary contexts",
+        "exampleEn": "Success depends upon hard work and a bit of luck.",
+        "exampleTr": "Başarı, çok çalışmaya ve biraz şansa bağlıdır."
+      }
+    ],
+    "synonyms": [
+      "on"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_uppermost",
+    "headword": "uppermost",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌpəməʊst/",
+    "meanings": [
+      {
+        "tr": "en üstteki, en önemli",
+        "en": "highest in position, rank, or importance",
+        "exampleEn": "Safety was uppermost in everyone's mind during the crisis.",
+        "exampleTr": "Kriz sırasında güvenlik herkesin aklında en üst sıradaydı."
+      }
+    ],
+    "synonyms": [
+      "topmost",
+      "foremost"
+    ],
+    "antonyms": [
+      "lowest",
+      "bottommost"
+    ]
+  },
+  {
+    "id": "w_upshot",
+    "headword": "upshot",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌpʃɒt/",
+    "meanings": [
+      {
+        "tr": "sonuç, netice",
+        "en": "the final result of a situation or series of events",
+        "exampleEn": "The upshot of the meeting was a complete change in strategy.",
+        "exampleTr": "Toplantının sonucu, stratejide tam bir değişiklik oldu."
+      }
+    ],
+    "synonyms": [
+      "outcome",
+      "result",
+      "conclusion"
+    ],
+    "antonyms": [
+      "cause",
+      "origin"
+    ]
+  },
+  {
+    "id": "w_upside_down",
+    "headword": "upside-down",
+    "pos": "adj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌpsaɪd ˈdaʊn/",
+    "meanings": [
+      {
+        "tr": "baş aşağı, ters",
+        "en": "with the top part at the bottom and the bottom part at the top",
+        "exampleEn": "The painting was hung upside-down by mistake.",
+        "exampleTr": "Tablo yanlışlıkla baş aşağı asılmıştı."
+      }
+    ],
+    "synonyms": [
+      "inverted"
+    ],
+    "antonyms": [
+      "upright"
+    ]
+  },
+  {
+    "id": "w_upswing",
+    "headword": "upswing",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌpswɪŋ/",
+    "meanings": [
+      {
+        "tr": "yükseliş, canlanma",
+        "en": "an increase or improvement, especially in economic activity",
+        "exampleEn": "The economy is showing a clear upswing after two hard years.",
+        "exampleTr": "Ekonomi, iki zor yılın ardından belirgin bir yükseliş gösteriyor."
+      }
+    ],
+    "synonyms": [
+      "upturn",
+      "recovery",
+      "boom"
+    ],
+    "antonyms": [
+      "downturn",
+      "slump",
+      "decline"
+    ]
+  },
+  {
+    "id": "w_uptake",
+    "headword": "uptake",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌpteɪk/",
+    "meanings": [
+      {
+        "tr": "benimseme, kullanım oranı",
+        "en": "the rate at which something is taken up, adopted, or used",
+        "exampleEn": "The uptake of the new software was slow among older employees.",
+        "exampleTr": "Yeni yazılımın benimsenmesi yaşlı çalışanlar arasında yavaştı."
+      },
+      {
+        "tr": "kavrayış, anlama",
+        "en": "understanding, as in the phrase 'quick on the uptake'",
+        "exampleEn": "She is quick on the uptake and learns new tasks fast.",
+        "exampleTr": "Kavrayışı hızlıdır ve yeni işleri çabuk öğrenir."
+      }
+    ],
+    "synonyms": [
+      "adoption",
+      "absorption"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_urban_area",
+    "headword": "urban area",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɜːbən ˈeəriə/",
+    "meanings": [
+      {
+        "tr": "kentsel alan, şehir bölgesi",
+        "en": "a town or city area with many buildings and people, as opposed to the countryside",
+        "exampleEn": "Most jobs in the industry are concentrated in urban areas.",
+        "exampleTr": "Sektördeki işlerin çoğu kentsel alanlarda yoğunlaşmıştır."
+      }
+    ],
+    "synonyms": [
+      "city",
+      "metropolis"
+    ],
+    "antonyms": [
+      "rural area",
+      "countryside"
+    ]
+  },
+  {
+    "id": "w_urbanite",
+    "headword": "urbanite",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɜːbənaɪt/",
+    "meanings": [
+      {
+        "tr": "şehirli, kentli",
+        "en": "a person who lives in a city",
+        "exampleEn": "As a lifelong urbanite, he felt lost in the quiet countryside.",
+        "exampleTr": "Ömür boyu şehirli biri olarak, sessiz kırsalda kendini kaybolmuş hissetti."
+      }
+    ],
+    "synonyms": [
+      "city dweller"
+    ],
+    "antonyms": [
+      "countryman",
+      "rustic"
+    ]
+  },
+  {
+    "id": "w_us",
+    "headword": "us",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌs/",
+    "meanings": [
+      {
+        "tr": "bizi, bize",
+        "en": "the object form of 'we'; used to refer to the speaker and others",
+        "exampleEn": "Can you give us a hand with these boxes?",
+        "exampleTr": "Bu kutularda bize yardım eder misin?"
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_use_up",
+    "headword": "use up",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/juːz ˈʌp/",
+    "meanings": [
+      {
+        "tr": "tüketmek, bitirmek",
+        "en": "to consume or finish the whole amount of something",
+        "exampleEn": "We used up all the paper before the meeting ended.",
+        "exampleTr": "Toplantı bitmeden bütün kağıdı tükettik."
+      }
+    ],
+    "synonyms": [
+      "consume",
+      "exhaust",
+      "deplete"
+    ],
+    "antonyms": [
+      "save",
+      "conserve"
+    ]
+  },
+  {
+    "id": "w_used_to",
+    "headword": "used to",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈjuːst tə/",
+    "meanings": [
+      {
+        "tr": "eskiden -erdi (geçmişteki alışkanlık)",
+        "en": "used to describe something that happened regularly in the past but no longer does",
+        "exampleEn": "I used to walk to work every day before I bought a car.",
+        "exampleTr": "Araba almadan önce her gün işe yürüyerek giderdim."
+      },
+      {
+        "tr": "alışkın olmak",
+        "en": "familiar with something because of repeated experience",
+        "exampleEn": "She is used to working under pressure.",
+        "exampleTr": "O, baskı altında çalışmaya alışkındır."
+      }
+    ],
+    "synonyms": [
+      "formerly",
+      "accustomed to"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_usurer",
+    "headword": "usurer",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈjuːʒərə/",
+    "meanings": [
+      {
+        "tr": "tefeci",
+        "en": "a person who lends money at very high interest rates",
+        "exampleEn": "The desperate farmer borrowed from a usurer and fell deep into debt.",
+        "exampleTr": "Çaresiz çiftçi bir tefeciden borç aldı ve ağır bir borca battı."
+      }
+    ],
+    "synonyms": [
+      "moneylender",
+      "loan shark"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_utilise",
+    "headword": "utilise",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈjuːtɪlaɪz/",
+    "meanings": [
+      {
+        "tr": "kullanmak, faydalanmak",
+        "en": "to make practical and effective use of something",
+        "exampleEn": "The firm learned to utilise its resources more efficiently.",
+        "exampleTr": "Firma, kaynaklarını daha verimli kullanmayı öğrendi."
+      }
+    ],
+    "synonyms": [
+      "use",
+      "employ",
+      "apply"
+    ],
+    "antonyms": [
+      "waste",
+      "neglect"
+    ]
+  },
+  {
+    "id": "w_utopian",
+    "headword": "utopian",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/juːˈtəʊpiən/",
+    "meanings": [
+      {
+        "tr": "ütopik, hayali mükemmel",
+        "en": "relating to an ideal but impractical or unrealistic society or plan",
+        "exampleEn": "His utopian vision of a moneyless world never took hold.",
+        "exampleTr": "Parasız bir dünyaya dair ütopik vizyonu asla tutmadı."
+      }
+    ],
+    "synonyms": [
+      "idealistic",
+      "visionary"
+    ],
+    "antonyms": [
+      "dystopian",
+      "realistic"
+    ]
+  },
+  {
+    "id": "w_vaccination",
+    "headword": "vaccination",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌvæksɪˈneɪʃn/",
+    "meanings": [
+      {
+        "tr": "aşılama, aşı",
+        "en": "the act of giving a vaccine to protect against disease",
+        "exampleEn": "Vaccination has dramatically reduced childhood diseases.",
+        "exampleTr": "Aşılama, çocukluk hastalıklarını çarpıcı biçimde azalttı."
+      }
+    ],
+    "synonyms": [
+      "immunization",
+      "inoculation"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_vacuum",
+    "headword": "vacuum",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvækjuːm/",
+    "meanings": [
+      {
+        "tr": "boşluk, vakum",
+        "en": "a space that is completely empty of all matter, or a gap left by something missing",
+        "exampleEn": "His departure left a vacuum in the leadership team.",
+        "exampleTr": "Ayrılışı, liderlik ekibinde bir boşluk bıraktı."
+      }
+    ],
+    "synonyms": [
+      "void",
+      "emptiness"
+    ],
+    "antonyms": [
+      "fullness"
+    ]
+  },
+  {
+    "id": "w_valiantly",
+    "headword": "valiantly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvæliəntli/",
+    "meanings": [
+      {
+        "tr": "cesurca, yiğitçe",
+        "en": "in a brave and determined way",
+        "exampleEn": "The team fought valiantly but lost in the final minutes.",
+        "exampleTr": "Takım cesurca mücadele etti ama son dakikalarda kaybetti."
+      }
+    ],
+    "synonyms": [
+      "bravely",
+      "courageously",
+      "heroically"
+    ],
+    "antonyms": [
+      "cowardly"
+    ]
+  },
+  {
+    "id": "w_valuer",
+    "headword": "valuer",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvæljuːə/",
+    "meanings": [
+      {
+        "tr": "değer biçen, eksper, kıymet takdircisi",
+        "en": "a person whose job is to estimate the value of property or goods",
+        "exampleEn": "The valuer assessed the house at well above the asking price.",
+        "exampleTr": "Eksper, evi istenen fiyatın çok üzerinde değerlendirdi."
+      }
+    ],
+    "synonyms": [
+      "appraiser",
+      "assessor"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_vanquished",
+    "headword": "vanquished",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvæŋkwɪʃt/",
+    "meanings": [
+      {
+        "tr": "yenilmiş, mağlup edilmiş",
+        "en": "defeated completely, especially in a battle or contest",
+        "exampleEn": "The vanquished army retreated across the border.",
+        "exampleTr": "Yenilmiş ordu sınırın öte yanına çekildi."
+      }
+    ],
+    "synonyms": [
+      "defeated",
+      "conquered",
+      "beaten"
+    ],
+    "antonyms": [
+      "victorious",
+      "triumphant"
+    ]
+  },
+  {
+    "id": "w_variable_costs",
+    "headword": "variable costs",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈveəriəbl kɒsts/",
+    "meanings": [
+      {
+        "tr": "değişken maliyetler",
+        "en": "business costs that change in proportion to the level of production or output",
+        "exampleEn": "Raw materials and hourly wages are typical variable costs.",
+        "exampleTr": "Hammadde ve saatlik ücretler tipik değişken maliyetlerdir."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "fixed costs"
+    ]
+  },
+  {
+    "id": "w_variable_expenses",
+    "headword": "variable expenses",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈveəriəbl ɪkˈspensɪz/",
+    "meanings": [
+      {
+        "tr": "değişken giderler",
+        "en": "expenses that change from period to period depending on usage or activity",
+        "exampleEn": "Fuel and dining out are variable expenses in a household budget.",
+        "exampleTr": "Yakıt ve dışarıda yemek, bir ev bütçesindeki değişken giderlerdir."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "fixed expenses"
+    ]
+  },
+  {
+    "id": "w_vastness",
+    "headword": "vastness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvɑːstnəs/",
+    "meanings": [
+      {
+        "tr": "enginlik, uçsuz bucaksızlık",
+        "en": "the quality of being extremely large in size or extent",
+        "exampleEn": "The vastness of the ocean made the boat seem tiny.",
+        "exampleTr": "Okyanusun enginliği, tekneyi minik gösteriyordu."
+      }
+    ],
+    "synonyms": [
+      "immensity",
+      "enormity"
+    ],
+    "antonyms": [
+      "smallness"
+    ]
+  },
+  {
+    "id": "w_vending",
+    "headword": "vending",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvendɪŋ/",
+    "meanings": [
+      {
+        "tr": "satış (özellikle otomatla), satıcılık",
+        "en": "the activity of selling goods, especially through machines or in the street",
+        "exampleEn": "Street vending is a common source of income in the city.",
+        "exampleTr": "Sokakta satıcılık, şehirde yaygın bir gelir kaynağıdır."
+      }
+    ],
+    "synonyms": [
+      "selling",
+      "peddling"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_verbosity",
+    "headword": "verbosity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/vɜːˈbɒsəti/",
+    "meanings": [
+      {
+        "tr": "laf kalabalığı, çok sözlülük",
+        "en": "the use of more words than are needed to express something",
+        "exampleEn": "The report's verbosity made it hard to find the key points.",
+        "exampleTr": "Raporun laf kalabalığı, ana noktaları bulmayı zorlaştırdı."
+      }
+    ],
+    "synonyms": [
+      "wordiness",
+      "long-windedness"
+    ],
+    "antonyms": [
+      "conciseness",
+      "brevity"
+    ]
+  },
+  {
+    "id": "w_verge",
+    "headword": "verge",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/vɜːdʒ/",
+    "meanings": [
+      {
+        "tr": "eşik, kıyı (mecazi), sınır",
+        "en": "the point at which something is about to happen; the edge of something",
+        "exampleEn": "The company was on the verge of bankruptcy last year.",
+        "exampleTr": "Şirket geçen yıl iflasın eşiğindeydi."
+      }
+    ],
+    "synonyms": [
+      "edge",
+      "brink",
+      "threshold"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_vernacular",
+    "headword": "vernacular",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/vəˈnækjələ/",
+    "meanings": [
+      {
+        "tr": "halk dili, günlük konuşma dili, yerel dil",
+        "en": "the everyday language spoken by ordinary people in a particular region",
+        "exampleEn": "The novel was written in the local vernacular rather than formal English.",
+        "exampleTr": "Roman, resmi İngilizce yerine yerel halk diliyle yazılmıştı."
+      }
+    ],
+    "synonyms": [
+      "dialect",
+      "everyday speech"
+    ],
+    "antonyms": [
+      "formal language"
+    ]
+  },
+  {
+    "id": "w_versatility",
+    "headword": "versatility",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌvɜːsəˈtɪləti/",
+    "meanings": [
+      {
+        "tr": "çok yönlülük",
+        "en": "the ability to adapt to or be used for many different functions or activities",
+        "exampleEn": "Her versatility allows her to handle several roles at once.",
+        "exampleTr": "Çok yönlülüğü, aynı anda birkaç rolü yürütmesine olanak tanıyor."
+      }
+    ],
+    "synonyms": [
+      "adaptability",
+      "flexibility"
+    ],
+    "antonyms": [
+      "rigidity"
+    ]
+  },
+  {
+    "id": "w_versus",
+    "headword": "versus",
+    "pos": "prep",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvɜːsəs/",
+    "meanings": [
+      {
+        "tr": "karşı, -e karşı",
+        "en": "used to compare two opposing ideas, choices, or teams",
+        "exampleEn": "The debate was about quality versus quantity in production.",
+        "exampleTr": "Tartışma, üretimde kaliteye karşı miktar üzerineydi."
+      }
+    ],
+    "synonyms": [
+      "against",
+      "vs"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_vestibule",
+    "headword": "vestibule",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvestɪbjuːl/",
+    "meanings": [
+      {
+        "tr": "giriş holü, antre, dış kapı boşluğu",
+        "en": "a small entrance hall or lobby just inside the outer door of a building",
+        "exampleEn": "Guests waited in the vestibule before being shown inside.",
+        "exampleTr": "Konuklar içeri alınmadan önce giriş holünde beklediler."
+      }
+    ],
+    "synonyms": [
+      "lobby",
+      "foyer",
+      "entrance hall"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_via",
+    "headword": "via",
+    "pos": "prep",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvaɪə/",
+    "meanings": [
+      {
+        "tr": "üzerinden, yoluyla, aracılığıyla",
+        "en": "by way of a place; by means of a method or person",
+        "exampleEn": "She sent the documents via email this morning.",
+        "exampleTr": "Belgeleri bu sabah e-posta yoluyla gönderdi."
+      }
+    ],
+    "synonyms": [
+      "through",
+      "by way of"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_vicious",
+    "headword": "vicious",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvɪʃəs/",
+    "meanings": [
+      {
+        "tr": "acımasız, gaddar, şiddetli",
+        "en": "cruel and violent, or intended to cause harm",
+        "exampleEn": "He launched a vicious attack on his rivals in the press.",
+        "exampleTr": "Rakiplerine basında acımasız bir saldırı başlattı."
+      }
+    ],
+    "synonyms": [
+      "brutal",
+      "savage",
+      "cruel"
+    ],
+    "antonyms": [
+      "gentle",
+      "kind"
+    ]
+  },
+  {
+    "id": "w_victorious",
+    "headword": "victorious",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/vɪkˈtɔːriəs/",
+    "meanings": [
+      {
+        "tr": "muzaffer, galip",
+        "en": "having won a victory or achieved success in a contest or battle",
+        "exampleEn": "The victorious team celebrated late into the night.",
+        "exampleTr": "Muzaffer takım geceye kadar kutlama yaptı."
+      }
+    ],
+    "synonyms": [
+      "triumphant",
+      "winning"
+    ],
+    "antonyms": [
+      "defeated",
+      "vanquished"
+    ]
+  },
+  {
+    "id": "w_vigilance",
+    "headword": "vigilance",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvɪdʒɪləns/",
+    "meanings": [
+      {
+        "tr": "tetikte olma, uyanıklık, dikkat",
+        "en": "careful attention given to a situation, especially to detect danger",
+        "exampleEn": "Constant vigilance is needed to prevent security breaches.",
+        "exampleTr": "Güvenlik ihlallerini önlemek için sürekli tetikte olmak gerekir."
+      }
+    ],
+    "synonyms": [
+      "watchfulness",
+      "alertness"
+    ],
+    "antonyms": [
+      "negligence",
+      "carelessness"
+    ]
+  },
+  {
+    "id": "w_villainous",
+    "headword": "villainous",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvɪlənəs/",
+    "meanings": [
+      {
+        "tr": "kötü niyetli, alçakça, haince",
+        "en": "evil or wicked, like a villain",
+        "exampleEn": "The film's villainous character schemes to ruin the town.",
+        "exampleTr": "Filmin kötü niyetli karakteri, kasabayı mahvetmek için plan kurar."
+      }
+    ],
+    "synonyms": [
+      "wicked",
+      "evil",
+      "malicious"
+    ],
+    "antonyms": [
+      "heroic",
+      "virtuous"
+    ]
+  },
+  {
+    "id": "w_vindication",
+    "headword": "vindication",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌvɪndɪˈkeɪʃn/",
+    "meanings": [
+      {
+        "tr": "haklı çıkma, aklanma",
+        "en": "proof that someone or something is right, justified, or free from blame",
+        "exampleEn": "The court's ruling was a complete vindication of his claims.",
+        "exampleTr": "Mahkemenin kararı, iddialarının tamamen haklı çıkması oldu."
+      }
+    ],
+    "synonyms": [
+      "justification",
+      "exoneration"
+    ],
+    "antonyms": [
+      "condemnation",
+      "incrimination"
+    ]
+  }
+]

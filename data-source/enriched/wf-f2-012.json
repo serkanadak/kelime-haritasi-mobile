@@ -1,0 +1,1266 @@
+[
+  {
+    "id": "w_grandeur",
+    "headword": "grandeur",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡrændʒər/",
+    "meanings": [
+      {
+        "tr": "görkem, ihtişam",
+        "en": "the quality of being impressive or magnificent in size or appearance",
+        "exampleEn": "We were struck by the grandeur of the mountains.",
+        "exampleTr": "Dağların ihtişamı karşısında etkilendik."
+      },
+      {
+        "tr": "büyüklük, azamet",
+        "en": "the quality of being splendid or high in rank",
+        "exampleEn": "The palace was built to reflect the grandeur of the king.",
+        "exampleTr": "Saray, kralın azametini yansıtmak için inşa edilmişti."
+      }
+    ],
+    "synonyms": [
+      "magnificence",
+      "splendor",
+      "majesty"
+    ],
+    "antonyms": [
+      "modesty",
+      "insignificance"
+    ]
+  },
+  {
+    "id": "w_loftiness",
+    "headword": "loftiness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɒftinəs/",
+    "meanings": [
+      {
+        "tr": "yücelik, ululuk",
+        "en": "the quality of being noble or elevated in character or style",
+        "exampleEn": "The loftiness of her ideals inspired everyone around her.",
+        "exampleTr": "İdeallerinin yüceliği çevresindeki herkese ilham verdi."
+      },
+      {
+        "tr": "kibir, tepeden bakma",
+        "en": "an attitude of superiority or arrogance",
+        "exampleEn": "His loftiness made it hard for colleagues to approach him.",
+        "exampleTr": "Tepeden bakan tavrı, meslektaşlarının ona yaklaşmasını zorlaştırdı."
+      }
+    ],
+    "synonyms": [
+      "nobility",
+      "arrogance",
+      "haughtiness"
+    ],
+    "antonyms": [
+      "humility",
+      "lowliness"
+    ]
+  },
+  {
+    "id": "w_respite",
+    "headword": "respite",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrespaɪt/",
+    "meanings": [
+      {
+        "tr": "mola, dinlenme, ara",
+        "en": "a short period of rest or relief from something difficult or unpleasant",
+        "exampleEn": "The cool evening brought a welcome respite from the heat.",
+        "exampleTr": "Serin akşam, sıcaktan hoş bir dinlenme fırsatı getirdi."
+      }
+    ],
+    "synonyms": [
+      "break",
+      "rest",
+      "relief",
+      "pause"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_atone",
+    "headword": "atone",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈtəʊn/",
+    "meanings": [
+      {
+        "tr": "kefaret ödemek, telafi etmek",
+        "en": "to do something to show you are sorry for a wrong you have done",
+        "exampleEn": "He spent years trying to atone for his past mistakes.",
+        "exampleTr": "Geçmiş hatalarının kefaretini ödemek için yıllarca uğraştı."
+      }
+    ],
+    "synonyms": [
+      "make amends",
+      "compensate",
+      "expiate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_cancerous",
+    "headword": "cancerous",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkænsərəs/",
+    "meanings": [
+      {
+        "tr": "kanserli, kansere ait",
+        "en": "relating to or affected by cancer",
+        "exampleEn": "The doctors removed the cancerous cells during surgery.",
+        "exampleTr": "Doktorlar ameliyat sırasında kanserli hücreleri aldılar."
+      }
+    ],
+    "synonyms": [
+      "malignant"
+    ],
+    "antonyms": [
+      "benign"
+    ]
+  },
+  {
+    "id": "w_wedlock",
+    "headword": "wedlock",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwedlɒk/",
+    "meanings": [
+      {
+        "tr": "evlilik, nikah",
+        "en": "the state of being married",
+        "exampleEn": "The couple were joined in holy wedlock.",
+        "exampleTr": "Çift kutsal evlilik bağıyla birleşti."
+      }
+    ],
+    "synonyms": [
+      "marriage",
+      "matrimony"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_ripeness",
+    "headword": "ripeness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈraɪpnəs/",
+    "meanings": [
+      {
+        "tr": "olgunluk, olmuşluk",
+        "en": "the state of being fully grown and ready to be eaten or used",
+        "exampleEn": "You can tell the ripeness of a melon by its smell.",
+        "exampleTr": "Bir kavunun olgunluğunu kokusundan anlayabilirsin."
+      }
+    ],
+    "synonyms": [
+      "maturity",
+      "mellowness"
+    ],
+    "antonyms": [
+      "immaturity",
+      "greenness"
+    ]
+  },
+  {
+    "id": "w_immaturity",
+    "headword": "immaturity",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪməˈtjʊərəti/",
+    "meanings": [
+      {
+        "tr": "olgunlaşmamışlık, toyluk",
+        "en": "the state of not being fully developed or behaving in a childish way",
+        "exampleEn": "His immaturity showed in the way he handled criticism.",
+        "exampleTr": "Eleştiriyi ele alış biçimi olgunlaşmamışlığını gösteriyordu."
+      }
+    ],
+    "synonyms": [
+      "childishness",
+      "inexperience"
+    ],
+    "antonyms": [
+      "maturity"
+    ]
+  },
+  {
+    "id": "w_lilac",
+    "headword": "lilac",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlaɪlək/",
+    "meanings": [
+      {
+        "tr": "leylak (çiçek/ağaç)",
+        "en": "a bush with sweet-smelling purple or white flowers",
+        "exampleEn": "The garden was filled with the scent of lilac in spring.",
+        "exampleTr": "Bahçe ilkbaharda leylak kokusuyla dolmuştu."
+      },
+      {
+        "tr": "leylak rengi, açık mor",
+        "en": "a pale purple color",
+        "exampleEn": "She wore a dress in a soft shade of lilac.",
+        "exampleTr": "Yumuşak bir leylak tonunda bir elbise giymişti."
+      }
+    ],
+    "synonyms": [
+      "mauve"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_paltry",
+    "headword": "paltry",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɔːltri/",
+    "meanings": [
+      {
+        "tr": "önemsiz, cüzi, az",
+        "en": "very small or insignificant in amount",
+        "exampleEn": "They offered him a paltry sum for all his hard work.",
+        "exampleTr": "Tüm emeği için ona cüzi bir miktar teklif ettiler."
+      }
+    ],
+    "synonyms": [
+      "meager",
+      "trifling",
+      "insignificant"
+    ],
+    "antonyms": [
+      "substantial",
+      "considerable"
+    ]
+  },
+  {
+    "id": "w_quantifiable",
+    "headword": "quantifiable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwɒntɪfaɪəbl/",
+    "meanings": [
+      {
+        "tr": "ölçülebilir, sayısallaştırılabilir",
+        "en": "able to be measured or expressed as a number or amount",
+        "exampleEn": "The benefits of the project are not easily quantifiable.",
+        "exampleTr": "Projenin faydaları kolayca ölçülebilir değil."
+      }
+    ],
+    "synonyms": [
+      "measurable",
+      "assessable"
+    ],
+    "antonyms": [
+      "immeasurable"
+    ]
+  },
+  {
+    "id": "w_assessable",
+    "headword": "assessable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈsesəbl/",
+    "meanings": [
+      {
+        "tr": "değerlendirilebilir, ölçülebilir",
+        "en": "able to be evaluated, judged, or estimated",
+        "exampleEn": "Student progress should be clearly assessable at each stage.",
+        "exampleTr": "Öğrenci ilerlemesi her aşamada açıkça değerlendirilebilir olmalı."
+      }
+    ],
+    "synonyms": [
+      "measurable",
+      "quantifiable",
+      "evaluable"
+    ],
+    "antonyms": [
+      "immeasurable"
+    ]
+  },
+  {
+    "id": "w_immeasurable",
+    "headword": "immeasurable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈmeʒərəbl/",
+    "meanings": [
+      {
+        "tr": "ölçülemez, sonsuz, uçsuz bucaksız",
+        "en": "too large or extreme to be measured",
+        "exampleEn": "Her contribution to the company was of immeasurable value.",
+        "exampleTr": "Şirkete katkısı ölçülemez değerdeydi."
+      }
+    ],
+    "synonyms": [
+      "boundless",
+      "infinite",
+      "vast"
+    ],
+    "antonyms": [
+      "measurable",
+      "quantifiable"
+    ]
+  },
+  {
+    "id": "w_conurbation",
+    "headword": "conurbation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkɒnɜːˈbeɪʃn/",
+    "meanings": [
+      {
+        "tr": "kentsel yığın, birleşik büyük şehir bölgesi",
+        "en": "a large area consisting of several towns that have grown together",
+        "exampleEn": "London is part of a vast conurbation in southeast England.",
+        "exampleTr": "Londra, İngiltere'nin güneydoğusundaki geniş bir kentsel yığının parçasıdır."
+      }
+    ],
+    "synonyms": [
+      "metropolis",
+      "megalopolis"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_reminiscence",
+    "headword": "reminiscence",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌremɪˈnɪsns/",
+    "meanings": [
+      {
+        "tr": "anı, hatıra, geçmişi anımsama",
+        "en": "the act of remembering or an account of something remembered from the past",
+        "exampleEn": "The old man shared his reminiscences of the war.",
+        "exampleTr": "Yaşlı adam savaşa dair anılarını paylaştı."
+      }
+    ],
+    "synonyms": [
+      "recollection",
+      "memory",
+      "remembrance"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_ruthless",
+    "headword": "ruthless",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈruːθləs/",
+    "meanings": [
+      {
+        "tr": "acımasız, merhametsiz",
+        "en": "having or showing no pity or compassion for others",
+        "exampleEn": "She was ruthless in her pursuit of power.",
+        "exampleTr": "İktidar peşinde koşarken acımasızdı."
+      }
+    ],
+    "synonyms": [
+      "merciless",
+      "cruel",
+      "relentless"
+    ],
+    "antonyms": [
+      "merciful",
+      "compassionate"
+    ]
+  },
+  {
+    "id": "w_relentless",
+    "headword": "relentless",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈlentləs/",
+    "meanings": [
+      {
+        "tr": "durmak bilmeyen, amansız",
+        "en": "continuing without stopping and without becoming less intense",
+        "exampleEn": "The relentless pressure of deadlines began to wear him down.",
+        "exampleTr": "Teslim tarihlerinin amansız baskısı onu yıpratmaya başladı."
+      },
+      {
+        "tr": "acımasız, tavizsiz",
+        "en": "harsh and refusing to give up or show mercy",
+        "exampleEn": "He was relentless in his criticism of the plan.",
+        "exampleTr": "Planı eleştirirken tavizsizdi."
+      }
+    ],
+    "synonyms": [
+      "persistent",
+      "unrelenting",
+      "ceaseless"
+    ],
+    "antonyms": [
+      "merciful",
+      "yielding"
+    ]
+  },
+  {
+    "id": "w_revelry",
+    "headword": "revelry",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrevlri/",
+    "meanings": [
+      {
+        "tr": "cümbüş, eğlence, şenlik",
+        "en": "lively and noisy festivities or celebration",
+        "exampleEn": "The streets were full of revelry during the festival.",
+        "exampleTr": "Festival sırasında sokaklar cümbüşle doluydu."
+      }
+    ],
+    "synonyms": [
+      "merrymaking",
+      "festivity",
+      "carousing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_spellbinding",
+    "headword": "spellbinding",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspelbaɪndɪŋ/",
+    "meanings": [
+      {
+        "tr": "büyüleyici, mest edici",
+        "en": "holding your complete attention as if by magic",
+        "exampleEn": "The actor gave a spellbinding performance on stage.",
+        "exampleTr": "Oyuncu sahnede büyüleyici bir performans sergiledi."
+      }
+    ],
+    "synonyms": [
+      "enthralling",
+      "captivating",
+      "mesmerizing"
+    ],
+    "antonyms": [
+      "boring",
+      "dull"
+    ]
+  },
+  {
+    "id": "w_enthralling",
+    "headword": "enthralling",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈθrɔːlɪŋ/",
+    "meanings": [
+      {
+        "tr": "büyüleyici, çok sürükleyici",
+        "en": "so interesting or exciting that it holds your attention completely",
+        "exampleEn": "The novel was so enthralling that I read it in one night.",
+        "exampleTr": "Roman o kadar sürükleyiciydi ki bir gecede okudum."
+      }
+    ],
+    "synonyms": [
+      "spellbinding",
+      "captivating",
+      "gripping"
+    ],
+    "antonyms": [
+      "boring",
+      "tedious"
+    ]
+  },
+  {
+    "id": "w_grind",
+    "headword": "grind",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡraɪnd/",
+    "meanings": [
+      {
+        "tr": "öğütmek, ezmek",
+        "en": "to crush something into small pieces or powder",
+        "exampleEn": "She likes to grind fresh coffee beans every morning.",
+        "exampleTr": "Her sabah taze kahve çekirdeklerini öğütmeyi sever."
+      },
+      {
+        "tr": "bilemek, sürterek keskinleştirmek",
+        "en": "to make something sharp or smooth by rubbing on a hard surface",
+        "exampleEn": "He used a stone to grind the blade to a sharp edge.",
+        "exampleTr": "Bıçağı keskinleştirmek için bir taş kullandı."
+      }
+    ],
+    "synonyms": [
+      "crush",
+      "mill",
+      "pulverize"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_maximisation",
+    "headword": "maximisation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmæksɪmaɪˈzeɪʃn/",
+    "meanings": [
+      {
+        "tr": "azami düzeye çıkarma, en üst düzeye getirme",
+        "en": "the act of making something as large or great as possible",
+        "exampleEn": "The firm focused on the maximisation of shareholder profit.",
+        "exampleTr": "Şirket, hissedar kârının en üst düzeye çıkarılmasına odaklandı."
+      }
+    ],
+    "synonyms": [
+      "optimization"
+    ],
+    "antonyms": [
+      "minimisation"
+    ]
+  },
+  {
+    "id": "w_quagmire",
+    "headword": "quagmire",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwæɡmaɪər/",
+    "meanings": [
+      {
+        "tr": "çıkmaz, içinden çıkılmaz durum",
+        "en": "a difficult, complicated situation that is hard to escape from",
+        "exampleEn": "The company found itself in a legal quagmire.",
+        "exampleTr": "Şirket kendini hukuki bir çıkmazda buldu."
+      },
+      {
+        "tr": "bataklık, batak",
+        "en": "an area of soft, wet ground that is hard to walk on",
+        "exampleEn": "The heavy rain turned the field into a quagmire.",
+        "exampleTr": "Şiddetli yağmur tarlayı bir bataklığa çevirdi."
+      }
+    ],
+    "synonyms": [
+      "predicament",
+      "morass",
+      "bog"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_malpractice",
+    "headword": "malpractice",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmælˈpræktɪs/",
+    "meanings": [
+      {
+        "tr": "görevi kötüye kullanma, meslek hatası",
+        "en": "careless, wrong, or illegal behavior by a professional in their work",
+        "exampleEn": "The doctor was sued for medical malpractice.",
+        "exampleTr": "Doktor, tıbbi hata nedeniyle dava edildi."
+      }
+    ],
+    "synonyms": [
+      "misconduct",
+      "negligence"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wretchedly",
+    "headword": "wretchedly",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈretʃɪdli/",
+    "meanings": [
+      {
+        "tr": "sefil bir şekilde, berbat halde",
+        "en": "in an extremely unhappy, unpleasant, or poor way",
+        "exampleEn": "They lived wretchedly in a cold, damp room.",
+        "exampleTr": "Soğuk, nemli bir odada sefil bir şekilde yaşıyorlardı."
+      }
+    ],
+    "synonyms": [
+      "miserably",
+      "dismally"
+    ],
+    "antonyms": [
+      "happily",
+      "splendidly"
+    ]
+  },
+  {
+    "id": "w_mismanagement",
+    "headword": "mismanagement",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈmænɪdʒmənt/",
+    "meanings": [
+      {
+        "tr": "kötü yönetim, yanlış idare",
+        "en": "the act of managing something badly or carelessly",
+        "exampleEn": "The company's collapse was blamed on financial mismanagement.",
+        "exampleTr": "Şirketin çöküşü mali kötü yönetime bağlandı."
+      }
+    ],
+    "synonyms": [
+      "misgovernment",
+      "maladministration"
+    ],
+    "antonyms": [
+      "management"
+    ]
+  },
+  {
+    "id": "w_ill_matched",
+    "headword": "ill-matched",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪl ˈmætʃt/",
+    "meanings": [
+      {
+        "tr": "birbirine uymayan, uyumsuz",
+        "en": "not suitable for each other or not well combined",
+        "exampleEn": "They were an ill-matched couple who argued constantly.",
+        "exampleTr": "Sürekli tartışan, birbirine uymayan bir çifttiler."
+      }
+    ],
+    "synonyms": [
+      "incompatible",
+      "mismatched"
+    ],
+    "antonyms": [
+      "well-matched",
+      "compatible"
+    ]
+  },
+  {
+    "id": "w_misgovernment",
+    "headword": "misgovernment",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈɡʌvənmənt/",
+    "meanings": [
+      {
+        "tr": "kötü yönetim, kötü idare",
+        "en": "bad or dishonest government of a country or organization",
+        "exampleEn": "Years of misgovernment left the nation in poverty.",
+        "exampleTr": "Yıllar süren kötü yönetim ulusu yoksulluğa sürükledi."
+      }
+    ],
+    "synonyms": [
+      "misrule",
+      "maladministration",
+      "mismanagement"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_groan",
+    "headword": "groan",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡrəʊn/",
+    "meanings": [
+      {
+        "tr": "inlemek, sızlanmak",
+        "en": "to make a long, low sound expressing pain, unhappiness, or annoyance",
+        "exampleEn": "He began to groan with pain as he tried to stand up.",
+        "exampleTr": "Ayağa kalkmaya çalışırken acıyla inlemeye başladı."
+      }
+    ],
+    "synonyms": [
+      "moan",
+      "grumble"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_prototype",
+    "headword": "prototype",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈprəʊtətaɪp/",
+    "meanings": [
+      {
+        "tr": "prototip, ilk örnek, deneme modeli",
+        "en": "the first version of a product from which others are developed",
+        "exampleEn": "The engineers built a working prototype of the new engine.",
+        "exampleTr": "Mühendisler yeni motorun çalışan bir prototipini yaptılar."
+      }
+    ],
+    "synonyms": [
+      "model",
+      "mock-up"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_dummy",
+    "headword": "dummy",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdʌmi/",
+    "meanings": [
+      {
+        "tr": "manken, cansız model",
+        "en": "a model of a human body used to display clothes or in tests",
+        "exampleEn": "The shop window featured a dummy wearing the latest fashion.",
+        "exampleTr": "Mağaza vitrininde son moda giysiler giymiş bir manken vardı."
+      },
+      {
+        "tr": "taklit, sahte örnek",
+        "en": "an object made to look like a real one but not functional",
+        "exampleEn": "The security camera was just a dummy to scare off thieves.",
+        "exampleTr": "Güvenlik kamerası, hırsızları korkutmak için konulmuş sahte bir modeldi."
+      }
+    ],
+    "synonyms": [
+      "mannequin",
+      "replica",
+      "fake"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_repetitive",
+    "headword": "repetitive",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpetətɪv/",
+    "meanings": [
+      {
+        "tr": "tekrarlayan, sık sık yinelenen, monoton",
+        "en": "involving doing or saying the same thing many times, often in a boring way",
+        "exampleEn": "The job was so repetitive that she quickly grew bored.",
+        "exampleTr": "İş o kadar tekrar eden bir yapıdaydı ki çabucak sıkıldı."
+      }
+    ],
+    "synonyms": [
+      "monotonous",
+      "recurrent"
+    ],
+    "antonyms": [
+      "varied"
+    ]
+  },
+  {
+    "id": "w_jumble",
+    "headword": "jumble",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdʒʌmbl/",
+    "meanings": [
+      {
+        "tr": "karmakarışık yığın, dağınıklık",
+        "en": "an untidy mixture of things without any order",
+        "exampleEn": "Her desk was a jumble of papers and old coffee cups.",
+        "exampleTr": "Masası kağıtların ve eski kahve fincanlarının karmakarışık bir yığınıydı."
+      }
+    ],
+    "synonyms": [
+      "mess",
+      "muddle",
+      "clutter"
+    ],
+    "antonyms": [
+      "order"
+    ]
+  },
+  {
+    "id": "w_many_sided",
+    "headword": "many-sided",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmeni ˈsaɪdɪd/",
+    "meanings": [
+      {
+        "tr": "çok yönlü, çok yanlı",
+        "en": "having many different aspects, qualities, or abilities",
+        "exampleEn": "The problem is many-sided and requires careful thought.",
+        "exampleTr": "Sorun çok yönlüdür ve dikkatli düşünmeyi gerektirir."
+      }
+    ],
+    "synonyms": [
+      "multifaceted",
+      "versatile"
+    ],
+    "antonyms": [
+      "one-dimensional"
+    ]
+  },
+  {
+    "id": "w_one_dimensional",
+    "headword": "one-dimensional",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌwʌn dɪˈmenʃənl/",
+    "meanings": [
+      {
+        "tr": "tek boyutlu, yüzeysel, sığ",
+        "en": "lacking depth or considering only one aspect of something",
+        "exampleEn": "The critics said the film's characters were one-dimensional.",
+        "exampleTr": "Eleştirmenler filmin karakterlerinin tek boyutlu olduğunu söyledi."
+      }
+    ],
+    "synonyms": [
+      "shallow",
+      "superficial"
+    ],
+    "antonyms": [
+      "many-sided",
+      "multifaceted"
+    ]
+  },
+  {
+    "id": "w_polyglot",
+    "headword": "polyglot",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɒliɡlɒt/",
+    "meanings": [
+      {
+        "tr": "çok dil bilen kimse",
+        "en": "a person who knows and can use several languages",
+        "exampleEn": "As a polyglot, she could switch easily between five languages.",
+        "exampleTr": "Çok dil bilen biri olarak beş dil arasında kolayca geçiş yapabiliyordu."
+      }
+    ],
+    "synonyms": [
+      "multilingual"
+    ],
+    "antonyms": [
+      "monoglot"
+    ]
+  },
+  {
+    "id": "w_zenith",
+    "headword": "zenith",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈzenɪθ/",
+    "meanings": [
+      {
+        "tr": "zirve, doruk noktası",
+        "en": "the highest or most successful point of something",
+        "exampleEn": "The empire reached its zenith in the sixteenth century.",
+        "exampleTr": "İmparatorluk on altıncı yüzyılda zirvesine ulaştı."
+      }
+    ],
+    "synonyms": [
+      "peak",
+      "apex",
+      "pinnacle"
+    ],
+    "antonyms": [
+      "nadir"
+    ]
+  },
+  {
+    "id": "w_innocence",
+    "headword": "innocence",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪnəsns/",
+    "meanings": [
+      {
+        "tr": "masumiyet, suçsuzluk",
+        "en": "the state of not being guilty of a crime",
+        "exampleEn": "The lawyer was determined to prove his client's innocence.",
+        "exampleTr": "Avukat, müvekkilinin masumiyetini kanıtlamaya kararlıydı."
+      },
+      {
+        "tr": "saflık, temizlik, deneyimsizlik",
+        "en": "the state of being pure and free of experience of evil",
+        "exampleEn": "There was a certain innocence in the child's questions.",
+        "exampleTr": "Çocuğun sorularında belli bir saflık vardı."
+      }
+    ],
+    "synonyms": [
+      "blamelessness",
+      "purity",
+      "naivety"
+    ],
+    "antonyms": [
+      "guilt",
+      "experience"
+    ]
+  },
+  {
+    "id": "w_gullibility",
+    "headword": "gullibility",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡʌləˈbɪləti/",
+    "meanings": [
+      {
+        "tr": "saflık, kolay kanma, her söylenene inanma",
+        "en": "the tendency to believe things too easily and be deceived",
+        "exampleEn": "Scammers took advantage of the elderly man's gullibility.",
+        "exampleTr": "Dolandırıcılar yaşlı adamın saflığından yararlandı."
+      }
+    ],
+    "synonyms": [
+      "naivety",
+      "credulity"
+    ],
+    "antonyms": [
+      "skepticism"
+    ]
+  },
+  {
+    "id": "w_no_name",
+    "headword": "no-name",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnəʊ neɪm/",
+    "meanings": [
+      {
+        "tr": "markasız, tanınmayan, isimsiz",
+        "en": "not made by a well-known company; not famous",
+        "exampleEn": "He saved money by buying no-name brands at the supermarket.",
+        "exampleTr": "Süpermarketten markasız ürünler alarak para biriktirdi."
+      }
+    ],
+    "synonyms": [
+      "generic",
+      "unbranded"
+    ],
+    "antonyms": [
+      "brand-name"
+    ]
+  },
+  {
+    "id": "w_storytelling",
+    "headword": "storytelling",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstɔːritelɪŋ/",
+    "meanings": [
+      {
+        "tr": "hikaye anlatıcılığı, öykü anlatma",
+        "en": "the activity of telling or writing stories",
+        "exampleEn": "Good storytelling can make a presentation far more memorable.",
+        "exampleTr": "İyi bir hikaye anlatıcılığı bir sunumu çok daha akılda kalıcı yapabilir."
+      }
+    ],
+    "synonyms": [
+      "narration"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_broad_minded",
+    "headword": "broad-minded",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbrɔːd ˈmaɪndɪd/",
+    "meanings": [
+      {
+        "tr": "açık fikirli, hoşgörülü, geniş görüşlü",
+        "en": "willing to accept opinions and behavior different from your own",
+        "exampleEn": "Her parents were broad-minded about her career choices.",
+        "exampleTr": "Ailesi kariyer seçimleri konusunda açık fikirliydi."
+      }
+    ],
+    "synonyms": [
+      "open-minded",
+      "tolerant",
+      "liberal"
+    ],
+    "antonyms": [
+      "narrow-minded",
+      "bigoted"
+    ]
+  },
+  {
+    "id": "w_tightness",
+    "headword": "tightness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtaɪtnəs/",
+    "meanings": [
+      {
+        "tr": "sıkılık, gerginlik, darlık",
+        "en": "the quality of being firmly fixed, stretched, or fitting closely",
+        "exampleEn": "He felt a tightness in his chest after running.",
+        "exampleTr": "Koştuktan sonra göğsünde bir sıkışma hissetti."
+      }
+    ],
+    "synonyms": [
+      "tautness",
+      "firmness"
+    ],
+    "antonyms": [
+      "looseness",
+      "slackness"
+    ]
+  },
+  {
+    "id": "w_oldness",
+    "headword": "oldness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈəʊldnəs/",
+    "meanings": [
+      {
+        "tr": "eskilik, yaşlılık",
+        "en": "the quality or state of being old",
+        "exampleEn": "The oldness of the building gave it a certain charm.",
+        "exampleTr": "Binanın eskiliği ona belli bir çekicilik katıyordu."
+      }
+    ],
+    "synonyms": [
+      "age",
+      "antiquity"
+    ],
+    "antonyms": [
+      "newness",
+      "youth"
+    ]
+  },
+  {
+    "id": "w_sleepwear",
+    "headword": "sleepwear",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsliːpweər/",
+    "meanings": [
+      {
+        "tr": "gece kıyafeti, pijama takımı",
+        "en": "clothes that are worn in bed",
+        "exampleEn": "The store has a wide range of comfortable sleepwear.",
+        "exampleTr": "Mağazada geniş bir rahat gece kıyafeti yelpazesi var."
+      }
+    ],
+    "synonyms": [
+      "nightwear",
+      "nightclothes"
+    ],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,29 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "App Store TestFlight Dağıtımı"
+  lane :beta do
+    build_app(scheme: "Kelime Haritası")
+    upload_to_testflight
+  end
+
+  desc "App Store Canlı Yayın"
+  lane :release do
+    build_app(scheme: "Kelime Haritası")
+    upload_to_app_store(submit_for_review: false)
+  end
+end
+
+platform :android do
+  desc "Google Play Internal Testing Dağıtımı"
+  lane :internal do
+    gradle(task: "bundleRelease")
+    upload_to_play_store(track: "internal")
+  end
+
+  desc "Google Play Production Canlı Yayın"
+  lane :release do
+    gradle(task: "bundleRelease")
+    upload_to_play_store(track: "production")
+  end
+end

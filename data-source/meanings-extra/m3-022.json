@@ -1,0 +1,464 @@
+[
+  {
+    "id": "w_filter",
+    "headword": "filter",
+    "extraMeanings": [
+      {
+        "tr": "süzmek, filtrelemek (fiil)",
+        "en": "to pass liquid/light through a device to remove unwanted parts",
+        "exampleEn": "The machine filters the water to remove impurities.",
+        "exampleTr": "Makine, kirlilikleri gidermek için suyu süzer."
+      },
+      {
+        "tr": "sızmak, süzülerek geçmek/yayılmak (fiil)",
+        "en": "to move or spread gradually",
+        "exampleEn": "News of the deal slowly filtered through to the staff.",
+        "exampleTr": "Anlaşmanın haberi personele yavaş yavaş sızdı."
+      }
+    ]
+  },
+  {
+    "id": "w_finding",
+    "headword": "finding",
+    "extraMeanings": [
+      {
+        "tr": "karar, hüküm (mahkeme veya jüri)",
+        "en": "an official decision reached by a court or inquiry",
+        "exampleEn": "The jury's finding was that the man was not guilty.",
+        "exampleTr": "Jürinin kararı, adamın suçsuz olduğu yönündeydi."
+      }
+    ]
+  },
+  {
+    "id": "w_firm",
+    "headword": "firm",
+    "extraMeanings": [
+      {
+        "tr": "firma, şirket (isim)",
+        "en": "a company or business",
+        "exampleEn": "She works for a large law firm in the city.",
+        "exampleTr": "Şehirdeki büyük bir hukuk firmasında çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_flash",
+    "headword": "flash",
+    "extraMeanings": [
+      {
+        "tr": "parıltı, ani ışık; flaş (isim)",
+        "en": "a sudden bright light",
+        "exampleEn": "There was a flash of lightning followed by thunder.",
+        "exampleTr": "Bir şimşek parıltısının ardından gök gürledi."
+      },
+      {
+        "tr": "parlamak, çakmak (fiil)",
+        "en": "to shine suddenly and brightly",
+        "exampleEn": "The car's headlights flashed in the darkness.",
+        "exampleTr": "Arabanın farları karanlıkta çaktı."
+      }
+    ]
+  },
+  {
+    "id": "w_flat",
+    "headword": "flat",
+    "extraMeanings": [
+      {
+        "tr": "daire, apartman dairesi (isim)",
+        "en": "a set of rooms for living in on one floor of a building",
+        "exampleEn": "They rented a small flat in the city center.",
+        "exampleTr": "Şehir merkezinde küçük bir daire kiraladılar."
+      },
+      {
+        "tr": "inik lastik; patlak lastik (isim)",
+        "en": "a tyre that has lost its air",
+        "exampleEn": "We had to stop because we got a flat on the highway.",
+        "exampleTr": "Otoyolda lastiğimiz patladığı için durmak zorunda kaldık."
+      }
+    ]
+  },
+  {
+    "id": "w_flock",
+    "headword": "flock",
+    "extraMeanings": [
+      {
+        "tr": "akın etmek, üşüşmek (fiil)",
+        "en": "to go somewhere in large numbers",
+        "exampleEn": "Tourists flock to the beach every summer.",
+        "exampleTr": "Turistler her yaz plaja akın eder."
+      }
+    ]
+  },
+  {
+    "id": "w_flow",
+    "headword": "flow",
+    "extraMeanings": [
+      {
+        "tr": "akmak (fiil)",
+        "en": "to move steadily and continuously in one direction",
+        "exampleEn": "The river flows into the sea.",
+        "exampleTr": "Nehir denize akar."
+      }
+    ]
+  },
+  {
+    "id": "w_fold",
+    "headword": "fold",
+    "extraMeanings": [
+      {
+        "tr": "katlamak (fiil)",
+        "en": "to bend something so one part covers another",
+        "exampleEn": "Please fold the letter and put it in the envelope.",
+        "exampleTr": "Lütfen mektubu katlayıp zarfın içine koyun."
+      }
+    ]
+  },
+  {
+    "id": "w_folk",
+    "headword": "folk",
+    "extraMeanings": [
+      {
+        "tr": "halk (müziği, geleneksel) (sıfat)",
+        "en": "traditional, relating to ordinary people's culture",
+        "exampleEn": "She loves listening to traditional folk music.",
+        "exampleTr": "Geleneksel halk müziği dinlemeyi çok sever."
+      }
+    ]
+  },
+  {
+    "id": "w_format",
+    "headword": "format",
+    "extraMeanings": [
+      {
+        "tr": "biçimlendirmek, formatlamak (fiil)",
+        "en": "to arrange or prepare data/text in a particular way",
+        "exampleEn": "You need to format the document before printing it.",
+        "exampleTr": "Belgeyi yazdırmadan önce biçimlendirmen gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_formula",
+    "headword": "formula",
+    "extraMeanings": [
+      {
+        "tr": "reçete, yöntem, formül (başarı vb. için)",
+        "en": "a method or plan for achieving something",
+        "exampleEn": "There is no simple formula for a happy marriage.",
+        "exampleTr": "Mutlu bir evliliğin basit bir formülü yoktur."
+      }
+    ]
+  },
+  {
+    "id": "w_forth",
+    "headword": "forth",
+    "extraMeanings": [
+      {
+        "tr": "ondan sonra, ileriye doğru (zaman)",
+        "en": "onward in time",
+        "exampleEn": "From that day forth, they were the best of friends.",
+        "exampleTr": "O günden sonra en iyi arkadaş oldular."
+      }
+    ]
+  },
+  {
+    "id": "w_foundation",
+    "headword": "foundation",
+    "extraMeanings": [
+      {
+        "tr": "fondöten (makyaj)",
+        "en": "a skin-coloured cream applied as a base for make-up",
+        "exampleEn": "She applied a light foundation before adding blush.",
+        "exampleTr": "Allık sürmeden önce hafif bir fondöten uyguladı."
+      }
+    ]
+  },
+  {
+    "id": "w_fragment",
+    "headword": "fragment",
+    "extraMeanings": [
+      {
+        "tr": "parçalanmak, paramparça olmak (fiil)",
+        "en": "to break into small pieces",
+        "exampleEn": "The old society began to fragment into rival groups.",
+        "exampleTr": "Eski toplum, rakip gruplara bölünmeye başladı."
+      }
+    ]
+  },
+  {
+    "id": "w_frost",
+    "headword": "frost",
+    "extraMeanings": [
+      {
+        "tr": "soğukluk, soğuk davranış (isim)",
+        "en": "a cold or unfriendly manner",
+        "exampleEn": "There was a frost in her voice when she answered.",
+        "exampleTr": "Cevap verdiğinde sesinde bir soğukluk vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_frown",
+    "headword": "frown",
+    "extraMeanings": [
+      {
+        "tr": "kaş çatma, asık surat (isim)",
+        "en": "a facial expression showing displeasure or concentration",
+        "exampleEn": "A frown appeared on his face when he read the letter.",
+        "exampleTr": "Mektubu okuyunca yüzünde bir kaş çatma belirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_fuel",
+    "headword": "fuel",
+    "extraMeanings": [
+      {
+        "tr": "körüklemek, alevlendirmek (fiil)",
+        "en": "to make something (a feeling/situation) stronger",
+        "exampleEn": "His comments only fuelled the argument.",
+        "exampleTr": "Yorumları tartışmayı sadece körükledi."
+      }
+    ]
+  },
+  {
+    "id": "w_function",
+    "headword": "function",
+    "extraMeanings": [
+      {
+        "tr": "çalışmak, işlev görmek (fiil)",
+        "en": "to work or operate",
+        "exampleEn": "The machine won't function without electricity.",
+        "exampleTr": "Makine elektrik olmadan çalışmaz."
+      },
+      {
+        "tr": "resmi tören, etkinlik, davet (isim)",
+        "en": "a formal social event or ceremony",
+        "exampleEn": "The mayor attended an official function last night.",
+        "exampleTr": "Belediye başkanı dün gece resmi bir törene katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_fund",
+    "headword": "fund",
+    "extraMeanings": [
+      {
+        "tr": "finanse etmek, mali destek sağlamak (fiil)",
+        "en": "to provide money for a project or activity",
+        "exampleEn": "The government agreed to fund the new hospital.",
+        "exampleTr": "Hükümet yeni hastaneyi finanse etmeyi kabul etti."
+      }
+    ]
+  },
+  {
+    "id": "w_fur",
+    "headword": "fur",
+    "extraMeanings": [
+      {
+        "tr": "hayvanın tüyü, postu (deri üzerindeki)",
+        "en": "the soft hair covering the body of some animals",
+        "exampleEn": "The cat's fur was soft and warm.",
+        "exampleTr": "Kedinin tüyü yumuşak ve sıcaktı."
+      }
+    ]
+  },
+  {
+    "id": "w_fuse",
+    "headword": "fuse",
+    "extraMeanings": [
+      {
+        "tr": "birleşmek, kaynaşmak (fiil)",
+        "en": "to join or blend together to form one thing",
+        "exampleEn": "The two companies fused into a single organization.",
+        "exampleTr": "İki şirket birleşerek tek bir kuruluş oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_fuss",
+    "headword": "fuss",
+    "extraMeanings": [
+      {
+        "tr": "telaşlanmak, gereksiz yere üzülmek/uğraşmak (fiil)",
+        "en": "to worry or behave in a nervous, busy way about small things",
+        "exampleEn": "Stop fussing over the details and relax.",
+        "exampleTr": "Ayrıntılar için telaşlanmayı bırak ve rahatla."
+      }
+    ]
+  },
+  {
+    "id": "w_gain",
+    "headword": "gain",
+    "extraMeanings": [
+      {
+        "tr": "kazanmak, elde etmek (fiil)",
+        "en": "to obtain or acquire something useful",
+        "exampleEn": "She gained a lot of experience from the job.",
+        "exampleTr": "İşten çok fazla deneyim kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_gamble",
+    "headword": "gamble",
+    "extraMeanings": [
+      {
+        "tr": "kumar, risk, kumar gibi girişim (isim)",
+        "en": "a risky action or decision taken hoping for success",
+        "exampleEn": "Starting the business was a big gamble, but it paid off.",
+        "exampleTr": "İşi kurmak büyük bir kumardı ama işe yaradı."
+      }
+    ]
+  },
+  {
+    "id": "w_gap",
+    "headword": "gap",
+    "extraMeanings": [
+      {
+        "tr": "fark, uçurum (görüş, seviye vb.)",
+        "en": "a big difference between two things or groups",
+        "exampleEn": "There is a wide gap between rich and poor.",
+        "exampleTr": "Zenginle fakir arasında büyük bir uçurum var."
+      }
+    ]
+  },
+  {
+    "id": "w_general",
+    "headword": "general",
+    "extraMeanings": [
+      {
+        "tr": "general, komutan (isim)",
+        "en": "a very high-ranking officer in the army",
+        "exampleEn": "The general ordered his troops to advance.",
+        "exampleTr": "General, birliklerine ilerlemelerini emretti."
+      }
+    ]
+  },
+  {
+    "id": "w_generate",
+    "headword": "generate",
+    "extraMeanings": [
+      {
+        "tr": "(elektrik, enerji) üretmek",
+        "en": "to produce energy or power",
+        "exampleEn": "The dam generates electricity for the whole region.",
+        "exampleTr": "Baraj tüm bölge için elektrik üretir."
+      }
+    ]
+  },
+  {
+    "id": "w_gesture",
+    "headword": "gesture",
+    "extraMeanings": [
+      {
+        "tr": "jest, davranış (duygu belirten hareket/eylem)",
+        "en": "an action expressing a feeling or intention",
+        "exampleEn": "Sending flowers was a kind gesture.",
+        "exampleTr": "Çiçek göndermek nazik bir jestti."
+      },
+      {
+        "tr": "işaret etmek, el kol hareketi yapmak (fiil)",
+        "en": "to make a movement to express something",
+        "exampleEn": "He gestured toward the door, telling me to leave.",
+        "exampleTr": "Kapıyı işaret ederek çıkmamı söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w_giant",
+    "headword": "giant",
+    "extraMeanings": [
+      {
+        "tr": "dev, devasa varlık/kişi/şirket (isim)",
+        "en": "a very large or powerful person, thing, or company",
+        "exampleEn": "The company is a giant in the technology industry.",
+        "exampleTr": "Şirket, teknoloji sektöründe bir devdir."
+      }
+    ]
+  },
+  {
+    "id": "w_glance",
+    "headword": "glance",
+    "extraMeanings": [
+      {
+        "tr": "göz atmak, kısaca bakmak (fiil)",
+        "en": "to look quickly at something",
+        "exampleEn": "She glanced at her watch and hurried away.",
+        "exampleTr": "Saatine göz attı ve aceleyle uzaklaştı."
+      }
+    ]
+  },
+  {
+    "id": "w_glimpse",
+    "headword": "glimpse",
+    "extraMeanings": [
+      {
+        "tr": "bir an görmek, gözüne ilişmek (fiil)",
+        "en": "to see something for a very short time",
+        "exampleEn": "I glimpsed her face in the crowd before she disappeared.",
+        "exampleTr": "Kaybolmadan önce kalabalıkta bir an yüzünü gördüm."
+      }
+    ]
+  },
+  {
+    "id": "w_glory",
+    "headword": "glory",
+    "extraMeanings": [
+      {
+        "tr": "görkem, ihtişam, güzellik",
+        "en": "great beauty or magnificence",
+        "exampleEn": "The garden was in all its glory in early summer.",
+        "exampleTr": "Bahçe yaz başında tüm görkemiyle parlıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_govern",
+    "headword": "govern",
+    "extraMeanings": [
+      {
+        "tr": "belirlemek, yön vermek (kural, ilke)",
+        "en": "to control or influence how something happens",
+        "exampleEn": "Strict rules govern how the money can be spent.",
+        "exampleTr": "Paranın nasıl harcanabileceğini katı kurallar belirler."
+      }
+    ]
+  },
+  {
+    "id": "w_gown",
+    "headword": "gown",
+    "extraMeanings": [
+      {
+        "tr": "(hastane, mezuniyet vb.) önlük, cüppe",
+        "en": "a loose garment worn for a special purpose",
+        "exampleEn": "The patient wore a hospital gown for the operation.",
+        "exampleTr": "Hasta ameliyat için bir hastane önlüğü giymişti."
+      }
+    ]
+  },
+  {
+    "id": "w_gossip",
+    "headword": "gossip",
+    "extraMeanings": [
+      {
+        "tr": "dedikodu yapmak (fiil)",
+        "en": "to talk about other people's private lives",
+        "exampleEn": "They spent the afternoon gossiping about their neighbors.",
+        "exampleTr": "Öğleden sonrayı komşuları hakkında dedikodu yaparak geçirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w_grab",
+    "headword": "grab",
+    "extraMeanings": [
+      {
+        "tr": "kapmak, atıştırmak (yiyecek vb. hızlıca almak)",
+        "en": "to get or take something quickly, especially food or rest",
+        "exampleEn": "Let's grab a coffee before the meeting.",
+        "exampleTr": "Toplantıdan önce bir kahve kapalım."
+      }
+    ]
+  }
+]

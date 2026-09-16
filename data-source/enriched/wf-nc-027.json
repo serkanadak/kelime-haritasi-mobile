@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "w_nimbus",
+    "headword": "nimbus",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnɪmbəs/",
+    "meanings": [
+      {
+        "tr": "yağmur bulutu, kara bulut",
+        "en": "a large grey rain cloud",
+        "exampleEn": "A dark nimbus gathered over the hills before the storm.",
+        "exampleTr": "Fırtınadan önce tepelerin üzerinde kara bir yağmur bulutu toplandı."
+      },
+      {
+        "tr": "hale, ışık halkası (aziz resimlerinde)",
+        "en": "a bright halo around a person or thing",
+        "exampleEn": "The saint was painted with a golden nimbus around his head.",
+        "exampleTr": "Aziz, başının etrafında altın bir hale ile resmedilmişti."
+      }
+    ],
+    "synonyms": [
+      "halo",
+      "aura"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_nine",
+    "headword": "nine",
+    "pos": "num",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/naɪn/",
+    "meanings": [
+      {
+        "tr": "dokuz",
+        "en": "the number 9",
+        "exampleEn": "There are nine players on a baseball team.",
+        "exampleTr": "Bir beysbol takımında dokuz oyuncu vardır."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_nineteen",
+    "headword": "nineteen",
+    "pos": "num",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnaɪnˈtiːn/",
+    "meanings": [
+      {
+        "tr": "on dokuz",
+        "en": "the number 19",
+        "exampleEn": "She turned nineteen last month.",
+        "exampleTr": "Geçen ay on dokuz yaşına girdi."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_ninety",
+    "headword": "ninety",
+    "pos": "num",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnaɪnti/",
+    "meanings": [
+      {
+        "tr": "doksan",
+        "en": "the number 90",
+        "exampleEn": "My grandfather is almost ninety years old.",
+        "exampleTr": "Büyükbabam neredeyse doksan yaşında."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_nip",
+    "headword": "nip",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/nɪp/",
+    "meanings": [
+      {
+        "tr": "ısırmak, çimdiklemek",
+        "en": "to bite or pinch something sharply",
+        "exampleEn": "The little dog tried to nip my ankle.",
+        "exampleTr": "Küçük köpek ayak bileğimi ısırmaya çalıştı."
+      },
+      {
+        "tr": "bir yere çabucak uğramak (İng.)",
+        "en": "to go somewhere quickly (British informal)",
+        "exampleEn": "I'll just nip to the shop for some milk.",
+        "exampleTr": "Süt almak için hemen dükkâna kadar gidip geleceğim."
+      }
+    ],
+    "synonyms": [
+      "pinch",
+      "bite"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_no_longer",
+    "headword": "no longer",
+    "pos": "adv",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/nəʊ ˈlɒŋɡə/",
+    "meanings": [
+      {
+        "tr": "artık (değil)",
+        "en": "not any more",
+        "exampleEn": "She no longer works here.",
+        "exampleTr": "O artık burada çalışmıyor."
+      }
+    ],
+    "synonyms": [
+      "not anymore"
+    ],
+    "antonyms": [
+      "still"
+    ]
+  },
+  {
+    "id": "w_no_one",
+    "headword": "no one",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnəʊ wʌn/",
+    "meanings": [
+      {
+        "tr": "hiç kimse",
+        "en": "not any person; nobody",
+        "exampleEn": "No one answered the door.",
+        "exampleTr": "Kapıyı hiç kimse açmadı."
+      }
+    ],
+    "synonyms": [
+      "nobody"
+    ],
+    "antonyms": [
+      "everyone"
+    ]
+  },
+  {
+    "id": "w_nomenclature",
+    "headword": "nomenclature",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/nəˈmenklətʃə/",
+    "meanings": [
+      {
+        "tr": "adlandırma sistemi, terminoloji",
+        "en": "a system of names used in a particular field",
+        "exampleEn": "Scientists use a standard nomenclature for naming new species.",
+        "exampleTr": "Bilim insanları yeni türleri adlandırmak için standart bir adlandırma sistemi kullanır."
+      }
+    ],
+    "synonyms": [
+      "terminology",
+      "naming"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_non_addictive",
+    "headword": "non-addictive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒn əˈdɪktɪv/",
+    "meanings": [
+      {
+        "tr": "bağımlılık yapmayan",
+        "en": "not causing addiction",
+        "exampleEn": "The doctor prescribed a non-addictive painkiller.",
+        "exampleTr": "Doktor bağımlılık yapmayan bir ağrı kesici reçete etti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "addictive"
+    ]
+  },
+  {
+    "id": "w_non_alcoholic",
+    "headword": "non-alcoholic",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒn ˌælkəˈhɒlɪk/",
+    "meanings": [
+      {
+        "tr": "alkolsüz",
+        "en": "containing no alcohol",
+        "exampleEn": "They serve a range of non-alcoholic cocktails.",
+        "exampleTr": "Çeşitli alkolsüz kokteyller servis ediyorlar."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "alcoholic"
+    ]
+  },
+  {
+    "id": "w_non_attendance",
+    "headword": "non-attendance",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒn əˈtendəns/",
+    "meanings": [
+      {
+        "tr": "katılmama, devamsızlık",
+        "en": "failure to be present at something",
+        "exampleEn": "His non-attendance at the meetings was noted.",
+        "exampleTr": "Toplantılara katılmaması not edildi."
+      }
+    ],
+    "synonyms": [
+      "absence"
+    ],
+    "antonyms": [
+      "attendance"
+    ]
+  },
+  {
+    "id": "w_non_combatant",
+    "headword": "non-combatant",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒnˈkɒmbətənt/",
+    "meanings": [
+      {
+        "tr": "muharip olmayan, sivil (savaşta)",
+        "en": "a person who is not fighting in a war, such as a civilian",
+        "exampleEn": "International law protects non-combatants during armed conflict.",
+        "exampleTr": "Uluslararası hukuk, silahlı çatışma sırasında muharip olmayanları korur."
+      }
+    ],
+    "synonyms": [
+      "civilian"
+    ],
+    "antonyms": [
+      "combatant"
+    ]
+  },
+  {
+    "id": "w_non_potable",
+    "headword": "non-potable",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒnˈpəʊtəbl/",
+    "meanings": [
+      {
+        "tr": "içilemez (su)",
+        "en": "not safe to drink",
+        "exampleEn": "The sign warned that the water was non-potable.",
+        "exampleTr": "Tabela suyun içilemez olduğu konusunda uyarıyordu."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "potable",
+      "drinkable"
+    ]
+  },
+  {
+    "id": "w_non_religious",
+    "headword": "non-religious",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒn rɪˈlɪdʒəs/",
+    "meanings": [
+      {
+        "tr": "dini olmayan, laik",
+        "en": "not connected with religion",
+        "exampleEn": "They chose a non-religious wedding ceremony.",
+        "exampleTr": "Dini olmayan bir düğün töreni seçtiler."
+      }
+    ],
+    "synonyms": [
+      "secular"
+    ],
+    "antonyms": [
+      "religious"
+    ]
+  },
+  {
+    "id": "w_nonchalance",
+    "headword": "nonchalance",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnɒnʃələns/",
+    "meanings": [
+      {
+        "tr": "kayıtsızlık, aldırmazlık, umursamazlık",
+        "en": "a relaxed and calm manner showing no worry or interest",
+        "exampleEn": "He answered the difficult question with surprising nonchalance.",
+        "exampleTr": "Zor soruyu şaşırtıcı bir kayıtsızlıkla yanıtladı."
+      }
+    ],
+    "synonyms": [
+      "indifference",
+      "composure"
+    ],
+    "antonyms": [
+      "concern",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "w_noncommunicable",
+    "headword": "noncommunicable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒnkəˈmjuːnɪkəbl/",
+    "meanings": [
+      {
+        "tr": "bulaşıcı olmayan (hastalık)",
+        "en": "(of a disease) not able to be passed from one person to another",
+        "exampleEn": "Diabetes is a noncommunicable disease.",
+        "exampleTr": "Diyabet bulaşıcı olmayan bir hastalıktır."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "communicable",
+      "contagious"
+    ]
+  },
+  {
+    "id": "w_nonconductor",
+    "headword": "nonconductor",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒnkənˈdʌktə/",
+    "meanings": [
+      {
+        "tr": "yalıtkan (elektrik/ısı iletmeyen madde)",
+        "en": "a material that does not conduct electricity or heat",
+        "exampleEn": "Rubber is a good nonconductor of electricity.",
+        "exampleTr": "Kauçuk, elektriği iyi iletmeyen bir yalıtkandır."
+      }
+    ],
+    "synonyms": [
+      "insulator"
+    ],
+    "antonyms": [
+      "conductor"
+    ]
+  },
+  {
+    "id": "w_nonconformity",
+    "headword": "nonconformity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒnkənˈfɔːmɪti/",
+    "meanings": [
+      {
+        "tr": "uymama, aykırılık, kurallara uymama",
+        "en": "behaviour that does not follow accepted rules or customs",
+        "exampleEn": "Her nonconformity often surprised her conservative colleagues.",
+        "exampleTr": "Kurallara uymayan tavrı, muhafazakâr meslektaşlarını sık sık şaşırtıyordu."
+      }
+    ],
+    "synonyms": [
+      "dissent",
+      "rebellion"
+    ],
+    "antonyms": [
+      "conformity"
+    ]
+  },
+  {
+    "id": "w_nonconsecutive",
+    "headword": "nonconsecutive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒnkənˈsekjʊtɪv/",
+    "meanings": [
+      {
+        "tr": "ardışık olmayan, arka arkaya olmayan",
+        "en": "not following one after another in order",
+        "exampleEn": "He served two nonconsecutive terms as president.",
+        "exampleTr": "Başkan olarak ardışık olmayan iki dönem görev yaptı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "consecutive"
+    ]
+  },
+  {
+    "id": "w_none",
+    "headword": "none",
+    "pos": "pron",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/nʌn/",
+    "meanings": [
+      {
+        "tr": "hiçbiri, hiç",
+        "en": "not any; not one",
+        "exampleEn": "None of the students passed the exam.",
+        "exampleTr": "Öğrencilerin hiçbiri sınavı geçemedi."
+      }
+    ],
+    "synonyms": [
+      "not any"
+    ],
+    "antonyms": [
+      "all"
+    ]
+  },
+  {
+    "id": "w_nonentity",
+    "headword": "nonentity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/nɒˈnentɪti/",
+    "meanings": [
+      {
+        "tr": "önemsiz kişi, sıradan/silik kimse",
+        "en": "a person without special qualities or importance",
+        "exampleEn": "Before winning the award, he was a complete nonentity.",
+        "exampleTr": "Ödülü kazanmadan önce tamamen silik biriydi."
+      }
+    ],
+    "synonyms": [
+      "nobody"
+    ],
+    "antonyms": [
+      "celebrity"
+    ]
+  },
+  {
+    "id": "w_noninterference",
+    "headword": "noninterference",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒnˌɪntəˈfɪərəns/",
+    "meanings": [
+      {
+        "tr": "karışmama, müdahale etmeme",
+        "en": "the practice of not becoming involved in others' affairs",
+        "exampleEn": "The government promised a policy of noninterference in local matters.",
+        "exampleTr": "Hükûmet, yerel meselelere karışmama politikası vaat etti."
+      }
+    ],
+    "synonyms": [
+      "nonintervention"
+    ],
+    "antonyms": [
+      "interference"
+    ]
+  },
+  {
+    "id": "w_nonpartisan",
+    "headword": "nonpartisan",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒnˈpɑːtɪzæn/",
+    "meanings": [
+      {
+        "tr": "tarafsız, hiçbir partiyi tutmayan",
+        "en": "not supporting any particular political party or side",
+        "exampleEn": "The report was prepared by a nonpartisan committee.",
+        "exampleTr": "Rapor, tarafsız bir komite tarafından hazırlandı."
+      }
+    ],
+    "synonyms": [
+      "neutral",
+      "impartial"
+    ],
+    "antonyms": [
+      "partisan",
+      "biased"
+    ]
+  },
+  {
+    "id": "w_nonreligious_person",
+    "headword": "nonreligious person",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒn rɪˈlɪdʒəs ˈpɜːsn/",
+    "meanings": [
+      {
+        "tr": "dindar olmayan kişi",
+        "en": "a person who does not follow or believe in a religion",
+        "exampleEn": "As a nonreligious person, he never attended church.",
+        "exampleTr": "Dindar olmayan biri olarak asla kiliseye gitmezdi."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_noose",
+    "headword": "noose",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/nuːs/",
+    "meanings": [
+      {
+        "tr": "ilmek, ilmik (asma ipi)",
+        "en": "a loop of rope that tightens as it is pulled, used to hang someone",
+        "exampleEn": "The executioner placed the noose around the prisoner's neck.",
+        "exampleTr": "Cellat, ilmeği mahkûmun boynuna geçirdi."
+      }
+    ],
+    "synonyms": [
+      "loop"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_nope",
+    "headword": "nope",
+    "pos": "interj",
+    "level": "A2",
+    "domains": [
+      "communication"
+    ],
+    "type": "slang",
+    "source": "synant+claude",
+    "pronunciation": "/nəʊp/",
+    "meanings": [
+      {
+        "tr": "hayır (gayri resmi)",
+        "en": "an informal way of saying no",
+        "exampleEn": "\"Did you finish it?\" \"Nope, not yet.\"",
+        "exampleTr": "\"Bitirdin mi?\" \"Hayır, henüz değil.\""
+      }
+    ],
+    "synonyms": [
+      "no"
+    ],
+    "antonyms": [
+      "yep",
+      "yes"
+    ]
+  },
+  {
+    "id": "w_nor",
+    "headword": "nor",
+    "pos": "conj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/nɔː/",
+    "meanings": [
+      {
+        "tr": "ne de",
+        "en": "used after 'neither' or a negative to add another negative point",
+        "exampleEn": "She neither called nor wrote.",
+        "exampleTr": "Ne aradı ne de yazdı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_nosiness",
+    "headword": "nosiness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnəʊzinəs/",
+    "meanings": [
+      {
+        "tr": "meraklılık, her şeye burnunu sokma",
+        "en": "the quality of being too interested in other people's private affairs",
+        "exampleEn": "Her constant nosiness annoyed the neighbours.",
+        "exampleTr": "Sürekli her şeye burnunu sokması komşuları rahatsız ediyordu."
+      }
+    ],
+    "synonyms": [
+      "curiosity",
+      "prying"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_nostalgic",
+    "headword": "nostalgic",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/nɒˈstældʒɪk/",
+    "meanings": [
+      {
+        "tr": "nostaljik, geçmişi özleyen",
+        "en": "feeling happy and slightly sad thinking about the past",
+        "exampleEn": "Old songs make me feel nostalgic about my childhood.",
+        "exampleTr": "Eski şarkılar bana çocukluğumu nostaljik bir şekilde özletiyor."
+      }
+    ],
+    "synonyms": [
+      "wistful",
+      "sentimental"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_not_for_profit",
+    "headword": "not-for-profit",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒt fə ˈprɒfɪt/",
+    "meanings": [
+      {
+        "tr": "kâr amacı gütmeyen",
+        "en": "(of an organization) not run in order to make a profit",
+        "exampleEn": "She works for a not-for-profit organization that helps refugees.",
+        "exampleTr": "Mültecilere yardım eden, kâr amacı gütmeyen bir kuruluşta çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "nonprofit"
+    ],
+    "antonyms": [
+      "for-profit",
+      "commercial"
+    ]
+  },
+  {
+    "id": "w_notably",
+    "headword": "notably",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnəʊtəbli/",
+    "meanings": [
+      {
+        "tr": "özellikle, bilhassa",
+        "en": "especially; in particular",
+        "exampleEn": "Several countries, notably Japan, have aging populations.",
+        "exampleTr": "Birçok ülke, özellikle Japonya, yaşlanan nüfusa sahip."
+      },
+      {
+        "tr": "belirgin biçimde, dikkat çekecek şekilde",
+        "en": "in a way that is noticeable",
+        "exampleEn": "The quality has improved notably this year.",
+        "exampleTr": "Kalite bu yıl belirgin biçimde arttı."
+      }
+    ],
+    "synonyms": [
+      "especially",
+      "particularly"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_noteworthy",
+    "headword": "noteworthy",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnəʊtwɜːði/",
+    "meanings": [
+      {
+        "tr": "dikkate değer, kayda değer",
+        "en": "interesting or important enough to deserve attention",
+        "exampleEn": "The report contains several noteworthy findings.",
+        "exampleTr": "Rapor, dikkate değer birkaç bulgu içeriyor."
+      }
+    ],
+    "synonyms": [
+      "remarkable",
+      "significant"
+    ],
+    "antonyms": [
+      "unremarkable"
+    ]
+  },
+  {
+    "id": "w_nothing",
+    "headword": "nothing",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnʌθɪŋ/",
+    "meanings": [
+      {
+        "tr": "hiçbir şey",
+        "en": "not anything; no single thing",
+        "exampleEn": "There is nothing in the fridge.",
+        "exampleTr": "Buzdolabında hiçbir şey yok."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "everything"
+    ]
+  },
+  {
+    "id": "w_notional",
+    "headword": "notional",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnəʊʃənl/",
+    "meanings": [
+      {
+        "tr": "varsayımsal, farazi, kuramsal",
+        "en": "existing only as an idea, not as something real",
+        "exampleEn": "The budget was based on a notional figure rather than actual costs.",
+        "exampleTr": "Bütçe, gerçek maliyetler yerine varsayımsal bir rakama dayanıyordu."
+      }
+    ],
+    "synonyms": [
+      "hypothetical",
+      "theoretical"
+    ],
+    "antonyms": [
+      "actual",
+      "real"
+    ]
+  },
+  {
+    "id": "w_null",
+    "headword": "null",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/nʌl/",
+    "meanings": [
+      {
+        "tr": "geçersiz, hükümsüz",
+        "en": "having no legal force; invalid",
+        "exampleEn": "The contract was declared null and void.",
+        "exampleTr": "Sözleşme geçersiz ve hükümsüz ilan edildi."
+      },
+      {
+        "tr": "sıfır, boş (değer)",
+        "en": "having no value; equal to zero or empty",
+        "exampleEn": "The field returned a null value.",
+        "exampleTr": "Alan boş bir değer döndürdü."
+      }
+    ],
+    "synonyms": [
+      "invalid",
+      "void"
+    ],
+    "antonyms": [
+      "valid"
+    ]
+  },
+  {
+    "id": "w_nullify",
+    "headword": "nullify",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnʌlɪfaɪ/",
+    "meanings": [
+      {
+        "tr": "geçersiz kılmak, iptal etmek",
+        "en": "to make something legally invalid or cancel its effect",
+        "exampleEn": "The court decided to nullify the agreement.",
+        "exampleTr": "Mahkeme anlaşmayı geçersiz kılmaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "invalidate",
+      "cancel",
+      "annul"
+    ],
+    "antonyms": [
+      "validate"
+    ]
+  },
+  {
+    "id": "w_nullity",
+    "headword": "nullity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnʌlɪti/",
+    "meanings": [
+      {
+        "tr": "hükümsüzlük, geçersizlik",
+        "en": "the state of being legally invalid",
+        "exampleEn": "The lawyer argued for the nullity of the marriage.",
+        "exampleTr": "Avukat, evliliğin hükümsüzlüğünü savundu."
+      }
+    ],
+    "synonyms": [
+      "invalidity"
+    ],
+    "antonyms": [
+      "validity"
+    ]
+  },
+  {
+    "id": "w_numb",
+    "headword": "numb",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/nʌm/",
+    "meanings": [
+      {
+        "tr": "uyuşmuş, hissiz",
+        "en": "unable to feel anything in a part of the body",
+        "exampleEn": "My fingers were numb with cold.",
+        "exampleTr": "Parmaklarım soğuktan uyuşmuştu."
+      },
+      {
+        "tr": "duygusuz, donuk (duygusal olarak)",
+        "en": "unable to feel emotion; shocked",
+        "exampleEn": "She felt numb after hearing the terrible news.",
+        "exampleTr": "Korkunç haberi duyduktan sonra kendini duygusuz hissetti."
+      }
+    ],
+    "synonyms": [
+      "deadened",
+      "insensible"
+    ],
+    "antonyms": [
+      "sensitive"
+    ]
+  },
+  {
+    "id": "w_numerals",
+    "headword": "numerals",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnjuːmərəlz/",
+    "meanings": [
+      {
+        "tr": "rakamlar, sayılar",
+        "en": "written symbols that represent numbers",
+        "exampleEn": "Roman numerals are still used on some clocks.",
+        "exampleTr": "Bazı saatlerde hâlâ Roma rakamları kullanılır."
+      }
+    ],
+    "synonyms": [
+      "figures",
+      "digits"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_nunnery",
+    "headword": "nunnery",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnʌnəri/",
+    "meanings": [
+      {
+        "tr": "rahibe manastırı",
+        "en": "a building where nuns live; a convent",
+        "exampleEn": "She spent several years in a nunnery before leaving.",
+        "exampleTr": "Ayrılmadan önce birkaç yıl bir rahibe manastırında geçirdi."
+      }
+    ],
+    "synonyms": [
+      "convent"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_nursing_home",
+    "headword": "nursing home",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnɜːsɪŋ həʊm/",
+    "meanings": [
+      {
+        "tr": "huzurevi, bakımevi",
+        "en": "a place where elderly or ill people are cared for",
+        "exampleEn": "Her grandmother lives in a nursing home now.",
+        "exampleTr": "Büyükannesi artık bir huzurevinde yaşıyor."
+      }
+    ],
+    "synonyms": [
+      "care home"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_nylons",
+    "headword": "nylons",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnaɪlɒnz/",
+    "meanings": [
+      {
+        "tr": "naylon çorap, ince kadın çorabı",
+        "en": "women's stockings made of nylon",
+        "exampleEn": "She wore a pair of nylons under her skirt.",
+        "exampleTr": "Eteğinin altına bir çift naylon çorap giymişti."
+      }
+    ],
+    "synonyms": [
+      "stockings"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_objectionable",
+    "headword": "objectionable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈdʒekʃənəbl/",
+    "meanings": [
+      {
+        "tr": "itiraz edilecek, hoş olmayan, sakıncalı",
+        "en": "unpleasant or offensive; likely to cause disapproval",
+        "exampleEn": "The film contains some objectionable scenes.",
+        "exampleTr": "Film, sakıncalı bazı sahneler içeriyor."
+      }
+    ],
+    "synonyms": [
+      "offensive",
+      "unacceptable"
+    ],
+    "antonyms": [
+      "acceptable",
+      "pleasant"
+    ]
+  },
+  {
+    "id": "w_objector",
+    "headword": "objector",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈdʒektə/",
+    "meanings": [
+      {
+        "tr": "itiraz eden kişi, karşı çıkan",
+        "en": "a person who objects to something, especially officially",
+        "exampleEn": "He was a conscientious objector who refused to fight.",
+        "exampleTr": "Savaşmayı reddeden vicdani retçi bir itirazcıydı."
+      }
+    ],
+    "synonyms": [
+      "protester",
+      "dissenter"
+    ],
+    "antonyms": [
+      "supporter"
+    ]
+  },
+  {
+    "id": "w_obliged",
+    "headword": "obliged",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈblaɪdʒd/",
+    "meanings": [
+      {
+        "tr": "mecbur, zorunlu",
+        "en": "required to do something by law, duty, or circumstances",
+        "exampleEn": "Employers are obliged to provide a safe workplace.",
+        "exampleTr": "İşverenler güvenli bir çalışma ortamı sağlamakla yükümlüdür."
+      },
+      {
+        "tr": "minnettar, müteşekkir",
+        "en": "grateful for something someone has done",
+        "exampleEn": "I'm much obliged to you for your help.",
+        "exampleTr": "Yardımınız için size çok minnettarım."
+      }
+    ],
+    "synonyms": [
+      "required",
+      "bound",
+      "grateful"
+    ],
+    "antonyms": []
+  }
+]

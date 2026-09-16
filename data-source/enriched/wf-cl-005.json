@@ -1,0 +1,1311 @@
+[
+  {
+    "id": "w_bewitched",
+    "headword": "bewitched",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɪˈwɪtʃt/",
+    "meanings": [
+      {
+        "tr": "büyülenmiş, büyünün etkisi altında",
+        "en": "under a magic spell; enchanted or fascinated",
+        "exampleEn": "The audience sat bewitched by the singer's voice.",
+        "exampleTr": "Seyirciler şarkıcının sesiyle büyülenmiş halde oturdu."
+      }
+    ],
+    "synonyms": [
+      "enchanted",
+      "spellbound",
+      "captivated",
+      "mesmerized"
+    ],
+    "antonyms": [
+      "repelled",
+      "disenchanted"
+    ]
+  },
+  {
+    "id": "w_bigotry",
+    "headword": "bigotry",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbɪɡətri/",
+    "meanings": [
+      {
+        "tr": "bağnazlık, hoşgörüsüzlük",
+        "en": "intolerance toward those who hold different opinions or beliefs",
+        "exampleEn": "The organization fights against racism and bigotry.",
+        "exampleTr": "Kuruluş ırkçılık ve bağnazlığa karşı mücadele ediyor."
+      }
+    ],
+    "synonyms": [
+      "intolerance",
+      "prejudice",
+      "fanaticism"
+    ],
+    "antonyms": [
+      "tolerance",
+      "open-mindedness"
+    ]
+  },
+  {
+    "id": "w_birth_announcement",
+    "headword": "birth announcement",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbɜːθ əˈnaʊnsmənt/",
+    "meanings": [
+      {
+        "tr": "doğum ilanı, doğum duyurusu",
+        "en": "a public notice that a baby has been born",
+        "exampleEn": "They sent out a birth announcement with their newborn's photo.",
+        "exampleTr": "Yeni doğan bebeklerinin fotoğrafıyla bir doğum ilanı gönderdiler."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_bitterness",
+    "headword": "bitterness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbɪtənəs/",
+    "meanings": [
+      {
+        "tr": "acılık, kırgınlık, hınç",
+        "en": "anger and unhappiness caused by feeling treated unfairly",
+        "exampleEn": "She spoke with bitterness about being passed over for promotion.",
+        "exampleTr": "Terfi için atlanması konusunda hınçla konuştu."
+      },
+      {
+        "tr": "acı tat",
+        "en": "a sharp, unpleasant taste",
+        "exampleEn": "The bitterness of the coffee made her wince.",
+        "exampleTr": "Kahvenin acılığı yüzünü buruşturdu."
+      }
+    ],
+    "synonyms": [
+      "resentment",
+      "rancor",
+      "acrimony"
+    ],
+    "antonyms": [
+      "sweetness",
+      "contentment"
+    ]
+  },
+  {
+    "id": "w_blackout",
+    "headword": "blackout",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈblækaʊt/",
+    "meanings": [
+      {
+        "tr": "elektrik kesintisi",
+        "en": "a period when there is no electricity in an area",
+        "exampleEn": "The storm caused a blackout across the whole city.",
+        "exampleTr": "Fırtına tüm şehirde bir elektrik kesintisine yol açtı."
+      },
+      {
+        "tr": "bayılma, hafıza kaybı anı",
+        "en": "a temporary loss of consciousness or memory",
+        "exampleEn": "He suffered a blackout and collapsed on the floor.",
+        "exampleTr": "Bir bayılma geçirdi ve yere yığıldı."
+      }
+    ],
+    "synonyms": [
+      "power cut",
+      "outage",
+      "faint"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_blandness",
+    "headword": "blandness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈblændnəs/",
+    "meanings": [
+      {
+        "tr": "tatsızlık, sıradanlık, yavanlık",
+        "en": "the quality of being dull, uninteresting, or without strong flavour",
+        "exampleEn": "Critics complained about the blandness of the new menu.",
+        "exampleTr": "Eleştirmenler yeni menünün tatsızlığından şikayet etti."
+      }
+    ],
+    "synonyms": [
+      "dullness",
+      "insipidity"
+    ],
+    "antonyms": [
+      "excitement",
+      "spiciness"
+    ]
+  },
+  {
+    "id": "w_blasphemous",
+    "headword": "blasphemous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈblæsfəməs/",
+    "meanings": [
+      {
+        "tr": "küfür niteliğinde, kutsala saygısız",
+        "en": "showing disrespect toward God or sacred things",
+        "exampleEn": "The book was banned for its blasphemous content.",
+        "exampleTr": "Kitap, kutsala saygısız içeriği nedeniyle yasaklandı."
+      }
+    ],
+    "synonyms": [
+      "irreverent",
+      "profane",
+      "sacrilegious"
+    ],
+    "antonyms": [
+      "reverent",
+      "pious"
+    ]
+  },
+  {
+    "id": "w_blistering",
+    "headword": "blistering",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈblɪstərɪŋ/",
+    "meanings": [
+      {
+        "tr": "kavurucu, çok sıcak",
+        "en": "extremely hot",
+        "exampleEn": "They played in the blistering heat of the afternoon.",
+        "exampleTr": "Öğleden sonranın kavurucu sıcağında oynadılar."
+      },
+      {
+        "tr": "sert, şiddetli (eleştiri vb.)",
+        "en": "very forceful or severe in criticism",
+        "exampleEn": "The report was a blistering attack on the government.",
+        "exampleTr": "Rapor, hükümete yönelik sert bir saldırıydı."
+      }
+    ],
+    "synonyms": [
+      "scorching",
+      "searing",
+      "fierce"
+    ],
+    "antonyms": [
+      "mild",
+      "gentle"
+    ]
+  },
+  {
+    "id": "w_bloated",
+    "headword": "bloated",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbləʊtɪd/",
+    "meanings": [
+      {
+        "tr": "şişkin, şişmiş",
+        "en": "swollen with liquid or gas",
+        "exampleEn": "After the huge meal he felt bloated and tired.",
+        "exampleTr": "Kocaman yemekten sonra kendini şişkin ve yorgun hissetti."
+      },
+      {
+        "tr": "aşırı büyümüş, hantal",
+        "en": "larger than needed; excessively big",
+        "exampleEn": "The company was criticized for its bloated management structure.",
+        "exampleTr": "Şirket, hantal yönetim yapısı nedeniyle eleştirildi."
+      }
+    ],
+    "synonyms": [
+      "swollen",
+      "distended",
+      "inflated"
+    ],
+    "antonyms": [
+      "deflated",
+      "lean"
+    ]
+  },
+  {
+    "id": "w_blocker",
+    "headword": "blocker",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈblɒkə/",
+    "meanings": [
+      {
+        "tr": "engel, ilerlemeyi durduran şey",
+        "en": "something that prevents progress or stops something happening",
+        "exampleEn": "The missing approval is the main blocker for the project.",
+        "exampleTr": "Eksik onay, proje için ana engel durumunda."
+      }
+    ],
+    "synonyms": [
+      "obstacle",
+      "impediment",
+      "barrier"
+    ],
+    "antonyms": [
+      "enabler",
+      "facilitator"
+    ]
+  },
+  {
+    "id": "w_bloodshed",
+    "headword": "bloodshed",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈblʌdʃed/",
+    "meanings": [
+      {
+        "tr": "kan dökülmesi, katliam",
+        "en": "the killing or wounding of people, usually in fighting",
+        "exampleEn": "The peace talks aimed to end the bloodshed.",
+        "exampleTr": "Barış görüşmeleri kan dökülmesini sona erdirmeyi amaçlıyordu."
+      }
+    ],
+    "synonyms": [
+      "slaughter",
+      "carnage",
+      "killing"
+    ],
+    "antonyms": [
+      "peace"
+    ]
+  },
+  {
+    "id": "w_blueprint",
+    "headword": "blueprint",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbluːprɪnt/",
+    "meanings": [
+      {
+        "tr": "plan, taslak, ana plan",
+        "en": "a detailed plan for achieving something",
+        "exampleEn": "The report offers a blueprint for economic reform.",
+        "exampleTr": "Rapor, ekonomik reform için bir ana plan sunuyor."
+      },
+      {
+        "tr": "teknik çizim, proje planı",
+        "en": "a technical drawing of a building or machine",
+        "exampleEn": "The architect showed us the blueprint of the new office.",
+        "exampleTr": "Mimar bize yeni ofisin teknik çizimini gösterdi."
+      }
+    ],
+    "synonyms": [
+      "plan",
+      "design",
+      "scheme",
+      "framework"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_blurry",
+    "headword": "blurry",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈblɜːri/",
+    "meanings": [
+      {
+        "tr": "bulanık, net olmayan",
+        "en": "not clear or sharp in outline",
+        "exampleEn": "The photo was too blurry to see anyone's face.",
+        "exampleTr": "Fotoğraf, kimsenin yüzünü görmeye çok bulanıktı."
+      }
+    ],
+    "synonyms": [
+      "fuzzy",
+      "hazy",
+      "unclear"
+    ],
+    "antonyms": [
+      "sharp",
+      "clear",
+      "crisp"
+    ]
+  },
+  {
+    "id": "w_blurt_out",
+    "headword": "blurt out",
+    "pos": "phrasal verb",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌblɜːt ˈaʊt/",
+    "meanings": [
+      {
+        "tr": "ağzından kaçırmak, düşünmeden söylemek",
+        "en": "to say something suddenly without thinking",
+        "exampleEn": "She blurted out the secret before she could stop herself.",
+        "exampleTr": "Kendini durduramadan sırrı ağzından kaçırdı."
+      }
+    ],
+    "synonyms": [
+      "exclaim",
+      "spill",
+      "let slip"
+    ],
+    "antonyms": [
+      "withhold",
+      "suppress"
+    ]
+  },
+  {
+    "id": "w_blustery",
+    "headword": "blustery",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈblʌstəri/",
+    "meanings": [
+      {
+        "tr": "rüzgarlı, fırtınalı",
+        "en": "with strong, gusty winds",
+        "exampleEn": "It was a cold, blustery day on the coast.",
+        "exampleTr": "Sahilde soğuk, rüzgarlı bir gündü."
+      }
+    ],
+    "synonyms": [
+      "gusty",
+      "windy",
+      "stormy"
+    ],
+    "antonyms": [
+      "calm",
+      "still"
+    ]
+  },
+  {
+    "id": "w_board",
+    "headword": "board",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɔːd/",
+    "meanings": [
+      {
+        "tr": "yönetim kurulu",
+        "en": "a group of people who manage a company or organization",
+        "exampleEn": "The board approved the merger unanimously.",
+        "exampleTr": "Yönetim kurulu birleşmeyi oybirliğiyle onayladı."
+      },
+      {
+        "tr": "tahta, pano, levha",
+        "en": "a flat piece of wood or other material used for a purpose",
+        "exampleEn": "He wrote the results on the board.",
+        "exampleTr": "Sonuçları tahtaya yazdı."
+      }
+    ],
+    "synonyms": [
+      "committee",
+      "council",
+      "plank"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_bobbin",
+    "headword": "bobbin",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbɒbɪn/",
+    "meanings": [
+      {
+        "tr": "masura, bobin, iplik makarası",
+        "en": "a small cylinder holding thread or wire, especially in a machine",
+        "exampleEn": "The sewing machine stopped when the bobbin ran out of thread.",
+        "exampleTr": "Masuradaki iplik bitince dikiş makinesi durdu."
+      }
+    ],
+    "synonyms": [
+      "spool",
+      "reel"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_bog",
+    "headword": "bog",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɒɡ/",
+    "meanings": [
+      {
+        "tr": "bataklık, sazlık",
+        "en": "an area of soft, wet, muddy ground",
+        "exampleEn": "The hikers got stuck in a peat bog.",
+        "exampleTr": "Yürüyüşçüler bir turba bataklığında sıkışıp kaldı."
+      }
+    ],
+    "synonyms": [
+      "marsh",
+      "swamp",
+      "mire"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_boon",
+    "headword": "boon",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/buːn/",
+    "meanings": [
+      {
+        "tr": "nimet, büyük fayda, lütuf",
+        "en": "something helpful that brings a benefit or advantage",
+        "exampleEn": "The new bridge has been a boon to local businesses.",
+        "exampleTr": "Yeni köprü yerel işletmeler için bir nimet oldu."
+      }
+    ],
+    "synonyms": [
+      "blessing",
+      "benefit",
+      "advantage"
+    ],
+    "antonyms": [
+      "curse",
+      "drawback"
+    ]
+  },
+  {
+    "id": "w_booty",
+    "headword": "booty",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbuːti/",
+    "meanings": [
+      {
+        "tr": "ganimet, yağma malı",
+        "en": "valuable things stolen or taken in war",
+        "exampleEn": "The pirates divided the booty among the crew.",
+        "exampleTr": "Korsanlar ganimeti mürettebat arasında paylaştı."
+      }
+    ],
+    "synonyms": [
+      "loot",
+      "plunder",
+      "spoils"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_botanist",
+    "headword": "botanist",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbɒtənɪst/",
+    "meanings": [
+      {
+        "tr": "botanikçi, bitki bilimci",
+        "en": "a scientist who studies plants",
+        "exampleEn": "The botanist discovered a rare orchid in the rainforest.",
+        "exampleTr": "Botanikçi yağmur ormanında nadir bir orkide keşfetti."
+      }
+    ],
+    "synonyms": [
+      "plant scientist"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_bottle_up",
+    "headword": "bottle up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbɒtl ˈʌp/",
+    "meanings": [
+      {
+        "tr": "(duyguları) içine atmak, bastırmak",
+        "en": "to keep feelings hidden instead of expressing them",
+        "exampleEn": "Don't bottle up your anger; talk about it.",
+        "exampleTr": "Öfkeni içine atma; onun hakkında konuş."
+      }
+    ],
+    "synonyms": [
+      "suppress",
+      "repress",
+      "hold back"
+    ],
+    "antonyms": [
+      "express",
+      "vent"
+    ]
+  },
+  {
+    "id": "w_bottled_water",
+    "headword": "bottled water",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbɒtld ˈwɔːtə/",
+    "meanings": [
+      {
+        "tr": "şişe suyu, ambalajlı su",
+        "en": "drinking water sold in sealed plastic or glass bottles",
+        "exampleEn": "They bought several cases of bottled water for the trip.",
+        "exampleTr": "Gezi için birkaç koli şişe suyu aldılar."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "tap water"
+    ]
+  },
+  {
+    "id": "w_bottommost",
+    "headword": "bottommost",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbɒtəmməʊst/",
+    "meanings": [
+      {
+        "tr": "en alttaki, en dipteki",
+        "en": "lowest; furthest down",
+        "exampleEn": "The keys were in the bottommost drawer.",
+        "exampleTr": "Anahtarlar en alttaki çekmecedeydi."
+      }
+    ],
+    "synonyms": [
+      "lowest",
+      "undermost"
+    ],
+    "antonyms": [
+      "topmost",
+      "uppermost"
+    ]
+  },
+  {
+    "id": "w_boundlessness",
+    "headword": "boundlessness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbaʊndləsnəs/",
+    "meanings": [
+      {
+        "tr": "sınırsızlık, uçsuz bucaksızlık",
+        "en": "the quality of having no limits or end",
+        "exampleEn": "The poem celebrates the boundlessness of the ocean.",
+        "exampleTr": "Şiir, okyanusun sınırsızlığını yüceltiyor."
+      }
+    ],
+    "synonyms": [
+      "infinity",
+      "vastness",
+      "limitlessness"
+    ],
+    "antonyms": [
+      "limitation",
+      "finiteness"
+    ]
+  },
+  {
+    "id": "w_boycott",
+    "headword": "boycott",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbɔɪkɒt/",
+    "meanings": [
+      {
+        "tr": "boykot",
+        "en": "a refusal to buy, use, or take part in something as a protest",
+        "exampleEn": "Consumers organized a boycott of the company's products.",
+        "exampleTr": "Tüketiciler şirketin ürünlerine karşı bir boykot düzenledi."
+      },
+      {
+        "tr": "boykot etmek",
+        "en": "to refuse to buy or take part in something as a protest",
+        "exampleEn": "Activists urged people to boycott the brand.",
+        "exampleTr": "Aktivistler insanları markayı boykot etmeye çağırdı."
+      }
+    ],
+    "synonyms": [
+      "ban",
+      "embargo",
+      "shun"
+    ],
+    "antonyms": [
+      "support",
+      "patronize"
+    ]
+  },
+  {
+    "id": "w_bragging",
+    "headword": "bragging",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbræɡɪŋ/",
+    "meanings": [
+      {
+        "tr": "övünme, böbürlenme",
+        "en": "talking too proudly about what you have or can do",
+        "exampleEn": "Nobody liked his constant bragging about his salary.",
+        "exampleTr": "Maaşıyla ilgili sürekli övünmesinden kimse hoşlanmıyordu."
+      }
+    ],
+    "synonyms": [
+      "boasting",
+      "showing off",
+      "gloating"
+    ],
+    "antonyms": [
+      "modesty",
+      "humility"
+    ]
+  },
+  {
+    "id": "w_brazen",
+    "headword": "brazen",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbreɪzn/",
+    "meanings": [
+      {
+        "tr": "utanmaz, arsız, pervasız",
+        "en": "bold and without shame",
+        "exampleEn": "It was a brazen lie told right to my face.",
+        "exampleTr": "Yüzüme karşı söylenmiş arsız bir yalandı."
+      }
+    ],
+    "synonyms": [
+      "shameless",
+      "bold",
+      "impudent"
+    ],
+    "antonyms": [
+      "shy",
+      "modest",
+      "timid"
+    ]
+  },
+  {
+    "id": "w_brazenly",
+    "headword": "brazenly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbreɪznli/",
+    "meanings": [
+      {
+        "tr": "utanmazca, arsızca, pervasızca",
+        "en": "in a bold way that shows no shame",
+        "exampleEn": "He brazenly ignored the rules in front of everyone.",
+        "exampleTr": "Herkesin önünde kuralları pervasızca görmezden geldi."
+      }
+    ],
+    "synonyms": [
+      "shamelessly",
+      "boldly",
+      "flagrantly"
+    ],
+    "antonyms": [
+      "shyly",
+      "modestly"
+    ]
+  },
+  {
+    "id": "w_break_down",
+    "headword": "break down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbreɪk ˈdaʊn/",
+    "meanings": [
+      {
+        "tr": "bozulmak, arızalanmak",
+        "en": "to stop working (of a machine or vehicle)",
+        "exampleEn": "Our car broke down on the motorway.",
+        "exampleTr": "Arabamız otoyolda bozuldu."
+      },
+      {
+        "tr": "başarısız olmak, çökmek (görüşme, ilişki vb.)",
+        "en": "to fail or collapse (of talks, systems, relationships)",
+        "exampleEn": "The negotiations broke down after two days.",
+        "exampleTr": "Müzakereler iki gün sonra çöktü."
+      },
+      {
+        "tr": "ayrıntılara ayırmak, analiz etmek",
+        "en": "to divide something into smaller parts to analyse it",
+        "exampleEn": "Let me break down the costs for you.",
+        "exampleTr": "Maliyetleri sizin için ayrıntılara ayırayım."
+      }
+    ],
+    "synonyms": [
+      "fail",
+      "collapse",
+      "malfunction"
+    ],
+    "antonyms": [
+      "function"
+    ]
+  },
+  {
+    "id": "w_brickwork",
+    "headword": "brickwork",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbrɪkwɜːk/",
+    "meanings": [
+      {
+        "tr": "tuğla işi, tuğla örgü",
+        "en": "the bricks in a wall or building",
+        "exampleEn": "The old brickwork needs to be repaired.",
+        "exampleTr": "Eski tuğla örgünün onarılması gerekiyor."
+      }
+    ],
+    "synonyms": [
+      "masonry"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_brim_over",
+    "headword": "brim over",
+    "pos": "phrasal verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbrɪm ˈəʊvə/",
+    "meanings": [
+      {
+        "tr": "taşmak, dolup taşmak",
+        "en": "to be so full that the contents spill over the edge",
+        "exampleEn": "Her eyes brimmed over with tears of joy.",
+        "exampleTr": "Gözleri sevinç gözyaşlarıyla dolup taştı."
+      }
+    ],
+    "synonyms": [
+      "overflow",
+      "spill over"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_brink",
+    "headword": "brink",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/brɪŋk/",
+    "meanings": [
+      {
+        "tr": "eşik, kıyı, sınır (bir durumun başlangıç noktası)",
+        "en": "the point just before a situation, often a bad one, begins",
+        "exampleEn": "The company was on the brink of bankruptcy.",
+        "exampleTr": "Şirket iflasın eşiğindeydi."
+      }
+    ],
+    "synonyms": [
+      "edge",
+      "verge",
+      "threshold"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_brisk",
+    "headword": "brisk",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/brɪsk/",
+    "meanings": [
+      {
+        "tr": "hızlı, canlı, çevik",
+        "en": "quick and energetic",
+        "exampleEn": "They went for a brisk walk before breakfast.",
+        "exampleTr": "Kahvaltıdan önce hızlı bir yürüyüşe çıktılar."
+      },
+      {
+        "tr": "hareketli, iyi giden (iş)",
+        "en": "busy, with a lot of activity or sales",
+        "exampleEn": "Business was brisk during the holiday season.",
+        "exampleTr": "Tatil sezonunda işler hareketliydi."
+      }
+    ],
+    "synonyms": [
+      "quick",
+      "lively",
+      "energetic"
+    ],
+    "antonyms": [
+      "slow",
+      "sluggish"
+    ]
+  },
+  {
+    "id": "w_brittle",
+    "headword": "brittle",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbrɪtl/",
+    "meanings": [
+      {
+        "tr": "kırılgan, gevrek",
+        "en": "hard but easily broken",
+        "exampleEn": "The old paper had become dry and brittle.",
+        "exampleTr": "Eski kağıt kuru ve kırılgan hale gelmişti."
+      }
+    ],
+    "synonyms": [
+      "fragile",
+      "delicate",
+      "crumbly"
+    ],
+    "antonyms": [
+      "flexible",
+      "tough",
+      "durable"
+    ]
+  },
+  {
+    "id": "w_brought_down",
+    "headword": "brought down",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbrɔːt ˈdaʊn/",
+    "meanings": [
+      {
+        "tr": "düşürmek, devirmek (past participle of 'bring down')",
+        "en": "caused to fall, fail, or be reduced",
+        "exampleEn": "The scandal brought down the entire government.",
+        "exampleTr": "Skandal, tüm hükümeti devirdi."
+      }
+    ],
+    "synonyms": [
+      "overthrow",
+      "topple",
+      "reduce"
+    ],
+    "antonyms": [
+      "raise",
+      "boost"
+    ]
+  },
+  {
+    "id": "w_brutalize",
+    "headword": "brutalize",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbruːtəlaɪz/",
+    "meanings": [
+      {
+        "tr": "vahşice davranmak, zalimleştirmek",
+        "en": "to treat someone in a cruel, violent way",
+        "exampleEn": "The prisoners were brutalized by their guards.",
+        "exampleTr": "Mahkumlar gardiyanları tarafından vahşice muamele gördü."
+      }
+    ],
+    "synonyms": [
+      "mistreat",
+      "abuse",
+      "torment"
+    ],
+    "antonyms": [
+      "nurture",
+      "protect"
+    ]
+  },
+  {
+    "id": "w_buck_the_trend",
+    "headword": "buck the trend",
+    "pos": "idiom",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbʌk ðə ˈtrend/",
+    "meanings": [
+      {
+        "tr": "genel eğilime ters gitmek, akıntıya karşı kürek çekmek",
+        "en": "to do the opposite of what most others are doing",
+        "exampleEn": "Their sales rose sharply, bucking the trend of a weak market.",
+        "exampleTr": "Satışları keskin biçimde arttı ve zayıf piyasa eğilimine ters gitti."
+      }
+    ],
+    "synonyms": [
+      "go against the grain"
+    ],
+    "antonyms": [
+      "follow the trend"
+    ]
+  },
+  {
+    "id": "w_buckle",
+    "headword": "buckle",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbʌkl/",
+    "meanings": [
+      {
+        "tr": "tokalamak, kemer/toka ile bağlamak",
+        "en": "to fasten something with a buckle",
+        "exampleEn": "Please buckle your seatbelt before takeoff.",
+        "exampleTr": "Lütfen kalkıştan önce emniyet kemerinizi bağlayın."
+      },
+      {
+        "tr": "eğilmek, bükülmek, çökmek",
+        "en": "to bend or collapse under pressure or weight",
+        "exampleEn": "His knees began to buckle under the heavy load.",
+        "exampleTr": "Ağır yük altında dizleri bükülmeye başladı."
+      }
+    ],
+    "synonyms": [
+      "fasten",
+      "bend",
+      "collapse"
+    ],
+    "antonyms": [
+      "unbuckle",
+      "straighten"
+    ]
+  },
+  {
+    "id": "w_budget_surplus",
+    "headword": "budget surplus",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbʌdʒɪt ˈsɜːpləs/",
+    "meanings": [
+      {
+        "tr": "bütçe fazlası",
+        "en": "the amount by which government or company income exceeds its spending",
+        "exampleEn": "The country recorded a budget surplus for the first time in years.",
+        "exampleTr": "Ülke yıllar sonra ilk kez bir bütçe fazlası kaydetti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "budget deficit"
+    ]
+  },
+  {
+    "id": "w_bulky",
+    "headword": "bulky",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbʌlki/",
+    "meanings": [
+      {
+        "tr": "hantal, büyük ve zor taşınan",
+        "en": "large and awkward to carry or store",
+        "exampleEn": "The parcel was too bulky to fit in the mailbox.",
+        "exampleTr": "Paket posta kutusuna sığmayacak kadar hantaldı."
+      }
+    ],
+    "synonyms": [
+      "cumbersome",
+      "unwieldy",
+      "massive"
+    ],
+    "antonyms": [
+      "compact",
+      "small"
+    ]
+  },
+  {
+    "id": "w_bungle",
+    "headword": "bungle",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbʌŋɡl/",
+    "meanings": [
+      {
+        "tr": "beceriksizce yapmak, yüzüne gözüne bulaştırmak",
+        "en": "to do something badly or carelessly",
+        "exampleEn": "The police were accused of bungling the investigation.",
+        "exampleTr": "Polis, soruşturmayı yüzüne gözüne bulaştırmakla suçlandı."
+      }
+    ],
+    "synonyms": [
+      "botch",
+      "mishandle",
+      "fumble"
+    ],
+    "antonyms": [
+      "manage",
+      "succeed"
+    ]
+  },
+  {
+    "id": "w_buy_up",
+    "headword": "buy up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbaɪ ˈʌp/",
+    "meanings": [
+      {
+        "tr": "toptan satın almak, tümünü satın almak",
+        "en": "to buy all or as much as possible of something",
+        "exampleEn": "Investors rushed to buy up shares before the price rose.",
+        "exampleTr": "Yatırımcılar fiyat yükselmeden hisseleri toptan satın almak için akın etti."
+      }
+    ],
+    "synonyms": [
+      "acquire",
+      "purchase",
+      "snap up"
+    ],
+    "antonyms": [
+      "sell off"
+    ]
+  },
+  {
+    "id": "w_buyout",
+    "headword": "buyout",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbaɪaʊt/",
+    "meanings": [
+      {
+        "tr": "satın alma, şirketi tümüyle satın alma",
+        "en": "the purchase of a company or a controlling share in it",
+        "exampleEn": "The management arranged a buyout of the struggling firm.",
+        "exampleTr": "Yönetim, zor durumdaki firmanın satın alınmasını ayarladı."
+      }
+    ],
+    "synonyms": [
+      "takeover",
+      "acquisition"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_by_hand",
+    "headword": "by hand",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/baɪ ˈhænd/",
+    "meanings": [
+      {
+        "tr": "elle, el ile (makine kullanmadan)",
+        "en": "done or made by a person rather than a machine",
+        "exampleEn": "Each rug is woven by hand.",
+        "exampleTr": "Her halı elle dokunuyor."
+      }
+    ],
+    "synonyms": [
+      "manually"
+    ],
+    "antonyms": [
+      "by machine",
+      "automatically"
+    ]
+  }
+]

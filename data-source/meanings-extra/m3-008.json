@@ -1,0 +1,710 @@
+[
+  {
+    "id": "w_blow",
+    "headword": "blow",
+    "extraMeanings": [
+      {
+        "tr": "üflemek; (rüzgar) esmek",
+        "en": "to move air out of your mouth, or (of wind) to move",
+        "exampleEn": "The wind was blowing hard all night.",
+        "exampleTr": "Rüzgar bütün gece sert esiyordu."
+      },
+      {
+        "tr": "(burnunu) silmek/temizlemek",
+        "en": "to force air through your nose to clear it",
+        "exampleEn": "She blew her nose loudly into a tissue.",
+        "exampleTr": "Burnunu bir mendile gürültüyle sildi."
+      }
+    ]
+  },
+  {
+    "id": "w_boil",
+    "headword": "boil",
+    "extraMeanings": [
+      {
+        "tr": "çok kızmak, öfkeden köpürmek",
+        "en": "to be very angry",
+        "exampleEn": "He was boiling with rage after the meeting.",
+        "exampleTr": "Toplantıdan sonra öfkeden köpürüyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_bonus",
+    "headword": "bonus",
+    "extraMeanings": [
+      {
+        "tr": "ekstra avantaj, ilave güzellik",
+        "en": "an extra pleasant thing in addition to what you expected",
+        "exampleEn": "The house is lovely, and the big garden is a real bonus.",
+        "exampleTr": "Ev çok güzel, büyük bahçe de gerçek bir artı."
+      }
+    ]
+  },
+  {
+    "id": "w_boss",
+    "headword": "boss",
+    "extraMeanings": [
+      {
+        "tr": "emretmek, patronluk taslamak (fiil)",
+        "en": "to tell someone what to do in an annoying way",
+        "exampleEn": "Stop bossing me around all the time.",
+        "exampleTr": "Bana sürekli patronluk taslamayı bırak."
+      }
+    ]
+  },
+  {
+    "id": "w_brake",
+    "headword": "brake",
+    "extraMeanings": [
+      {
+        "tr": "fren yapmak, frene basmak (fiil)",
+        "en": "to slow or stop a vehicle using the brake",
+        "exampleEn": "She braked suddenly to avoid the dog.",
+        "exampleTr": "Köpeğe çarpmamak için aniden fren yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_branch",
+    "headword": "branch",
+    "extraMeanings": [
+      {
+        "tr": "(bir konunun) dal/kol, alt bölüm",
+        "en": "a part or division of something larger",
+        "exampleEn": "Biology is a branch of science.",
+        "exampleTr": "Biyoloji, bilimin bir dalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_bright",
+    "headword": "bright",
+    "extraMeanings": [
+      {
+        "tr": "zeki, akıllı",
+        "en": "intelligent, quick to learn",
+        "exampleEn": "She is a bright student who learns quickly.",
+        "exampleTr": "O, çabuk öğrenen zeki bir öğrencidir."
+      },
+      {
+        "tr": "canlı, umut verici (gelecek vb.)",
+        "en": "full of hope and likely to be successful",
+        "exampleEn": "He has a bright future ahead of him.",
+        "exampleTr": "Önünde parlak bir gelecek var."
+      }
+    ]
+  },
+  {
+    "id": "w_brilliant",
+    "headword": "brilliant",
+    "extraMeanings": [
+      {
+        "tr": "son derece zeki, dâhi",
+        "en": "extremely intelligent or skilled",
+        "exampleEn": "She is a brilliant scientist admired by everyone.",
+        "exampleTr": "O, herkesin hayran olduğu son derece zeki bir bilim insanıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_bug",
+    "headword": "bug",
+    "extraMeanings": [
+      {
+        "tr": "yazılım hatası, program hatası",
+        "en": "a mistake or problem in a computer program",
+        "exampleEn": "The programmer fixed a bug in the software.",
+        "exampleTr": "Programcı yazılımdaki bir hatayı düzeltti."
+      },
+      {
+        "tr": "mikrop, virüs (hastalık yapan)",
+        "en": "a minor illness caused by bacteria or a virus",
+        "exampleEn": "I've caught a stomach bug and feel awful.",
+        "exampleTr": "Mide mikrobu kaptım ve berbat hissediyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_build",
+    "headword": "build",
+    "extraMeanings": [
+      {
+        "tr": "vücut yapısı, beden yapısı (isim)",
+        "en": "the size and shape of a person's body",
+        "exampleEn": "He has a strong, athletic build.",
+        "exampleTr": "Güçlü, atletik bir vücut yapısı var."
+      },
+      {
+        "tr": "geliştirmek, oluşturmak, artırmak",
+        "en": "to develop or increase something gradually",
+        "exampleEn": "It takes time to build a good reputation.",
+        "exampleTr": "İyi bir itibar oluşturmak zaman alır."
+      }
+    ]
+  },
+  {
+    "id": "w_bulb",
+    "headword": "bulb",
+    "extraMeanings": [
+      {
+        "tr": "çiçek soğanı",
+        "en": "a round root from which some plants grow",
+        "exampleEn": "We planted tulip bulbs in the garden.",
+        "exampleTr": "Bahçeye lale soğanları diktik."
+      }
+    ]
+  },
+  {
+    "id": "w_burn",
+    "headword": "burn",
+    "extraMeanings": [
+      {
+        "tr": "yanmak, yakmak (fiil)",
+        "en": "to be on fire or to destroy something with fire",
+        "exampleEn": "The house burned down in less than an hour.",
+        "exampleTr": "Ev bir saatten kısa sürede yanıp kül oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_bury",
+    "headword": "bury",
+    "extraMeanings": [
+      {
+        "tr": "defnetmek, toprağa vermek (ölüyü)",
+        "en": "to put a dead body into a grave",
+        "exampleEn": "He was buried next to his wife.",
+        "exampleTr": "Eşinin yanına defnedildi."
+      },
+      {
+        "tr": "saklamak, gizlemek, örtmek",
+        "en": "to hide or cover something",
+        "exampleEn": "She buried her face in her hands and cried.",
+        "exampleTr": "Yüzünü ellerinin arasına gömüp ağladı."
+      }
+    ]
+  },
+  {
+    "id": "w_cab",
+    "headword": "cab",
+    "extraMeanings": [
+      {
+        "tr": "sürücü kabini (kamyon, tren vb.)",
+        "en": "the part of a truck or train where the driver sits",
+        "exampleEn": "The driver climbed into the cab of the truck.",
+        "exampleTr": "Şoför kamyonun sürücü kabinine tırmandı."
+      }
+    ]
+  },
+  {
+    "id": "w_captain",
+    "headword": "captain",
+    "extraMeanings": [
+      {
+        "tr": "takım kaptanı",
+        "en": "the leader of a sports team",
+        "exampleEn": "She was chosen as captain of the football team.",
+        "exampleTr": "Futbol takımının kaptanı seçildi."
+      },
+      {
+        "tr": "yüzbaşı (askeri rütbe)",
+        "en": "an officer of middle rank in the army or navy",
+        "exampleEn": "Captain Jones led the soldiers into battle.",
+        "exampleTr": "Yüzbaşı Jones askerleri savaşa götürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_cart",
+    "headword": "cart",
+    "extraMeanings": [
+      {
+        "tr": "alışveriş sepeti (online), alışveriş arabası",
+        "en": "an online basket where you collect items to buy",
+        "exampleEn": "I added three books to my shopping cart.",
+        "exampleTr": "Alışveriş sepetime üç kitap ekledim."
+      }
+    ]
+  },
+  {
+    "id": "w_cash",
+    "headword": "cash",
+    "extraMeanings": [
+      {
+        "tr": "(çeki) bozdurmak, paraya çevirmek (fiil)",
+        "en": "to exchange a cheque for money",
+        "exampleEn": "I need to cash this cheque at the bank.",
+        "exampleTr": "Bu çeki bankada bozdurmam gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_castle",
+    "headword": "castle",
+    "extraMeanings": [
+      {
+        "tr": "kale (satrançta), ruh",
+        "en": "a chess piece shaped like a tower; a rook",
+        "exampleEn": "He moved his castle across the board.",
+        "exampleTr": "Kalesini tahtanın öbür tarafına götürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_center",
+    "headword": "center",
+    "extraMeanings": [
+      {
+        "tr": "merkez, kurum (etkinlik/hizmet binası)",
+        "en": "a place or building for a particular activity",
+        "exampleEn": "They built a new sports center in our town.",
+        "exampleTr": "Kasabamıza yeni bir spor merkezi yaptılar."
+      }
+    ]
+  },
+  {
+    "id": "w_certain",
+    "headword": "certain",
+    "extraMeanings": [
+      {
+        "tr": "belli, bazı (belirli ama adı verilmeyen)",
+        "en": "particular but not named or specified",
+        "exampleEn": "Certain people find this topic difficult.",
+        "exampleTr": "Bazı insanlar bu konuyu zor buluyor."
+      }
+    ]
+  },
+  {
+    "id": "w_chain",
+    "headword": "chain",
+    "extraMeanings": [
+      {
+        "tr": "zincir (mağaza/otel zinciri)",
+        "en": "a group of shops or businesses owned by one company",
+        "exampleEn": "That coffee shop is part of a large chain.",
+        "exampleTr": "O kafe, büyük bir zincirin parçasıdır."
+      },
+      {
+        "tr": "zincirlemek, zincirle bağlamak (fiil)",
+        "en": "to fasten something with a chain",
+        "exampleEn": "He chained his bike to the fence.",
+        "exampleTr": "Bisikletini çite zincirledi."
+      }
+    ]
+  },
+  {
+    "id": "w_challenge",
+    "headword": "challenge",
+    "extraMeanings": [
+      {
+        "tr": "meydan okumak, itiraz etmek (fiil)",
+        "en": "to question whether something is true or right",
+        "exampleEn": "She challenged the referee's decision.",
+        "exampleTr": "Hakemin kararına itiraz etti."
+      }
+    ]
+  },
+  {
+    "id": "w_chance",
+    "headword": "chance",
+    "extraMeanings": [
+      {
+        "tr": "olasılık, ihtimal",
+        "en": "the possibility that something will happen",
+        "exampleEn": "There is a good chance it will rain today.",
+        "exampleTr": "Bugün yağmur yağma olasılığı yüksek."
+      },
+      {
+        "tr": "tesadüf, rastlantı",
+        "en": "the way things happen without being planned",
+        "exampleEn": "We met by chance at the airport.",
+        "exampleTr": "Havaalanında tesadüfen karşılaştık."
+      }
+    ]
+  },
+  {
+    "id": "w_chart",
+    "headword": "chart",
+    "extraMeanings": [
+      {
+        "tr": "hit listesi, müzik listesi",
+        "en": "a weekly list of the most popular songs",
+        "exampleEn": "Her new song reached the top of the charts.",
+        "exampleTr": "Yeni şarkısı müzik listelerinin zirvesine çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_cheer",
+    "headword": "cheer",
+    "extraMeanings": [
+      {
+        "tr": "neşelendirmek, moralini yükseltmek",
+        "en": "to make someone feel happier",
+        "exampleEn": "The good news cheered her up.",
+        "exampleTr": "İyi haber onun moralini yükseltti."
+      }
+    ]
+  },
+  {
+    "id": "w_chest",
+    "headword": "chest",
+    "extraMeanings": [
+      {
+        "tr": "sandık, büyük kutu",
+        "en": "a large strong box used for storing things",
+        "exampleEn": "They found an old wooden chest in the attic.",
+        "exampleTr": "Tavan arasında eski ahşap bir sandık buldular."
+      }
+    ]
+  },
+  {
+    "id": "w_chili",
+    "headword": "chili",
+    "extraMeanings": [
+      {
+        "tr": "acılı fasulye yemeği (chili con carne)",
+        "en": "a spicy dish of meat and beans",
+        "exampleEn": "We had a bowl of hot chili for dinner.",
+        "exampleTr": "Akşam yemeğinde bir kase acılı fasulye yemeği yedik."
+      }
+    ]
+  },
+  {
+    "id": "w_clear",
+    "headword": "clear",
+    "extraMeanings": [
+      {
+        "tr": "temizlemek, boşaltmak, kaldırmak (fiil)",
+        "en": "to remove things from a place",
+        "exampleEn": "Please clear the table after dinner.",
+        "exampleTr": "Lütfen yemekten sonra masayı topla."
+      },
+      {
+        "tr": "berrak, saydam (su, cam vb.)",
+        "en": "transparent, easy to see through",
+        "exampleEn": "The water in the lake was perfectly clear.",
+        "exampleTr": "Göldeki su tertemiz berraktı."
+      }
+    ]
+  },
+  {
+    "id": "w_client",
+    "headword": "client",
+    "extraMeanings": [
+      {
+        "tr": "istemci (bilgisayar/yazılım)",
+        "en": "a computer or program that connects to a server",
+        "exampleEn": "You need an email client to read your messages.",
+        "exampleTr": "Mesajlarını okumak için bir e-posta istemcisine ihtiyacın var."
+      }
+    ]
+  },
+  {
+    "id": "w_clone",
+    "headword": "clone",
+    "extraMeanings": [
+      {
+        "tr": "kopya, benzer ürün/kişi (isim)",
+        "en": "an exact copy of something or someone",
+        "exampleEn": "This cheap phone is just a clone of the popular model.",
+        "exampleTr": "Bu ucuz telefon, popüler modelin bir kopyasından ibaret."
+      }
+    ]
+  },
+  {
+    "id": "w_cloud",
+    "headword": "cloud",
+    "extraMeanings": [
+      {
+        "tr": "bulut (internet veri depolama)",
+        "en": "internet storage where data is kept on remote servers",
+        "exampleEn": "I save all my photos to the cloud.",
+        "exampleTr": "Bütün fotoğraflarımı buluta kaydediyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_coast",
+    "headword": "coast",
+    "extraMeanings": [
+      {
+        "tr": "(motoru kullanmadan) yol almak, kaymak (fiil)",
+        "en": "to move without using power, especially downhill",
+        "exampleEn": "The car coasted down the hill with the engine off.",
+        "exampleTr": "Araba motor kapalıyken tepeden aşağı kaydı."
+      }
+    ]
+  },
+  {
+    "id": "w_coin",
+    "headword": "coin",
+    "extraMeanings": [
+      {
+        "tr": "(deyim/terim) icat etmek, ortaya atmak (fiil)",
+        "en": "to invent a new word or phrase",
+        "exampleEn": "He coined the term to describe the new trend.",
+        "exampleTr": "Yeni akımı tanımlamak için bu terimi ortaya attı."
+      }
+    ]
+  },
+  {
+    "id": "w_column",
+    "headword": "column",
+    "extraMeanings": [
+      {
+        "tr": "köşe yazısı (gazete/dergi)",
+        "en": "a regular article in a newspaper or magazine",
+        "exampleEn": "She writes a weekly column about cooking.",
+        "exampleTr": "Yemek üzerine haftalık bir köşe yazısı yazıyor."
+      },
+      {
+        "tr": "sütun (tablo/metinde dikey bölüm)",
+        "en": "a vertical section of a table or printed page",
+        "exampleEn": "Write the numbers in the left column.",
+        "exampleTr": "Sayıları sol sütuna yazın."
+      }
+    ]
+  },
+  {
+    "id": "w_comic",
+    "headword": "comic",
+    "extraMeanings": [
+      {
+        "tr": "çizgi roman, mizah dergisi (isim)",
+        "en": "a magazine with stories told in pictures",
+        "exampleEn": "The boy loves reading comics on weekends.",
+        "exampleTr": "Çocuk hafta sonları çizgi roman okumayı çok sever."
+      },
+      {
+        "tr": "komedyen, güldürü sanatçısı (isim)",
+        "en": "a performer who tells jokes to make people laugh",
+        "exampleEn": "The comic had the whole audience laughing.",
+        "exampleTr": "Komedyen bütün seyirciyi güldürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_commitment",
+    "headword": "commitment",
+    "extraMeanings": [
+      {
+        "tr": "yükümlülük, sorumluluk, meşguliyet",
+        "en": "something you must do that takes your time",
+        "exampleEn": "I can't come; I have too many commitments this week.",
+        "exampleTr": "Gelemem; bu hafta çok fazla sorumluluğum var."
+      }
+    ]
+  },
+  {
+    "id": "w_common",
+    "headword": "common",
+    "extraMeanings": [
+      {
+        "tr": "ortak, müşterek",
+        "en": "shared by two or more people",
+        "exampleEn": "They have a lot in common.",
+        "exampleTr": "Aralarında çok ortak yön var."
+      }
+    ]
+  },
+  {
+    "id": "w_company",
+    "headword": "company",
+    "extraMeanings": [
+      {
+        "tr": "arkadaşlık, birliktelik, eşlik",
+        "en": "the state of being with other people",
+        "exampleEn": "I enjoy your company very much.",
+        "exampleTr": "Seninle vakit geçirmekten çok keyif alıyorum."
+      },
+      {
+        "tr": "misafir, gelen kişi(ler)",
+        "en": "a guest or guests visiting you",
+        "exampleEn": "We can't talk now; we have company.",
+        "exampleTr": "Şimdi konuşamayız; misafirimiz var."
+      }
+    ]
+  },
+  {
+    "id": "w_compare",
+    "headword": "compare",
+    "extraMeanings": [
+      {
+        "tr": "benzetmek, kıyaslamak (benzerlik kurmak)",
+        "en": "to say that something is similar to something else",
+        "exampleEn": "Critics compared the young singer to Madonna.",
+        "exampleTr": "Eleştirmenler genç şarkıcıyı Madonna'ya benzetti."
+      }
+    ]
+  },
+  {
+    "id": "w_competition",
+    "headword": "competition",
+    "extraMeanings": [
+      {
+        "tr": "yarışma, müsabaka",
+        "en": "an organized event where people try to win",
+        "exampleEn": "She won first prize in the singing competition.",
+        "exampleTr": "Şarkı yarışmasında birincilik ödülünü kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_complete",
+    "headword": "complete",
+    "extraMeanings": [
+      {
+        "tr": "tamamlamak, bitirmek (fiil)",
+        "en": "to finish making or doing something",
+        "exampleEn": "He completed the project on time.",
+        "exampleTr": "Projeyi zamanında tamamladı."
+      },
+      {
+        "tr": "tam, tamamen (vurgu için: mutlak)",
+        "en": "used to emphasize that something is total",
+        "exampleEn": "The party was a complete surprise.",
+        "exampleTr": "Parti tam bir sürprizdi."
+      }
+    ]
+  },
+  {
+    "id": "w_concern",
+    "headword": "concern",
+    "extraMeanings": [
+      {
+        "tr": "ilgilendirmek, ilgili olmak (fiil)",
+        "en": "to be about or to involve someone",
+        "exampleEn": "This letter concerns your recent order.",
+        "exampleTr": "Bu mektup son siparişinizle ilgilidir."
+      }
+    ]
+  },
+  {
+    "id": "w_condition",
+    "headword": "condition",
+    "extraMeanings": [
+      {
+        "tr": "sağlık durumu, hastalık",
+        "en": "an illness or health problem",
+        "exampleEn": "She has a heart condition.",
+        "exampleTr": "Kalp rahatsızlığı var."
+      }
+    ]
+  },
+  {
+    "id": "w_contact",
+    "headword": "contact",
+    "extraMeanings": [
+      {
+        "tr": "ile iletişime geçmek, ulaşmak (fiil)",
+        "en": "to communicate with someone",
+        "exampleEn": "Please contact me if you have any questions.",
+        "exampleTr": "Herhangi bir sorunuz olursa lütfen benimle iletişime geçin."
+      },
+      {
+        "tr": "tanıdık, bağlantı (kişi)",
+        "en": "a person you know who can help you",
+        "exampleEn": "She has useful contacts in the film industry.",
+        "exampleTr": "Film sektöründe faydalı tanıdıkları var."
+      }
+    ]
+  },
+  {
+    "id": "w_contrast",
+    "headword": "contrast",
+    "extraMeanings": [
+      {
+        "tr": "karşılaştırmak, karşı karşıya koymak (fiil)",
+        "en": "to compare two things to show differences",
+        "exampleEn": "The author contrasts city life with country life.",
+        "exampleTr": "Yazar şehir hayatını kır hayatıyla karşılaştırır."
+      }
+    ]
+  },
+  {
+    "id": "w_control",
+    "headword": "control",
+    "extraMeanings": [
+      {
+        "tr": "kontrol etmek, yönetmek, denetlemek (fiil)",
+        "en": "to make something or someone do what you want",
+        "exampleEn": "He couldn't control the car on the icy road.",
+        "exampleTr": "Buzlu yolda arabayı kontrol edemedi."
+      }
+    ]
+  },
+  {
+    "id": "w_cost",
+    "headword": "cost",
+    "extraMeanings": [
+      {
+        "tr": "mal olmak, tutmak (fiil)",
+        "en": "to have a particular price",
+        "exampleEn": "How much does this jacket cost?",
+        "exampleTr": "Bu ceket ne kadar tutuyor?"
+      }
+    ]
+  },
+  {
+    "id": "w_cheek",
+    "headword": "cheek",
+    "extraMeanings": [
+      {
+        "tr": "küstahlık, arsızlık, yüzsüzlük",
+        "en": "rude and disrespectful behaviour",
+        "exampleEn": "He had the cheek to ask for more money.",
+        "exampleTr": "Daha fazla para istemek için yüzsüzlük etti."
+      }
+    ]
+  },
+  {
+    "id": "w_bones",
+    "headword": "bones",
+    "extraMeanings": [
+      {
+        "tr": "kılçıklar (balıkta)",
+        "en": "the thin hard parts in a fish",
+        "exampleEn": "Be careful of the bones when you eat the fish.",
+        "exampleTr": "Balığı yerken kılçıklara dikkat et."
+      }
+    ]
+  },
+  {
+    "id": "w_bush",
+    "headword": "bush",
+    "extraMeanings": [
+      {
+        "tr": "vahşi doğa, çalılık arazi (özellikle Avustralya/Afrika)",
+        "en": "wild uncultivated land, especially in Australia or Africa",
+        "exampleEn": "They spent a week camping in the Australian bush.",
+        "exampleTr": "Avustralya'nın vahşi doğasında bir hafta kamp yaptılar."
+      }
+    ]
+  },
+  {
+    "id": "w_continue",
+    "headword": "continue",
+    "extraMeanings": [
+      {
+        "tr": "(bir yöne) ilerlemeye devam etmek",
+        "en": "to keep moving in a particular direction",
+        "exampleEn": "Continue straight ahead until you reach the church.",
+        "exampleTr": "Kiliseye ulaşana kadar dümdüz devam edin."
+      }
+    ]
+  },
+  {
+    "id": "w_consider",
+    "headword": "consider",
+    "extraMeanings": [
+      {
+        "tr": "(bir şey/kimse olarak) görmek, saymak, addetmek",
+        "en": "to think of someone or something in a particular way",
+        "exampleEn": "I consider him my best friend.",
+        "exampleTr": "Onu en iyi arkadaşım olarak görüyorum."
+      }
+    ]
+  }
+]

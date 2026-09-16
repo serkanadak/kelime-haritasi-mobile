@@ -1,0 +1,176 @@
+[
+  {
+    "id": "w_norm",
+    "headword": "norm",
+    "extraMeanings": [
+      {
+        "tr": "ortalama, olağan seviye",
+        "en": "the usual or average level or amount",
+        "exampleEn": "Working from home has become the norm for many employees.",
+        "exampleTr": "Evden çalışmak birçok çalışan için olağan hale geldi."
+      }
+    ]
+  },
+  {
+    "id": "w_object",
+    "headword": "object",
+    "extraMeanings": [
+      {
+        "tr": "nesne, cisim, şey",
+        "en": "a thing that you can see and touch (as a noun)",
+        "exampleEn": "There was a strange metal object on the table.",
+        "exampleTr": "Masanın üzerinde tuhaf bir metal cisim vardı."
+      },
+      {
+        "tr": "amaç, hedef",
+        "en": "a purpose or aim",
+        "exampleEn": "The object of the game is to score as many points as possible.",
+        "exampleTr": "Oyunun amacı mümkün olduğunca çok puan toplamaktır."
+      }
+    ]
+  },
+  {
+    "id": "w_offering",
+    "headword": "offering",
+    "extraMeanings": [
+      {
+        "tr": "sunulan ürün/hizmet",
+        "en": "something produced or provided for people to buy or use",
+        "exampleEn": "The company's latest offering is a smartphone with a foldable screen.",
+        "exampleTr": "Şirketin en son ürünü, katlanabilir ekranlı bir akıllı telefon."
+      }
+    ]
+  },
+  {
+    "id": "w_offset",
+    "headword": "offset",
+    "extraMeanings": [
+      {
+        "tr": "ofset (baskı yöntemi)",
+        "en": "a printing method that transfers ink via a rubber surface",
+        "exampleEn": "The magazine is printed using offset lithography.",
+        "exampleTr": "Dergi, ofset baskı yöntemiyle basılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_operator",
+    "headword": "operator",
+    "extraMeanings": [
+      {
+        "tr": "işletmeci firma, işleten kuruluş",
+        "en": "a company that runs a particular business or service",
+        "exampleEn": "The tour operator arranged all our hotels and flights.",
+        "exampleTr": "Tur işletmecisi bütün otellerimizi ve uçuşlarımızı ayarladı."
+      }
+    ]
+  },
+  {
+    "id": "w_optical",
+    "headword": "optical",
+    "extraMeanings": [
+      {
+        "tr": "gözle ilgili, göze ait",
+        "en": "relating to the eyes or the sense of sight",
+        "exampleEn": "An optical illusion can make two identical lines look different.",
+        "exampleTr": "Bir optik yanılsama, birbirinin aynısı iki çizgiyi farklı gösterebilir."
+      }
+    ]
+  },
+  {
+    "id": "w_outfit",
+    "headword": "outfit",
+    "extraMeanings": [
+      {
+        "tr": "ekip, grup, firma (gayriresmi)",
+        "en": "a group of people working together as an organization or team",
+        "exampleEn": "He runs a small outfit that installs solar panels.",
+        "exampleTr": "Güneş paneli kuran küçük bir ekip işletiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_outlet",
+    "headword": "outlet",
+    "extraMeanings": [
+      {
+        "tr": "(duygu için) boşalma yolu, kendini ifade yolu",
+        "en": "a way of expressing strong feelings or energy",
+        "exampleEn": "Painting became an outlet for her stress.",
+        "exampleTr": "Resim yapmak onun için stresini boşaltacak bir yol oldu."
+      },
+      {
+        "tr": "yayın organı, haber kuruluşu",
+        "en": "a newspaper, TV channel, or website that publishes news",
+        "exampleEn": "The story was covered by every major news outlet.",
+        "exampleTr": "Haber, bütün büyük yayın organları tarafından işlendi."
+      }
+    ]
+  },
+  {
+    "id": "w_outline",
+    "headword": "outline",
+    "extraMeanings": [
+      {
+        "tr": "dış çizgi, siluet, hat",
+        "en": "the line showing the outer edge or shape of something",
+        "exampleEn": "We could see the outline of the mountains against the sky.",
+        "exampleTr": "Dağların gökyüzüne karşı hatlarını görebiliyorduk."
+      }
+    ]
+  },
+  {
+    "id": "w_outstanding",
+    "headword": "outstanding",
+    "extraMeanings": [
+      {
+        "tr": "olağanüstü, mükemmel, seçkin",
+        "en": "extremely good; excellent",
+        "exampleEn": "She gave an outstanding performance in the play.",
+        "exampleTr": "Oyunda olağanüstü bir performans sergiledi."
+      }
+    ]
+  },
+  {
+    "id": "w_outside",
+    "headword": "outside",
+    "extraMeanings": [
+      {
+        "tr": "çok düşük, uzak (ihtimal)",
+        "en": "very small or unlikely (chance/possibility)",
+        "exampleEn": "There is only an outside chance that we will win.",
+        "exampleTr": "Kazanmamızın çok düşük bir ihtimali var."
+      }
+    ]
+  },
+  {
+    "id": "w_overall",
+    "headword": "overall",
+    "extraMeanings": [
+      {
+        "tr": "iş önlüğü, tulum (giysi)",
+        "en": "a loose garment worn over clothes to protect them",
+        "exampleEn": "The mechanic wore a pair of blue overalls.",
+        "exampleTr": "Tamirci mavi bir tulum giymişti."
+      },
+      {
+        "tr": "genel olarak, toplamda (zarf)",
+        "en": "in general; considering everything",
+        "exampleEn": "Overall, the trip was a great success.",
+        "exampleTr": "Genel olarak, gezi büyük bir başarıydı."
+      }
+    ]
+  },
+  {
+    "id": "w_overcast",
+    "headword": "overcast",
+    "extraMeanings": [
+      {
+        "tr": "kederli, kasvetli, gölgeli (ruh hali/ifade)",
+        "en": "gloomy or troubled in mood or expression",
+        "exampleEn": "A sudden sadness overcast her face.",
+        "exampleTr": "Ani bir hüzün yüzünü kararttı."
+      }
+    ]
+  }
+]

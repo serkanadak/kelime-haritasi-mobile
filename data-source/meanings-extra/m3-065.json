@@ -1,0 +1,152 @@
+[
+  {
+    "id": "w_loot",
+    "headword": "loot",
+    "extraMeanings": [
+      {
+        "tr": "yağmalamak, talan etmek",
+        "en": "to steal things from shops or homes during a riot or war",
+        "exampleEn": "Rioters looted several stores in the city centre overnight.",
+        "exampleTr": "İsyancılar gece boyunca şehir merkezindeki birçok mağazayı yağmaladı."
+      }
+    ]
+  },
+  {
+    "id": "w_lurch",
+    "headword": "lurch",
+    "extraMeanings": [
+      {
+        "tr": "ani yalpalama, sarsıntı",
+        "en": "a sudden strong movement to one side",
+        "exampleEn": "The bus gave a sudden lurch and I nearly fell over.",
+        "exampleTr": "Otobüs aniden bir yalpaladı ve neredeyse düşüyordum."
+      }
+    ]
+  },
+  {
+    "id": "w_maneuver",
+    "headword": "maneuver",
+    "extraMeanings": [
+      {
+        "tr": "manevra, hamle, taktik",
+        "en": "a clever plan or action to gain an advantage",
+        "exampleEn": "The deal was a clever political maneuver to win over voters.",
+        "exampleTr": "Anlaşma, seçmenleri kazanmak için akıllıca bir siyasi manevraydı."
+      }
+    ]
+  },
+  {
+    "id": "w_marquee",
+    "headword": "marquee",
+    "extraMeanings": [
+      {
+        "tr": "tiyatro/sinema girişindeki ışıklı afiş panosu",
+        "en": "a large sign over a cinema or theatre showing what is on",
+        "exampleEn": "Her name was up in lights on the theatre marquee.",
+        "exampleTr": "Adı, tiyatronun ışıklı afiş panosunda yazıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_moderate",
+    "headword": "moderate",
+    "extraMeanings": [
+      {
+        "tr": "hafifletmek, azaltmak, dengelemek",
+        "en": "to make something less extreme or intense",
+        "exampleEn": "The government tried to moderate the effects of the crisis.",
+        "exampleTr": "Hükümet krizin etkilerini hafifletmeye çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_menace",
+    "headword": "menace",
+    "extraMeanings": [
+      {
+        "tr": "baş belası, sıkıntı veren kimse/şey",
+        "en": "an annoying or troublesome person or thing",
+        "exampleEn": "That dog is an absolute menace to the neighbourhood.",
+        "exampleTr": "O köpek mahalle için tam bir baş belası."
+      },
+      {
+        "tr": "tehdit etmek, gözdağı vermek",
+        "en": "to threaten or endanger someone",
+        "exampleEn": "Gangs continued to menace local shopkeepers.",
+        "exampleTr": "Çeteler yerel esnafı tehdit etmeye devam etti."
+      }
+    ]
+  },
+  {
+    "id": "w_melancholy",
+    "headword": "melancholy",
+    "extraMeanings": [
+      {
+        "tr": "hüzünlü, melankolik",
+        "en": "sad and thoughtful (as an adjective)",
+        "exampleEn": "He was in a melancholy mood after the funeral.",
+        "exampleTr": "Cenazeden sonra hüzünlü bir ruh hali içindeydi."
+      }
+    ]
+  },
+  {
+    "id": "w_measured",
+    "headword": "measured",
+    "extraMeanings": [
+      {
+        "tr": "ölçülmüş, belirlenmiş",
+        "en": "having been measured or calculated",
+        "exampleEn": "The measured distance between the two points was exactly ten metres.",
+        "exampleTr": "İki nokta arasında ölçülen mesafe tam on metreydi."
+      }
+    ]
+  },
+  {
+    "id": "w_obscure",
+    "headword": "obscure",
+    "extraMeanings": [
+      {
+        "tr": "gizlemek, örtmek, gözden saklamak",
+        "en": "to prevent something from being seen or understood",
+        "exampleEn": "Thick clouds obscured the top of the mountain.",
+        "exampleTr": "Kalın bulutlar dağın zirvesini gizledi."
+      }
+    ]
+  },
+  {
+    "id": "w_overhead",
+    "headword": "overhead",
+    "extraMeanings": [
+      {
+        "tr": "tepede, yukarıda, baş üstünde",
+        "en": "above your head, in the sky",
+        "exampleEn": "A helicopter flew overhead as we walked.",
+        "exampleTr": "Biz yürürken tepemizden bir helikopter geçti."
+      }
+    ]
+  },
+  {
+    "id": "w_pang",
+    "headword": "pang",
+    "extraMeanings": [
+      {
+        "tr": "ani açlık hissi, açlık sancısı",
+        "en": "a sudden sharp feeling of hunger",
+        "exampleEn": "I felt a pang of hunger halfway through the meeting.",
+        "exampleTr": "Toplantının ortasında ani bir açlık hissi duydum."
+      }
+    ]
+  },
+  {
+    "id": "w_martial",
+    "headword": "martial",
+    "extraMeanings": [
+      {
+        "tr": "savaşçı, cesur, dövüşe yatkın",
+        "en": "connected with fighting or war in character",
+        "exampleEn": "The music had a strong martial rhythm that stirred the crowd.",
+        "exampleTr": "Müziğin, kalabalığı coşturan güçlü bir savaşçı ritmi vardı."
+      }
+    ]
+  }
+]

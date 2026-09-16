@@ -1,0 +1,566 @@
+[
+  {
+    "id": "w_express",
+    "headword": "express",
+    "extraMeanings": [
+      {
+        "tr": "ifade etmek, dile getirmek (fiil)",
+        "en": "to show or communicate a feeling or opinion",
+        "exampleEn": "She found it hard to express her feelings in words.",
+        "exampleTr": "Duygularını kelimelerle ifade etmekte zorlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_extra",
+    "headword": "extra",
+    "extraMeanings": [
+      {
+        "tr": "figüran (sinema/tiyatro oyuncusu)",
+        "en": "an actor with a small unimportant part, usually in a crowd scene",
+        "exampleEn": "He worked as an extra in several Hollywood movies.",
+        "exampleTr": "Birkaç Hollywood filminde figüran olarak çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_fail",
+    "headword": "fail",
+    "extraMeanings": [
+      {
+        "tr": "yapmamak, ihmal etmek (bir şeyi yapamamak)",
+        "en": "to not do something that you should do",
+        "exampleEn": "He failed to arrive on time for the meeting.",
+        "exampleTr": "Toplantıya zamanında gelmeyi başaramadı."
+      },
+      {
+        "tr": "bozulmak, çalışmamak (makine vb.)",
+        "en": "to stop working properly",
+        "exampleEn": "The car's brakes failed on the steep hill.",
+        "exampleTr": "Arabanın frenleri dik yokuşta bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w_familiar",
+    "headword": "familiar",
+    "extraMeanings": [
+      {
+        "tr": "bilen, aşina olan (with ile)",
+        "en": "having a good knowledge of something",
+        "exampleEn": "Are you familiar with this software?",
+        "exampleTr": "Bu yazılıma aşina mısın?"
+      }
+    ]
+  },
+  {
+    "id": "w_fair",
+    "headword": "fare",
+    "extraMeanings": [
+      {
+        "tr": "idare etmek, gitmek (bir durumda başarılı/başarısız olmak)",
+        "en": "to do well or badly in a particular situation",
+        "exampleEn": "How did you fare in your exams?",
+        "exampleTr": "Sınavlarında nasıl gittin?"
+      }
+    ]
+  },
+  {
+    "id": "w_fashion",
+    "headword": "fashion",
+    "extraMeanings": [
+      {
+        "tr": "tarz, biçim, şekil (bir şeyi yapma yolu)",
+        "en": "a way of doing something",
+        "exampleEn": "She organized her books in a neat fashion.",
+        "exampleTr": "Kitaplarını düzenli bir biçimde sıraladı."
+      }
+    ]
+  },
+  {
+    "id": "w_fault",
+    "headword": "fault",
+    "extraMeanings": [
+      {
+        "tr": "arıza, bozukluk (bir makinede)",
+        "en": "a problem or defect that stops something working correctly",
+        "exampleEn": "There is a fault in the electrical system.",
+        "exampleTr": "Elektrik sisteminde bir arıza var."
+      }
+    ]
+  },
+  {
+    "id": "w_favor",
+    "headword": "favor",
+    "extraMeanings": [
+      {
+        "tr": "kayırma, tercih, taraf tutma",
+        "en": "support or approval for someone or something",
+        "exampleEn": "The new policy found favor with most of the staff.",
+        "exampleTr": "Yeni politika çalışanların çoğu tarafından desteklendi."
+      },
+      {
+        "tr": "desteklemek, tercih etmek (fiil)",
+        "en": "to prefer or support one thing over another",
+        "exampleEn": "Most voters favor lower taxes.",
+        "exampleTr": "Çoğu seçmen daha düşük vergileri tercih ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_fear",
+    "headword": "fear",
+    "extraMeanings": [
+      {
+        "tr": "korkmak, endişe etmek (fiil)",
+        "en": "to be afraid of something or someone",
+        "exampleEn": "Many people fear losing their jobs.",
+        "exampleTr": "Birçok insan işini kaybetmekten korkuyor."
+      }
+    ]
+  },
+  {
+    "id": "w_feature",
+    "headword": "feature",
+    "extraMeanings": [
+      {
+        "tr": "yer vermek, öne çıkarmak (fiil)",
+        "en": "to include or show something as an important part",
+        "exampleEn": "The exhibition features paintings by young artists.",
+        "exampleTr": "Sergi genç sanatçıların tablolarına yer veriyor."
+      },
+      {
+        "tr": "yüz hatları (çoğul)",
+        "en": "a part of someone's face, such as the eyes, nose, or mouth",
+        "exampleEn": "She has delicate features.",
+        "exampleTr": "İnce yüz hatları var."
+      }
+    ]
+  },
+  {
+    "id": "w_female",
+    "headword": "female",
+    "extraMeanings": [
+      {
+        "tr": "dişi (hayvan veya kadın, isim)",
+        "en": "a woman or a female animal",
+        "exampleEn": "The female of the species is larger than the male.",
+        "exampleTr": "Bu türün dişisi erkeğinden daha büyüktür."
+      }
+    ]
+  },
+  {
+    "id": "w_figure",
+    "headword": "figure",
+    "extraMeanings": [
+      {
+        "tr": "vücut yapısı, endam",
+        "en": "the shape of a person's body",
+        "exampleEn": "She has a slim figure.",
+        "exampleTr": "İnce bir vücut yapısı var."
+      },
+      {
+        "tr": "önemli kişi, şahsiyet",
+        "en": "an important or well-known person",
+        "exampleEn": "He is a leading figure in modern art.",
+        "exampleTr": "Modern sanatın önde gelen bir şahsiyetidir."
+      }
+    ]
+  },
+  {
+    "id": "w_film",
+    "headword": "film",
+    "extraMeanings": [
+      {
+        "tr": "ince tabaka, zar",
+        "en": "a very thin layer of something on a surface",
+        "exampleEn": "A film of dust covered the old table.",
+        "exampleTr": "Eski masayı ince bir toz tabakası kaplamıştı."
+      },
+      {
+        "tr": "filme almak, çekmek (fiil)",
+        "en": "to record moving pictures with a camera",
+        "exampleEn": "They filmed the wedding ceremony.",
+        "exampleTr": "Düğün törenini filme aldılar."
+      }
+    ]
+  },
+  {
+    "id": "w_final",
+    "headword": "final",
+    "extraMeanings": [
+      {
+        "tr": "final (spor karşılaşması, isim)",
+        "en": "the last game in a competition that decides the winner",
+        "exampleEn": "Our team reached the final of the tournament.",
+        "exampleTr": "Takımımız turnuvanın finaline kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_fit",
+    "headword": "fit",
+    "extraMeanings": [
+      {
+        "tr": "uymak, tam olmak (beden/boyut)",
+        "en": "to be the right size or shape for someone or something",
+        "exampleEn": "These shoes don't fit me anymore.",
+        "exampleTr": "Bu ayakkabılar artık bana uymuyor."
+      },
+      {
+        "tr": "nöbet, kriz (ani hastalık)",
+        "en": "a sudden attack of an illness or strong emotion",
+        "exampleEn": "He had a coughing fit during the meeting.",
+        "exampleTr": "Toplantı sırasında öksürük nöbeti geçirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_fix",
+    "headword": "fix",
+    "extraMeanings": [
+      {
+        "tr": "onarmak, tamir etmek (fiil)",
+        "en": "to repair something that is broken",
+        "exampleEn": "Can you fix my bike?",
+        "exampleTr": "Bisikletimi tamir edebilir misin?"
+      },
+      {
+        "tr": "sabitlemek, tespit etmek (fiil)",
+        "en": "to fasten something firmly in a position",
+        "exampleEn": "They fixed the shelf to the wall.",
+        "exampleTr": "Rafı duvara sabitlediler."
+      }
+    ]
+  },
+  {
+    "id": "w_float",
+    "headword": "float",
+    "extraMeanings": [
+      {
+        "tr": "yüzmek, su üstünde durmak (fiil)",
+        "en": "to stay on the surface of a liquid without sinking",
+        "exampleEn": "The leaves floated on the water.",
+        "exampleTr": "Yapraklar suyun üstünde yüzdü."
+      },
+      {
+        "tr": "havada süzülmek, uçuşmak (fiil)",
+        "en": "to move slowly through the air",
+        "exampleEn": "Balloons floated up into the sky.",
+        "exampleTr": "Balonlar gökyüzüne doğru süzüldü."
+      }
+    ]
+  },
+  {
+    "id": "w_flood",
+    "headword": "flood",
+    "extraMeanings": [
+      {
+        "tr": "su basmak, sel basmak (fiil)",
+        "en": "to become covered with water",
+        "exampleEn": "The river flooded the whole village.",
+        "exampleTr": "Nehir tüm köyü sular altında bıraktı."
+      },
+      {
+        "tr": "akın etmek, taşmak (mecazi, büyük miktar)",
+        "en": "a very large number or amount of something",
+        "exampleEn": "They received a flood of complaints.",
+        "exampleTr": "Bir sürü şikayet aldılar."
+      }
+    ]
+  },
+  {
+    "id": "w_follow",
+    "headword": "follow",
+    "extraMeanings": [
+      {
+        "tr": "anlamak, kavramak (fiil)",
+        "en": "to understand something",
+        "exampleEn": "I didn't quite follow what you said.",
+        "exampleTr": "Söylediğini tam olarak anlayamadım."
+      },
+      {
+        "tr": "uymak, riayet etmek (kurallara)",
+        "en": "to act according to instructions or rules",
+        "exampleEn": "You must follow the safety rules.",
+        "exampleTr": "Güvenlik kurallarına uymalısın."
+      }
+    ]
+  },
+  {
+    "id": "w_fool",
+    "headword": "fool",
+    "extraMeanings": [
+      {
+        "tr": "kandırmak, aldatmak (fiil)",
+        "en": "to trick or deceive someone",
+        "exampleEn": "Don't let him fool you with his promises.",
+        "exampleTr": "Vaatleriyle seni kandırmasına izin verme."
+      }
+    ]
+  },
+  {
+    "id": "w_force",
+    "headword": "force",
+    "extraMeanings": [
+      {
+        "tr": "zorlamak, mecbur etmek (fiil)",
+        "en": "to make someone do something they do not want to do",
+        "exampleEn": "They forced him to sign the paper.",
+        "exampleTr": "Onu kağıdı imzalamaya zorladılar."
+      },
+      {
+        "tr": "kuvvet, birlik (askeri/polis)",
+        "en": "a group of people organized for a particular purpose, such as an army",
+        "exampleEn": "The armed forces were sent to the border.",
+        "exampleTr": "Silahlı kuvvetler sınıra gönderildi."
+      }
+    ]
+  },
+  {
+    "id": "w_forward",
+    "headword": "forward",
+    "extraMeanings": [
+      {
+        "tr": "iletmek, yönlendirmek (e-posta vb., fiil)",
+        "en": "to send a letter or email to another person",
+        "exampleEn": "Please forward this email to your team.",
+        "exampleTr": "Lütfen bu e-postayı ekibine ilet."
+      },
+      {
+        "tr": "forvet, ileri uç oyuncusu (spor)",
+        "en": "an attacking player in sports like football",
+        "exampleEn": "He plays as a forward for the national team.",
+        "exampleTr": "Milli takımda forvet olarak oynuyor."
+      }
+    ]
+  },
+  {
+    "id": "w_frame",
+    "headword": "frame",
+    "extraMeanings": [
+      {
+        "tr": "iskelet, çatı, gövde (yapı)",
+        "en": "the basic structure that supports something",
+        "exampleEn": "The bicycle has a lightweight aluminum frame.",
+        "exampleTr": "Bisikletin hafif alüminyum bir gövdesi var."
+      },
+      {
+        "tr": "suç atmak, tuzağa düşürmek (fiil)",
+        "en": "to make an innocent person seem guilty of a crime",
+        "exampleEn": "He claimed the police had framed him.",
+        "exampleTr": "Polisin ona suç attığını iddia etti."
+      }
+    ]
+  },
+  {
+    "id": "w_freeze",
+    "headword": "freeze",
+    "extraMeanings": [
+      {
+        "tr": "olduğu yerde kalakalmak, donup kalmak",
+        "en": "to suddenly stop moving because of fear or surprise",
+        "exampleEn": "She froze when she heard the strange noise.",
+        "exampleTr": "Garip sesi duyunca olduğu yerde donup kaldı."
+      },
+      {
+        "tr": "dondurmak, sabitlemek (fiyat, ücret vb.)",
+        "en": "to hold prices, wages, etc. at a fixed level",
+        "exampleEn": "The government decided to freeze wages this year.",
+        "exampleTr": "Hükümet bu yıl ücretleri dondurma kararı aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_fresh",
+    "headword": "fresh",
+    "extraMeanings": [
+      {
+        "tr": "yeni, taze (yeni başlayan, temiz)",
+        "en": "new and not existing before",
+        "exampleEn": "Let's make a fresh start.",
+        "exampleTr": "Yeni bir başlangıç yapalım."
+      },
+      {
+        "tr": "temiz, serin (hava)",
+        "en": "pleasantly clean, cool, or new (of air or weather)",
+        "exampleEn": "Let's open the window and get some fresh air.",
+        "exampleTr": "Pencereyi açıp biraz temiz hava alalım."
+      }
+    ]
+  },
+  {
+    "id": "w_further",
+    "headword": "further",
+    "extraMeanings": [
+      {
+        "tr": "daha uzağa, daha ileriye (mesafe)",
+        "en": "at or to a greater distance",
+        "exampleEn": "We walked further into the forest.",
+        "exampleTr": "Ormanın daha derinlerine yürüdük."
+      }
+    ]
+  },
+  {
+    "id": "w_gas",
+    "headword": "gas",
+    "extraMeanings": [
+      {
+        "tr": "gaz (madde hali, katı ve sıvı dışında)",
+        "en": "a substance like air that is neither solid nor liquid",
+        "exampleEn": "Oxygen is a gas that we need to breathe.",
+        "exampleTr": "Oksijen, nefes almak için ihtiyaç duyduğumuz bir gazdır."
+      }
+    ]
+  },
+  {
+    "id": "w_gather",
+    "headword": "gather",
+    "extraMeanings": [
+      {
+        "tr": "anlamak, çıkarmak (sonuç çıkarmak)",
+        "en": "to understand something from information you have",
+        "exampleEn": "I gather that she won't be coming.",
+        "exampleTr": "Anladığım kadarıyla gelmeyecek."
+      }
+    ]
+  },
+  {
+    "id": "w_gentle",
+    "headword": "gentle",
+    "extraMeanings": [
+      {
+        "tr": "hafif, yumuşak (rüzgar, eğim vb.)",
+        "en": "not strong or sudden; mild",
+        "exampleEn": "A gentle breeze blew through the trees.",
+        "exampleTr": "Ağaçların arasından hafif bir esinti geçti."
+      }
+    ]
+  },
+  {
+    "id": "w_given",
+    "headword": "given",
+    "extraMeanings": [
+      {
+        "tr": "göz önüne alındığında, düşünülürse (edat)",
+        "en": "considering something; taking into account",
+        "exampleEn": "Given the circumstances, you did very well.",
+        "exampleTr": "Koşullar göz önüne alındığında çok iyi iş çıkardın."
+      }
+    ]
+  },
+  {
+    "id": "w_gold",
+    "headword": "gold",
+    "extraMeanings": [
+      {
+        "tr": "altın rengi, altın sarısı",
+        "en": "a bright yellow color like gold",
+        "exampleEn": "The curtains were a rich gold color.",
+        "exampleTr": "Perdeler koyu altın rengindeydi."
+      },
+      {
+        "tr": "altın madalya (birincilik)",
+        "en": "a gold medal won for first place",
+        "exampleEn": "She won gold at the Olympics.",
+        "exampleTr": "Olimpiyatlarda altın madalya kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_grace",
+    "headword": "grace",
+    "extraMeanings": [
+      {
+        "tr": "yemek duası",
+        "en": "a short prayer said before or after a meal",
+        "exampleEn": "They said grace before eating dinner.",
+        "exampleTr": "Akşam yemeğinden önce yemek duası ettiler."
+      },
+      {
+        "tr": "nezaket, hoşgörü, lütuf",
+        "en": "polite and pleasant behavior; goodwill",
+        "exampleEn": "She accepted the criticism with good grace.",
+        "exampleTr": "Eleştiriyi hoşgörüyle kabul etti."
+      }
+    ]
+  },
+  {
+    "id": "w_grow",
+    "headword": "grow",
+    "extraMeanings": [
+      {
+        "tr": "artmak, çoğalmak (miktar/sayı)",
+        "en": "to increase in size, amount, or degree",
+        "exampleEn": "The company's profits grew last year.",
+        "exampleTr": "Şirketin kârı geçen yıl arttı."
+      },
+      {
+        "tr": "(giderek) olmak, hale gelmek",
+        "en": "to gradually become",
+        "exampleEn": "It was growing dark outside.",
+        "exampleTr": "Dışarısı giderek kararıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_guard",
+    "headword": "guard",
+    "extraMeanings": [
+      {
+        "tr": "korumak, muhafaza etmek (fiil)",
+        "en": "to protect someone or something from danger",
+        "exampleEn": "Two dogs guarded the entrance.",
+        "exampleTr": "İki köpek girişi koruyordu."
+      },
+      {
+        "tr": "koruma, muhafaza (koruyucu düzenek/durum)",
+        "en": "a device or state that protects against danger or injury",
+        "exampleEn": "Always keep the guard on the machine in place.",
+        "exampleTr": "Makinenin koruyucusunu her zaman yerinde tut."
+      }
+    ]
+  },
+  {
+    "id": "w_handle",
+    "headword": "handle",
+    "extraMeanings": [
+      {
+        "tr": "başa çıkmak, üstesinden gelmek (fiil)",
+        "en": "to deal with a situation or problem",
+        "exampleEn": "She handled the difficult customer very well.",
+        "exampleTr": "Zor müşteriyle çok iyi başa çıktı."
+      },
+      {
+        "tr": "tutmak, ellemek, kullanmak (fiil)",
+        "en": "to touch, hold, or move something with your hands",
+        "exampleEn": "Please handle the glasses carefully.",
+        "exampleTr": "Lütfen bardakları dikkatlice tut."
+      }
+    ]
+  },
+  {
+    "id": "w_harvest",
+    "headword": "harvest",
+    "extraMeanings": [
+      {
+        "tr": "hasat etmek, ürün toplamak (fiil)",
+        "en": "to gather a crop from the fields",
+        "exampleEn": "Farmers harvest the wheat in late summer.",
+        "exampleTr": "Çiftçiler buğdayı yaz sonunda hasat eder."
+      }
+    ]
+  },
+  {
+    "id": "w_heat",
+    "headword": "heat",
+    "extraMeanings": [
+      {
+        "tr": "ısıtmak (fiil)",
+        "en": "to make something warm or hot",
+        "exampleEn": "Heat the milk before adding the chocolate.",
+        "exampleTr": "Çikolatayı eklemeden önce sütü ısıt."
+      }
+    ]
+  }
+]

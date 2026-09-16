@@ -1,0 +1,1251 @@
+[
+  {
+    "id": "w_cranky",
+    "headword": "cranky",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkræŋki/",
+    "meanings": [
+      {
+        "tr": "huysuz, ters, aksi",
+        "en": "bad-tempered and easily annoyed",
+        "exampleEn": "The baby gets cranky when she misses her nap.",
+        "exampleTr": "Bebek uykusunu kaçırınca huysuzlaşıyor."
+      }
+    ],
+    "synonyms": [
+      "grumpy",
+      "irritable",
+      "grouchy"
+    ],
+    "antonyms": [
+      "cheerful",
+      "good-natured"
+    ]
+  },
+  {
+    "id": "w_cravat",
+    "headword": "cravat",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/krəˈvæt/",
+    "meanings": [
+      {
+        "tr": "kravat, boyun atkısı (eski tip fular kravat)",
+        "en": "a wide band of fabric worn by men around the neck and tucked inside a shirt",
+        "exampleEn": "He wore a silk cravat instead of a tie.",
+        "exampleTr": "Kravat yerine ipek bir fular takmıştı."
+      }
+    ],
+    "synonyms": [
+      "neckerchief",
+      "scarf"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_cr_che",
+    "headword": "crèche",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kreʃ/",
+    "meanings": [
+      {
+        "tr": "kreş, çocuk yuvası",
+        "en": "a place where babies and young children are cared for while their parents work",
+        "exampleEn": "They left their daughter at the crèche before going to the office.",
+        "exampleTr": "Ofise gitmeden önce kızlarını kreşe bıraktılar."
+      }
+    ],
+    "synonyms": [
+      "nursery",
+      "daycare"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_credulous",
+    "headword": "credulous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkredʒələs/",
+    "meanings": [
+      {
+        "tr": "saf, kolay inanan, çabuk kanan",
+        "en": "too willing to believe that something is real or true",
+        "exampleEn": "Credulous investors were easily fooled by the scheme.",
+        "exampleTr": "Saf yatırımcılar bu düzenle kolayca kandırıldı."
+      }
+    ],
+    "synonyms": [
+      "gullible",
+      "naive",
+      "trusting"
+    ],
+    "antonyms": [
+      "skeptical",
+      "suspicious"
+    ]
+  },
+  {
+    "id": "w_crispness",
+    "headword": "crispness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkrɪspnəs/",
+    "meanings": [
+      {
+        "tr": "gevreklik, çıtırlık; (havanın) serinliği; netlik",
+        "en": "the quality of being firm, fresh and crunchy, or clear and sharp",
+        "exampleEn": "I love the crispness of a fresh apple.",
+        "exampleTr": "Taze bir elmanın çıtırlığına bayılıyorum."
+      }
+    ],
+    "synonyms": [
+      "crunchiness",
+      "sharpness",
+      "freshness"
+    ],
+    "antonyms": [
+      "sogginess"
+    ]
+  },
+  {
+    "id": "w_croon",
+    "headword": "croon",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kruːn/",
+    "meanings": [
+      {
+        "tr": "mırıldanarak yumuşak söylemek, alçak sesle şarkı söylemek",
+        "en": "to sing or speak in a soft, low, gentle voice",
+        "exampleEn": "He would croon lullabies to his baby every night.",
+        "exampleTr": "Her gece bebeğine ninniler mırıldanırdı."
+      }
+    ],
+    "synonyms": [
+      "hum",
+      "serenade",
+      "warble"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_crude_oil",
+    "headword": "crude oil",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkruːd ˈɔɪl/",
+    "meanings": [
+      {
+        "tr": "ham petrol",
+        "en": "oil in its natural state before it has been refined",
+        "exampleEn": "The price of crude oil rose sharply last week.",
+        "exampleTr": "Ham petrol fiyatı geçen hafta keskin bir şekilde yükseldi."
+      }
+    ],
+    "synonyms": [
+      "petroleum"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_crudeness",
+    "headword": "crudeness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkruːdnəs/",
+    "meanings": [
+      {
+        "tr": "kabalık, incelikten yoksunluk; ilkellik",
+        "en": "the quality of being rude, unrefined, or roughly made",
+        "exampleEn": "The crudeness of his jokes offended some guests.",
+        "exampleTr": "Şakalarının kabalığı bazı misafirleri rahatsız etti."
+      }
+    ],
+    "synonyms": [
+      "coarseness",
+      "vulgarity",
+      "roughness"
+    ],
+    "antonyms": [
+      "refinement",
+      "sophistication"
+    ]
+  },
+  {
+    "id": "w_crumbly",
+    "headword": "crumbly",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkrʌmbli/",
+    "meanings": [
+      {
+        "tr": "ufalanan, kolay dağılan, gevrek",
+        "en": "easily broken into small pieces",
+        "exampleEn": "This cheese is dry and crumbly.",
+        "exampleTr": "Bu peynir kuru ve ufalanıyor."
+      }
+    ],
+    "synonyms": [
+      "friable",
+      "brittle"
+    ],
+    "antonyms": [
+      "firm",
+      "solid"
+    ]
+  },
+  {
+    "id": "w_crunch",
+    "headword": "crunch",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/krʌntʃ/",
+    "meanings": [
+      {
+        "tr": "çıtırtı, çatırtı sesi",
+        "en": "a loud sound made when something hard is crushed or bitten",
+        "exampleEn": "I heard the crunch of gravel under the tires.",
+        "exampleTr": "Lastiklerin altındaki çakılın çatırtısını duydum."
+      },
+      {
+        "tr": "kriz anı, zor an, darboğaz",
+        "en": "a critical situation caused by a shortage, especially of money",
+        "exampleEn": "Many families felt the financial crunch during the recession.",
+        "exampleTr": "Birçok aile durgunluk sırasında mali darboğazı hissetti."
+      }
+    ],
+    "synonyms": [
+      "crackle",
+      "crisis",
+      "shortage"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_crusher",
+    "headword": "crusher",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkrʌʃər/",
+    "meanings": [
+      {
+        "tr": "kırıcı, ezici makine",
+        "en": "a machine used for crushing something, such as rocks or ice",
+        "exampleEn": "The factory uses a stone crusher to break up the rocks.",
+        "exampleTr": "Fabrika kayaları parçalamak için bir taş kırıcı kullanıyor."
+      }
+    ],
+    "synonyms": [
+      "grinder",
+      "mill"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_crustacean",
+    "headword": "crustacean",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/krʌˈsteɪʃən/",
+    "meanings": [
+      {
+        "tr": "kabuklu deniz hayvanı (yengeç, karides gibi)",
+        "en": "a sea creature with a hard shell and several pairs of legs, such as a crab or lobster",
+        "exampleEn": "Crabs and shrimp are types of crustacean.",
+        "exampleTr": "Yengeç ve karides birer kabuklu deniz hayvanıdır."
+      }
+    ],
+    "synonyms": [
+      "shellfish"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_crux",
+    "headword": "crux",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/krʌks/",
+    "meanings": [
+      {
+        "tr": "can alıcı nokta, esas mesele, özü",
+        "en": "the most important or central point of a problem or issue",
+        "exampleEn": "The crux of the matter is whether we can afford it.",
+        "exampleTr": "Meselenin özü, buna gücümüzün yetip yetmediğidir."
+      }
+    ],
+    "synonyms": [
+      "heart",
+      "core",
+      "essence"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_cryptic",
+    "headword": "cryptic",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkrɪptɪk/",
+    "meanings": [
+      {
+        "tr": "anlaşılması güç, muğlak, şifreli",
+        "en": "having a hidden meaning that is difficult to understand",
+        "exampleEn": "She left a cryptic note that no one could decode.",
+        "exampleTr": "Kimsenin çözemediği muğlak bir not bıraktı."
+      }
+    ],
+    "synonyms": [
+      "mysterious",
+      "enigmatic",
+      "obscure"
+    ],
+    "antonyms": [
+      "clear",
+      "obvious",
+      "straightforward"
+    ]
+  },
+  {
+    "id": "w_cryptogram",
+    "headword": "cryptogram",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkrɪptəɡræm/",
+    "meanings": [
+      {
+        "tr": "şifreli yazı, şifre metni",
+        "en": "a message or text written in code or cipher",
+        "exampleEn": "The spy sent a cryptogram that took hours to decode.",
+        "exampleTr": "Casus, çözülmesi saatler süren şifreli bir mesaj gönderdi."
+      }
+    ],
+    "synonyms": [
+      "cipher",
+      "code"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_cubic",
+    "headword": "cubic",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkjuːbɪk/",
+    "meanings": [
+      {
+        "tr": "kübik, küp şeklinde; küp (hacim ölçüsü)",
+        "en": "used to measure volume; shaped like a cube",
+        "exampleEn": "The tank holds ten cubic metres of water.",
+        "exampleTr": "Tank on metreküp su alıyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_cumbersome",
+    "headword": "cumbersome",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkʌmbərsəm/",
+    "meanings": [
+      {
+        "tr": "hantal, kullanışsız, zahmetli",
+        "en": "large, heavy, and difficult to carry or use; slow and inefficient",
+        "exampleEn": "The old machine was cumbersome and hard to move.",
+        "exampleTr": "Eski makine hantaldı ve taşınması zordu."
+      }
+    ],
+    "synonyms": [
+      "unwieldy",
+      "bulky",
+      "awkward"
+    ],
+    "antonyms": [
+      "convenient",
+      "handy",
+      "manageable"
+    ]
+  },
+  {
+    "id": "w_cunning",
+    "headword": "cunning",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkʌnɪŋ/",
+    "meanings": [
+      {
+        "tr": "kurnaz, açıkgöz",
+        "en": "clever at deceiving people to get what you want",
+        "exampleEn": "The fox is often described as a cunning animal.",
+        "exampleTr": "Tilki çoğu zaman kurnaz bir hayvan olarak tanımlanır."
+      }
+    ],
+    "synonyms": [
+      "crafty",
+      "sly",
+      "shrewd"
+    ],
+    "antonyms": [
+      "naive",
+      "honest"
+    ]
+  },
+  {
+    "id": "w_curb",
+    "headword": "curb",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kɜːrb/",
+    "meanings": [
+      {
+        "tr": "dizginlemek, sınırlamak, frenlemek",
+        "en": "to control or limit something in order to stop it increasing",
+        "exampleEn": "The government introduced measures to curb inflation.",
+        "exampleTr": "Hükümet enflasyonu dizginlemek için önlemler aldı."
+      }
+    ],
+    "synonyms": [
+      "restrain",
+      "limit",
+      "restrict"
+    ],
+    "antonyms": [
+      "encourage",
+      "increase"
+    ]
+  },
+  {
+    "id": "w_cursory",
+    "headword": "cursory",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkɜːrsəri/",
+    "meanings": [
+      {
+        "tr": "üstünkörü, gelişigüzel, aceleyle yapılan",
+        "en": "quick and not thorough; done without attention to detail",
+        "exampleEn": "He gave the report only a cursory glance.",
+        "exampleTr": "Rapora sadece üstünkörü bir göz attı."
+      }
+    ],
+    "synonyms": [
+      "hasty",
+      "superficial",
+      "perfunctory"
+    ],
+    "antonyms": [
+      "thorough",
+      "careful",
+      "detailed"
+    ]
+  },
+  {
+    "id": "w_curtail",
+    "headword": "curtail",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kɜːrˈteɪl/",
+    "meanings": [
+      {
+        "tr": "kısaltmak, kısmak, azaltmak",
+        "en": "to reduce or limit something, especially by cutting it short",
+        "exampleEn": "The company had to curtail spending during the crisis.",
+        "exampleTr": "Şirket kriz sırasında harcamaları kısmak zorunda kaldı."
+      }
+    ],
+    "synonyms": [
+      "reduce",
+      "cut back",
+      "restrict"
+    ],
+    "antonyms": [
+      "extend",
+      "expand",
+      "increase"
+    ]
+  },
+  {
+    "id": "w_curtailment",
+    "headword": "curtailment",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kɜːrˈteɪlmənt/",
+    "meanings": [
+      {
+        "tr": "kısıtlama, azaltma",
+        "en": "the act of reducing or limiting something",
+        "exampleEn": "The curtailment of public services angered many citizens.",
+        "exampleTr": "Kamu hizmetlerinin kısıtlanması birçok vatandaşı öfkelendirdi."
+      }
+    ],
+    "synonyms": [
+      "reduction",
+      "restriction",
+      "cutback"
+    ],
+    "antonyms": [
+      "expansion",
+      "extension"
+    ]
+  },
+  {
+    "id": "w_custodian",
+    "headword": "custodian",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kʌˈstoʊdiən/",
+    "meanings": [
+      {
+        "tr": "koruyucu, bekçi, mütevelli, sorumlu kişi",
+        "en": "a person who is responsible for taking care of something, such as a building or valuable items",
+        "exampleEn": "The museum's custodian keeps the collection safe.",
+        "exampleTr": "Müzenin sorumlusu koleksiyonu güvende tutar."
+      }
+    ],
+    "synonyms": [
+      "guardian",
+      "keeper",
+      "caretaker"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_custody",
+    "headword": "custody",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkʌstədi/",
+    "meanings": [
+      {
+        "tr": "velayet, çocuğun bakım hakkı",
+        "en": "the legal right to take care of a child, especially after divorce",
+        "exampleEn": "The mother was granted custody of the children.",
+        "exampleTr": "Anneye çocukların velayeti verildi."
+      },
+      {
+        "tr": "gözaltı, tutukluluk",
+        "en": "the state of being kept in prison, especially while waiting for trial",
+        "exampleEn": "The suspect was taken into police custody.",
+        "exampleTr": "Şüpheli polis gözaltına alındı."
+      }
+    ],
+    "synonyms": [
+      "guardianship",
+      "detention"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_customize",
+    "headword": "customize",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkʌstəmaɪz/",
+    "meanings": [
+      {
+        "tr": "özelleştirmek, kişiye göre uyarlamak",
+        "en": "to change something to make it suitable for a particular person or purpose",
+        "exampleEn": "You can customize the software to fit your needs.",
+        "exampleTr": "Yazılımı ihtiyaçlarınıza göre özelleştirebilirsiniz."
+      }
+    ],
+    "synonyms": [
+      "personalize",
+      "adapt",
+      "modify"
+    ],
+    "antonyms": [
+      "standardize"
+    ]
+  },
+  {
+    "id": "w_cut_price",
+    "headword": "cut-price",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkʌt ˈpraɪs/",
+    "meanings": [
+      {
+        "tr": "indirimli, ucuz, ucuza satılan",
+        "en": "sold at a price that is lower than usual",
+        "exampleEn": "They bought cut-price tickets for the early flight.",
+        "exampleTr": "Erken uçuş için indirimli biletler aldılar."
+      }
+    ],
+    "synonyms": [
+      "discounted",
+      "cheap",
+      "reduced"
+    ],
+    "antonyms": [
+      "expensive",
+      "premium"
+    ]
+  },
+  {
+    "id": "w_cuticle",
+    "headword": "cuticle",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkjuːtɪkəl/",
+    "meanings": [
+      {
+        "tr": "tırnak eti, tırnak diplerindeki deri; dış zar",
+        "en": "the hard skin at the base of a fingernail or toenail",
+        "exampleEn": "She pushed back her cuticles before applying nail polish.",
+        "exampleTr": "Oje sürmeden önce tırnak etlerini geri itti."
+      }
+    ],
+    "synonyms": [
+      "epidermis"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_cutting",
+    "headword": "cutting",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkʌtɪŋ/",
+    "meanings": [
+      {
+        "tr": "iğneleyici, sert, kırıcı (söz)",
+        "en": "(of remarks) unkind and intended to hurt someone's feelings",
+        "exampleEn": "She made a cutting remark about his appearance.",
+        "exampleTr": "Onun görünüşü hakkında iğneleyici bir yorum yaptı."
+      }
+    ],
+    "synonyms": [
+      "sarcastic",
+      "biting",
+      "scathing"
+    ],
+    "antonyms": [
+      "kind",
+      "gentle"
+    ]
+  },
+  {
+    "id": "w_cynical",
+    "headword": "cynical",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪnɪkəl/",
+    "meanings": [
+      {
+        "tr": "karamsar, güvensiz, insanların iyi niyetine inanmayan",
+        "en": "believing that people are only interested in themselves and not sincere",
+        "exampleEn": "He has a cynical attitude towards politicians.",
+        "exampleTr": "Politikacılara karşı güvensiz bir tutumu var."
+      }
+    ],
+    "synonyms": [
+      "distrustful",
+      "skeptical",
+      "pessimistic"
+    ],
+    "antonyms": [
+      "optimistic",
+      "idealistic",
+      "trusting"
+    ]
+  },
+  {
+    "id": "w_cynically",
+    "headword": "cynically",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪnɪkli/",
+    "meanings": [
+      {
+        "tr": "karamsarca, güvensizce, alaycı bir şekilde",
+        "en": "in a way that shows you believe people act only out of self-interest",
+        "exampleEn": "He cynically dismissed the charity as a publicity stunt.",
+        "exampleTr": "Hayır işini alaycı bir şekilde reklam amaçlı bir gösteri olarak nitelendirdi."
+      }
+    ],
+    "synonyms": [
+      "skeptically",
+      "distrustfully"
+    ],
+    "antonyms": [
+      "optimistically",
+      "sincerely"
+    ]
+  },
+  {
+    "id": "w_cynicism",
+    "headword": "cynicism",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪnɪsɪzəm/",
+    "meanings": [
+      {
+        "tr": "karamsarlık, insanlara güvensizlik, alaycılık",
+        "en": "the belief that people are motivated only by self-interest, and a distrust of others",
+        "exampleEn": "Years of broken promises had bred deep cynicism among voters.",
+        "exampleTr": "Yıllarca tutulmayan sözler seçmenlerde derin bir güvensizlik yaratmıştı."
+      }
+    ],
+    "synonyms": [
+      "distrust",
+      "skepticism",
+      "pessimism"
+    ],
+    "antonyms": [
+      "optimism",
+      "idealism"
+    ]
+  },
+  {
+    "id": "w_dampened",
+    "headword": "dampened",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdæmpənd/",
+    "meanings": [
+      {
+        "tr": "azalttı, söndürdü, hevesini kırdı (dampen'in geçmiş hali)",
+        "en": "made a feeling or activity less strong; made something slightly wet",
+        "exampleEn": "The bad weather dampened our enthusiasm for the trip.",
+        "exampleTr": "Kötü hava, geziye olan hevesimizi kırdı."
+      }
+    ],
+    "synonyms": [
+      "lessened",
+      "reduced",
+      "subdued"
+    ],
+    "antonyms": [
+      "heightened",
+      "boosted"
+    ]
+  },
+  {
+    "id": "w_daredevil",
+    "headword": "daredevil",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈderdevəl/",
+    "meanings": [
+      {
+        "tr": "gözü pek kimse, cesur ve tehlikeli işler yapan",
+        "en": "a person who enjoys doing dangerous things and takes risks",
+        "exampleEn": "The daredevil jumped off the cliff with a parachute.",
+        "exampleTr": "Gözü pek adam paraşütle uçurumdan atladı."
+      }
+    ],
+    "synonyms": [
+      "risk-taker",
+      "adventurer"
+    ],
+    "antonyms": [
+      "coward"
+    ]
+  },
+  {
+    "id": "w_dark_haired_woman",
+    "headword": "dark-haired woman",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɑːrk herd ˈwʊmən/",
+    "meanings": [
+      {
+        "tr": "koyu saçlı kadın, esmer kadın",
+        "en": "a woman who has dark-coloured hair",
+        "exampleEn": "A dark-haired woman was waiting at the entrance.",
+        "exampleTr": "Girişte koyu saçlı bir kadın bekliyordu."
+      }
+    ],
+    "synonyms": [
+      "brunette"
+    ],
+    "antonyms": [
+      "blonde woman"
+    ]
+  },
+  {
+    "id": "w_daub",
+    "headword": "daub",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɔːb/",
+    "meanings": [
+      {
+        "tr": "sıvamak, bulaştırmak, özensizce sürmek",
+        "en": "to spread a substance such as paint or mud on a surface carelessly",
+        "exampleEn": "Someone had daubed graffiti all over the wall.",
+        "exampleTr": "Biri duvarın her yerine grafiti bulaştırmıştı."
+      }
+    ],
+    "synonyms": [
+      "smear",
+      "plaster",
+      "smudge"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_dawdle",
+    "headword": "dawdle",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdɔːdəl/",
+    "meanings": [
+      {
+        "tr": "oyalanmak, ağır davranmak, sallanmak",
+        "en": "to move or do something very slowly, wasting time",
+        "exampleEn": "Stop dawdling or we'll miss the bus.",
+        "exampleTr": "Oyalanmayı bırak yoksa otobüsü kaçıracağız."
+      }
+    ],
+    "synonyms": [
+      "linger",
+      "loiter",
+      "dally"
+    ],
+    "antonyms": [
+      "hurry",
+      "rush"
+    ]
+  },
+  {
+    "id": "w_deadness",
+    "headword": "deadness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdednəs/",
+    "meanings": [
+      {
+        "tr": "cansızlık, hissizlik, ölü gibi olma hali",
+        "en": "the quality of lacking life, feeling, or activity",
+        "exampleEn": "There was a strange deadness in his eyes.",
+        "exampleTr": "Gözlerinde tuhaf bir cansızlık vardı."
+      }
+    ],
+    "synonyms": [
+      "numbness",
+      "dullness",
+      "lifelessness"
+    ],
+    "antonyms": [
+      "liveliness",
+      "vitality"
+    ]
+  },
+  {
+    "id": "w_deadpan",
+    "headword": "deadpan",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdedpæn/",
+    "meanings": [
+      {
+        "tr": "ifadesiz, ciddi bir yüzle (özellikle şaka yaparken)",
+        "en": "showing no emotion or expression, especially when saying something funny",
+        "exampleEn": "He delivered the joke in a deadpan voice.",
+        "exampleTr": "Şakayı ifadesiz bir sesle söyledi."
+      }
+    ],
+    "synonyms": [
+      "expressionless",
+      "impassive",
+      "straight-faced"
+    ],
+    "antonyms": [
+      "animated",
+      "expressive"
+    ]
+  },
+  {
+    "id": "w_dearth",
+    "headword": "dearth",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɜːrθ/",
+    "meanings": [
+      {
+        "tr": "kıtlık, yokluk, azlık",
+        "en": "a lack or scarcity of something",
+        "exampleEn": "There is a dearth of affordable housing in the city.",
+        "exampleTr": "Şehirde uygun fiyatlı konut kıtlığı var."
+      }
+    ],
+    "synonyms": [
+      "scarcity",
+      "shortage",
+      "lack"
+    ],
+    "antonyms": [
+      "abundance",
+      "surplus"
+    ]
+  },
+  {
+    "id": "w_death_rate",
+    "headword": "death rate",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdeθ reɪt/",
+    "meanings": [
+      {
+        "tr": "ölüm oranı",
+        "en": "the number of deaths in a particular area or period, usually per 1,000 people",
+        "exampleEn": "The country's death rate has fallen over the past decade.",
+        "exampleTr": "Ülkenin ölüm oranı son on yılda düştü."
+      }
+    ],
+    "synonyms": [
+      "mortality rate"
+    ],
+    "antonyms": [
+      "birth rate"
+    ]
+  },
+  {
+    "id": "w_debase",
+    "headword": "debase",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈbeɪs/",
+    "meanings": [
+      {
+        "tr": "değerini düşürmek, alçaltmak, itibarını zedelemek",
+        "en": "to reduce the quality, value, or dignity of something",
+        "exampleEn": "Printing too much money can debase the currency.",
+        "exampleTr": "Çok fazla para basmak, paranın değerini düşürebilir."
+      }
+    ],
+    "synonyms": [
+      "degrade",
+      "devalue",
+      "cheapen"
+    ],
+    "antonyms": [
+      "enhance",
+      "elevate"
+    ]
+  },
+  {
+    "id": "w_debatably",
+    "headword": "debatably",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈbeɪtəbli/",
+    "meanings": [
+      {
+        "tr": "tartışmalı bir biçimde, tartışılır olarak",
+        "en": "in a way that is open to question or dispute",
+        "exampleEn": "Debatably, this is his best film to date.",
+        "exampleTr": "Tartışmalı da olsa, bu onun bugüne kadarki en iyi filmi."
+      }
+    ],
+    "synonyms": [
+      "arguably",
+      "questionably"
+    ],
+    "antonyms": [
+      "indisputably",
+      "undeniably"
+    ]
+  },
+  {
+    "id": "w_decelerate",
+    "headword": "decelerate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/diːˈseləreɪt/",
+    "meanings": [
+      {
+        "tr": "yavaşlamak, hız kesmek",
+        "en": "to reduce speed; to slow down",
+        "exampleEn": "The train began to decelerate as it approached the station.",
+        "exampleTr": "Tren istasyona yaklaşırken yavaşlamaya başladı."
+      }
+    ],
+    "synonyms": [
+      "slow down",
+      "brake"
+    ],
+    "antonyms": [
+      "accelerate",
+      "speed up"
+    ]
+  },
+  {
+    "id": "w_decency",
+    "headword": "decency",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdiːsənsi/",
+    "meanings": [
+      {
+        "tr": "edep, terbiye, dürüstlük, nezaket",
+        "en": "behaviour that is honest, respectable, and morally correct",
+        "exampleEn": "He didn't even have the decency to apologize.",
+        "exampleTr": "Özür dileyecek nezaketi bile göstermedi."
+      }
+    ],
+    "synonyms": [
+      "propriety",
+      "respectability",
+      "integrity"
+    ],
+    "antonyms": [
+      "indecency",
+      "impropriety"
+    ]
+  },
+  {
+    "id": "w_decentralize",
+    "headword": "decentralize",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/diːˈsentrəlaɪz/",
+    "meanings": [
+      {
+        "tr": "yerelleştirmek, merkezden dağıtmak, adem-i merkezileştirmek",
+        "en": "to move power or control from a central authority to several smaller local ones",
+        "exampleEn": "The government plans to decentralize decision-making to local councils.",
+        "exampleTr": "Hükümet karar alma sürecini yerel meclislere devretmeyi planlıyor."
+      }
+    ],
+    "synonyms": [
+      "devolve",
+      "distribute"
+    ],
+    "antonyms": [
+      "centralize"
+    ]
+  }
+]

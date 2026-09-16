@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "w_termination",
+    "headword": "termination",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌtɜːmɪˈneɪʃən/",
+    "meanings": [
+      {
+        "tr": "sona erdirme, bitirme",
+        "en": "the act of ending something",
+        "exampleEn": "The termination of the contract left both companies in dispute.",
+        "exampleTr": "Sözleşmenin sona erdirilmesi iki şirketi de anlaşmazlığa düşürdü."
+      },
+      {
+        "tr": "işten çıkarma",
+        "en": "the ending of someone's employment",
+        "exampleEn": "He received a letter announcing his termination.",
+        "exampleTr": "İşten çıkarıldığını bildiren bir mektup aldı."
+      }
+    ],
+    "synonyms": [
+      "ending",
+      "conclusion",
+      "cessation"
+    ],
+    "antonyms": [
+      "start",
+      "beginning",
+      "commencement"
+    ]
+  },
+  {
+    "id": "w_terrestrial",
+    "headword": "terrestrial",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/təˈrestriəl/",
+    "meanings": [
+      {
+        "tr": "karasal, yeryüzüne ait",
+        "en": "relating to the earth or to land",
+        "exampleEn": "Terrestrial animals live on land rather than in water.",
+        "exampleTr": "Karasal hayvanlar suda değil, karada yaşar."
+      }
+    ],
+    "synonyms": [
+      "earthly",
+      "land"
+    ],
+    "antonyms": [
+      "aquatic",
+      "celestial",
+      "extraterrestrial"
+    ]
+  },
+  {
+    "id": "w_terrorist",
+    "headword": "terrorist",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈterərɪst/",
+    "meanings": [
+      {
+        "tr": "terörist",
+        "en": "a person who uses violence to achieve political aims",
+        "exampleEn": "The terrorist was arrested before the attack could take place.",
+        "exampleTr": "Terörist, saldırı gerçekleşmeden önce tutuklandı."
+      }
+    ],
+    "synonyms": [
+      "extremist",
+      "militant"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tersely",
+    "headword": "tersely",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɜːsli/",
+    "meanings": [
+      {
+        "tr": "kısa ve öz bir şekilde, sert biçimde",
+        "en": "in a brief and often unfriendly way",
+        "exampleEn": "\"No comment,\" she replied tersely.",
+        "exampleTr": "\"Yorum yok,\" diye kısa ve sert biçimde yanıtladı."
+      }
+    ],
+    "synonyms": [
+      "curtly",
+      "bluntly",
+      "abruptly"
+    ],
+    "antonyms": [
+      "verbosely",
+      "expansively"
+    ]
+  },
+  {
+    "id": "w_test_period",
+    "headword": "test period",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtest ˌpɪəriəd/",
+    "meanings": [
+      {
+        "tr": "deneme süresi, test dönemi",
+        "en": "a period during which something is tried out or evaluated",
+        "exampleEn": "During the test period, users can access all features for free.",
+        "exampleTr": "Deneme süresi boyunca kullanıcılar tüm özelliklere ücretsiz erişebilir."
+      }
+    ],
+    "synonyms": [
+      "trial period",
+      "probation period"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_testily",
+    "headword": "testily",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtestɪli/",
+    "meanings": [
+      {
+        "tr": "aksice, huysuzca, sinirli bir şekilde",
+        "en": "in an easily annoyed or irritable manner",
+        "exampleEn": "\"I already told you,\" he said testily.",
+        "exampleTr": "\"Sana zaten söyledim,\" dedi sinirli bir şekilde."
+      }
+    ],
+    "synonyms": [
+      "irritably",
+      "crossly",
+      "peevishly"
+    ],
+    "antonyms": [
+      "patiently",
+      "calmly"
+    ]
+  },
+  {
+    "id": "w_testy",
+    "headword": "testy",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtesti/",
+    "meanings": [
+      {
+        "tr": "huysuz, çabuk sinirlenen, aksi",
+        "en": "easily annoyed and impatient",
+        "exampleEn": "He gets testy when he hasn't had enough sleep.",
+        "exampleTr": "Yeterince uyumadığında huysuzlaşır."
+      }
+    ],
+    "synonyms": [
+      "irritable",
+      "touchy",
+      "grumpy"
+    ],
+    "antonyms": [
+      "patient",
+      "calm",
+      "good-natured"
+    ]
+  },
+  {
+    "id": "w_than",
+    "headword": "than",
+    "pos": "conj",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðæn/",
+    "meanings": [
+      {
+        "tr": "-den, -dan (karşılaştırma)",
+        "en": "used to introduce the second part of a comparison",
+        "exampleEn": "She is taller than her brother.",
+        "exampleTr": "O, erkek kardeşinden daha uzun."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_thankless",
+    "headword": "thankless",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈθæŋkləs/",
+    "meanings": [
+      {
+        "tr": "nankör, takdir edilmeyen (iş)",
+        "en": "unpleasant to do and not likely to be appreciated by others",
+        "exampleEn": "Cleaning up after everyone is a thankless task.",
+        "exampleTr": "Herkesin ardından temizlik yapmak takdir edilmeyen bir iştir."
+      }
+    ],
+    "synonyms": [
+      "unappreciated",
+      "unrewarding"
+    ],
+    "antonyms": [
+      "rewarding",
+      "gratifying"
+    ]
+  },
+  {
+    "id": "w_thanklessness",
+    "headword": "thanklessness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈθæŋkləsnəs/",
+    "meanings": [
+      {
+        "tr": "nankörlük, takdir edilmeme durumu",
+        "en": "the quality of being unrewarding or unappreciated",
+        "exampleEn": "The thanklessness of the job eventually wore her down.",
+        "exampleTr": "İşin takdir edilmemesi sonunda onu yıprattı."
+      }
+    ],
+    "synonyms": [
+      "ingratitude"
+    ],
+    "antonyms": [
+      "gratitude"
+    ]
+  },
+  {
+    "id": "w_the",
+    "headword": "the",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðə/",
+    "meanings": [
+      {
+        "tr": "belirli tanımlık (bahsedilen belirli bir şey için)",
+        "en": "used before a noun to refer to a specific thing already known",
+        "exampleEn": "The book on the table is mine.",
+        "exampleTr": "Masadaki kitap benim."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_the_future",
+    "headword": "the future",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ðə ˈfjuːtʃə/",
+    "meanings": [
+      {
+        "tr": "gelecek, istikbal",
+        "en": "the time that will come after the present",
+        "exampleEn": "Nobody knows what the future holds.",
+        "exampleTr": "Geleceğin ne getireceğini kimse bilmez."
+      }
+    ],
+    "synonyms": [
+      "time to come",
+      "tomorrow"
+    ],
+    "antonyms": [
+      "the past"
+    ]
+  },
+  {
+    "id": "w_the_present",
+    "headword": "the present",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ðə ˈprezənt/",
+    "meanings": [
+      {
+        "tr": "şimdiki zaman, şu an",
+        "en": "the period of time that is happening now",
+        "exampleEn": "We should focus on the present rather than worrying about the past.",
+        "exampleTr": "Geçmişi dert etmek yerine şimdiye odaklanmalıyız."
+      }
+    ],
+    "synonyms": [
+      "now",
+      "the here and now"
+    ],
+    "antonyms": [
+      "the past",
+      "the future"
+    ]
+  },
+  {
+    "id": "w_their",
+    "headword": "their",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðeə/",
+    "meanings": [
+      {
+        "tr": "onların",
+        "en": "belonging to or associated with the people or things mentioned",
+        "exampleEn": "The students handed in their homework.",
+        "exampleTr": "Öğrenciler ödevlerini teslim etti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_theirs",
+    "headword": "theirs",
+    "pos": "pronoun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðeəz/",
+    "meanings": [
+      {
+        "tr": "onlarınki",
+        "en": "used to refer to something belonging to people previously mentioned",
+        "exampleEn": "Our house is smaller than theirs.",
+        "exampleTr": "Bizim evimiz onlarınkinden daha küçük."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_them",
+    "headword": "them",
+    "pos": "pronoun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðem/",
+    "meanings": [
+      {
+        "tr": "onları, onlara",
+        "en": "used as the object to refer to people or things previously mentioned",
+        "exampleEn": "I saw them at the party last night.",
+        "exampleTr": "Onları dün gece partide gördüm."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_themselves",
+    "headword": "themselves",
+    "pos": "pronoun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðəmˈselvz/",
+    "meanings": [
+      {
+        "tr": "kendileri, kendilerini",
+        "en": "used to refer back to a plural subject",
+        "exampleEn": "The children made breakfast for themselves.",
+        "exampleTr": "Çocuklar kendilerine kahvaltı hazırladı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_theocrat",
+    "headword": "theocrat",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈθiːəkræt/",
+    "meanings": [
+      {
+        "tr": "din adına yönetimi savunan/ilahi otoriteyle yöneten kişi",
+        "en": "a ruler or advocate of government based on religious authority",
+        "exampleEn": "The theocrat justified every law as the will of God.",
+        "exampleTr": "Din adamı yönetici her yasayı Tanrı'nın iradesi olarak gerekçelendirdi."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_these",
+    "headword": "these",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðiːz/",
+    "meanings": [
+      {
+        "tr": "bunlar, bu (çoğul)",
+        "en": "used to refer to plural things near the speaker",
+        "exampleEn": "These shoes are too small for me.",
+        "exampleTr": "Bu ayakkabılar bana çok küçük."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "those"
+    ]
+  },
+  {
+    "id": "w_they",
+    "headword": "they",
+    "pos": "pronoun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðeɪ/",
+    "meanings": [
+      {
+        "tr": "onlar",
+        "en": "used to refer to two or more people or things previously mentioned",
+        "exampleEn": "They are coming to visit us tomorrow.",
+        "exampleTr": "Onlar yarın bizi ziyarete gelecekler."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_thick_skinned",
+    "headword": "thick-skinned",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌθɪkˈskɪnd/",
+    "meanings": [
+      {
+        "tr": "eleştiriden etkilenmeyen, kalın derili",
+        "en": "not easily upset by criticism or insults",
+        "exampleEn": "You need to be thick-skinned to work in politics.",
+        "exampleTr": "Siyasette çalışmak için eleştiriden etkilenmeyen biri olman gerekir."
+      }
+    ],
+    "synonyms": [
+      "insensitive",
+      "tough"
+    ],
+    "antonyms": [
+      "thin-skinned",
+      "sensitive"
+    ]
+  },
+  {
+    "id": "w_thirteen",
+    "headword": "thirteen",
+    "pos": "number",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌθɜːˈtiːn/",
+    "meanings": [
+      {
+        "tr": "on üç",
+        "en": "the number 13",
+        "exampleEn": "She turned thirteen last week.",
+        "exampleTr": "Geçen hafta on üç yaşına girdi."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_thirty",
+    "headword": "thirty",
+    "pos": "number",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈθɜːti/",
+    "meanings": [
+      {
+        "tr": "otuz",
+        "en": "the number 30",
+        "exampleEn": "There were about thirty people at the meeting.",
+        "exampleTr": "Toplantıda yaklaşık otuz kişi vardı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_this",
+    "headword": "this",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðɪs/",
+    "meanings": [
+      {
+        "tr": "bu",
+        "en": "used to refer to a specific thing near the speaker",
+        "exampleEn": "This is my favourite song.",
+        "exampleTr": "Bu benim en sevdiğim şarkı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "that"
+    ]
+  },
+  {
+    "id": "w_this_kind_of",
+    "headword": "this kind of",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ðɪs kaɪnd əv/",
+    "meanings": [
+      {
+        "tr": "bu tür, bu çeşit",
+        "en": "used to refer to a particular type of thing",
+        "exampleEn": "This kind of behaviour is not acceptable.",
+        "exampleTr": "Bu tür davranışlar kabul edilemez."
+      }
+    ],
+    "synonyms": [
+      "this type of",
+      "this sort of"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_thorn",
+    "headword": "thorn",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/θɔːn/",
+    "meanings": [
+      {
+        "tr": "diken",
+        "en": "a sharp pointed part growing on the stem of a plant",
+        "exampleEn": "She pricked her finger on a rose thorn.",
+        "exampleTr": "Parmağını bir gül dikenine batırdı."
+      }
+    ],
+    "synonyms": [
+      "spike",
+      "prickle"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_those",
+    "headword": "those",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ðəʊz/",
+    "meanings": [
+      {
+        "tr": "onlar, şunlar (çoğul, uzaktaki)",
+        "en": "used to refer to plural things at a distance from the speaker",
+        "exampleEn": "Those mountains look beautiful from here.",
+        "exampleTr": "Şu dağlar buradan çok güzel görünüyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "these"
+    ]
+  },
+  {
+    "id": "w_thoughtfulness",
+    "headword": "thoughtfulness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈθɔːtfəlnəs/",
+    "meanings": [
+      {
+        "tr": "düşüncelilik, saygılı davranma",
+        "en": "the quality of thinking about the needs and feelings of others",
+        "exampleEn": "Her thoughtfulness in remembering my birthday touched me.",
+        "exampleTr": "Doğum günümü hatırlamasındaki düşünceliliği beni duygulandırdı."
+      }
+    ],
+    "synonyms": [
+      "consideration",
+      "kindness",
+      "attentiveness"
+    ],
+    "antonyms": [
+      "thoughtlessness",
+      "selfishness"
+    ]
+  },
+  {
+    "id": "w_thousand",
+    "headword": "thousand",
+    "pos": "number",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈθaʊzənd/",
+    "meanings": [
+      {
+        "tr": "bin (1000)",
+        "en": "the number 1,000",
+        "exampleEn": "The stadium can hold ten thousand spectators.",
+        "exampleTr": "Stadyum on bin seyirci alabilir."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_three",
+    "headword": "three",
+    "pos": "number",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/θriː/",
+    "meanings": [
+      {
+        "tr": "üç",
+        "en": "the number 3",
+        "exampleEn": "I have three brothers.",
+        "exampleTr": "Üç erkek kardeşim var."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_throw_up",
+    "headword": "throw up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌθrəʊ ˈʌp/",
+    "meanings": [
+      {
+        "tr": "kusmak",
+        "en": "to vomit",
+        "exampleEn": "He felt so sick that he had to throw up.",
+        "exampleTr": "O kadar kötü hissediyordu ki kusmak zorunda kaldı."
+      },
+      {
+        "tr": "ortaya çıkarmak, gündeme getirmek",
+        "en": "to produce or reveal something, especially problems",
+        "exampleEn": "The investigation threw up some surprising results.",
+        "exampleTr": "Soruşturma bazı şaşırtıcı sonuçlar ortaya çıkardı."
+      }
+    ],
+    "synonyms": [
+      "vomit",
+      "be sick"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tiara",
+    "headword": "tiara",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/tiˈɑːrə/",
+    "meanings": [
+      {
+        "tr": "taç (kadınların taktığı süslü baş tacı)",
+        "en": "a jewelled ornamental band worn on the head by women on formal occasions",
+        "exampleEn": "The princess wore a diamond tiara at the ceremony.",
+        "exampleTr": "Prenses törende elmas bir taç taktı."
+      }
+    ],
+    "synonyms": [
+      "coronet",
+      "diadem"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tidiness",
+    "headword": "tidiness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtaɪdinəs/",
+    "meanings": [
+      {
+        "tr": "düzenlilik, temizlik",
+        "en": "the quality of being neat and well organised",
+        "exampleEn": "Her tidiness makes the office a pleasant place to work.",
+        "exampleTr": "Onun düzenliliği ofisi çalışmak için hoş bir yer yapıyor."
+      }
+    ],
+    "synonyms": [
+      "neatness",
+      "orderliness"
+    ],
+    "antonyms": [
+      "untidiness",
+      "messiness"
+    ]
+  },
+  {
+    "id": "w_tillage",
+    "headword": "tillage",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɪlɪdʒ/",
+    "meanings": [
+      {
+        "tr": "toprağı sürme, tarım için toprak işleme",
+        "en": "the preparation of land for growing crops",
+        "exampleEn": "Modern tillage methods have increased crop yields.",
+        "exampleTr": "Modern toprak işleme yöntemleri ürün verimini artırdı."
+      }
+    ],
+    "synonyms": [
+      "cultivation",
+      "ploughing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tiller",
+    "headword": "tiller",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɪlə/",
+    "meanings": [
+      {
+        "tr": "dümen kolu (teknede)",
+        "en": "a bar used to turn the rudder of a boat when steering",
+        "exampleEn": "He held the tiller steady as the boat crossed the bay.",
+        "exampleTr": "Tekne körfezi geçerken dümen kolunu sabit tuttu."
+      },
+      {
+        "tr": "çapa makinesi, toprak işleme aleti",
+        "en": "a machine or tool used for tilling soil",
+        "exampleEn": "The farmer used a tiller to break up the hard ground.",
+        "exampleTr": "Çiftçi sert toprağı kırmak için bir çapa makinesi kullandı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_timepiece",
+    "headword": "timepiece",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtaɪmpiːs/",
+    "meanings": [
+      {
+        "tr": "saat (zaman ölçme aleti)",
+        "en": "an instrument for measuring time, such as a clock or watch",
+        "exampleEn": "He collects antique timepieces from the nineteenth century.",
+        "exampleTr": "On dokuzuncu yüzyıldan kalma antika saatler topluyor."
+      }
+    ],
+    "synonyms": [
+      "clock",
+      "watch"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_times",
+    "headword": "times",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/taɪmz/",
+    "meanings": [
+      {
+        "tr": "çarpı, kere (çarpma işleminde)",
+        "en": "multiplied by",
+        "exampleEn": "Four times three equals twelve.",
+        "exampleTr": "Dört kere üç, on iki eder."
+      },
+      {
+        "tr": "kere, defa",
+        "en": "used to indicate how many occasions something happens",
+        "exampleEn": "I have seen that film three times.",
+        "exampleTr": "O filmi üç kez izledim."
+      }
+    ],
+    "synonyms": [
+      "multiplied by"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_timidity",
+    "headword": "timidity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/tɪˈmɪdəti/",
+    "meanings": [
+      {
+        "tr": "çekingenlik, ürkeklik",
+        "en": "the quality of being shy or lacking courage",
+        "exampleEn": "Her timidity kept her from speaking up in meetings.",
+        "exampleTr": "Çekingenliği toplantılarda konuşmasını engelledi."
+      }
+    ],
+    "synonyms": [
+      "shyness",
+      "fearfulness",
+      "meekness"
+    ],
+    "antonyms": [
+      "boldness",
+      "confidence",
+      "courage"
+    ]
+  },
+  {
+    "id": "w_tinge",
+    "headword": "tinge",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/tɪndʒ/",
+    "meanings": [
+      {
+        "tr": "hafif iz, az miktar (renk veya duygu)",
+        "en": "a small amount of a colour or a feeling",
+        "exampleEn": "There was a tinge of sadness in her voice.",
+        "exampleTr": "Sesinde hafif bir hüzün izi vardı."
+      }
+    ],
+    "synonyms": [
+      "trace",
+      "hint",
+      "touch"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tipping_point",
+    "headword": "tipping point",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɪpɪŋ pɔɪnt/",
+    "meanings": [
+      {
+        "tr": "dönüm noktası, kritik eşik",
+        "en": "the point at which a series of small changes becomes significant enough to cause a larger change",
+        "exampleEn": "Rising temperatures may push the climate past a dangerous tipping point.",
+        "exampleTr": "Yükselen sıcaklıklar iklimi tehlikeli bir dönüm noktasının ötesine itebilir."
+      }
+    ],
+    "synonyms": [
+      "turning point",
+      "threshold",
+      "critical point"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tipsy",
+    "headword": "tipsy",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɪpsi/",
+    "meanings": [
+      {
+        "tr": "çakırkeyif, hafif sarhoş",
+        "en": "slightly drunk",
+        "exampleEn": "After two glasses of wine she felt a little tipsy.",
+        "exampleTr": "İki kadeh şaraptan sonra biraz çakırkeyif hissetti."
+      }
+    ],
+    "synonyms": [
+      "merry",
+      "buzzed"
+    ],
+    "antonyms": [
+      "sober"
+    ]
+  },
+  {
+    "id": "w_to",
+    "headword": "to",
+    "pos": "prep",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/tuː/",
+    "meanings": [
+      {
+        "tr": "-e, -a (yön belirtir)",
+        "en": "expressing direction towards a place or point",
+        "exampleEn": "We are going to the beach tomorrow.",
+        "exampleTr": "Yarın plaja gidiyoruz."
+      }
+    ],
+    "synonyms": [
+      "towards"
+    ],
+    "antonyms": [
+      "from"
+    ]
+  },
+  {
+    "id": "w_token",
+    "headword": "token",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtəʊkən/",
+    "meanings": [
+      {
+        "tr": "simge, işaret, nişane",
+        "en": "a thing that represents a fact, quality, or feeling",
+        "exampleEn": "Please accept this gift as a token of our gratitude.",
+        "exampleTr": "Lütfen bu hediyeyi minnettarlığımızın bir nişanesi olarak kabul edin."
+      },
+      {
+        "tr": "jeton, fiş",
+        "en": "a piece of metal or plastic used instead of money in machines",
+        "exampleEn": "You need a token to use the washing machine.",
+        "exampleTr": "Çamaşır makinesini kullanmak için bir jetona ihtiyacın var."
+      }
+    ],
+    "synonyms": [
+      "symbol",
+      "sign",
+      "mark"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tolerably",
+    "headword": "tolerably",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɒlərəbli/",
+    "meanings": [
+      {
+        "tr": "oldukça, idare eder derecede, katlanılabilir şekilde",
+        "en": "to a fairly acceptable degree; reasonably",
+        "exampleEn": "The hotel was tolerably comfortable for the price.",
+        "exampleTr": "Otel, fiyatına göre oldukça rahattı."
+      }
+    ],
+    "synonyms": [
+      "reasonably",
+      "fairly",
+      "passably"
+    ],
+    "antonyms": [
+      "intolerably"
+    ]
+  },
+  {
+    "id": "w_tongue_tied",
+    "headword": "tongue-tied",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʌŋ taɪd/",
+    "meanings": [
+      {
+        "tr": "dili tutulmuş, heyecandan konuşamayan",
+        "en": "unable to speak because of shyness or nervousness",
+        "exampleEn": "He became tongue-tied whenever he spoke to her.",
+        "exampleTr": "Onunla konuşurken hep dili tutulurdu."
+      }
+    ],
+    "synonyms": [
+      "speechless",
+      "lost for words"
+    ],
+    "antonyms": [
+      "articulate",
+      "eloquent"
+    ]
+  }
+]

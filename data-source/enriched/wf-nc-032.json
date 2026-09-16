@@ -1,0 +1,1296 @@
+[
+  {
+    "id": "w_prosaic",
+    "headword": "prosaic",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prəˈzeɪɪk/",
+    "meanings": [
+      {
+        "tr": "sıradan, tekdüze, yavan",
+        "en": "lacking imagination or excitement; dull and ordinary",
+        "exampleEn": "He gave a rather prosaic explanation for his sudden departure.",
+        "exampleTr": "Ani gidişi için oldukça sıradan bir açıklama yaptı."
+      }
+    ],
+    "synonyms": [
+      "dull",
+      "mundane",
+      "ordinary",
+      "banal"
+    ],
+    "antonyms": [
+      "poetic",
+      "exciting",
+      "inspired"
+    ]
+  },
+  {
+    "id": "w_protract",
+    "headword": "protract",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prəˈtrækt/",
+    "meanings": [
+      {
+        "tr": "uzatmak, sürüncemede bırakmak",
+        "en": "to make something last longer than necessary",
+        "exampleEn": "The lawyers tried to protract the negotiations to gain an advantage.",
+        "exampleTr": "Avukatlar avantaj sağlamak için müzakereleri uzatmaya çalıştı."
+      }
+    ],
+    "synonyms": [
+      "prolong",
+      "extend",
+      "draw out"
+    ],
+    "antonyms": [
+      "shorten",
+      "curtail"
+    ]
+  },
+  {
+    "id": "w_protrusion",
+    "headword": "protrusion",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prəˈtruːʒən/",
+    "meanings": [
+      {
+        "tr": "çıkıntı, dışa doğru çıkma",
+        "en": "something that sticks out from a surface",
+        "exampleEn": "A small protrusion on the rock made a good handhold for the climbers.",
+        "exampleTr": "Kayadaki küçük bir çıkıntı tırmanıcılar için iyi bir tutamak oldu."
+      }
+    ],
+    "synonyms": [
+      "bulge",
+      "projection",
+      "protuberance"
+    ],
+    "antonyms": [
+      "indentation",
+      "hollow"
+    ]
+  },
+  {
+    "id": "w_provided",
+    "headword": "provided",
+    "pos": "conj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prəˈvaɪdɪd/",
+    "meanings": [
+      {
+        "tr": "şu şartla ki, -mek koşuluyla",
+        "en": "only if; on the condition that",
+        "exampleEn": "You can borrow the car, provided you return it by tonight.",
+        "exampleTr": "Bu gece geri getirmen koşuluyla arabayı ödünç alabilirsin."
+      }
+    ],
+    "synonyms": [
+      "providing",
+      "if",
+      "as long as"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_provincial",
+    "headword": "provincial",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prəˈvɪnʃəl/",
+    "meanings": [
+      {
+        "tr": "taşra ile ilgili, taşralı",
+        "en": "connected with the parts of a country outside the capital city",
+        "exampleEn": "She grew up in a quiet provincial town far from the capital.",
+        "exampleTr": "Başkentten uzak, sessiz bir taşra kasabasında büyüdü."
+      },
+      {
+        "tr": "dar görüşlü, taşra kafalı",
+        "en": "having narrow or unsophisticated views",
+        "exampleEn": "His provincial attitudes made it hard for him to accept new ideas.",
+        "exampleTr": "Dar görüşlü tutumu yeni fikirleri kabul etmesini zorlaştırdı."
+      }
+    ],
+    "synonyms": [
+      "regional",
+      "parochial",
+      "narrow-minded"
+    ],
+    "antonyms": [
+      "cosmopolitan",
+      "urban",
+      "sophisticated"
+    ]
+  },
+  {
+    "id": "w_pruned",
+    "headword": "pruned",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pruːnd/",
+    "meanings": [
+      {
+        "tr": "budadı, budanmış (budamak)",
+        "en": "cut off branches from a tree or plant to help it grow",
+        "exampleEn": "The gardener pruned the rose bushes before winter.",
+        "exampleTr": "Bahçıvan kıştan önce gül fidanlarını budadı."
+      },
+      {
+        "tr": "kısaltmak, ayıklamak (masraf, metin vb.)",
+        "en": "reduced something by removing unnecessary parts",
+        "exampleEn": "The company pruned its budget to cut costs.",
+        "exampleTr": "Şirket maliyetleri düşürmek için bütçesini kıstı."
+      }
+    ],
+    "synonyms": [
+      "trimmed",
+      "clipped",
+      "cut back"
+    ],
+    "antonyms": [
+      "expanded"
+    ]
+  },
+  {
+    "id": "w_pry",
+    "headword": "pry",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/praɪ/",
+    "meanings": [
+      {
+        "tr": "başkasının işine burnunu sokmak, kurcalamak",
+        "en": "to try to find out private details about someone's life",
+        "exampleEn": "I didn't mean to pry, but I couldn't help overhearing your conversation.",
+        "exampleTr": "Burnumu sokmak istemedim ama konuşmanıza kulak misafiri olmaktan kendimi alamadım."
+      },
+      {
+        "tr": "zorlayarak açmak, kaldırmak",
+        "en": "to force something open or apart with effort",
+        "exampleEn": "He used a crowbar to pry the lid off the crate.",
+        "exampleTr": "Sandığın kapağını açmak için bir levye kullandı."
+      }
+    ],
+    "synonyms": [
+      "snoop",
+      "meddle",
+      "prise"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_puberty",
+    "headword": "puberty",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpjuːbəti/",
+    "meanings": [
+      {
+        "tr": "ergenlik, buluğ çağı",
+        "en": "the stage when a child's body becomes sexually mature",
+        "exampleEn": "Most children reach puberty between the ages of ten and fourteen.",
+        "exampleTr": "Çoğu çocuk on ile on dört yaş arasında ergenliğe ulaşır."
+      }
+    ],
+    "synonyms": [
+      "adolescence"
+    ],
+    "antonyms": [
+      "childhood"
+    ]
+  },
+  {
+    "id": "w_public_speaking",
+    "headword": "public speaking",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpʌblɪk ˈspiːkɪŋ/",
+    "meanings": [
+      {
+        "tr": "topluluk önünde konuşma, hitabet",
+        "en": "the activity of giving speeches to groups of people",
+        "exampleEn": "She took a course to overcome her fear of public speaking.",
+        "exampleTr": "Topluluk önünde konuşma korkusunu yenmek için bir kurs aldı."
+      }
+    ],
+    "synonyms": [
+      "oratory",
+      "rhetoric"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_puff",
+    "headword": "puff",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pʌf/",
+    "meanings": [
+      {
+        "tr": "üfleme, esinti, nefes",
+        "en": "a small amount of air, smoke, or wind blown out quickly",
+        "exampleEn": "A puff of smoke rose from the chimney.",
+        "exampleTr": "Bacadan bir duman bulutu yükseldi."
+      },
+      {
+        "tr": "nefes nefese soluyarak hareket etmek",
+        "en": "to breathe quickly and with difficulty",
+        "exampleEn": "He was puffing hard by the time he reached the top of the hill.",
+        "exampleTr": "Tepenin zirvesine vardığında zorla nefes alıyordu."
+      }
+    ],
+    "synonyms": [
+      "gust",
+      "breath",
+      "blow"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_puffing",
+    "headword": "puffing",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpʌfɪŋ/",
+    "meanings": [
+      {
+        "tr": "nefes nefese soluma, üfleme",
+        "en": "breathing hard, or blowing out air or smoke in short bursts",
+        "exampleEn": "The old train was puffing slowly up the steep track.",
+        "exampleTr": "Yaşlı tren dik rayda yavaşça soluyarak ilerliyordu."
+      }
+    ],
+    "synonyms": [
+      "panting",
+      "blowing",
+      "wheezing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pugnacious",
+    "headword": "pugnacious",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pʌɡˈneɪʃəs/",
+    "meanings": [
+      {
+        "tr": "kavgacı, dövüşken, saldırgan",
+        "en": "eager or quick to argue, quarrel, or fight",
+        "exampleEn": "The pugnacious debater challenged every point his opponent made.",
+        "exampleTr": "Kavgacı münazaracı, rakibinin ileri sürdüğü her noktaya itiraz etti."
+      }
+    ],
+    "synonyms": [
+      "combative",
+      "belligerent",
+      "aggressive"
+    ],
+    "antonyms": [
+      "peaceable",
+      "conciliatory",
+      "meek"
+    ]
+  },
+  {
+    "id": "w_pull_out",
+    "headword": "pull out",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpʊl ˈaʊt/",
+    "meanings": [
+      {
+        "tr": "çekilmek, geri çekilmek (bir işten/anlaşmadan)",
+        "en": "to stop being involved in something or withdraw from it",
+        "exampleEn": "The company decided to pull out of the deal at the last minute.",
+        "exampleTr": "Şirket son dakikada anlaşmadan çekilmeye karar verdi."
+      },
+      {
+        "tr": "(araç) yola çıkmak, hareket etmek",
+        "en": "(of a vehicle) to move away from a place or into traffic",
+        "exampleEn": "The train pulled out of the station right on time.",
+        "exampleTr": "Tren tam vaktinde istasyondan hareket etti."
+      }
+    ],
+    "synonyms": [
+      "withdraw",
+      "back out",
+      "retreat"
+    ],
+    "antonyms": [
+      "join",
+      "enter"
+    ]
+  },
+  {
+    "id": "w_puncture",
+    "headword": "puncture",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpʌŋktʃə/",
+    "meanings": [
+      {
+        "tr": "delik, patlak (lastik)",
+        "en": "a small hole made by a sharp object, especially in a tyre",
+        "exampleEn": "We had to stop because there was a puncture in the front tyre.",
+        "exampleTr": "Durmak zorunda kaldık çünkü ön lastikte bir patlak vardı."
+      },
+      {
+        "tr": "delmek, delik açmak",
+        "en": "to make a small hole in something",
+        "exampleEn": "The nail punctured the ball and all the air escaped.",
+        "exampleTr": "Çivi topu deldi ve bütün hava kaçtı."
+      }
+    ],
+    "synonyms": [
+      "hole",
+      "perforation",
+      "flat"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pure_white",
+    "headword": "pure white",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpjʊə ˈwaɪt/",
+    "meanings": [
+      {
+        "tr": "bembeyaz, saf beyaz",
+        "en": "a completely clean, bright white with no other colour",
+        "exampleEn": "The bride wore a dress of pure white silk.",
+        "exampleTr": "Gelin bembeyaz ipekten bir elbise giymişti."
+      }
+    ],
+    "synonyms": [
+      "snow-white",
+      "spotless"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_purification",
+    "headword": "purification",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpjʊərɪfɪˈkeɪʃən/",
+    "meanings": [
+      {
+        "tr": "arıtma, saflaştırma, temizleme",
+        "en": "the process of removing dirty or harmful substances from something",
+        "exampleEn": "Water purification is essential for providing safe drinking water.",
+        "exampleTr": "Su arıtımı, güvenli içme suyu sağlamak için hayati önem taşır."
+      }
+    ],
+    "synonyms": [
+      "cleansing",
+      "refinement",
+      "filtering"
+    ],
+    "antonyms": [
+      "contamination",
+      "pollution"
+    ]
+  },
+  {
+    "id": "w_purity",
+    "headword": "purity",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpjʊərəti/",
+    "meanings": [
+      {
+        "tr": "saflık, arılık, temizlik",
+        "en": "the state of being pure and not mixed with anything else",
+        "exampleEn": "The purity of the mountain air was refreshing after the city.",
+        "exampleTr": "Dağ havasının saflığı şehirden sonra ferahlatıcıydı."
+      }
+    ],
+    "synonyms": [
+      "cleanness",
+      "clarity",
+      "innocence"
+    ],
+    "antonyms": [
+      "impurity",
+      "contamination"
+    ]
+  },
+  {
+    "id": "w_purported",
+    "headword": "purported",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈpɔːtɪd/",
+    "meanings": [
+      {
+        "tr": "sözde, iddia edilen",
+        "en": "claimed to be true or to be something, though possibly not so",
+        "exampleEn": "The newspaper published a purported confession from the suspect.",
+        "exampleTr": "Gazete, şüpheliden geldiği iddia edilen bir itirafı yayımladı."
+      }
+    ],
+    "synonyms": [
+      "alleged",
+      "supposed",
+      "claimed"
+    ],
+    "antonyms": [
+      "genuine",
+      "proven"
+    ]
+  },
+  {
+    "id": "w_put_in",
+    "headword": "put in",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpʊt ˈɪn/",
+    "meanings": [
+      {
+        "tr": "(zaman/emek) harcamak, koymak",
+        "en": "to spend time or effort doing something",
+        "exampleEn": "She put in long hours to finish the project on time.",
+        "exampleTr": "Projeyi zamanında bitirmek için uzun saatler harcadı."
+      },
+      {
+        "tr": "(resmi olarak) sunmak, vermek (başvuru, talep)",
+        "en": "to make an official request or submit something",
+        "exampleEn": "He put in a request for a transfer to another department.",
+        "exampleTr": "Başka bir bölüme geçiş için bir talep sundu."
+      }
+    ],
+    "synonyms": [
+      "contribute",
+      "submit",
+      "invest"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pyjamas",
+    "headword": "pyjamas",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈdʒɑːməz/",
+    "meanings": [
+      {
+        "tr": "pijama",
+        "en": "a loose set of shirt and trousers worn in bed",
+        "exampleEn": "The children put on their pyjamas and got ready for bed.",
+        "exampleTr": "Çocuklar pijamalarını giyip yatmaya hazırlandı."
+      }
+    ],
+    "synonyms": [
+      "nightclothes",
+      "nightwear"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_quaff",
+    "headword": "quaff",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kwɒf/",
+    "meanings": [
+      {
+        "tr": "kana kana içmek, yudumlamak (bol miktarda)",
+        "en": "to drink something quickly or in large amounts",
+        "exampleEn": "They quaffed several pints of ale at the tavern.",
+        "exampleTr": "Meyhanede birkaç bardak birayı kana kana içtiler."
+      }
+    ],
+    "synonyms": [
+      "gulp",
+      "swig",
+      "drink"
+    ],
+    "antonyms": [
+      "sip"
+    ]
+  },
+  {
+    "id": "w_quality_paper",
+    "headword": "quality paper",
+    "pos": "phrase",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkwɒləti ˈpeɪpə/",
+    "meanings": [
+      {
+        "tr": "ciddi/saygın gazete",
+        "en": "a serious newspaper aimed at educated readers, not a tabloid",
+        "exampleEn": "He preferred to read a quality paper rather than the tabloids.",
+        "exampleTr": "Bulvar gazeteleri yerine ciddi bir gazete okumayı tercih ederdi."
+      }
+    ],
+    "synonyms": [
+      "broadsheet"
+    ],
+    "antonyms": [
+      "tabloid"
+    ]
+  },
+  {
+    "id": "w_qualms",
+    "headword": "qualms",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kwɑːmz/",
+    "meanings": [
+      {
+        "tr": "vicdani rahatsızlık, endişe, tereddüt",
+        "en": "feelings of doubt or worry about whether something is right",
+        "exampleEn": "She had no qualms about telling him exactly what she thought.",
+        "exampleTr": "Ona tam olarak ne düşündüğünü söylemekte hiç tereddüt etmedi."
+      }
+    ],
+    "synonyms": [
+      "misgivings",
+      "scruples",
+      "doubts"
+    ],
+    "antonyms": [
+      "confidence"
+    ]
+  },
+  {
+    "id": "w_quay",
+    "headword": "quay",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kiː/",
+    "meanings": [
+      {
+        "tr": "rıhtım, iskele",
+        "en": "a platform beside water where boats are loaded and unloaded",
+        "exampleEn": "The fishing boats were tied up along the quay.",
+        "exampleTr": "Balıkçı tekneleri rıhtım boyunca bağlanmıştı."
+      }
+    ],
+    "synonyms": [
+      "wharf",
+      "dock",
+      "pier"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_questionably",
+    "headword": "questionably",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwestʃənəbli/",
+    "meanings": [
+      {
+        "tr": "kuşkulu bir şekilde, tartışmalı olarak",
+        "en": "in a way that is doubtful or open to question",
+        "exampleEn": "The money was questionably obtained through undisclosed deals.",
+        "exampleTr": "Para, açıklanmayan anlaşmalar yoluyla kuşkulu bir şekilde elde edilmişti."
+      }
+    ],
+    "synonyms": [
+      "doubtfully",
+      "dubiously"
+    ],
+    "antonyms": [
+      "unquestionably",
+      "certainly"
+    ]
+  },
+  {
+    "id": "w_questioningly",
+    "headword": "questioningly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwestʃənɪŋli/",
+    "meanings": [
+      {
+        "tr": "soru sorar gibi, merakla, kuşkuyla",
+        "en": "in a way that shows you want an answer or have doubts",
+        "exampleEn": "She looked at him questioningly, waiting for an explanation.",
+        "exampleTr": "Bir açıklama bekleyerek ona soru sorar gibi baktı."
+      }
+    ],
+    "synonyms": [
+      "inquiringly",
+      "quizzically"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_quibbling",
+    "headword": "quibbling",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwɪblɪŋ/",
+    "meanings": [
+      {
+        "tr": "kılı kırk yarma, önemsiz konularda tartışma",
+        "en": "arguing about small, unimportant details",
+        "exampleEn": "Stop quibbling over a few cents and let's make the deal.",
+        "exampleTr": "Birkaç kuruş için kılı kırk yarmayı bırak da anlaşmayı yapalım."
+      }
+    ],
+    "synonyms": [
+      "nitpicking",
+      "carping",
+      "cavilling"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_quicken",
+    "headword": "quicken",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwɪkən/",
+    "meanings": [
+      {
+        "tr": "hızlanmak, hızlandırmak",
+        "en": "to become faster or to make something faster",
+        "exampleEn": "Her heartbeat quickened as she opened the letter.",
+        "exampleTr": "Mektubu açarken kalp atışları hızlandı."
+      }
+    ],
+    "synonyms": [
+      "accelerate",
+      "speed up",
+      "hasten"
+    ],
+    "antonyms": [
+      "slow",
+      "decelerate"
+    ]
+  },
+  {
+    "id": "w_quickness",
+    "headword": "quickness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwɪknəs/",
+    "meanings": [
+      {
+        "tr": "çabukluk, hız, keskinlik",
+        "en": "the quality of being fast or fast to understand",
+        "exampleEn": "The boxer was admired for the quickness of his reflexes.",
+        "exampleTr": "Boksör, reflekslerinin çabukluğuyla takdir topladı."
+      }
+    ],
+    "synonyms": [
+      "speed",
+      "rapidity",
+      "swiftness"
+    ],
+    "antonyms": [
+      "slowness"
+    ]
+  },
+  {
+    "id": "w_quietness",
+    "headword": "quietness",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwaɪətnəs/",
+    "meanings": [
+      {
+        "tr": "sessizlik, sükunet",
+        "en": "the state of being quiet, calm, or without noise",
+        "exampleEn": "I enjoy the quietness of the countryside early in the morning.",
+        "exampleTr": "Sabahın erken saatlerinde kırsalın sessizliğini severim."
+      }
+    ],
+    "synonyms": [
+      "silence",
+      "stillness",
+      "calm"
+    ],
+    "antonyms": [
+      "noise",
+      "loudness"
+    ]
+  },
+  {
+    "id": "w_quote_marks",
+    "headword": "quote marks",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwəʊt mɑːks/",
+    "meanings": [
+      {
+        "tr": "tırnak işareti",
+        "en": "the punctuation marks used to show the beginning and end of a quotation",
+        "exampleEn": "Put the speaker's exact words inside quote marks.",
+        "exampleTr": "Konuşanın tam sözlerini tırnak işaretleri içine koy."
+      }
+    ],
+    "synonyms": [
+      "quotation marks",
+      "inverted commas"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_racer",
+    "headword": "racer",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈreɪsə/",
+    "meanings": [
+      {
+        "tr": "yarışçı; yarış aracı/atı",
+        "en": "a person, animal, or vehicle that takes part in races",
+        "exampleEn": "The young racer set a new record on the track.",
+        "exampleTr": "Genç yarışçı pistte yeni bir rekor kırdı."
+      }
+    ],
+    "synonyms": [
+      "competitor",
+      "runner",
+      "driver"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_ragged",
+    "headword": "ragged",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈræɡɪd/",
+    "meanings": [
+      {
+        "tr": "yırtık pırtık, eski püskü",
+        "en": "old and torn; wearing worn-out clothes",
+        "exampleEn": "The beggar wore a ragged coat full of holes.",
+        "exampleTr": "Dilenci deliklerle dolu yırtık pırtık bir palto giyiyordu."
+      },
+      {
+        "tr": "düzensiz, pürüzlü, girintili çıkıntılı",
+        "en": "uneven or rough in shape or line",
+        "exampleEn": "The mountains formed a ragged outline against the sky.",
+        "exampleTr": "Dağlar gökyüzüne karşı girintili çıkıntılı bir siluet oluşturuyordu."
+      }
+    ],
+    "synonyms": [
+      "tattered",
+      "frayed",
+      "shabby"
+    ],
+    "antonyms": [
+      "neat",
+      "smooth"
+    ]
+  },
+  {
+    "id": "w_rambler",
+    "headword": "rambler",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈræmblə/",
+    "meanings": [
+      {
+        "tr": "kırlarda uzun yürüyüşe çıkan kimse",
+        "en": "a person who walks in the countryside for pleasure",
+        "exampleEn": "On Sundays the hills are full of ramblers enjoying the fresh air.",
+        "exampleTr": "Pazar günleri tepeler, temiz havanın tadını çıkaran yürüyüşçülerle dolar."
+      }
+    ],
+    "synonyms": [
+      "walker",
+      "hiker"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_randomness",
+    "headword": "randomness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrændəmnəs/",
+    "meanings": [
+      {
+        "tr": "rastgelelik, gelişigüzellik",
+        "en": "the quality of happening without a pattern, plan, or reason",
+        "exampleEn": "There is a certain randomness in which numbers come up in a lottery.",
+        "exampleTr": "Piyangoda hangi sayıların çıkacağında belli bir rastgelelik vardır."
+      }
+    ],
+    "synonyms": [
+      "chance",
+      "unpredictability",
+      "arbitrariness"
+    ],
+    "antonyms": [
+      "order",
+      "predictability"
+    ]
+  },
+  {
+    "id": "w_rapidity",
+    "headword": "rapidity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rəˈpɪdəti/",
+    "meanings": [
+      {
+        "tr": "hız, çabukluk, sürat",
+        "en": "the quality of being very fast",
+        "exampleEn": "We were surprised by the rapidity with which the news spread.",
+        "exampleTr": "Haberin yayılma hızına şaşırdık."
+      }
+    ],
+    "synonyms": [
+      "speed",
+      "swiftness",
+      "quickness"
+    ],
+    "antonyms": [
+      "slowness"
+    ]
+  },
+  {
+    "id": "w_rashness",
+    "headword": "rashness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈræʃnəs/",
+    "meanings": [
+      {
+        "tr": "aceleçilik, düşüncesizlik, tedbirsizlik",
+        "en": "the quality of acting too quickly without thinking of the results",
+        "exampleEn": "He later regretted the rashness of his decision to quit his job.",
+        "exampleTr": "İşini bırakma kararındaki düşüncesizliğinden sonradan pişman oldu."
+      }
+    ],
+    "synonyms": [
+      "recklessness",
+      "impulsiveness",
+      "hastiness"
+    ],
+    "antonyms": [
+      "caution",
+      "prudence"
+    ]
+  },
+  {
+    "id": "w_rationality",
+    "headword": "rationality",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌræʃəˈnæləti/",
+    "meanings": [
+      {
+        "tr": "akılcılık, mantıklılık",
+        "en": "the quality of being based on reason and clear thinking",
+        "exampleEn": "He prided himself on the rationality of his business decisions.",
+        "exampleTr": "İş kararlarındaki akılcılıkla övünürdü."
+      }
+    ],
+    "synonyms": [
+      "reason",
+      "logic",
+      "sense"
+    ],
+    "antonyms": [
+      "irrationality"
+    ]
+  },
+  {
+    "id": "w_realisation",
+    "headword": "realisation",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌrɪəlaɪˈzeɪʃən/",
+    "meanings": [
+      {
+        "tr": "farkına varma, kavrama",
+        "en": "the moment when you suddenly understand something",
+        "exampleEn": "The realisation that he had made a mistake came too late.",
+        "exampleTr": "Bir hata yaptığının farkına varması çok geç oldu."
+      },
+      {
+        "tr": "gerçekleştirme, hayata geçirme",
+        "en": "the achieving of something planned or hoped for",
+        "exampleEn": "The new stadium was the realisation of a lifelong dream.",
+        "exampleTr": "Yeni stadyum, ömür boyu süren bir hayalin gerçekleşmesiydi."
+      }
+    ],
+    "synonyms": [
+      "awareness",
+      "understanding",
+      "fulfilment"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_realised",
+    "headword": "realised",
+    "pos": "verb",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɪəlaɪzd/",
+    "meanings": [
+      {
+        "tr": "fark etti, anladı",
+        "en": "became aware of or understood something",
+        "exampleEn": "She suddenly realised she had left her keys at home.",
+        "exampleTr": "Aniden anahtarlarını evde bıraktığını fark etti."
+      },
+      {
+        "tr": "gerçekleştirdi, hayata geçirdi",
+        "en": "achieved something that was planned or hoped for",
+        "exampleEn": "He finally realised his ambition of running his own company.",
+        "exampleTr": "Sonunda kendi şirketini yönetme hırsını gerçekleştirdi."
+      }
+    ],
+    "synonyms": [
+      "understood",
+      "recognised",
+      "achieved"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_reappearing",
+    "headword": "reappearing",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːəˈpɪərɪŋ/",
+    "meanings": [
+      {
+        "tr": "yeniden ortaya çıkma, tekrar görünme",
+        "en": "appearing again after being absent or hidden",
+        "exampleEn": "The sun kept reappearing between the passing clouds.",
+        "exampleTr": "Güneş, geçen bulutların arasından tekrar tekrar görünüyordu."
+      }
+    ],
+    "synonyms": [
+      "returning",
+      "resurfacing"
+    ],
+    "antonyms": [
+      "disappearing",
+      "vanishing"
+    ]
+  },
+  {
+    "id": "w_reassess",
+    "headword": "reassess",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːəˈses/",
+    "meanings": [
+      {
+        "tr": "yeniden değerlendirmek, gözden geçirmek",
+        "en": "to think again about something to decide if you should change it",
+        "exampleEn": "After the results came in, we had to reassess our strategy.",
+        "exampleTr": "Sonuçlar geldikten sonra stratejimizi yeniden değerlendirmek zorunda kaldık."
+      }
+    ],
+    "synonyms": [
+      "reevaluate",
+      "reconsider",
+      "review"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_reboot",
+    "headword": "reboot",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈbuːt/",
+    "meanings": [
+      {
+        "tr": "yeniden başlatmak (bilgisayar)",
+        "en": "to turn a computer off and then on again",
+        "exampleEn": "If the program freezes, try to reboot your computer.",
+        "exampleTr": "Program donarsa bilgisayarını yeniden başlatmayı dene."
+      },
+      {
+        "tr": "yeniden başlatmak, canlandırmak (proje, seri)",
+        "en": "to start something again in a fresh, new way",
+        "exampleEn": "The studio decided to reboot the classic film series.",
+        "exampleTr": "Stüdyo, klasik film serisini yeniden başlatmaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "restart",
+      "reset"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_recant",
+    "headword": "recant",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈkænt/",
+    "meanings": [
+      {
+        "tr": "sözünü geri almak, tövbe etmek, dönmek",
+        "en": "to publicly say that you no longer hold a belief or statement",
+        "exampleEn": "Under pressure, the scientist was forced to recant his theory.",
+        "exampleTr": "Baskı altında, bilim insanı teorisini geri almak zorunda kaldı."
+      }
+    ],
+    "synonyms": [
+      "retract",
+      "withdraw",
+      "disavow"
+    ],
+    "antonyms": [
+      "affirm",
+      "maintain"
+    ]
+  },
+  {
+    "id": "w_recapitulate",
+    "headword": "recapitulate",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːkəˈpɪtʃuleɪt/",
+    "meanings": [
+      {
+        "tr": "özetlemek, ana hatlarıyla tekrarlamak",
+        "en": "to repeat the main points of something briefly",
+        "exampleEn": "Let me recapitulate the key arguments before we conclude.",
+        "exampleTr": "Bitirmeden önce temel argümanları özetleyeyim."
+      }
+    ],
+    "synonyms": [
+      "summarise",
+      "recap",
+      "restate"
+    ],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "w_about",
+    "headword": "about",
+    "extraMeanings": [
+      {
+        "tr": "hakkında, ile ilgili",
+        "en": "on the subject of; concerning",
+        "exampleEn": "This book is about the history of Rome.",
+        "exampleTr": "Bu kitap Roma tarihi hakkındadır."
+      }
+    ]
+  },
+  {
+    "id": "w_action",
+    "headword": "action",
+    "extraMeanings": [
+      {
+        "tr": "aksiyon, hareketli sahneler (film türü)",
+        "en": "exciting events, as in an action film",
+        "exampleEn": "The movie was full of action and car chases.",
+        "exampleTr": "Film aksiyon ve araba kovalamacalarıyla doluydu."
+      }
+    ]
+  },
+  {
+    "id": "w_add",
+    "headword": "add",
+    "extraMeanings": [
+      {
+        "tr": "toplamak (matematik)",
+        "en": "to combine numbers to get a total",
+        "exampleEn": "If you add three and four, you get seven.",
+        "exampleTr": "Üç ile dördü toplarsan yedi elde edersin."
+      },
+      {
+        "tr": "ilave etmek, sözüne eklemek (söz)",
+        "en": "to say something more",
+        "exampleEn": "\"And don't be late,\" she added.",
+        "exampleTr": "\"Ve geç kalma,\" diye ekledi."
+      }
+    ]
+  },
+  {
+    "id": "w_afraid",
+    "headword": "afraid",
+    "extraMeanings": [
+      {
+        "tr": "üzgünüm, maalesef (kibar özür ifadesi)",
+        "en": "used to politely express regret or bad news",
+        "exampleEn": "I'm afraid I can't help you today.",
+        "exampleTr": "Maalesef bugün sana yardım edemem."
+      }
+    ]
+  },
+  {
+    "id": "w_age",
+    "headword": "age",
+    "extraMeanings": [
+      {
+        "tr": "çağ, devir, dönem",
+        "en": "a particular period in history",
+        "exampleEn": "We live in the age of the internet.",
+        "exampleTr": "İnternet çağında yaşıyoruz."
+      },
+      {
+        "tr": "yaşlanmak (fiil)",
+        "en": "to become older",
+        "exampleEn": "He has aged a lot since I last saw him.",
+        "exampleTr": "Onu son gördüğümden beri çok yaşlanmış."
+      }
+    ]
+  },
+  {
+    "id": "w_agree",
+    "headword": "agree",
+    "extraMeanings": [
+      {
+        "tr": "razı olmak, kabul etmek",
+        "en": "to say yes to a suggestion or request",
+        "exampleEn": "She agreed to help us with the project.",
+        "exampleTr": "Projede bize yardım etmeyi kabul etti."
+      }
+    ]
+  },
+  {
+    "id": "w_album",
+    "headword": "album",
+    "extraMeanings": [
+      {
+        "tr": "albüm (fotoğraf/pul defteri)",
+        "en": "a book for keeping photos or stamps",
+        "exampleEn": "She showed me her wedding photo album.",
+        "exampleTr": "Bana düğün fotoğraf albümünü gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w_answer",
+    "headword": "answer",
+    "extraMeanings": [
+      {
+        "tr": "cevap vermek, açmak (telefon/kapı) (fiil)",
+        "en": "to reply, or to respond to a phone or door",
+        "exampleEn": "Please answer the phone; it's ringing.",
+        "exampleTr": "Lütfen telefona cevap ver; çalıyor."
+      },
+      {
+        "tr": "çözüm",
+        "en": "a solution to a problem",
+        "exampleEn": "More money is not always the answer.",
+        "exampleTr": "Daha fazla para her zaman çözüm değildir."
+      }
+    ]
+  },
+  {
+    "id": "w_arm",
+    "headword": "arm",
+    "extraMeanings": [
+      {
+        "tr": "kol (koltuğun); kol (bir şeyin uzantısı)",
+        "en": "a part of a chair or object shaped like an arm",
+        "exampleEn": "He rested his cup on the arm of the sofa.",
+        "exampleTr": "Fincanını koltuğun koluna koydu."
+      },
+      {
+        "tr": "silahlandırmak (fiil); silah (arms)",
+        "en": "to provide with weapons; weapons",
+        "exampleEn": "The soldiers were armed with rifles.",
+        "exampleTr": "Askerler tüfeklerle silahlandırılmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_art",
+    "headword": "art",
+    "extraMeanings": [
+      {
+        "tr": "beceri, ustalık, sanat (bir işi ustaca yapma)",
+        "en": "a skill in doing something well",
+        "exampleEn": "The art of conversation is dying out.",
+        "exampleTr": "Sohbet sanatı yok olup gidiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_ask",
+    "headword": "ask",
+    "extraMeanings": [
+      {
+        "tr": "davet etmek, çağırmak",
+        "en": "to invite someone",
+        "exampleEn": "They asked us to dinner on Friday.",
+        "exampleTr": "Bizi cuma günü yemeğe davet ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_ball",
+    "headword": "ball",
+    "extraMeanings": [
+      {
+        "tr": "balo, danslı davet",
+        "en": "a large formal dancing party",
+        "exampleEn": "Cinderella danced at the royal ball.",
+        "exampleTr": "Külkedisi kraliyet balosunda dans etti."
+      }
+    ]
+  },
+  {
+    "id": "w_band",
+    "headword": "band",
+    "extraMeanings": [
+      {
+        "tr": "bant, şerit, kuşak",
+        "en": "a thin, flat strip of material",
+        "exampleEn": "She tied her hair back with an elastic band.",
+        "exampleTr": "Saçını lastik bir bantla arkaya bağladı."
+      },
+      {
+        "tr": "grup, topluluk (insan grubu)",
+        "en": "a group of people acting together",
+        "exampleEn": "A small band of protesters gathered outside.",
+        "exampleTr": "Dışarıda küçük bir grup protestocu toplandı."
+      }
+    ]
+  },
+  {
+    "id": "w_bank",
+    "headword": "bank",
+    "extraMeanings": [
+      {
+        "tr": "nehir kıyısı, kenar, yaka",
+        "en": "the land along the side of a river",
+        "exampleEn": "We had a picnic on the bank of the river.",
+        "exampleTr": "Nehir kıyısında piknik yaptık."
+      }
+    ]
+  },
+  {
+    "id": "w_bar",
+    "headword": "bar",
+    "extraMeanings": [
+      {
+        "tr": "kalıp (çikolata/sabun)",
+        "en": "a small block of something like chocolate or soap",
+        "exampleEn": "He ate a whole bar of chocolate.",
+        "exampleTr": "Koca bir kalıp çikolata yedi."
+      }
+    ]
+  },
+  {
+    "id": "w_bat",
+    "headword": "bat",
+    "extraMeanings": [
+      {
+        "tr": "vurmak, sopayla vurmak (fiil, kriket/beysbol)",
+        "en": "to hit a ball with a bat",
+        "exampleEn": "He batted the ball into the crowd.",
+        "exampleTr": "Topa vurup kalabalığın içine gönderdi."
+      }
+    ]
+  },
+  {
+    "id": "w_bear",
+    "headword": "bear",
+    "extraMeanings": [
+      {
+        "tr": "katlanmak, dayanmak, çekmek (fiil)",
+        "en": "to tolerate or endure something difficult",
+        "exampleEn": "I can't bear this hot weather.",
+        "exampleTr": "Bu sıcak havaya dayanamıyorum."
+      },
+      {
+        "tr": "taşımak, kaldırmak (ağırlık/yük) (fiil)",
+        "en": "to hold up or support a weight",
+        "exampleEn": "The ice was too thin to bear his weight.",
+        "exampleTr": "Buz onun ağırlığını taşıyamayacak kadar inceydi."
+      }
+    ]
+  },
+  {
+    "id": "w_become",
+    "headword": "become",
+    "extraMeanings": [
+      {
+        "tr": "yakışmak, uygun düşmek (fiil)",
+        "en": "to suit or look good on someone",
+        "exampleEn": "That dress really becomes you.",
+        "exampleTr": "O elbise sana çok yakışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_bed",
+    "headword": "bed",
+    "extraMeanings": [
+      {
+        "tr": "tarh, tarla (bahçede); yatak (deniz/nehir dibi)",
+        "en": "an area of ground for plants, or the bottom of a river/sea",
+        "exampleEn": "She planted roses in the flower bed.",
+        "exampleTr": "Çiçek tarhına güller dikti."
+      }
+    ]
+  },
+  {
+    "id": "w_before",
+    "headword": "before",
+    "extraMeanings": [
+      {
+        "tr": "önünde, huzurunda",
+        "en": "in front of or in the presence of",
+        "exampleEn": "He stood before the judge.",
+        "exampleTr": "Hâkimin önünde durdu."
+      }
+    ]
+  },
+  {
+    "id": "w_behind",
+    "headword": "behind",
+    "extraMeanings": [
+      {
+        "tr": "geri kalmış, gerisinde (program/gelişim)",
+        "en": "late or less advanced than expected",
+        "exampleEn": "We are behind with our work this week.",
+        "exampleTr": "Bu hafta işimizde geri kaldık."
+      }
+    ]
+  },
+  {
+    "id": "w_bell",
+    "headword": "bell",
+    "extraMeanings": [
+      {
+        "tr": "zil sesi, çıngırak sesi (bisiklet/kapı)",
+        "en": "the ringing sound or device on a door or bike",
+        "exampleEn": "He rang the bell but nobody answered.",
+        "exampleTr": "Zili çaldı ama kimse cevap vermedi."
+      }
+    ]
+  },
+  {
+    "id": "w_best",
+    "headword": "best",
+    "extraMeanings": [
+      {
+        "tr": "en iyi şekilde (zarf)",
+        "en": "in the most excellent way",
+        "exampleEn": "She works best in the morning.",
+        "exampleTr": "En iyi sabahları çalışır."
+      },
+      {
+        "tr": "elinden gelenin en iyisi (isim)",
+        "en": "the greatest effort someone can make",
+        "exampleEn": "Just do your best and don't worry.",
+        "exampleTr": "Sadece elinden gelenin en iyisini yap ve merak etme."
+      }
+    ]
+  },
+  {
+    "id": "w_better",
+    "headword": "better",
+    "extraMeanings": [
+      {
+        "tr": "iyileşmiş, sağlığı düzelmiş (hastalıktan)",
+        "en": "recovered or healthier than before",
+        "exampleEn": "I feel much better after the rest.",
+        "exampleTr": "Dinlendikten sonra çok daha iyi hissediyorum."
+      },
+      {
+        "tr": "daha iyi (zarf)",
+        "en": "in a more excellent way",
+        "exampleEn": "She sings better than her sister.",
+        "exampleTr": "Kız kardeşinden daha iyi şarkı söyler."
+      }
+    ]
+  },
+  {
+    "id": "w_block",
+    "headword": "block",
+    "extraMeanings": [
+      {
+        "tr": "engellemek, tıkamak (fiil)",
+        "en": "to stop something from passing or moving",
+        "exampleEn": "A fallen tree blocked the road.",
+        "exampleTr": "Devrilen bir ağaç yolu tıkadı."
+      },
+      {
+        "tr": "blok, kalıp (tahta/taş parçası)",
+        "en": "a solid piece of hard material",
+        "exampleEn": "The wall was built from blocks of stone.",
+        "exampleTr": "Duvar taş bloklarından inşa edilmişti."
+      }
+    ]
+  },
+  {
+    "id": "w_blue",
+    "headword": "blue",
+    "extraMeanings": [
+      {
+        "tr": "hüzünlü, kederli, mutsuz",
+        "en": "sad or unhappy",
+        "exampleEn": "I've been feeling a bit blue lately.",
+        "exampleTr": "Son zamanlarda biraz hüzünlü hissediyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_body",
+    "headword": "body",
+    "extraMeanings": [
+      {
+        "tr": "ceset",
+        "en": "a dead person's body",
+        "exampleEn": "The police found a body in the river.",
+        "exampleTr": "Polis nehirde bir ceset buldu."
+      },
+      {
+        "tr": "gövde, ana kısım",
+        "en": "the main part of something",
+        "exampleEn": "The body of the car was badly damaged.",
+        "exampleTr": "Arabanın gövdesi ağır hasar görmüştü."
+      }
+    ]
+  },
+  {
+    "id": "w_book",
+    "headword": "book",
+    "extraMeanings": [
+      {
+        "tr": "rezervasyon yaptırmak, yer ayırtmak (fiil)",
+        "en": "to arrange to have or use something later",
+        "exampleEn": "We booked a table at the restaurant.",
+        "exampleTr": "Restoranda bir masa ayırttık."
+      }
+    ]
+  },
+  {
+    "id": "w_bottom",
+    "headword": "bottom",
+    "extraMeanings": [
+      {
+        "tr": "kıç, popo",
+        "en": "the part of the body you sit on",
+        "exampleEn": "The child fell and hurt his bottom.",
+        "exampleTr": "Çocuk düşüp poposunu acıttı."
+      },
+      {
+        "tr": "en alttaki, en son (sıfat)",
+        "en": "lowest in position",
+        "exampleEn": "The keys are on the bottom shelf.",
+        "exampleTr": "Anahtarlar en alttaki rafta."
+      }
+    ]
+  },
+  {
+    "id": "w_box",
+    "headword": "box",
+    "extraMeanings": [
+      {
+        "tr": "kutucuk, kare (form üzerinde)",
+        "en": "a small square on a form to write or tick in",
+        "exampleEn": "Tick the box if you agree.",
+        "exampleTr": "Kabul ediyorsan kutucuğu işaretle."
+      }
+    ]
+  },
+  {
+    "id": "w_brain",
+    "headword": "brain",
+    "extraMeanings": [
+      {
+        "tr": "akıl, zekâ, kafa",
+        "en": "the ability to think clearly; intelligence",
+        "exampleEn": "Use your brain and think before you act.",
+        "exampleTr": "Kafanı kullan ve harekete geçmeden önce düşün."
+      }
+    ]
+  },
+  {
+    "id": "w_break",
+    "headword": "break",
+    "extraMeanings": [
+      {
+        "tr": "ara, mola, teneffüs (isim)",
+        "en": "a short rest or pause",
+        "exampleEn": "Let's take a short break for coffee.",
+        "exampleTr": "Kahve için kısa bir mola verelim."
+      },
+      {
+        "tr": "bozulmak, arızalanmak (makine)",
+        "en": "to stop working (of a machine)",
+        "exampleEn": "The washing machine broke again.",
+        "exampleTr": "Çamaşır makinesi yine bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w_bridge",
+    "headword": "bridge",
+    "extraMeanings": [
+      {
+        "tr": "briç (kart oyunu)",
+        "en": "a card game for four players",
+        "exampleEn": "My grandparents play bridge every Sunday.",
+        "exampleTr": "Büyükanne ve büyükbabam her pazar briç oynar."
+      }
+    ]
+  },
+  {
+    "id": "w_brush",
+    "headword": "brush",
+    "extraMeanings": [
+      {
+        "tr": "fırçalamak (fiil)",
+        "en": "to clean or tidy with a brush",
+        "exampleEn": "Don't forget to brush your teeth.",
+        "exampleTr": "Dişlerini fırçalamayı unutma."
+      },
+      {
+        "tr": "hafifçe dokunmak, sürtünmek (fiil)",
+        "en": "to touch something lightly while passing",
+        "exampleEn": "Her hand brushed against mine.",
+        "exampleTr": "Eli elime hafifçe değdi."
+      }
+    ]
+  },
+  {
+    "id": "w_building",
+    "headword": "building",
+    "extraMeanings": [
+      {
+        "tr": "inşa etme, yapım (eylem)",
+        "en": "the process of constructing something",
+        "exampleEn": "The building of the bridge took two years.",
+        "exampleTr": "Köprünün inşası iki yıl sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_business",
+    "headword": "business",
+    "extraMeanings": [
+      {
+        "tr": "mesele, husus, iş (kişiyi ilgilendiren)",
+        "en": "a matter or concern of a person",
+        "exampleEn": "What I do is none of your business.",
+        "exampleTr": "Ne yaptığım seni ilgilendirmez."
+      }
+    ]
+  },
+  {
+    "id": "w_button",
+    "headword": "button",
+    "extraMeanings": [
+      {
+        "tr": "düğme, tuş (basılan)",
+        "en": "a small part you press on a machine",
+        "exampleEn": "Press the red button to start.",
+        "exampleTr": "Başlatmak için kırmızı düğmeye bas."
+      }
+    ]
+  },
+  {
+    "id": "w_call",
+    "headword": "call",
+    "extraMeanings": [
+      {
+        "tr": "adlandırmak, ismini koymak (fiil)",
+        "en": "to give someone or something a name",
+        "exampleEn": "They called their baby Emma.",
+        "exampleTr": "Bebeklerine Emma adını koydular."
+      },
+      {
+        "tr": "telefon görüşmesi (isim)",
+        "en": "an act of phoning someone",
+        "exampleEn": "I got a call from my boss this morning.",
+        "exampleTr": "Bu sabah patronumdan bir telefon aldım."
+      }
+    ]
+  },
+  {
+    "id": "w_camp",
+    "headword": "camp",
+    "extraMeanings": [
+      {
+        "tr": "kamp yapmak, çadır kurmak (fiil)",
+        "en": "to stay in a tent outdoors",
+        "exampleEn": "We camped by the lake for three nights.",
+        "exampleTr": "Gölün kenarında üç gece kamp yaptık."
+      }
+    ]
+  },
+  {
+    "id": "w_can",
+    "headword": "can",
+    "extraMeanings": [
+      {
+        "tr": "-ebilmek, yapabilmek (yardımcı fiil)",
+        "en": "to be able to do something",
+        "exampleEn": "She can speak three languages.",
+        "exampleTr": "Üç dil konuşabiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_cap",
+    "headword": "cap",
+    "extraMeanings": [
+      {
+        "tr": "kapak (şişe/kalem)",
+        "en": "a lid or cover for a bottle or pen",
+        "exampleEn": "Put the cap back on the bottle.",
+        "exampleTr": "Şişenin kapağını geri tak."
+      }
+    ]
+  },
+  {
+    "id": "w_card",
+    "headword": "card",
+    "extraMeanings": [
+      {
+        "tr": "iskambil kağıdı, oyun kağıdı",
+        "en": "one of a set of cards used for games",
+        "exampleEn": "They played cards until midnight.",
+        "exampleTr": "Gece yarısına kadar kağıt oynadılar."
+      },
+      {
+        "tr": "karton, mukavva",
+        "en": "thick, stiff paper",
+        "exampleEn": "The model was made of card and glue.",
+        "exampleTr": "Maket karton ve tutkaldan yapılmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_care",
+    "headword": "care",
+    "extraMeanings": [
+      {
+        "tr": "umursamak, önemsemek (fiil)",
+        "en": "to feel interest or concern about something",
+        "exampleEn": "I don't care what people think.",
+        "exampleTr": "İnsanların ne düşündüğünü umursamıyorum."
+      },
+      {
+        "tr": "dikkat, özen (yaparken)",
+        "en": "attention to avoid mistakes or damage",
+        "exampleEn": "Handle the glasses with care.",
+        "exampleTr": "Bardakları dikkatle tut."
+      }
+    ]
+  },
+  {
+    "id": "w_carry",
+    "headword": "carry",
+    "extraMeanings": [
+      {
+        "tr": "iletmek, taşımak (ses/hastalık); satmakta bulundurmak",
+        "en": "to move or transmit something; to stock a product",
+        "exampleEn": "This shop carries a wide range of shoes.",
+        "exampleTr": "Bu dükkânda geniş bir ayakkabı çeşidi bulunur."
+      }
+    ]
+  },
+  {
+    "id": "w_case",
+    "headword": "case",
+    "extraMeanings": [
+      {
+        "tr": "dava, vaka (hukuk/tıp)",
+        "en": "a legal action or a medical instance",
+        "exampleEn": "The lawyer won the case in court.",
+        "exampleTr": "Avukat davayı mahkemede kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_catch",
+    "headword": "catch",
+    "extraMeanings": [
+      {
+        "tr": "yakalamak, tutmak (fiil)",
+        "en": "to take hold of something moving",
+        "exampleEn": "She threw the ball and he caught it.",
+        "exampleTr": "O topu attı, adam da yakaladı."
+      },
+      {
+        "tr": "yetişmek (otobüs/tren) (fiil)",
+        "en": "to get on a bus or train in time",
+        "exampleEn": "I have to catch the 8 o'clock train.",
+        "exampleTr": "Saat sekiz trenine yetişmem gerek."
+      }
+    ]
+  },
+  {
+    "id": "w_chair",
+    "headword": "chair",
+    "extraMeanings": [
+      {
+        "tr": "başkan, oturum başkanı",
+        "en": "the person in charge of a meeting",
+        "exampleEn": "The chair opened the meeting at nine.",
+        "exampleTr": "Başkan toplantıyı dokuzda açtı."
+      }
+    ]
+  },
+  {
+    "id": "w_change",
+    "headword": "change",
+    "extraMeanings": [
+      {
+        "tr": "değişmek, değiştirmek (fiil)",
+        "en": "to make or become different",
+        "exampleEn": "The city has changed a lot in ten years.",
+        "exampleTr": "Şehir on yılda çok değişti."
+      },
+      {
+        "tr": "üstünü değiştirmek; (araç) aktarma yapmak (fiil)",
+        "en": "to put on different clothes; to switch vehicles",
+        "exampleEn": "I need to change before the party.",
+        "exampleTr": "Partiden önce üstümü değiştirmem gerek."
+      }
+    ]
+  },
+  {
+    "id": "w_character",
+    "headword": "character",
+    "extraMeanings": [
+      {
+        "tr": "karakter, kişi (kitap/filmde)",
+        "en": "a person in a book, film or play",
+        "exampleEn": "My favorite character in the book is the old sailor.",
+        "exampleTr": "Kitaptaki en sevdiğim karakter yaşlı denizci."
+      },
+      {
+        "tr": "harf, işaret, karakter (yazı)",
+        "en": "a letter, number or symbol in writing",
+        "exampleEn": "The password must have at least eight characters.",
+        "exampleTr": "Şifre en az sekiz karakter içermeli."
+      }
+    ]
+  },
+  {
+    "id": "w_check",
+    "headword": "check",
+    "extraMeanings": [
+      {
+        "tr": "kontrol etmek, bakmak (fiil)",
+        "en": "to examine something to make sure it is correct",
+        "exampleEn": "Please check your answers before you finish.",
+        "exampleTr": "Bitirmeden önce lütfen cevaplarını kontrol et."
+      },
+      {
+        "tr": "çek (banka)",
+        "en": "a written order to a bank to pay money",
+        "exampleEn": "He paid for the car by check.",
+        "exampleTr": "Arabanın parasını çekle ödedi."
+      }
+    ]
+  },
+  {
+    "id": "w_chicken",
+    "headword": "chicken",
+    "extraMeanings": [
+      {
+        "tr": "korkak, ödlek",
+        "en": "a person who is not brave",
+        "exampleEn": "Don't be such a chicken; just jump!",
+        "exampleTr": "Bu kadar korkak olma; hadi atla!"
+      }
+    ]
+  },
+  {
+    "id": "w_child",
+    "headword": "child",
+    "extraMeanings": [
+      {
+        "tr": "evlat, çocuk (anne-babaya göre)",
+        "en": "a son or daughter of any age",
+        "exampleEn": "They have three grown-up children.",
+        "exampleTr": "Yetişkin üç evlatları var."
+      }
+    ]
+  },
+  {
+    "id": "w_choose",
+    "headword": "choose",
+    "extraMeanings": [
+      {
+        "tr": "tercih etmek, karar vermek (yapmayı)",
+        "en": "to decide to do something",
+        "exampleEn": "She chose to stay at home that evening.",
+        "exampleTr": "O akşam evde kalmayı tercih etti."
+      }
+    ]
+  }
+]

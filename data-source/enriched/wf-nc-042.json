@@ -1,0 +1,1265 @@
+[
+  {
+    "id": "w_tonic",
+    "headword": "tonic",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɒnɪk/",
+    "meanings": [
+      {
+        "tr": "tonik (karbonatlı içecek)",
+        "en": "a fizzy soft drink with a bitter flavour, often mixed with gin",
+        "exampleEn": "She ordered a gin and tonic at the bar.",
+        "exampleTr": "Barda cin tonik sipariş etti."
+      },
+      {
+        "tr": "canlandırıcı, güç veren şey",
+        "en": "something that makes you feel stronger, healthier, or happier",
+        "exampleEn": "A walk in the fresh air is a wonderful tonic.",
+        "exampleTr": "Temiz havada yürüyüş harika bir canlandırıcıdır."
+      }
+    ],
+    "synonyms": [
+      "stimulant",
+      "restorative"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_top_quality",
+    "headword": "top-quality",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌtɒpˈkwɒləti/",
+    "meanings": [
+      {
+        "tr": "en yüksek kalitede, üstün nitelikli",
+        "en": "of the very best standard or grade",
+        "exampleEn": "The restaurant uses only top-quality ingredients.",
+        "exampleTr": "Restoran yalnızca en kaliteli malzemeleri kullanır."
+      }
+    ],
+    "synonyms": [
+      "premium",
+      "first-rate",
+      "top-notch"
+    ],
+    "antonyms": [
+      "low-quality",
+      "inferior"
+    ]
+  },
+  {
+    "id": "w_topmost",
+    "headword": "topmost",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɒpməʊst/",
+    "meanings": [
+      {
+        "tr": "en üstteki, en yüksek",
+        "en": "highest; nearest to the top",
+        "exampleEn": "The bird landed on the topmost branch of the tree.",
+        "exampleTr": "Kuş ağacın en üstteki dalına kondu."
+      }
+    ],
+    "synonyms": [
+      "highest",
+      "uppermost"
+    ],
+    "antonyms": [
+      "lowest",
+      "bottommost"
+    ]
+  },
+  {
+    "id": "w_torpor",
+    "headword": "torpor",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɔːpə(r)/",
+    "meanings": [
+      {
+        "tr": "uyuşukluk, ağırlık, hareketsizlik",
+        "en": "a state of being inactive, sluggish, or without energy",
+        "exampleEn": "The summer heat left everyone in a state of torpor.",
+        "exampleTr": "Yaz sıcağı herkesi bir uyuşukluk haline soktu."
+      }
+    ],
+    "synonyms": [
+      "lethargy",
+      "sluggishness",
+      "inertia"
+    ],
+    "antonyms": [
+      "energy",
+      "vigour"
+    ]
+  },
+  {
+    "id": "w_touchy",
+    "headword": "touchy",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʌtʃi/",
+    "meanings": [
+      {
+        "tr": "alıngan, çabuk kızan",
+        "en": "easily offended or upset",
+        "exampleEn": "He's very touchy about his weight, so don't mention it.",
+        "exampleTr": "Kilosu konusunda çok alıngandır, o yüzden bahsetme."
+      },
+      {
+        "tr": "hassas, nazik (konu)",
+        "en": "needing to be dealt with carefully; sensitive",
+        "exampleEn": "Money can be a touchy subject between friends.",
+        "exampleTr": "Para, arkadaşlar arasında hassas bir konu olabilir."
+      }
+    ],
+    "synonyms": [
+      "sensitive",
+      "irritable",
+      "prickly"
+    ],
+    "antonyms": [
+      "easygoing",
+      "thick-skinned"
+    ]
+  },
+  {
+    "id": "w_tourism_industry",
+    "headword": "tourism industry",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʊərɪzəm ˌɪndəstri/",
+    "meanings": [
+      {
+        "tr": "turizm sektörü, turizm endüstrisi",
+        "en": "the businesses and services connected with providing travel and holidays",
+        "exampleEn": "The tourism industry accounts for a large part of the country's economy.",
+        "exampleTr": "Turizm sektörü, ülkenin ekonomisinin büyük bir bölümünü oluşturur."
+      }
+    ],
+    "synonyms": [
+      "tourism sector",
+      "travel industry"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tourism_sector",
+    "headword": "tourism sector",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʊərɪzəm ˌsektə(r)/",
+    "meanings": [
+      {
+        "tr": "turizm sektörü",
+        "en": "the part of the economy made up of travel and holiday businesses",
+        "exampleEn": "The pandemic hit the tourism sector especially hard.",
+        "exampleTr": "Pandemi özellikle turizm sektörünü ağır vurdu."
+      }
+    ],
+    "synonyms": [
+      "tourism industry",
+      "travel industry"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tousled",
+    "headword": "tousled",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtaʊzld/",
+    "meanings": [
+      {
+        "tr": "dağınık, karmakarışık (saç)",
+        "en": "(of hair) untidy, in a messy or ruffled way",
+        "exampleEn": "He ran his hand through his tousled hair.",
+        "exampleTr": "Elini dağınık saçlarının arasından geçirdi."
+      }
+    ],
+    "synonyms": [
+      "dishevelled",
+      "messy",
+      "ruffled"
+    ],
+    "antonyms": [
+      "neat",
+      "tidy"
+    ]
+  },
+  {
+    "id": "w_tow",
+    "headword": "tow",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/təʊ/",
+    "meanings": [
+      {
+        "tr": "çekmek, yedeğe almak (araç)",
+        "en": "to pull a vehicle or boat along behind another vehicle using a rope or chain",
+        "exampleEn": "The truck had to tow the broken-down car to the garage.",
+        "exampleTr": "Kamyon, arızalı arabayı tamirhaneye çekmek zorunda kaldı."
+      }
+    ],
+    "synonyms": [
+      "pull",
+      "haul",
+      "drag"
+    ],
+    "antonyms": [
+      "push"
+    ]
+  },
+  {
+    "id": "w_toward",
+    "headword": "toward",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/təˈwɔːrd/",
+    "meanings": [
+      {
+        "tr": "-e doğru, yönünde",
+        "en": "in the direction of someone or something",
+        "exampleEn": "She walked toward the door without saying a word.",
+        "exampleTr": "Tek kelime etmeden kapıya doğru yürüdü."
+      },
+      {
+        "tr": "-e karşı (tutum)",
+        "en": "in relation to someone or something; regarding",
+        "exampleEn": "His attitude toward his colleagues has improved.",
+        "exampleTr": "İş arkadaşlarına karşı tutumu düzeldi."
+      }
+    ],
+    "synonyms": [
+      "towards",
+      "to"
+    ],
+    "antonyms": [
+      "away from"
+    ]
+  },
+  {
+    "id": "w_tower_block",
+    "headword": "tower block",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtaʊə(r) blɒk/",
+    "meanings": [
+      {
+        "tr": "yüksek apartman bloğu, gökdelen bina",
+        "en": "a very tall building divided into flats or offices",
+        "exampleEn": "They live on the tenth floor of a tower block.",
+        "exampleTr": "Bir apartman bloğunun onuncu katında yaşıyorlar."
+      }
+    ],
+    "synonyms": [
+      "high-rise",
+      "skyscraper"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_townsperson",
+    "headword": "townsperson",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtaʊnzpɜːsn/",
+    "meanings": [
+      {
+        "tr": "kasabalı, şehir sakini",
+        "en": "a person who lives in a town",
+        "exampleEn": "Every townsperson gathered in the square for the festival.",
+        "exampleTr": "Her kasabalı, festival için meydanda toplandı."
+      }
+    ],
+    "synonyms": [
+      "townsfolk",
+      "resident",
+      "citizen"
+    ],
+    "antonyms": [
+      "villager",
+      "countryperson"
+    ]
+  },
+  {
+    "id": "w_tracker",
+    "headword": "tracker",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtrækə(r)/",
+    "meanings": [
+      {
+        "tr": "takip cihazı, izleyici",
+        "en": "a device or program used to follow the movement or progress of something",
+        "exampleEn": "She uses a fitness tracker to count her daily steps.",
+        "exampleTr": "Günlük adımlarını saymak için bir fitness takip cihazı kullanıyor."
+      },
+      {
+        "tr": "iz süren kişi",
+        "en": "a person who follows the tracks of animals or people",
+        "exampleEn": "The tracker led the hunters through the dense forest.",
+        "exampleTr": "İz süren kişi, avcıları sık ormandan geçirdi."
+      }
+    ],
+    "synonyms": [
+      "monitor",
+      "locator"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_traditional_school",
+    "headword": "traditional school",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/trəˈdɪʃənl skuːl/",
+    "meanings": [
+      {
+        "tr": "geleneksel okul",
+        "en": "a school that follows conventional teaching methods rather than modern or alternative ones",
+        "exampleEn": "Some parents prefer a traditional school with strict discipline.",
+        "exampleTr": "Bazı ebeveynler, sıkı disiplinli geleneksel bir okulu tercih eder."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "alternative school"
+    ]
+  },
+  {
+    "id": "w_traditionalism",
+    "headword": "traditionalism",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/trəˈdɪʃənəlɪzəm/",
+    "meanings": [
+      {
+        "tr": "gelenekçilik, geleneklere bağlılık",
+        "en": "the belief in and support for established customs and traditions",
+        "exampleEn": "His traditionalism made him resist any change in the company.",
+        "exampleTr": "Gelenekçiliği, şirketteki her türlü değişime direnmesine neden oldu."
+      }
+    ],
+    "synonyms": [
+      "conservatism",
+      "conventionalism"
+    ],
+    "antonyms": [
+      "progressivism",
+      "modernism"
+    ]
+  },
+  {
+    "id": "w_trafficking",
+    "headword": "trafficking",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtræfɪkɪŋ/",
+    "meanings": [
+      {
+        "tr": "kaçakçılık, yasa dışı ticaret",
+        "en": "the illegal buying and selling of goods, drugs, or people",
+        "exampleEn": "The police arrested several people involved in drug trafficking.",
+        "exampleTr": "Polis, uyuşturucu kaçakçılığına karışan birkaç kişiyi tutukladı."
+      }
+    ],
+    "synonyms": [
+      "smuggling",
+      "dealing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_trailblazer",
+    "headword": "trailblazer",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtreɪlbleɪzə(r)/",
+    "meanings": [
+      {
+        "tr": "öncü, çığır açan kişi",
+        "en": "a person who is the first to do something and shows a way for others to follow",
+        "exampleEn": "She was a trailblazer for women in the technology sector.",
+        "exampleTr": "Teknoloji sektöründe kadınlar için bir öncüydü."
+      }
+    ],
+    "synonyms": [
+      "pioneer",
+      "innovator",
+      "pathfinder"
+    ],
+    "antonyms": [
+      "follower"
+    ]
+  },
+  {
+    "id": "w_tranquility",
+    "headword": "tranquility",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/træŋˈkwɪləti/",
+    "meanings": [
+      {
+        "tr": "huzur, sükunet, dinginlik",
+        "en": "a state of calm and peace",
+        "exampleEn": "She enjoyed the tranquility of the early morning garden.",
+        "exampleTr": "Sabahın erken saatlerindeki bahçenin dinginliğinin tadını çıkardı."
+      }
+    ],
+    "synonyms": [
+      "calm",
+      "peace",
+      "serenity"
+    ],
+    "antonyms": [
+      "chaos",
+      "turmoil",
+      "agitation"
+    ]
+  },
+  {
+    "id": "w_tranquilizer",
+    "headword": "tranquilizer",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtræŋkwɪlaɪzə(r)/",
+    "meanings": [
+      {
+        "tr": "sakinleştirici (ilaç)",
+        "en": "a drug used to make a person or animal calm or unconscious",
+        "exampleEn": "The vet gave the frightened dog a tranquilizer.",
+        "exampleTr": "Veteriner, korkmuş köpeğe bir sakinleştirici verdi."
+      }
+    ],
+    "synonyms": [
+      "sedative",
+      "calmant"
+    ],
+    "antonyms": [
+      "stimulant"
+    ]
+  },
+  {
+    "id": "w_tranquillity",
+    "headword": "tranquillity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/træŋˈkwɪləti/",
+    "meanings": [
+      {
+        "tr": "huzur, sükunet, dinginlik",
+        "en": "a peaceful, calm state (British spelling of tranquility)",
+        "exampleEn": "The countryside offered a sense of tranquillity she had missed.",
+        "exampleTr": "Kırsal, özlediği bir dinginlik hissi sunuyordu."
+      }
+    ],
+    "synonyms": [
+      "calm",
+      "serenity",
+      "peace"
+    ],
+    "antonyms": [
+      "turmoil",
+      "chaos"
+    ]
+  },
+  {
+    "id": "w_transform_into",
+    "headword": "transform into",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/trænsˈfɔːm ˌɪntə/",
+    "meanings": [
+      {
+        "tr": "-e dönüşmek, -e dönüştürmek",
+        "en": "to change completely into a different form or state",
+        "exampleEn": "The caterpillar will transform into a butterfly.",
+        "exampleTr": "Tırtıl bir kelebeğe dönüşecek."
+      }
+    ],
+    "synonyms": [
+      "turn into",
+      "convert into",
+      "change into"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_transience",
+    "headword": "transience",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtrænziəns/",
+    "meanings": [
+      {
+        "tr": "geçicilik, kalıcı olmama",
+        "en": "the state of lasting only for a short time",
+        "exampleEn": "The poem reflects on the transience of youth and beauty.",
+        "exampleTr": "Şiir, gençliğin ve güzelliğin geçiciliği üzerine düşünür."
+      }
+    ],
+    "synonyms": [
+      "impermanence",
+      "fleetingness"
+    ],
+    "antonyms": [
+      "permanence",
+      "durability"
+    ]
+  },
+  {
+    "id": "w_transmissible",
+    "headword": "transmissible",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/trænzˈmɪsəbl/",
+    "meanings": [
+      {
+        "tr": "bulaşabilir, geçebilir (hastalık)",
+        "en": "able to be passed from one person, animal, or thing to another",
+        "exampleEn": "The virus is highly transmissible through the air.",
+        "exampleTr": "Virüs hava yoluyla oldukça bulaşabilir."
+      }
+    ],
+    "synonyms": [
+      "contagious",
+      "communicable",
+      "infectious"
+    ],
+    "antonyms": [
+      "non-transmissible"
+    ]
+  },
+  {
+    "id": "w_transmitter",
+    "headword": "transmitter",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/trænzˈmɪtə(r)/",
+    "meanings": [
+      {
+        "tr": "verici, aktarıcı (cihaz)",
+        "en": "a piece of equipment that sends out radio or television signals",
+        "exampleEn": "The radio transmitter broadcasts to the whole region.",
+        "exampleTr": "Radyo vericisi tüm bölgeye yayın yapar."
+      }
+    ],
+    "synonyms": [
+      "broadcaster",
+      "sender"
+    ],
+    "antonyms": [
+      "receiver"
+    ]
+  },
+  {
+    "id": "w_transporter",
+    "headword": "transporter",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/trænsˈpɔːtə(r)/",
+    "meanings": [
+      {
+        "tr": "nakliye aracı, taşıyıcı",
+        "en": "a large vehicle used for carrying goods, cars, or other heavy things",
+        "exampleEn": "A car transporter delivered the new vehicles to the dealership.",
+        "exampleTr": "Bir araç nakliye aracı, yeni araçları bayiye teslim etti."
+      }
+    ],
+    "synonyms": [
+      "carrier",
+      "hauler"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_travel_agency",
+    "headword": "travel agency",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtrævl ˌeɪdʒənsi/",
+    "meanings": [
+      {
+        "tr": "seyahat acentesi",
+        "en": "a business that arranges travel and holidays for people",
+        "exampleEn": "We booked our flights through a travel agency.",
+        "exampleTr": "Uçak biletlerimizi bir seyahat acentesi aracılığıyla ayırttık."
+      }
+    ],
+    "synonyms": [
+      "travel agent",
+      "tour operator"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_treacherous",
+    "headword": "treacherous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtretʃərəs/",
+    "meanings": [
+      {
+        "tr": "hain, güvenilmez",
+        "en": "not able to be trusted; likely to betray someone",
+        "exampleEn": "His treacherous friend revealed all his secrets.",
+        "exampleTr": "Hain arkadaşı tüm sırlarını açığa çıkardı."
+      },
+      {
+        "tr": "tehlikeli, aldatıcı (koşullar)",
+        "en": "dangerous, especially when it seems safe",
+        "exampleEn": "The icy roads were treacherous that night.",
+        "exampleTr": "O gece buzlu yollar tehlikeliydi."
+      }
+    ],
+    "synonyms": [
+      "disloyal",
+      "untrustworthy",
+      "perilous"
+    ],
+    "antonyms": [
+      "loyal",
+      "faithful",
+      "safe"
+    ]
+  },
+  {
+    "id": "w_treachery",
+    "headword": "treachery",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtretʃəri/",
+    "meanings": [
+      {
+        "tr": "ihanet, hainlik",
+        "en": "behaviour that betrays trust; disloyalty",
+        "exampleEn": "He could never forgive the treachery of his closest ally.",
+        "exampleTr": "En yakın müttefikinin ihanetini asla affedemedi."
+      }
+    ],
+    "synonyms": [
+      "betrayal",
+      "disloyalty",
+      "perfidy"
+    ],
+    "antonyms": [
+      "loyalty",
+      "faithfulness"
+    ]
+  },
+  {
+    "id": "w_treason",
+    "headword": "treason",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtriːzn/",
+    "meanings": [
+      {
+        "tr": "vatana ihanet",
+        "en": "the crime of betraying one's country, especially by helping its enemies",
+        "exampleEn": "He was charged with treason for selling state secrets.",
+        "exampleTr": "Devlet sırlarını sattığı için vatana ihanetle suçlandı."
+      }
+    ],
+    "synonyms": [
+      "betrayal",
+      "sedition"
+    ],
+    "antonyms": [
+      "loyalty",
+      "allegiance"
+    ]
+  },
+  {
+    "id": "w_treasonous",
+    "headword": "treasonous",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtriːzənəs/",
+    "meanings": [
+      {
+        "tr": "vatana ihanet niteliğinde, hainane",
+        "en": "involving the crime of betraying one's country",
+        "exampleEn": "His treasonous actions endangered the entire nation.",
+        "exampleTr": "Vatana ihanet niteliğindeki eylemleri tüm ulusu tehlikeye attı."
+      }
+    ],
+    "synonyms": [
+      "traitorous",
+      "seditious",
+      "disloyal"
+    ],
+    "antonyms": [
+      "loyal",
+      "patriotic"
+    ]
+  },
+  {
+    "id": "w_treat_again",
+    "headword": "treat again",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/triːt əˈɡen/",
+    "meanings": [
+      {
+        "tr": "tekrar tedavi etmek, yeniden işlem yapmak",
+        "en": "to give medical care or apply a process to something once more",
+        "exampleEn": "If the infection returns, the doctor will treat it again.",
+        "exampleTr": "Enfeksiyon geri gelirse, doktor onu tekrar tedavi edecek."
+      }
+    ],
+    "synonyms": [
+      "retreat"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_treatable",
+    "headword": "treatable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtriːtəbl/",
+    "meanings": [
+      {
+        "tr": "tedavi edilebilir",
+        "en": "able to be cured or helped with medical care",
+        "exampleEn": "Fortunately, the disease is easily treatable if caught early.",
+        "exampleTr": "Neyse ki, erken teşhis edilirse hastalık kolayca tedavi edilebilir."
+      }
+    ],
+    "synonyms": [
+      "curable",
+      "remediable"
+    ],
+    "antonyms": [
+      "untreatable",
+      "incurable"
+    ]
+  },
+  {
+    "id": "w_treatise",
+    "headword": "treatise",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtriːtɪs/",
+    "meanings": [
+      {
+        "tr": "inceleme, tez, bilimsel eser",
+        "en": "a long, formal piece of writing that deals with a subject thoroughly",
+        "exampleEn": "He wrote a lengthy treatise on political philosophy.",
+        "exampleTr": "Siyaset felsefesi üzerine uzun bir inceleme yazdı."
+      }
+    ],
+    "synonyms": [
+      "dissertation",
+      "thesis",
+      "essay"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_trekker",
+    "headword": "trekker",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtrekə(r)/",
+    "meanings": [
+      {
+        "tr": "uzun ve zorlu yürüyüş yapan kişi",
+        "en": "a person who goes on a long, difficult journey on foot, especially in the mountains",
+        "exampleEn": "Every trekker needs strong boots for the mountain trail.",
+        "exampleTr": "Her yürüyüşçünün dağ patikası için sağlam botlara ihtiyacı vardır."
+      }
+    ],
+    "synonyms": [
+      "hiker",
+      "walker"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_trespass",
+    "headword": "trespass",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtrespəs/",
+    "meanings": [
+      {
+        "tr": "izinsiz girmek (özel mülke)",
+        "en": "to enter someone's land or property without permission",
+        "exampleEn": "The sign warned people not to trespass on the farm.",
+        "exampleTr": "Tabela, insanları çiftliğe izinsiz girmemeleri konusunda uyarıyordu."
+      }
+    ],
+    "synonyms": [
+      "intrude",
+      "encroach"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tribulation",
+    "headword": "tribulation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌtrɪbjuˈleɪʃn/",
+    "meanings": [
+      {
+        "tr": "sıkıntı, dert, çile",
+        "en": "a state of great trouble or suffering; a cause of distress",
+        "exampleEn": "They shared the trials and tribulations of raising a family.",
+        "exampleTr": "Bir aile büyütmenin sıkıntılarını ve çilelerini paylaştılar."
+      }
+    ],
+    "synonyms": [
+      "hardship",
+      "suffering",
+      "ordeal"
+    ],
+    "antonyms": [
+      "ease",
+      "comfort"
+    ]
+  },
+  {
+    "id": "w_trickery",
+    "headword": "trickery",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtrɪkəri/",
+    "meanings": [
+      {
+        "tr": "hile, aldatmaca, dolandırıcılık",
+        "en": "the use of dishonest tricks to deceive someone",
+        "exampleEn": "He won the contract through trickery rather than skill.",
+        "exampleTr": "Sözleşmeyi beceriyle değil hileyle kazandı."
+      }
+    ],
+    "synonyms": [
+      "deception",
+      "deceit",
+      "fraud"
+    ],
+    "antonyms": [
+      "honesty"
+    ]
+  },
+  {
+    "id": "w_trickle",
+    "headword": "trickle",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtrɪkl/",
+    "meanings": [
+      {
+        "tr": "damlamak, ince ince akmak",
+        "en": "to flow slowly in a thin stream or in drops",
+        "exampleEn": "Water began to trickle down the window pane.",
+        "exampleTr": "Su, pencere camından aşağı ince ince akmaya başladı."
+      },
+      {
+        "tr": "azar azar gelmek/gitmek",
+        "en": "to move or arrive slowly in small numbers or amounts",
+        "exampleEn": "News of the results trickled in throughout the evening.",
+        "exampleTr": "Sonuçların haberleri akşam boyunca azar azar geldi."
+      }
+    ],
+    "synonyms": [
+      "drip",
+      "dribble",
+      "seep"
+    ],
+    "antonyms": [
+      "gush",
+      "pour",
+      "flood"
+    ]
+  },
+  {
+    "id": "w_triviality",
+    "headword": "triviality",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌtrɪviˈæləti/",
+    "meanings": [
+      {
+        "tr": "önemsizlik, ıvır zıvır şey",
+        "en": "something that is unimportant; the quality of being of little importance",
+        "exampleEn": "They argued over the triviality of who should wash the dishes.",
+        "exampleTr": "Bulaşıkları kimin yıkayacağı gibi önemsiz bir konu üzerine tartıştılar."
+      }
+    ],
+    "synonyms": [
+      "insignificance",
+      "pettiness"
+    ],
+    "antonyms": [
+      "importance",
+      "significance"
+    ]
+  },
+  {
+    "id": "w_troth",
+    "headword": "troth",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/trəʊθ/",
+    "meanings": [
+      {
+        "tr": "sadakat sözü, nişan yemini (eski kullanım)",
+        "en": "a solemn promise, especially a pledge to marry someone (archaic)",
+        "exampleEn": "In the old ceremony, they pledged their troth to each other.",
+        "exampleTr": "Eski törende, birbirlerine sadakat sözü verdiler."
+      }
+    ],
+    "synonyms": [
+      "pledge",
+      "vow",
+      "promise"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_trough",
+    "headword": "trough",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/trɒf/",
+    "meanings": [
+      {
+        "tr": "en düşük nokta, dip (ekonomi/döngü)",
+        "en": "the lowest point in an economic cycle or a period of low activity",
+        "exampleEn": "The economy reached a trough before beginning to recover.",
+        "exampleTr": "Ekonomi, toparlanmaya başlamadan önce en dip noktasına ulaştı."
+      },
+      {
+        "tr": "yalak, hayvan yemliği/suluğu",
+        "en": "a long, narrow open container that animals eat or drink from",
+        "exampleEn": "The horses gathered around the water trough.",
+        "exampleTr": "Atlar su yalağının etrafında toplandı."
+      }
+    ],
+    "synonyms": [
+      "low point",
+      "nadir"
+    ],
+    "antonyms": [
+      "peak",
+      "crest"
+    ]
+  },
+  {
+    "id": "w_troupe",
+    "headword": "troupe",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/truːp/",
+    "meanings": [
+      {
+        "tr": "topluluk, kumpanya (sanatçı grubu)",
+        "en": "a group of performers such as actors, dancers, or singers who work together",
+        "exampleEn": "The dance troupe performed at theatres across the country.",
+        "exampleTr": "Dans topluluğu ülke genelindeki tiyatrolarda sahne aldı."
+      }
+    ],
+    "synonyms": [
+      "company",
+      "ensemble",
+      "cast"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_truancy",
+    "headword": "truancy",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtruːənsi/",
+    "meanings": [
+      {
+        "tr": "okuldan kaçma, devamsızlık",
+        "en": "the practice of staying away from school without permission",
+        "exampleEn": "The school introduced new measures to reduce truancy.",
+        "exampleTr": "Okul, devamsızlığı azaltmak için yeni önlemler getirdi."
+      }
+    ],
+    "synonyms": [
+      "absenteeism"
+    ],
+    "antonyms": [
+      "attendance"
+    ]
+  },
+  {
+    "id": "w_trustful",
+    "headword": "trustful",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtrʌstfl/",
+    "meanings": [
+      {
+        "tr": "güvenen, kolay güvenen",
+        "en": "tending to trust others readily; not suspicious",
+        "exampleEn": "The child gave a trustful smile to the stranger.",
+        "exampleTr": "Çocuk, yabancıya güven dolu bir gülümseme verdi."
+      }
+    ],
+    "synonyms": [
+      "trusting",
+      "credulous"
+    ],
+    "antonyms": [
+      "suspicious",
+      "distrustful"
+    ]
+  },
+  {
+    "id": "w_tummyache",
+    "headword": "tummyache",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʌmieɪk/",
+    "meanings": [
+      {
+        "tr": "karın ağrısı",
+        "en": "a pain in the stomach (informal, often used by or with children)",
+        "exampleEn": "The little boy had a tummyache after eating too much cake.",
+        "exampleTr": "Küçük çocuk çok fazla kek yedikten sonra karın ağrısı çekti."
+      }
+    ],
+    "synonyms": [
+      "stomachache",
+      "bellyache"
+    ],
+    "antonyms": []
+  }
+]

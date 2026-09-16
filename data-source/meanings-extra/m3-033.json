@@ -1,0 +1,230 @@
+[
+  {
+    "id": "w_union",
+    "headword": "union",
+    "extraMeanings": [
+      {
+        "tr": "evlilik, birliktelik",
+        "en": "a marriage or a close relationship",
+        "exampleEn": "Their union was blessed with three children.",
+        "exampleTr": "Birliktelikleri üç çocukla taçlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_urge",
+    "headword": "urge",
+    "extraMeanings": [
+      {
+        "tr": "teşvik etmek, ısrarla tavsiye etmek (fiil)",
+        "en": "to strongly advise or encourage someone to do something",
+        "exampleEn": "The doctor urged him to stop smoking immediately.",
+        "exampleTr": "Doktor onu hemen sigarayı bırakması için teşvik etti."
+      }
+    ]
+  },
+  {
+    "id": "w_vice",
+    "headword": "vice",
+    "extraMeanings": [
+      {
+        "tr": "kötü alışkanlık, ahlaksızlık (isim)",
+        "en": "an immoral or bad habit",
+        "exampleEn": "Gambling is his only real vice.",
+        "exampleTr": "Kumar onun tek gerçek kötü alışkanlığı."
+      }
+    ]
+  },
+  {
+    "id": "w_volume",
+    "headword": "volume",
+    "extraMeanings": [
+      {
+        "tr": "cilt, kitap sayısı (bir serideki)",
+        "en": "a book, especially one of a series",
+        "exampleEn": "The encyclopedia comes in twenty volumes.",
+        "exampleTr": "Ansiklopedi yirmi ciltten oluşuyor."
+      },
+      {
+        "tr": "miktar, hacim (iş, trafik vb.)",
+        "en": "the total amount of something",
+        "exampleEn": "The volume of traffic has increased sharply.",
+        "exampleTr": "Trafik hacmi keskin şekilde arttı."
+      }
+    ]
+  },
+  {
+    "id": "w_ward",
+    "headword": "ward",
+    "extraMeanings": [
+      {
+        "tr": "seçim bölgesi, semt (idari)",
+        "en": "an area of a city or town for elections and administration",
+        "exampleEn": "He was elected to represent the northern ward.",
+        "exampleTr": "Kuzey seçim bölgesini temsil etmek üzere seçildi."
+      }
+    ]
+  },
+  {
+    "id": "w_waste",
+    "headword": "waste",
+    "extraMeanings": [
+      {
+        "tr": "boşa harcamak, israf etmek (fiil)",
+        "en": "to use something carelessly or without a good result",
+        "exampleEn": "Don't waste your money on things you don't need.",
+        "exampleTr": "Paranı ihtiyacın olmayan şeylere boşa harcama."
+      },
+      {
+        "tr": "israf, ziyan (isim)",
+        "en": "the act of using something carelessly",
+        "exampleEn": "Leaving the lights on is a waste of electricity.",
+        "exampleTr": "Işıkları açık bırakmak elektrik israfıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_wax",
+    "headword": "wax",
+    "extraMeanings": [
+      {
+        "tr": "kulak kiri",
+        "en": "the sticky yellow substance produced in the ears",
+        "exampleEn": "The doctor removed the wax from his ears.",
+        "exampleTr": "Doktor kulaklarındaki kiri temizledi."
+      }
+    ]
+  },
+  {
+    "id": "w_welcome",
+    "headword": "welcome",
+    "extraMeanings": [
+      {
+        "tr": "karşılamak, hoş geldin demek (fiil)",
+        "en": "to greet someone in a friendly way when they arrive",
+        "exampleEn": "They welcomed us warmly at the door.",
+        "exampleTr": "Bizi kapıda sıcak bir şekilde karşıladılar."
+      },
+      {
+        "tr": "karşılama, hoş geldin (isim)",
+        "en": "a greeting when someone arrives",
+        "exampleEn": "We were given a warm welcome by our hosts.",
+        "exampleTr": "Ev sahiplerimiz bize sıcak bir karşılama sundu."
+      }
+    ]
+  },
+  {
+    "id": "w_whisper",
+    "headword": "whisper",
+    "extraMeanings": [
+      {
+        "tr": "fısıldamak (fiil)",
+        "en": "to speak very quietly using the breath",
+        "exampleEn": "She whispered the answer so no one else could hear.",
+        "exampleTr": "Kimse duymasın diye cevabı fısıldadı."
+      }
+    ]
+  },
+  {
+    "id": "w_whistle",
+    "headword": "whistle",
+    "extraMeanings": [
+      {
+        "tr": "ıslık çalmak; düdük çalmak (fiil)",
+        "en": "to make a sound by blowing air through your lips or a whistle",
+        "exampleEn": "He whistled a cheerful tune as he walked.",
+        "exampleTr": "Yürürken neşeli bir melodi ıslıkla çaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_wire",
+    "headword": "wire",
+    "extraMeanings": [
+      {
+        "tr": "kablo, elektrik teli",
+        "en": "a thin metal thread used to carry electricity",
+        "exampleEn": "Be careful not to touch the live wire.",
+        "exampleTr": "Elektrik yüklü kabloya dokunmamaya dikkat et."
+      }
+    ]
+  },
+  {
+    "id": "w_wonder",
+    "headword": "wonder",
+    "extraMeanings": [
+      {
+        "tr": "merak etmek, acaba diye düşünmek (fiil)",
+        "en": "to want to know or think about something",
+        "exampleEn": "I wonder what happened to my old friends.",
+        "exampleTr": "Eski arkadaşlarıma ne olduğunu merak ediyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_worth",
+    "headword": "worth",
+    "extraMeanings": [
+      {
+        "tr": "-e değer, yapmaya değer",
+        "en": "good enough to justify the effort or cost",
+        "exampleEn": "This museum is definitely worth a visit.",
+        "exampleTr": "Bu müze kesinlikle ziyaret etmeye değer."
+      }
+    ]
+  },
+  {
+    "id": "w_wound",
+    "headword": "wound",
+    "extraMeanings": [
+      {
+        "tr": "yaralamak (fiil)",
+        "en": "to injure someone, especially with a weapon",
+        "exampleEn": "He was badly wounded in the battle.",
+        "exampleTr": "Savaşta ağır şekilde yaralandı."
+      },
+      {
+        "tr": "incitmek, kırmak (duygusal)",
+        "en": "to hurt someone's feelings",
+        "exampleEn": "Her cruel words wounded him deeply.",
+        "exampleTr": "Acımasız sözleri onu derinden incitti."
+      }
+    ]
+  },
+  {
+    "id": "w_vein",
+    "headword": "vein",
+    "extraMeanings": [
+      {
+        "tr": "tarz, üslup, hava (in the same vein)",
+        "en": "a particular style or manner",
+        "exampleEn": "He continued in a similar vein for another hour.",
+        "exampleTr": "Aynı üslupta bir saat daha devam etti."
+      }
+    ]
+  },
+  {
+    "id": "w_wing",
+    "headword": "wing",
+    "extraMeanings": [
+      {
+        "tr": "ek bina, kanat (binanın bölümü)",
+        "en": "a part of a large building that extends from the main part",
+        "exampleEn": "The library is in the east wing of the building.",
+        "exampleTr": "Kütüphane binanın doğu kanadında."
+      }
+    ]
+  },
+  {
+    "id": "w_warn",
+    "headword": "warn",
+    "extraMeanings": [
+      {
+        "tr": "tembihlemek, önceden bilgi vermek",
+        "en": "to tell someone about a possible danger or problem in advance",
+        "exampleEn": "I warned you that the road would be busy.",
+        "exampleTr": "Yolun kalabalık olacağını sana tembihlemiştim."
+      }
+    ]
+  }
+]

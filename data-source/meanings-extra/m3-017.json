@@ -1,0 +1,554 @@
+[
+  {
+    "id": "w_arrow",
+    "headword": "arrow",
+    "extraMeanings": [
+      {
+        "tr": "ok işareti (yön gösteren)",
+        "en": "a symbol used to show direction or point at something",
+        "exampleEn": "Follow the arrow on the screen to find the next page.",
+        "exampleTr": "Sonraki sayfayı bulmak için ekrandaki ok işaretini takip et."
+      }
+    ]
+  },
+  {
+    "id": "w_aside",
+    "headword": "aside",
+    "extraMeanings": [
+      {
+        "tr": "kenara koymak/ayırmak (para, zaman için) - set aside",
+        "en": "to save or reserve something for a particular purpose",
+        "exampleEn": "She puts some money aside every month for holidays.",
+        "exampleTr": "Her ay tatiller için biraz para bir kenara ayırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_aspect",
+    "headword": "aspect",
+    "extraMeanings": [
+      {
+        "tr": "cephe, bakış açısı, görünüş (bir yerin baktığı yön)",
+        "en": "the direction in which a building or window faces",
+        "exampleEn": "The room has a southern aspect, so it gets plenty of sunlight.",
+        "exampleTr": "Oda güney cepheli, bu yüzden bol güneş alıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_asset",
+    "headword": "asset",
+    "extraMeanings": [
+      {
+        "tr": "değerli/faydalı kişi ya da şey (avantaj)",
+        "en": "a person or quality that is useful or valuable",
+        "exampleEn": "Her ability to speak three languages is a real asset to the company.",
+        "exampleTr": "Üç dil konuşabilmesi şirket için gerçek bir değer."
+      }
+    ]
+  },
+  {
+    "id": "w_assign",
+    "headword": "assign",
+    "extraMeanings": [
+      {
+        "tr": "vermek, tahsis etmek (görev, iş)",
+        "en": "to give someone a particular task or piece of work to do",
+        "exampleEn": "The teacher assigned us three chapters to read for homework.",
+        "exampleTr": "Öğretmen bize ödev olarak okumamız için üç bölüm verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_associate",
+    "headword": "associate",
+    "extraMeanings": [
+      {
+        "tr": "iş arkadaşı, ortak (isim)",
+        "en": "a person you work or do business with",
+        "exampleEn": "He is a close business associate of mine.",
+        "exampleTr": "O benim yakın bir iş ortağımdır."
+      },
+      {
+        "tr": "birlikte vakit geçirmek, takılmak",
+        "en": "to spend time with a particular group of people",
+        "exampleEn": "I don't want you associating with those troublemakers.",
+        "exampleTr": "O baş belalarıyla takılmanı istemiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_assume",
+    "headword": "assume",
+    "extraMeanings": [
+      {
+        "tr": "üstlenmek (görev, sorumluluk, iktidar)",
+        "en": "to take on a responsibility, role, or power",
+        "exampleEn": "She will assume the role of director next month.",
+        "exampleTr": "Gelecek ay müdürlük görevini üstlenecek."
+      }
+    ]
+  },
+  {
+    "id": "w_attach",
+    "headword": "attach",
+    "extraMeanings": [
+      {
+        "tr": "bağlanmak, sevgi/önem atfetmek",
+        "en": "to feel connected or to consider something important",
+        "exampleEn": "He is very attached to his old car.",
+        "exampleTr": "Eski arabasına çok bağlı."
+      }
+    ]
+  },
+  {
+    "id": "w_attend",
+    "headword": "attend",
+    "extraMeanings": [
+      {
+        "tr": "ilgilenmek, bakmak (attend to)",
+        "en": "to deal with or take care of something or someone",
+        "exampleEn": "The nurse attended to the injured man.",
+        "exampleTr": "Hemşire yaralı adamla ilgilendi."
+      }
+    ]
+  },
+  {
+    "id": "w_attraction",
+    "headword": "attraction",
+    "extraMeanings": [
+      {
+        "tr": "çekim gücü, cazibe (birine karşı hissedilen)",
+        "en": "a feeling of liking someone, especially romantically",
+        "exampleEn": "There was an immediate attraction between them.",
+        "exampleTr": "Aralarında anında bir çekim vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_authority",
+    "headword": "authority",
+    "extraMeanings": [
+      {
+        "tr": "yetkili makam, kurum (the authorities)",
+        "en": "an official organization or government department",
+        "exampleEn": "The local authority is responsible for collecting the rubbish.",
+        "exampleTr": "Çöp toplamaktan yerel yönetim sorumludur."
+      },
+      {
+        "tr": "uzman, otorite (bir konuda)",
+        "en": "an expert on a particular subject",
+        "exampleEn": "She is a leading authority on ancient Rome.",
+        "exampleTr": "Antik Roma konusunda önde gelen bir uzmandır."
+      }
+    ]
+  },
+  {
+    "id": "w_available",
+    "headword": "available",
+    "extraMeanings": [
+      {
+        "tr": "müsait, boş (kişi için)",
+        "en": "free to see or talk to someone",
+        "exampleEn": "The doctor is not available right now, but she can see you at three.",
+        "exampleTr": "Doktor şu an müsait değil ama sizi saat üçte görebilir."
+      }
+    ]
+  },
+  {
+    "id": "w_avenue",
+    "headword": "avenue",
+    "extraMeanings": [
+      {
+        "tr": "yol, olanak, seçenek (mecazi)",
+        "en": "a way of making progress or achieving something",
+        "exampleEn": "We explored every avenue before giving up.",
+        "exampleTr": "Vazgeçmeden önce her yolu denedik."
+      }
+    ]
+  },
+  {
+    "id": "w_awkward",
+    "headword": "awkward",
+    "extraMeanings": [
+      {
+        "tr": "zor, elverişsiz, sıkıntılı (durum, zaman)",
+        "en": "difficult to deal with or causing problems",
+        "exampleEn": "You've come at an awkward time; I'm about to leave.",
+        "exampleTr": "Uygunsuz bir zamanda geldin, tam çıkmak üzereyim."
+      }
+    ]
+  },
+  {
+    "id": "w_axe",
+    "headword": "axe",
+    "extraMeanings": [
+      {
+        "tr": "kesmek, iptal etmek, azaltmak (fiil - iş, harcama)",
+        "en": "to suddenly get rid of or cancel something, such as jobs",
+        "exampleEn": "The company axed hundreds of jobs to save money.",
+        "exampleTr": "Şirket para tasarrufu için yüzlerce işi kesti."
+      }
+    ]
+  },
+  {
+    "id": "w_balance",
+    "headword": "balance",
+    "extraMeanings": [
+      {
+        "tr": "bakiye, kalan tutar (hesap)",
+        "en": "the amount of money in a bank account",
+        "exampleEn": "I checked my bank balance online this morning.",
+        "exampleTr": "Bu sabah internetten banka bakiyeme baktım."
+      },
+      {
+        "tr": "dengelemek, denge kurmak (fiil)",
+        "en": "to keep or put something in a steady position",
+        "exampleEn": "She balanced the tray on one hand.",
+        "exampleTr": "Tepsiyi tek eliyle dengeledi."
+      }
+    ]
+  },
+  {
+    "id": "w_bang",
+    "headword": "bang",
+    "extraMeanings": [
+      {
+        "tr": "çarpmak, vurmak, küt diye kapatmak (fiil)",
+        "en": "to hit something hard, making a loud noise",
+        "exampleEn": "He banged his fist on the table in anger.",
+        "exampleTr": "Öfkeyle yumruğunu masaya vurdu."
+      }
+    ]
+  },
+  {
+    "id": "w_bare",
+    "headword": "bare",
+    "extraMeanings": [
+      {
+        "tr": "asgari, sadece yeterli (en az)",
+        "en": "only the most basic or minimum amount",
+        "exampleEn": "They took only the bare essentials for the trip.",
+        "exampleTr": "Yolculuk için yalnızca en temel gereksinimleri aldılar."
+      },
+      {
+        "tr": "boş, çıplak (oda, ağaç, duvar)",
+        "en": "empty, without the usual coverings or contents",
+        "exampleEn": "The walls were completely bare.",
+        "exampleTr": "Duvarlar tamamen boştu."
+      }
+    ]
+  },
+  {
+    "id": "w_bark",
+    "headword": "bark",
+    "extraMeanings": [
+      {
+        "tr": "havlamak (fiil)",
+        "en": "to make the sharp sound a dog makes",
+        "exampleEn": "The dog barked loudly at the stranger.",
+        "exampleTr": "Köpek yabancıya yüksek sesle havladı."
+      }
+    ]
+  },
+  {
+    "id": "w_basin",
+    "headword": "basin",
+    "extraMeanings": [
+      {
+        "tr": "havza (nehir, coğrafi)",
+        "en": "an area of land drained by a river; a natural hollow",
+        "exampleEn": "The Amazon basin is home to countless species.",
+        "exampleTr": "Amazon havzası sayısız türe ev sahipliği yapar."
+      }
+    ]
+  },
+  {
+    "id": "w_bathe",
+    "headword": "bathe",
+    "extraMeanings": [
+      {
+        "tr": "(yarayı) yıkamak, temizlemek",
+        "en": "to wash a wound or part of the body gently",
+        "exampleEn": "The nurse bathed the cut with warm water.",
+        "exampleTr": "Hemşire kesiği ılık suyla yıkadı."
+      }
+    ]
+  },
+  {
+    "id": "w_battle",
+    "headword": "battle",
+    "extraMeanings": [
+      {
+        "tr": "mücadele, uğraş (mecazi)",
+        "en": "a determined effort to solve a problem or achieve something",
+        "exampleEn": "She fought a long battle against illness.",
+        "exampleTr": "Hastalığa karşı uzun bir mücadele verdi."
+      },
+      {
+        "tr": "mücadele etmek, savaşmak (fiil)",
+        "en": "to try hard to deal with a difficult situation",
+        "exampleEn": "Firefighters battled the flames for hours.",
+        "exampleTr": "İtfaiyeciler saatlerce alevlerle mücadele etti."
+      }
+    ]
+  },
+  {
+    "id": "w_bet",
+    "headword": "bet",
+    "extraMeanings": [
+      {
+        "tr": "eminim, bahse girerim ki (I bet)",
+        "en": "used to say you are sure something is true",
+        "exampleEn": "I bet she'll be late again.",
+        "exampleTr": "Bahse girerim yine geç kalacak."
+      }
+    ]
+  },
+  {
+    "id": "w_blame",
+    "headword": "blame",
+    "extraMeanings": [
+      {
+        "tr": "suçlamak, sorumlu tutmak (fiil)",
+        "en": "to say or think that someone is responsible for something bad",
+        "exampleEn": "Don't blame me for your mistakes.",
+        "exampleTr": "Hatalarından dolayı beni suçlama."
+      }
+    ]
+  },
+  {
+    "id": "w_bless",
+    "headword": "bless",
+    "extraMeanings": [
+      {
+        "tr": "çok şükür, Allah bağışlasın (bless you gibi ifadelerde)",
+        "en": "used to express affection, gratitude, or after someone sneezes",
+        "exampleEn": "Bless you! You've been such a great help today.",
+        "exampleTr": "Sağ ol! Bugün gerçekten çok yardımcı oldun."
+      }
+    ]
+  },
+  {
+    "id": "w_blessing",
+    "headword": "blessing",
+    "extraMeanings": [
+      {
+        "tr": "onay, rıza (bir şeye verilen)",
+        "en": "approval or permission to do something",
+        "exampleEn": "They married with their parents' blessing.",
+        "exampleTr": "Ailelerinin onayıyla evlendiler."
+      }
+    ]
+  },
+  {
+    "id": "w_blind",
+    "headword": "blind",
+    "extraMeanings": [
+      {
+        "tr": "perde, stor, jaluzi (pencere)",
+        "en": "a covering for a window that can be pulled up or down",
+        "exampleEn": "She pulled down the blinds to block the sun.",
+        "exampleTr": "Güneşi engellemek için storları indirdi."
+      },
+      {
+        "tr": "kör etmek, gözünü kör etmek (fiil, mecazi)",
+        "en": "to make someone unable to see or judge clearly",
+        "exampleEn": "He was blinded by ambition.",
+        "exampleTr": "Hırs onu kör etmişti."
+      }
+    ]
+  },
+  {
+    "id": "w_bold",
+    "headword": "bold",
+    "extraMeanings": [
+      {
+        "tr": "kalın (yazı, font)",
+        "en": "printed in thick, dark letters",
+        "exampleEn": "The important words are printed in bold.",
+        "exampleTr": "Önemli kelimeler kalın yazıyla yazılmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w_boot",
+    "headword": "boot",
+    "extraMeanings": [
+      {
+        "tr": "bagaj (araba, İngiliz İngilizcesi)",
+        "en": "the storage space at the back of a car",
+        "exampleEn": "Put the suitcases in the boot of the car.",
+        "exampleTr": "Bavulları arabanın bagajına koy."
+      },
+      {
+        "tr": "(bilgisayarı) başlatmak, açmak (boot up)",
+        "en": "to start up a computer",
+        "exampleEn": "Wait a moment while the computer boots up.",
+        "exampleTr": "Bilgisayar açılırken bir dakika bekle."
+      }
+    ]
+  },
+  {
+    "id": "w_border",
+    "headword": "border",
+    "extraMeanings": [
+      {
+        "tr": "kenar, bordür, çerçeve (bir şeyin kenarı)",
+        "en": "a decorative strip around the edge of something",
+        "exampleEn": "The plate had a blue border around the edge.",
+        "exampleTr": "Tabağın kenarında mavi bir bordür vardı."
+      },
+      {
+        "tr": "sınır komşusu olmak, sınırdaş olmak (fiil)",
+        "en": "to share a border with a country or area",
+        "exampleEn": "France borders Spain in the south.",
+        "exampleTr": "Fransa güneyde İspanya ile sınır komşusudur."
+      }
+    ]
+  },
+  {
+    "id": "w_bother",
+    "headword": "bother",
+    "extraMeanings": [
+      {
+        "tr": "rahatsız etmek, canını sıkmak (fiil)",
+        "en": "to annoy, worry, or disturb someone",
+        "exampleEn": "I'm sorry to bother you, but could you help me?",
+        "exampleTr": "Rahatsız ettiğim için üzgünüm ama bana yardım edebilir misin?"
+      },
+      {
+        "tr": "zahmet etmek, uğraşmak (fiil)",
+        "en": "to make the effort to do something",
+        "exampleEn": "Don't bother cooking; we'll order a pizza.",
+        "exampleTr": "Yemek yapmakla uğraşma, pizza söyleriz."
+      }
+    ]
+  },
+  {
+    "id": "w_bound",
+    "headword": "bound",
+    "extraMeanings": [
+      {
+        "tr": "yolcu, -e doğru giden (bound for)",
+        "en": "travelling or heading towards a particular place",
+        "exampleEn": "This train is bound for London.",
+        "exampleTr": "Bu tren Londra'ya gidiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_bow",
+    "headword": "bow",
+    "extraMeanings": [
+      {
+        "tr": "eğilerek selam vermek, reverans yapmak (fiil)",
+        "en": "to bend the head or body forward as a sign of respect",
+        "exampleEn": "The actors bowed to the audience at the end.",
+        "exampleTr": "Oyuncular sonunda seyircilere eğilerek selam verdi."
+      },
+      {
+        "tr": "pruva, geminin ön kısmı",
+        "en": "the front part of a ship",
+        "exampleEn": "Waves crashed over the bow of the boat.",
+        "exampleTr": "Dalgalar teknenin pruvasına çarpıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_breast",
+    "headword": "breast",
+    "extraMeanings": [
+      {
+        "tr": "göğüs eti, but (tavuk, kümes hayvanı)",
+        "en": "the meat from the front part of a bird such as chicken",
+        "exampleEn": "I'd like a grilled chicken breast, please.",
+        "exampleTr": "Izgara tavuk göğsü alabilir miyim, lütfen?"
+      }
+    ]
+  },
+  {
+    "id": "w_breath",
+    "headword": "breath",
+    "extraMeanings": [
+      {
+        "tr": "esinti, hafif rüzgar (a breath of air)",
+        "en": "a slight movement of air",
+        "exampleEn": "There wasn't a breath of wind all day.",
+        "exampleTr": "Bütün gün hiç esinti yoktu."
+      }
+    ]
+  },
+  {
+    "id": "w_brick",
+    "headword": "brick",
+    "extraMeanings": [
+      {
+        "tr": "blok, kalıp (dörtgen şeklindeki şey)",
+        "en": "a rectangular block of something, like a solid mass",
+        "exampleEn": "He bought a brick of cheese at the market.",
+        "exampleTr": "Pazardan bir kalıp peynir aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_broad",
+    "headword": "broad",
+    "extraMeanings": [
+      {
+        "tr": "genel, kapsamlı (ayrıntısız)",
+        "en": "general rather than detailed",
+        "exampleEn": "He gave us a broad outline of the plan.",
+        "exampleTr": "Bize planın genel bir taslağını verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_broadcast",
+    "headword": "broadcast",
+    "extraMeanings": [
+      {
+        "tr": "yayın (isim - TV, radyo programı)",
+        "en": "a programme or show on television or radio",
+        "exampleEn": "We listened to the news broadcast on the radio.",
+        "exampleTr": "Radyodaki haber yayınını dinledik."
+      }
+    ]
+  },
+  {
+    "id": "w_broke",
+    "headword": "broke",
+    "extraMeanings": [
+      {
+        "tr": "kırdı, kırıldı (break fiilinin geçmiş hali)",
+        "en": "past tense of the verb 'break'",
+        "exampleEn": "She broke the glass while washing the dishes.",
+        "exampleTr": "Bulaşık yıkarken bardağı kırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_bronze",
+    "headword": "bronze",
+    "extraMeanings": [
+      {
+        "tr": "bronz madalya, üçüncülük",
+        "en": "a bronze medal given for third place",
+        "exampleEn": "He won a bronze at the Olympics.",
+        "exampleTr": "Olimpiyatlarda bronz madalya kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_brains",
+    "headword": "brains",
+    "extraMeanings": [
+      {
+        "tr": "beyin, aklı olan kişi (bir projenin arkasındaki kişi)",
+        "en": "the clever person who plans or organizes something",
+        "exampleEn": "She was the brains behind the whole operation.",
+        "exampleTr": "Tüm operasyonun arkasındaki akıl oydu."
+      }
+    ]
+  }
+]

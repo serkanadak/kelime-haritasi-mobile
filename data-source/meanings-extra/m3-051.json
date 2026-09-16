@@ -1,0 +1,212 @@
+[
+  {
+    "id": "w_plot",
+    "headword": "plot",
+    "extraMeanings": [
+      {
+        "tr": "arsa, parsel, arazi parçası",
+        "en": "a small piece of land marked out for a purpose",
+        "exampleEn": "They bought a small plot of land to build their house.",
+        "exampleTr": "Ev yapmak için küçük bir arsa satın aldılar."
+      }
+    ]
+  },
+  {
+    "id": "w_polish",
+    "headword": "polish",
+    "extraMeanings": [
+      {
+        "tr": "cilalamak, parlatmak",
+        "en": "to make something smooth and shiny by rubbing",
+        "exampleEn": "He polished his shoes until they shone.",
+        "exampleTr": "Ayakkabılarını parlayana kadar cilaladı."
+      },
+      {
+        "tr": "(bir işi) geliştirmek, ince ayar yapmak",
+        "en": "to improve a skill or piece of work",
+        "exampleEn": "She spent the evening polishing her presentation.",
+        "exampleTr": "Akşamı sunumunu geliştirerek geçirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_portion",
+    "headword": "portion",
+    "extraMeanings": [
+      {
+        "tr": "pay etmek, bölüştürmek",
+        "en": "to divide something into parts and share it out",
+        "exampleEn": "The nurse portioned out the medicine carefully.",
+        "exampleTr": "Hemşire ilacı dikkatlice pay etti."
+      }
+    ]
+  },
+  {
+    "id": "w_pose",
+    "headword": "pose",
+    "extraMeanings": [
+      {
+        "tr": "(sorun, tehlike) oluşturmak, yol açmak",
+        "en": "to cause a problem or danger",
+        "exampleEn": "The chemical waste poses a serious threat to the river.",
+        "exampleTr": "Kimyasal atık nehir için ciddi bir tehlike oluşturuyor."
+      },
+      {
+        "tr": "poz vermek, poz kesmek",
+        "en": "to sit or stand in a particular position to be photographed",
+        "exampleEn": "The models posed for the photographers.",
+        "exampleTr": "Mankenler fotoğrafçılara poz verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_probe",
+    "headword": "probe",
+    "extraMeanings": [
+      {
+        "tr": "araştırmak, soruşturmak; deşmek",
+        "en": "to investigate or examine something closely",
+        "exampleEn": "Journalists began to probe into the company's finances.",
+        "exampleTr": "Gazeteciler şirketin mali durumunu araştırmaya başladı."
+      }
+    ]
+  },
+  {
+    "id": "w_prime",
+    "headword": "prime",
+    "extraMeanings": [
+      {
+        "tr": "hazırlamak, önceden bilgilendirmek",
+        "en": "to prepare someone for a situation, especially by giving them information",
+        "exampleEn": "The lawyer primed the witness before the trial.",
+        "exampleTr": "Avukat, duruşmadan önce tanığı hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w_project",
+    "headword": "project",
+    "extraMeanings": [
+      {
+        "tr": "yansıtmak, (görüntü) düşürmek",
+        "en": "to make light, an image, or a shadow fall on a surface",
+        "exampleEn": "The film was projected onto a large screen.",
+        "exampleTr": "Film büyük bir ekrana yansıtıldı."
+      },
+      {
+        "tr": "öngörmek, tahmin etmek",
+        "en": "to estimate or forecast something based on current data",
+        "exampleEn": "Experts project that the population will double by 2050.",
+        "exampleTr": "Uzmanlar nüfusun 2050'ye kadar iki katına çıkacağını öngörüyor."
+      }
+    ]
+  },
+  {
+    "id": "w_prick",
+    "headword": "prick",
+    "extraMeanings": [
+      {
+        "tr": "delmek, batırmak, iğnelemek",
+        "en": "to make a small hole in something with a sharp point",
+        "exampleEn": "She pricked her finger on a needle.",
+        "exampleTr": "Parmağını bir iğneye batırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_pledge",
+    "headword": "pledge",
+    "extraMeanings": [
+      {
+        "tr": "söz, vaat, taahhüt (isim)",
+        "en": "a serious promise or agreement",
+        "exampleEn": "The government made a pledge to reduce carbon emissions.",
+        "exampleTr": "Hükümet karbon emisyonlarını azaltacağına dair söz verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_plunge",
+    "headword": "plunge",
+    "extraMeanings": [
+      {
+        "tr": "(fiyat, değer) ani düşüş göstermek, çakılmak",
+        "en": "to decrease suddenly and quickly in amount or value",
+        "exampleEn": "Share prices plunged after the announcement.",
+        "exampleTr": "Duyurunun ardından hisse fiyatları çakıldı."
+      },
+      {
+        "tr": "(bir şeyi) daldırmak, sokmak",
+        "en": "to push something suddenly and forcefully into something",
+        "exampleEn": "He plunged his hand into the cold water.",
+        "exampleTr": "Elini soğuk suya daldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_prompt",
+    "headword": "prompt",
+    "extraMeanings": [
+      {
+        "tr": "yol açmak, neden olmak, yöneltmek",
+        "en": "to make someone decide to do something",
+        "exampleEn": "The bad reviews prompted the company to change its policy.",
+        "exampleTr": "Kötü eleştiriler şirketi politikasını değiştirmeye yöneltti."
+      },
+      {
+        "tr": "(unutan oyuncuya) suflörlük yapmak, hatırlatmak",
+        "en": "to help someone by suggesting words they have forgotten",
+        "exampleEn": "When the actor forgot his lines, someone prompted him from offstage.",
+        "exampleTr": "Oyuncu repliklerini unutunca biri kulisten ona suflörlük yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_prospect",
+    "headword": "prospect",
+    "extraMeanings": [
+      {
+        "tr": "(maden, altın vb.) aramak",
+        "en": "to search an area for gold, oil, or other valuable substances",
+        "exampleEn": "Miners came west to prospect for gold.",
+        "exampleTr": "Madenciler altın aramak için batıya geldi."
+      }
+    ]
+  },
+  {
+    "id": "w_pretend",
+    "headword": "pretend",
+    "extraMeanings": [
+      {
+        "tr": "-mış gibi yapmak, numara yapmak (fiil)",
+        "en": "to behave as if something is true when it is not",
+        "exampleEn": "The children pretended to be asleep.",
+        "exampleTr": "Çocuklar uyuyormuş gibi yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_pluck",
+    "headword": "pluck",
+    "extraMeanings": [
+      {
+        "tr": "cesaret, yüreklilik (isim)",
+        "en": "courage and determination",
+        "exampleEn": "It took a lot of pluck to stand up to the bully.",
+        "exampleTr": "Zorbaya karşı durmak epey cesaret istedi."
+      }
+    ]
+  },
+  {
+    "id": "w_prickle",
+    "headword": "prickle",
+    "extraMeanings": [
+      {
+        "tr": "karıncalanmak, iğnelenmek (fiil)",
+        "en": "to have or cause an unpleasant stinging feeling on the skin",
+        "exampleEn": "Her skin prickled with fear as she entered the dark room.",
+        "exampleTr": "Karanlık odaya girerken teni korkuyla karıncalandı."
+      }
+    ]
+  }
+]

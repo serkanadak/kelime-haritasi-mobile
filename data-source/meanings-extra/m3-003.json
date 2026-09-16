@@ -1,0 +1,500 @@
+[
+  {
+    "id": "w_fly",
+    "headword": "fly",
+    "extraMeanings": [
+      {
+        "tr": "sinek",
+        "en": "a small flying insect",
+        "exampleEn": "There was a fly buzzing around the kitchen.",
+        "exampleTr": "Mutfakta vızıldayan bir sinek vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_following",
+    "headword": "following",
+    "extraMeanings": [
+      {
+        "tr": "takipçiler, hayran kitlesi",
+        "en": "a group of supporters or fans",
+        "exampleEn": "The band has a huge following in Europe.",
+        "exampleTr": "Grubun Avrupa'da büyük bir hayran kitlesi var."
+      }
+    ]
+  },
+  {
+    "id": "w_foot",
+    "headword": "foot",
+    "extraMeanings": [
+      {
+        "tr": "fit (uzunluk birimi, ~30 cm)",
+        "en": "a unit of length equal to about 30 cm",
+        "exampleEn": "He is six foot tall.",
+        "exampleTr": "Onun boyu altı fit."
+      },
+      {
+        "tr": "dip, alt kısım (bir şeyin en aşağısı)",
+        "en": "the lowest part or bottom of something",
+        "exampleEn": "They camped at the foot of the mountain.",
+        "exampleTr": "Dağın eteğinde kamp kurdular."
+      }
+    ]
+  },
+  {
+    "id": "w_free",
+    "headword": "free",
+    "extraMeanings": [
+      {
+        "tr": "boş, müsait (vakti olan)",
+        "en": "not busy; available",
+        "exampleEn": "Are you free this evening?",
+        "exampleTr": "Bu akşam müsait misin?"
+      }
+    ]
+  },
+  {
+    "id": "w_front",
+    "headword": "front",
+    "extraMeanings": [
+      {
+        "tr": "ön taraf, ön (isim)",
+        "en": "the part of something that faces forward",
+        "exampleEn": "Please write your name on the front of the page.",
+        "exampleTr": "Lütfen adını sayfanın ön tarafına yaz."
+      }
+    ]
+  },
+  {
+    "id": "w_great",
+    "headword": "great",
+    "extraMeanings": [
+      {
+        "tr": "büyük çaplı, önemli, ünlü",
+        "en": "very important, famous or of large scale",
+        "exampleEn": "Einstein was a great scientist.",
+        "exampleTr": "Einstein büyük bir bilim insanıydı."
+      }
+    ]
+  },
+  {
+    "id": "w_grade",
+    "headword": "grade",
+    "extraMeanings": [
+      {
+        "tr": "derecelendirmek, notlandırmak (fiil)",
+        "en": "to give a mark or rank to something",
+        "exampleEn": "The teacher graded all the exams over the weekend.",
+        "exampleTr": "Öğretmen hafta sonu tüm sınavları notlandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_ground",
+    "headword": "ground",
+    "extraMeanings": [
+      {
+        "tr": "gerekçe, temel, dayanak",
+        "en": "a reason or basis for something",
+        "exampleEn": "They had good grounds for their complaint.",
+        "exampleTr": "Şikayetleri için sağlam gerekçeleri vardı."
+      },
+      {
+        "tr": "alan, saha",
+        "en": "an area of land used for a particular purpose",
+        "exampleEn": "The team practices on the football ground.",
+        "exampleTr": "Takım futbol sahasında antrenman yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_guy",
+    "headword": "guy",
+    "extraMeanings": [
+      {
+        "tr": "arkadaşlar, millet (çoğul, herkese hitap)",
+        "en": "used to address a group of people of any gender",
+        "exampleEn": "Hey guys, are you ready to go?",
+        "exampleTr": "Hey millet, gitmeye hazır mısınız?"
+      }
+    ]
+  },
+  {
+    "id": "w_hand",
+    "headword": "hand",
+    "extraMeanings": [
+      {
+        "tr": "uzatmak, vermek (fiil)",
+        "en": "to pass or give something to someone",
+        "exampleEn": "Can you hand me that book?",
+        "exampleTr": "Şu kitabı bana uzatabilir misin?"
+      },
+      {
+        "tr": "akrep/yelkovan (saatin ibresi)",
+        "en": "a pointer on a clock or watch",
+        "exampleEn": "The hour hand of the clock was broken.",
+        "exampleTr": "Saatin akrebi kırıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_hard",
+    "headword": "hard",
+    "extraMeanings": [
+      {
+        "tr": "sıkı, çok (çaba/güç ile)",
+        "en": "with a lot of effort or force",
+        "exampleEn": "She works hard every day.",
+        "exampleTr": "O her gün çok çalışır."
+      }
+    ]
+  },
+  {
+    "id": "w_head",
+    "headword": "head",
+    "extraMeanings": [
+      {
+        "tr": "başkan, şef, müdür",
+        "en": "the leader or person in charge",
+        "exampleEn": "She is the head of the marketing department.",
+        "exampleTr": "O, pazarlama departmanının başıdır."
+      },
+      {
+        "tr": "yönelmek, gitmek (fiil)",
+        "en": "to move in a particular direction",
+        "exampleEn": "We're heading to the beach tomorrow.",
+        "exampleTr": "Yarın sahile gidiyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w_heart",
+    "headword": "heart",
+    "extraMeanings": [
+      {
+        "tr": "merkez, göbek (bir yerin ortası)",
+        "en": "the central or most important part",
+        "exampleEn": "The hotel is in the heart of the city.",
+        "exampleTr": "Otel şehrin merkezindedir."
+      }
+    ]
+  },
+  {
+    "id": "w_help",
+    "headword": "help",
+    "extraMeanings": [
+      {
+        "tr": "yardım (isim)",
+        "en": "the act of helping; assistance",
+        "exampleEn": "Thank you for your help.",
+        "exampleTr": "Yardımın için teşekkürler."
+      }
+    ]
+  },
+  {
+    "id": "w_hide",
+    "headword": "hide",
+    "extraMeanings": [
+      {
+        "tr": "gizlemek, saklamak (bir duyguyu/gerçeği)",
+        "en": "to keep a feeling or fact secret",
+        "exampleEn": "She tried to hide her disappointment.",
+        "exampleTr": "Hayal kırıklığını gizlemeye çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_high",
+    "headword": "high",
+    "extraMeanings": [
+      {
+        "tr": "çok, fazla (miktar/seviye)",
+        "en": "large in amount, level or degree",
+        "exampleEn": "The prices here are very high.",
+        "exampleTr": "Buradaki fiyatlar çok yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w_hold",
+    "headword": "hold",
+    "extraMeanings": [
+      {
+        "tr": "tutmak, elinde tutmak (fiil)",
+        "en": "to have something in your hands",
+        "exampleEn": "She was holding a cup of coffee.",
+        "exampleTr": "Elinde bir fincan kahve tutuyordu."
+      },
+      {
+        "tr": "düzenlemek, yapmak (toplantı, etkinlik)",
+        "en": "to organize or arrange an event",
+        "exampleEn": "They will hold a meeting on Friday.",
+        "exampleTr": "Cuma günü bir toplantı yapacaklar."
+      }
+    ]
+  },
+  {
+    "id": "w_home",
+    "headword": "home",
+    "extraMeanings": [
+      {
+        "tr": "eve, evde (zarf)",
+        "en": "to or at the place where one lives",
+        "exampleEn": "I want to go home now.",
+        "exampleTr": "Şimdi eve gitmek istiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_hope",
+    "headword": "hope",
+    "extraMeanings": [
+      {
+        "tr": "umut, umut (isim)",
+        "en": "a feeling that something good may happen",
+        "exampleEn": "There is still hope that they will win.",
+        "exampleTr": "Kazanacaklarına dair hâlâ umut var."
+      }
+    ]
+  },
+  {
+    "id": "w_hot",
+    "headword": "hot",
+    "extraMeanings": [
+      {
+        "tr": "acı, baharatlı (yiyecek)",
+        "en": "having a strong, spicy taste",
+        "exampleEn": "This curry is too hot for me.",
+        "exampleTr": "Bu köri benim için fazla acı."
+      }
+    ]
+  },
+  {
+    "id": "w_hurry",
+    "headword": "hurry",
+    "extraMeanings": [
+      {
+        "tr": "acele etmek, çabuk olmak (fiil)",
+        "en": "to move or do something quickly",
+        "exampleEn": "Hurry up, we're going to be late!",
+        "exampleTr": "Acele et, geç kalacağız!"
+      }
+    ]
+  },
+  {
+    "id": "w_ideal",
+    "headword": "ideal",
+    "extraMeanings": [
+      {
+        "tr": "ideal, ülkü (isim)",
+        "en": "a principle or standard worth striving for",
+        "exampleEn": "She fought for her ideals all her life.",
+        "exampleTr": "Hayatı boyunca idealleri için savaştı."
+      }
+    ]
+  },
+  {
+    "id": "w_interview",
+    "headword": "interview",
+    "extraMeanings": [
+      {
+        "tr": "mülakat yapmak, görüşme yapmak (fiil)",
+        "en": "to ask someone questions in an interview",
+        "exampleEn": "They interviewed ten candidates for the job.",
+        "exampleTr": "İş için on adayla mülakat yaptılar."
+      }
+    ]
+  },
+  {
+    "id": "w_jump",
+    "headword": "jump",
+    "extraMeanings": [
+      {
+        "tr": "sıçrama, atlayış (isim)",
+        "en": "an act of jumping",
+        "exampleEn": "That was a really high jump.",
+        "exampleTr": "Bu gerçekten çok yüksek bir atlayıştı."
+      },
+      {
+        "tr": "ani artış, sıçrama (miktar/fiyat)",
+        "en": "a sudden increase in amount or level",
+        "exampleEn": "There was a big jump in prices last month.",
+        "exampleTr": "Geçen ay fiyatlarda büyük bir artış oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_kick",
+    "headword": "kick",
+    "extraMeanings": [
+      {
+        "tr": "tekmelemek, ayakla vurmak (fiil)",
+        "en": "to hit something with your foot",
+        "exampleEn": "He kicked the ball into the goal.",
+        "exampleTr": "Topu kaleye tekmeledi."
+      }
+    ]
+  },
+  {
+    "id": "w_kind",
+    "headword": "kind",
+    "extraMeanings": [
+      {
+        "tr": "tür, çeşit (isim)",
+        "en": "a type or sort of something",
+        "exampleEn": "What kind of music do you like?",
+        "exampleTr": "Ne tür müzik seversin?"
+      }
+    ]
+  },
+  {
+    "id": "w_kiss",
+    "headword": "kiss",
+    "extraMeanings": [
+      {
+        "tr": "öpmek (fiil)",
+        "en": "to touch someone with your lips as a sign of love",
+        "exampleEn": "She kissed her son goodnight.",
+        "exampleTr": "Oğlunu iyi geceler diye öptü."
+      }
+    ]
+  },
+  {
+    "id": "w_late",
+    "headword": "late",
+    "extraMeanings": [
+      {
+        "tr": "geç, geç vakit (zarf)",
+        "en": "after the expected or usual time",
+        "exampleEn": "He arrived late to the meeting.",
+        "exampleTr": "Toplantıya geç geldi."
+      },
+      {
+        "tr": "merhum, rahmetli (ölmüş kişi için)",
+        "en": "used to refer to someone who has died",
+        "exampleEn": "This house belonged to her late husband.",
+        "exampleTr": "Bu ev onun rahmetli kocasına aitti."
+      }
+    ]
+  },
+  {
+    "id": "w_laugh",
+    "headword": "laugh",
+    "extraMeanings": [
+      {
+        "tr": "gülüş, kahkaha (isim)",
+        "en": "the act or sound of laughing",
+        "exampleEn": "She has a loud laugh.",
+        "exampleTr": "Onun gür bir gülüşü var."
+      }
+    ]
+  },
+  {
+    "id": "w_leaf",
+    "headword": "leaf",
+    "extraMeanings": [
+      {
+        "tr": "yaprak (kitap/defter sayfası)",
+        "en": "a sheet of paper in a book",
+        "exampleEn": "He tore a leaf out of his notebook.",
+        "exampleTr": "Defterinden bir yaprak kopardı."
+      }
+    ]
+  },
+  {
+    "id": "w_key",
+    "headword": "key",
+    "extraMeanings": [
+      {
+        "tr": "tuş (klavye/piyano)",
+        "en": "a button on a keyboard or piano",
+        "exampleEn": "He pressed the wrong key on the keyboard.",
+        "exampleTr": "Klavyede yanlış tuşa bastı."
+      },
+      {
+        "tr": "anahtar, kilit nokta (çözüm/başarı için)",
+        "en": "the most important part that leads to success",
+        "exampleEn": "Hard work is the key to success.",
+        "exampleTr": "Başarının anahtarı çok çalışmaktır."
+      }
+    ]
+  },
+  {
+    "id": "w_keep",
+    "headword": "keep",
+    "extraMeanings": [
+      {
+        "tr": "-e devam etmek (bir şeyi sürekli yapmak)",
+        "en": "to continue doing something repeatedly",
+        "exampleEn": "She keeps forgetting her password.",
+        "exampleTr": "Sürekli şifresini unutup duruyor."
+      }
+    ]
+  },
+  {
+    "id": "w_get",
+    "headword": "get",
+    "extraMeanings": [
+      {
+        "tr": "anlamak, kavramak",
+        "en": "to understand something",
+        "exampleEn": "Sorry, I don't get the joke.",
+        "exampleTr": "Üzgünüm, şakayı anlamadım."
+      },
+      {
+        "tr": "-e ulaşmak, varmak (bir yere)",
+        "en": "to arrive at or reach a place",
+        "exampleEn": "What time did you get home?",
+        "exampleTr": "Eve saat kaçta vardın?"
+      }
+    ]
+  },
+  {
+    "id": "w_glass",
+    "headword": "glass",
+    "extraMeanings": [
+      {
+        "tr": "bir bardak (dolusu içecek)",
+        "en": "the amount that a glass holds",
+        "exampleEn": "He drank a glass of water.",
+        "exampleTr": "Bir bardak su içti."
+      }
+    ]
+  },
+  {
+    "id": "w_group",
+    "headword": "group",
+    "extraMeanings": [
+      {
+        "tr": "gruplandırmak, bir araya getirmek (fiil)",
+        "en": "to put things or people together",
+        "exampleEn": "The teacher grouped the students by age.",
+        "exampleTr": "Öğretmen öğrencileri yaşa göre grupladı."
+      }
+    ]
+  },
+  {
+    "id": "w_greet",
+    "headword": "greet",
+    "extraMeanings": [
+      {
+        "tr": "karşılamak, tepki göstermek (bir haber/duruma)",
+        "en": "to react to something in a particular way",
+        "exampleEn": "The news was greeted with joy.",
+        "exampleTr": "Haber sevinçle karşılandı."
+      }
+    ]
+  },
+  {
+    "id": "w_form",
+    "headword": "form",
+    "extraMeanings": [
+      {
+        "tr": "oluşturmak, meydana getirmek (fiil)",
+        "en": "to make or create something",
+        "exampleEn": "The children formed a circle around the teacher.",
+        "exampleTr": "Çocuklar öğretmenin etrafında bir daire oluşturdu."
+      }
+    ]
+  }
+]

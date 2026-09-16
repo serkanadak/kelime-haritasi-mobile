@@ -1,0 +1,566 @@
+[
+  {
+    "id": "w_court",
+    "headword": "court",
+    "extraMeanings": [
+      {
+        "tr": "saray/kraliyet meclisi (hükümdarın çevresi)",
+        "en": "the place where a king or queen lives and their attendants",
+        "exampleEn": "The king held a grand ball at his court.",
+        "exampleTr": "Kral, sarayında büyük bir balo düzenledi."
+      }
+    ]
+  },
+  {
+    "id": "w_cross",
+    "headword": "cross",
+    "extraMeanings": [
+      {
+        "tr": "karşıdan karşıya geçmek (fiil)",
+        "en": "to go from one side of something to the other",
+        "exampleEn": "Look both ways before you cross the road.",
+        "exampleTr": "Karşıya geçmeden önce iki tarafa da bak."
+      },
+      {
+        "tr": "kızgın, sinirli (sıfat)",
+        "en": "annoyed or angry",
+        "exampleEn": "Please don't be cross with me for being late.",
+        "exampleTr": "Geç kaldığım için bana kızma lütfen."
+      }
+    ]
+  },
+  {
+    "id": "w_crown",
+    "headword": "crown",
+    "extraMeanings": [
+      {
+        "tr": "kaplama/kron (dişte)",
+        "en": "an artificial covering for a damaged tooth",
+        "exampleEn": "The dentist put a crown on my broken tooth.",
+        "exampleTr": "Diş hekimi kırık dişime kaplama yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_cruise",
+    "headword": "cruise",
+    "extraMeanings": [
+      {
+        "tr": "sabit hızda seyretmek (fiil)",
+        "en": "to travel at a steady speed",
+        "exampleEn": "The car cruised along the highway at 100 km/h.",
+        "exampleTr": "Araba otoyolda saatte 100 km ile ilerliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_custom",
+    "headword": "custom",
+    "extraMeanings": [
+      {
+        "tr": "ısmarlama, özel yapım (sıfat)",
+        "en": "made specially for a particular customer",
+        "exampleEn": "He ordered a custom suit for the wedding.",
+        "exampleTr": "Düğün için ısmarlama bir takım elbise sipariş etti."
+      }
+    ]
+  },
+  {
+    "id": "w_daily",
+    "headword": "daily",
+    "extraMeanings": [
+      {
+        "tr": "günlük gazete (isim)",
+        "en": "a newspaper published every day",
+        "exampleEn": "She reads a national daily every morning.",
+        "exampleTr": "Her sabah ulusal bir günlük gazete okur."
+      }
+    ]
+  },
+  {
+    "id": "w_degree",
+    "headword": "degree",
+    "extraMeanings": [
+      {
+        "tr": "üniversite diploması, akademik derece",
+        "en": "a qualification given after completing a university course",
+        "exampleEn": "She has a degree in engineering.",
+        "exampleTr": "Mühendislik alanında üniversite diploması var."
+      },
+      {
+        "tr": "derece, ölçü (miktar)",
+        "en": "the amount or level of something",
+        "exampleEn": "There was a high degree of uncertainty about the plan.",
+        "exampleTr": "Planla ilgili yüksek derecede belirsizlik vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_delay",
+    "headword": "delay",
+    "extraMeanings": [
+      {
+        "tr": "geciktirmek, ertelemek (fiil)",
+        "en": "to make something happen later than planned",
+        "exampleEn": "Bad weather delayed our flight for three hours.",
+        "exampleTr": "Kötü hava uçuşumuzu üç saat geciktirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_demand",
+    "headword": "demand",
+    "extraMeanings": [
+      {
+        "tr": "talep etmek, ısrarla istemek (fiil)",
+        "en": "to ask for something forcefully",
+        "exampleEn": "The workers demanded higher wages.",
+        "exampleTr": "İşçiler daha yüksek ücret talep etti."
+      }
+    ]
+  },
+  {
+    "id": "w_depend",
+    "headword": "depend",
+    "extraMeanings": [
+      {
+        "tr": "bağlı olmak, -e göre değişmek",
+        "en": "to be affected or decided by something",
+        "exampleEn": "Whether we go out depends on the weather.",
+        "exampleTr": "Dışarı çıkıp çıkmayacağımız havaya bağlı."
+      }
+    ]
+  },
+  {
+    "id": "w_desert",
+    "headword": "desert",
+    "extraMeanings": [
+      {
+        "tr": "terk etmek, bırakıp gitmek (fiil)",
+        "en": "to leave someone or something and not return",
+        "exampleEn": "He deserted his family and moved abroad.",
+        "exampleTr": "Ailesini terk edip yurt dışına taşındı."
+      }
+    ]
+  },
+  {
+    "id": "w_detail",
+    "headword": "detail",
+    "extraMeanings": [
+      {
+        "tr": "ayrıntılı olarak anlatmak (fiil)",
+        "en": "to describe something fully and precisely",
+        "exampleEn": "The report details every step of the process.",
+        "exampleTr": "Rapor sürecin her adımını ayrıntılı olarak anlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_develop",
+    "headword": "develop",
+    "extraMeanings": [
+      {
+        "tr": "(film/fotoğraf) banyo etmek",
+        "en": "to treat photographic film to produce pictures",
+        "exampleEn": "I took the film to the shop to be developed.",
+        "exampleTr": "Filmi banyo edilmesi için dükkâna götürdüm."
+      },
+      {
+        "tr": "(hastalık vb.) kapmak, ortaya çıkarmak",
+        "en": "to begin to have an illness or problem",
+        "exampleEn": "She developed a fever during the night.",
+        "exampleTr": "Gece boyunca ateşi çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_diamond",
+    "headword": "diamond",
+    "extraMeanings": [
+      {
+        "tr": "karo (iskambil)",
+        "en": "a playing card of the suit marked with red diamond shapes",
+        "exampleEn": "He played the ace of diamonds.",
+        "exampleTr": "Karo asını oynadı."
+      },
+      {
+        "tr": "eşkenar dörtgen, baklava şekli",
+        "en": "a shape with four equal sides forming two acute and two obtuse angles",
+        "exampleEn": "The window had panes in the shape of a diamond.",
+        "exampleTr": "Pencerede baklava şeklinde camlar vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_diet",
+    "headword": "diet",
+    "extraMeanings": [
+      {
+        "tr": "diyet yapmak, perhiz yapmak (fiil)",
+        "en": "to eat less in order to lose weight",
+        "exampleEn": "She has been dieting for a month before the wedding.",
+        "exampleTr": "Düğün öncesi bir aydır diyet yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_direct",
+    "headword": "direct",
+    "extraMeanings": [
+      {
+        "tr": "yönetmek, yönlendirmek (fiil)",
+        "en": "to control or manage something, or to show the way",
+        "exampleEn": "A police officer was directing the traffic.",
+        "exampleTr": "Bir polis memuru trafiği yönlendiriyordu."
+      },
+      {
+        "tr": "açık sözlü, dobra (sıfat)",
+        "en": "saying what you think in a clear and honest way",
+        "exampleEn": "I like her direct manner of speaking.",
+        "exampleTr": "Onun açık sözlü konuşma tarzını severim."
+      }
+    ]
+  },
+  {
+    "id": "w_direction",
+    "headword": "direction",
+    "extraMeanings": [
+      {
+        "tr": "talimat, yönerge (genellikle çoğul)",
+        "en": "instructions on how to do something or get somewhere",
+        "exampleEn": "Follow the directions on the package carefully.",
+        "exampleTr": "Paketin üzerindeki talimatları dikkatlice uygula."
+      }
+    ]
+  },
+  {
+    "id": "w_disc",
+    "headword": "disc",
+    "extraMeanings": [
+      {
+        "tr": "disk (omurga kıkırdağı)",
+        "en": "a layer of cartilage between the bones of the spine",
+        "exampleEn": "He hurt his back and slipped a disc.",
+        "exampleTr": "Sırtını incitti ve disk kayması yaşadı."
+      }
+    ]
+  },
+  {
+    "id": "w_discount",
+    "headword": "discount",
+    "extraMeanings": [
+      {
+        "tr": "göz ardı etmek, dikkate almamak (fiil)",
+        "en": "to consider something unlikely or unimportant",
+        "exampleEn": "We shouldn't discount the possibility of rain.",
+        "exampleTr": "Yağmur ihtimalini göz ardı etmemeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w_display",
+    "headword": "display",
+    "extraMeanings": [
+      {
+        "tr": "sergilemek, göstermek (fiil)",
+        "en": "to put something where people can see it",
+        "exampleEn": "The shop displays its newest products in the window.",
+        "exampleTr": "Mağaza en yeni ürünlerini vitrinde sergiliyor."
+      },
+      {
+        "tr": "ekran (cihazda)",
+        "en": "a screen that shows information",
+        "exampleEn": "The phone has a bright, high-resolution display.",
+        "exampleTr": "Telefonun parlak, yüksek çözünürlüklü bir ekranı var."
+      }
+    ]
+  },
+  {
+    "id": "w_dislike",
+    "headword": "dislike",
+    "extraMeanings": [
+      {
+        "tr": "hoşlanmamak, sevmemek (fiil)",
+        "en": "to not like someone or something",
+        "exampleEn": "I dislike getting up early in the morning.",
+        "exampleTr": "Sabah erken kalkmaktan hoşlanmam."
+      }
+    ]
+  },
+  {
+    "id": "w_double",
+    "headword": "double",
+    "extraMeanings": [
+      {
+        "tr": "iki katına çıkmak/çıkarmak (fiil)",
+        "en": "to become or make twice as much",
+        "exampleEn": "The company doubled its profits last year.",
+        "exampleTr": "Şirket geçen yıl kârını ikiye katladı."
+      }
+    ]
+  },
+  {
+    "id": "w_doubt",
+    "headword": "doubt",
+    "extraMeanings": [
+      {
+        "tr": "şüphe etmek, kuşku duymak (fiil)",
+        "en": "to feel unsure about something",
+        "exampleEn": "I doubt that he will come to the party.",
+        "exampleTr": "Onun partiye geleceğinden şüpheliyim."
+      }
+    ]
+  },
+  {
+    "id": "w_draw",
+    "headword": "draw",
+    "extraMeanings": [
+      {
+        "tr": "çizmek, resim yapmak (fiil)",
+        "en": "to make a picture with a pen or pencil",
+        "exampleEn": "She likes to draw pictures of animals.",
+        "exampleTr": "Hayvan resimleri çizmeyi sever."
+      },
+      {
+        "tr": "çekmek, çekip çıkarmak (fiil)",
+        "en": "to pull or move something in a particular direction",
+        "exampleEn": "He drew the curtains before going to bed.",
+        "exampleTr": "Yatmadan önce perdeleri çekti."
+      }
+    ]
+  },
+  {
+    "id": "w_dream",
+    "headword": "dream",
+    "extraMeanings": [
+      {
+        "tr": "rüya görmek; hayal kurmak (fiil)",
+        "en": "to experience dreams or imagine something you want",
+        "exampleEn": "I dreamed about flying last night.",
+        "exampleTr": "Dün gece uçtuğumu rüyamda gördüm."
+      }
+    ]
+  },
+  {
+    "id": "w_drill",
+    "headword": "drill",
+    "extraMeanings": [
+      {
+        "tr": "delmek, matkapla delik açmak (fiil)",
+        "en": "to make a hole using a drill",
+        "exampleEn": "He drilled a hole in the wall to hang the picture.",
+        "exampleTr": "Resmi asmak için duvara delik deldi."
+      },
+      {
+        "tr": "talim, tekrarlı alıştırma",
+        "en": "a repeated exercise done to learn a skill",
+        "exampleEn": "The students did a grammar drill in class.",
+        "exampleTr": "Öğrenciler sınıfta bir dilbilgisi alıştırması yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_drop",
+    "headword": "drop",
+    "extraMeanings": [
+      {
+        "tr": "düşürmek, bırakmak (fiil)",
+        "en": "to let something fall",
+        "exampleEn": "Be careful not to drop the plates.",
+        "exampleTr": "Tabakları düşürmemeye dikkat et."
+      },
+      {
+        "tr": "düşüş, azalma",
+        "en": "a fall in amount or level",
+        "exampleEn": "There was a sharp drop in temperature overnight.",
+        "exampleTr": "Gece boyunca sıcaklıkta keskin bir düşüş oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_drug",
+    "headword": "drug",
+    "extraMeanings": [
+      {
+        "tr": "uyuşturmak, ilaçla bayıltmak (fiil)",
+        "en": "to give someone a drug, especially to make them sleep",
+        "exampleEn": "The thieves drugged the guard before the robbery.",
+        "exampleTr": "Hırsızlar soygundan önce bekçiyi uyuşturdu."
+      }
+    ]
+  },
+  {
+    "id": "w_dust",
+    "headword": "dust",
+    "extraMeanings": [
+      {
+        "tr": "tozunu almak, silmek (fiil)",
+        "en": "to clean the dust off surfaces",
+        "exampleEn": "She dusted the shelves before the guests arrived.",
+        "exampleTr": "Misafirler gelmeden önce rafların tozunu aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_early",
+    "headword": "early",
+    "extraMeanings": [
+      {
+        "tr": "ilk, başlangıçtaki (dönem)",
+        "en": "belonging to the first part of a period",
+        "exampleEn": "In the early morning the streets were empty.",
+        "exampleTr": "Sabahın erken saatlerinde sokaklar boştu."
+      }
+    ]
+  },
+  {
+    "id": "w_earth",
+    "headword": "earth",
+    "extraMeanings": [
+      {
+        "tr": "topraklama (elektrik teli)",
+        "en": "a wire that connects electrical equipment to the ground for safety",
+        "exampleEn": "Make sure the appliance has an earth wire.",
+        "exampleTr": "Cihazın topraklama teli olduğundan emin ol."
+      }
+    ]
+  },
+  {
+    "id": "w_east",
+    "headword": "east",
+    "extraMeanings": [
+      {
+        "tr": "doğuya doğru (zarf)",
+        "en": "toward the east",
+        "exampleEn": "We drove east for several hours.",
+        "exampleTr": "Birkaç saat boyunca doğuya doğru sürdük."
+      }
+    ]
+  },
+  {
+    "id": "w_effect",
+    "headword": "effect",
+    "extraMeanings": [
+      {
+        "tr": "gerçekleştirmek, yürürlüğe koymak (fiil)",
+        "en": "to make something happen",
+        "exampleEn": "The new manager effected many changes quickly.",
+        "exampleTr": "Yeni müdür pek çok değişikliği hızlıca gerçekleştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_enter",
+    "headword": "enter",
+    "extraMeanings": [
+      {
+        "tr": "girmek, katılmak (yarışma vb.)",
+        "en": "to take part in a competition or activity",
+        "exampleEn": "She entered the writing competition and won.",
+        "exampleTr": "Yazı yarışmasına katıldı ve kazandı."
+      },
+      {
+        "tr": "(veri/bilgi) girmek, kaydetmek",
+        "en": "to type information into a computer or form",
+        "exampleEn": "Please enter your password to continue.",
+        "exampleTr": "Devam etmek için lütfen şifrenizi girin."
+      }
+    ]
+  },
+  {
+    "id": "w_escape",
+    "headword": "escape",
+    "extraMeanings": [
+      {
+        "tr": "kaçmak, kurtulmak (fiil)",
+        "en": "to get free from a place or situation",
+        "exampleEn": "The prisoner escaped from jail at night.",
+        "exampleTr": "Mahkûm gece hapishaneden kaçtı."
+      }
+    ]
+  },
+  {
+    "id": "w_exchange",
+    "headword": "exchange",
+    "extraMeanings": [
+      {
+        "tr": "değiştirmek, takas etmek (fiil)",
+        "en": "to give something and receive something else in return",
+        "exampleEn": "Can I exchange this shirt for a larger size?",
+        "exampleTr": "Bu gömleği daha büyük bir bedenle değiştirebilir miyim?"
+      }
+    ]
+  },
+  {
+    "id": "w_exercise",
+    "headword": "exercise",
+    "extraMeanings": [
+      {
+        "tr": "egzersiz yapmak, spor yapmak (fiil)",
+        "en": "to do physical activity to stay healthy",
+        "exampleEn": "He exercises at the gym three times a week.",
+        "exampleTr": "Haftada üç kez spor salonunda egzersiz yapar."
+      }
+    ]
+  },
+  {
+    "id": "w_expect",
+    "headword": "expect",
+    "extraMeanings": [
+      {
+        "tr": "beklentisi olmak, ummak (birinden bir şey)",
+        "en": "to think that someone should do something",
+        "exampleEn": "The teacher expects us to hand in the homework on time.",
+        "exampleTr": "Öğretmen ödevi zamanında teslim etmemizi bekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_experience",
+    "headword": "experience",
+    "extraMeanings": [
+      {
+        "tr": "yaşamak, deneyimlemek (fiil)",
+        "en": "to feel or go through something",
+        "exampleEn": "Many people experience stress at work.",
+        "exampleTr": "Pek çok insan işyerinde stres yaşar."
+      }
+    ]
+  },
+  {
+    "id": "w_email",
+    "headword": "email",
+    "extraMeanings": [
+      {
+        "tr": "e-posta, elektronik posta (isim)",
+        "en": "a message sent electronically",
+        "exampleEn": "I received an important email from my boss.",
+        "exampleTr": "Patronumdan önemli bir e-posta aldım."
+      }
+    ]
+  },
+  {
+    "id": "w_envy",
+    "headword": "envy",
+    "extraMeanings": [
+      {
+        "tr": "kıskanmak, gıpta etmek (fiil)",
+        "en": "to wish you had what someone else has",
+        "exampleEn": "I envy her ability to stay calm under pressure.",
+        "exampleTr": "Baskı altında sakin kalabilme yeteneğini kıskanıyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_explore",
+    "headword": "explore",
+    "extraMeanings": [
+      {
+        "tr": "incelemek, ele almak (fikir/konu)",
+        "en": "to examine or discuss something carefully",
+        "exampleEn": "The book explores the theme of loneliness.",
+        "exampleTr": "Kitap yalnızlık temasını ele alıyor."
+      }
+    ]
+  }
+]

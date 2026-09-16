@@ -1,0 +1,1215 @@
+[
+  {
+    "id": "w_favoritism",
+    "headword": "favoritism",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfeɪvərɪtɪzəm/",
+    "meanings": [
+      {
+        "tr": "kayırma, iltimas",
+        "en": "unfair support shown to one person or group, especially by someone in authority",
+        "exampleEn": "The manager was accused of favoritism for always promoting his friends.",
+        "exampleTr": "Müdür sürekli arkadaşlarını terfi ettirdiği için kayırmacılıkla suçlandı."
+      }
+    ],
+    "synonyms": [
+      "partiality",
+      "bias",
+      "nepotism"
+    ],
+    "antonyms": [
+      "fairness",
+      "impartiality"
+    ]
+  },
+  {
+    "id": "w_feasibly",
+    "headword": "feasibly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfiːzəbli/",
+    "meanings": [
+      {
+        "tr": "mümkün olarak, uygulanabilir şekilde",
+        "en": "in a way that is possible to do or achieve",
+        "exampleEn": "We need to work out how the project can feasibly be completed on time.",
+        "exampleTr": "Projenin zamanında nasıl uygulanabilir şekilde tamamlanabileceğini çözmemiz gerekiyor."
+      }
+    ],
+    "synonyms": [
+      "possibly",
+      "practicably",
+      "realistically"
+    ],
+    "antonyms": [
+      "impossibly"
+    ]
+  },
+  {
+    "id": "w_feedstock",
+    "headword": "feedstock",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfiːdstɒk/",
+    "meanings": [
+      {
+        "tr": "hammadde, besleme stoğu",
+        "en": "raw material used to supply or fuel a machine or industrial process",
+        "exampleEn": "Crude oil is the main feedstock for many petrochemical plants.",
+        "exampleTr": "Ham petrol, birçok petrokimya tesisinin ana hammaddesidir."
+      }
+    ],
+    "synonyms": [
+      "raw material"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fell",
+    "headword": "fell",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fel/",
+    "meanings": [
+      {
+        "tr": "(ağaç) kesmek, devirmek",
+        "en": "to cut down a tree",
+        "exampleEn": "They had to fell several old oak trees to build the road.",
+        "exampleTr": "Yolu yapmak için birkaç yaşlı meşe ağacını kesmek zorunda kaldılar."
+      },
+      {
+        "tr": "düşmek (fall fiilinin geçmiş hali)",
+        "en": "past tense of 'fall'",
+        "exampleEn": "She slipped and fell on the icy pavement.",
+        "exampleTr": "Buzlu kaldırımda kaydı ve düştü."
+      }
+    ],
+    "synonyms": [
+      "cut down",
+      "chop down"
+    ],
+    "antonyms": [
+      "plant",
+      "raise"
+    ]
+  },
+  {
+    "id": "w_felled",
+    "headword": "felled",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/feld/",
+    "meanings": [
+      {
+        "tr": "kesildi, devrildi (fell fiilinin geçmiş hali)",
+        "en": "past tense of 'fell'; cut down or knocked to the ground",
+        "exampleEn": "The storm felled dozens of trees across the region.",
+        "exampleTr": "Fırtına bölgede onlarca ağacı devirdi."
+      }
+    ],
+    "synonyms": [
+      "cut down",
+      "knocked down"
+    ],
+    "antonyms": [
+      "raised"
+    ]
+  },
+  {
+    "id": "w_fellow_citizen",
+    "headword": "fellow citizen",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌfeləʊ ˈsɪtɪzən/",
+    "meanings": [
+      {
+        "tr": "vatandaş, yurttaş (aynı ülkeden biri)",
+        "en": "a person who is a citizen of the same country as you",
+        "exampleEn": "He urged his fellow citizens to vote in the upcoming election.",
+        "exampleTr": "Vatandaşlarını yaklaşan seçimde oy kullanmaya çağırdı."
+      }
+    ],
+    "synonyms": [
+      "compatriot",
+      "countryman"
+    ],
+    "antonyms": [
+      "foreigner"
+    ]
+  },
+  {
+    "id": "w_fertile_land",
+    "headword": "fertile land",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌfɜːtaɪl ˈlænd/",
+    "meanings": [
+      {
+        "tr": "verimli toprak",
+        "en": "land that is able to produce good crops and plants",
+        "exampleEn": "The valley is known for its fertile land and rich harvests.",
+        "exampleTr": "Vadi, verimli toprağı ve bol hasadıyla tanınır."
+      }
+    ],
+    "synonyms": [
+      "productive land",
+      "rich soil"
+    ],
+    "antonyms": [
+      "barren land"
+    ]
+  },
+  {
+    "id": "w_fertility",
+    "headword": "fertility",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fəˈtɪləti/",
+    "meanings": [
+      {
+        "tr": "doğurganlık; verimlilik",
+        "en": "the ability to produce offspring, or the quality of soil being able to produce good crops",
+        "exampleEn": "Doctors ran tests to check the couple's fertility.",
+        "exampleTr": "Doktorlar çiftin doğurganlığını kontrol etmek için testler yaptı."
+      }
+    ],
+    "synonyms": [
+      "fruitfulness",
+      "productivity"
+    ],
+    "antonyms": [
+      "infertility",
+      "sterility"
+    ]
+  },
+  {
+    "id": "w_fibre",
+    "headword": "fibre",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfaɪbə/",
+    "meanings": [
+      {
+        "tr": "lif, elyaf",
+        "en": "a thin thread of a natural or artificial substance, or the part of plants eaten for digestion",
+        "exampleEn": "Whole grains are a good source of dietary fibre.",
+        "exampleTr": "Tam tahıllar iyi bir lif kaynağıdır."
+      }
+    ],
+    "synonyms": [
+      "thread",
+      "filament"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fidgety",
+    "headword": "fidgety",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɪdʒəti/",
+    "meanings": [
+      {
+        "tr": "kıpır kıpır, yerinde duramayan",
+        "en": "unable to stay still, especially because of boredom or nervousness",
+        "exampleEn": "The children grew fidgety during the long ceremony.",
+        "exampleTr": "Çocuklar uzun tören boyunca kıpır kıpır oldular."
+      }
+    ],
+    "synonyms": [
+      "restless",
+      "jittery",
+      "antsy"
+    ],
+    "antonyms": [
+      "calm",
+      "still"
+    ]
+  },
+  {
+    "id": "w_fiery",
+    "headword": "fiery",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfaɪəri/",
+    "meanings": [
+      {
+        "tr": "ateşli, öfkeli, coşkulu",
+        "en": "full of strong emotion such as anger or passion; like fire",
+        "exampleEn": "She gave a fiery speech that stirred the crowd.",
+        "exampleTr": "Kalabalığı coşturan ateşli bir konuşma yaptı."
+      }
+    ],
+    "synonyms": [
+      "passionate",
+      "intense",
+      "hot-tempered"
+    ],
+    "antonyms": [
+      "calm",
+      "mild"
+    ]
+  },
+  {
+    "id": "w_fifteen",
+    "headword": "fifteen",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌfɪfˈtiːn/",
+    "meanings": [
+      {
+        "tr": "on beş (15)",
+        "en": "the number 15",
+        "exampleEn": "There are fifteen students in my English class.",
+        "exampleTr": "İngilizce sınıfımda on beş öğrenci var."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_fifty",
+    "headword": "fifty",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɪfti/",
+    "meanings": [
+      {
+        "tr": "elli (50)",
+        "en": "the number 50",
+        "exampleEn": "The book costs fifty dollars.",
+        "exampleTr": "Kitap elli dolar tutuyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_fighter_jet",
+    "headword": "fighter jet",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfaɪtə dʒet/",
+    "meanings": [
+      {
+        "tr": "savaş uçağı, jet avcı uçağı",
+        "en": "a fast military aircraft designed for combat",
+        "exampleEn": "Two fighter jets flew low over the city during the parade.",
+        "exampleTr": "Geçit töreni sırasında iki savaş uçağı şehrin üzerinden alçaktan geçti."
+      }
+    ],
+    "synonyms": [
+      "warplane",
+      "combat aircraft"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fighting_sport",
+    "headword": "fighting sport",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfaɪtɪŋ spɔːt/",
+    "meanings": [
+      {
+        "tr": "dövüş sporu",
+        "en": "a competitive sport involving combat between opponents, such as boxing or wrestling",
+        "exampleEn": "Boxing is a fighting sport that requires great discipline.",
+        "exampleTr": "Boks, büyük disiplin gerektiren bir dövüş sporudur."
+      }
+    ],
+    "synonyms": [
+      "combat sport",
+      "martial art"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_filch",
+    "headword": "filch",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɪltʃ/",
+    "meanings": [
+      {
+        "tr": "aşırmak, çalmak (küçük şeyler)",
+        "en": "to steal something, especially something of small value",
+        "exampleEn": "He would often filch snacks from the office kitchen.",
+        "exampleTr": "Ofis mutfağından sık sık atıştırmalık aşırırdı."
+      }
+    ],
+    "synonyms": [
+      "pilfer",
+      "steal",
+      "swipe"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_final_outcome",
+    "headword": "final outcome",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌfaɪnəl ˈaʊtkʌm/",
+    "meanings": [
+      {
+        "tr": "nihai sonuç",
+        "en": "the result that is produced at the end of a process or event",
+        "exampleEn": "Nobody could predict the final outcome of the negotiations.",
+        "exampleTr": "Müzakerelerin nihai sonucunu kimse tahmin edemedi."
+      }
+    ],
+    "synonyms": [
+      "end result",
+      "conclusion"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_finished_product",
+    "headword": "finished product",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌfɪnɪʃt ˈprɒdʌkt/",
+    "meanings": [
+      {
+        "tr": "bitmiş ürün, mamul",
+        "en": "a product that is complete and ready to be sold or used",
+        "exampleEn": "Raw materials are turned into a finished product on the assembly line.",
+        "exampleTr": "Ham maddeler montaj hattında bitmiş ürüne dönüştürülür."
+      }
+    ],
+    "synonyms": [
+      "end product"
+    ],
+    "antonyms": [
+      "raw material"
+    ]
+  },
+  {
+    "id": "w_finiteness",
+    "headword": "finiteness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfaɪnaɪtnəs/",
+    "meanings": [
+      {
+        "tr": "sonluluk, sınırlılık",
+        "en": "the quality of having limits or an end",
+        "exampleEn": "The poem reflects on the finiteness of human life.",
+        "exampleTr": "Şiir, insan yaşamının sonluluğu üzerine düşünür."
+      }
+    ],
+    "synonyms": [
+      "limitedness"
+    ],
+    "antonyms": [
+      "infinity",
+      "endlessness"
+    ]
+  },
+  {
+    "id": "w_fireside",
+    "headword": "fireside",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfaɪəsaɪd/",
+    "meanings": [
+      {
+        "tr": "şömine başı, ocak başı",
+        "en": "the area next to a fireplace, associated with warmth and comfort",
+        "exampleEn": "They spent the winter evenings by the fireside reading books.",
+        "exampleTr": "Kış akşamlarını şömine başında kitap okuyarak geçirdiler."
+      }
+    ],
+    "synonyms": [
+      "hearth"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_firestorm",
+    "headword": "firestorm",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfaɪəstɔːm/",
+    "meanings": [
+      {
+        "tr": "şiddetli tepki fırtınası; büyük yangın",
+        "en": "a sudden and violent outburst of anger or criticism, or a very intense fire",
+        "exampleEn": "His controversial comments sparked a firestorm on social media.",
+        "exampleTr": "Tartışmalı yorumları sosyal medyada bir tepki fırtınası başlattı."
+      }
+    ],
+    "synonyms": [
+      "uproar",
+      "outcry"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_firmament",
+    "headword": "firmament",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɜːməmənt/",
+    "meanings": [
+      {
+        "tr": "gökkubbe, semâ (edebî)",
+        "en": "the sky or heavens, especially seen as a vault above the earth (literary)",
+        "exampleEn": "The stars shone brightly across the firmament.",
+        "exampleTr": "Yıldızlar gökkubbe boyunca parlak parlak ışıldıyordu."
+      }
+    ],
+    "synonyms": [
+      "sky",
+      "heavens"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fisticuffs",
+    "headword": "fisticuffs",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɪstɪkʌfs/",
+    "meanings": [
+      {
+        "tr": "yumruklaşma, kavga",
+        "en": "fighting with the fists",
+        "exampleEn": "The argument nearly ended in fisticuffs.",
+        "exampleTr": "Tartışma neredeyse yumruklaşmayla sonuçlanacaktı."
+      }
+    ],
+    "synonyms": [
+      "brawl",
+      "fighting"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fitted",
+    "headword": "fitted",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɪtəd/",
+    "meanings": [
+      {
+        "tr": "vücuda oturan; sabit, gömme",
+        "en": "made to fit a particular shape or space closely",
+        "exampleEn": "She wore a fitted jacket that showed off her figure.",
+        "exampleTr": "Vücuduna oturan, figürünü gösteren bir ceket giymişti."
+      },
+      {
+        "tr": "gömme, sabit (mobilya/mutfak)",
+        "en": "built to fit a specific space, as with furniture or kitchens",
+        "exampleEn": "The house has a modern fitted kitchen.",
+        "exampleTr": "Evde modern, gömme bir mutfak var."
+      }
+    ],
+    "synonyms": [
+      "tailored",
+      "close-fitting"
+    ],
+    "antonyms": [
+      "loose",
+      "baggy"
+    ]
+  },
+  {
+    "id": "w_five",
+    "headword": "five",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/faɪv/",
+    "meanings": [
+      {
+        "tr": "beş (5)",
+        "en": "the number 5",
+        "exampleEn": "I have five brothers and sisters.",
+        "exampleTr": "Beş kardeşim var."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_fizzy_water",
+    "headword": "fizzy water",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌfɪzi ˈwɔːtə/",
+    "meanings": [
+      {
+        "tr": "gazlı su, soda",
+        "en": "water that contains bubbles of gas",
+        "exampleEn": "Would you like still or fizzy water with your meal?",
+        "exampleTr": "Yemeğinizle sade su mu yoksa gazlı su mu istersiniz?"
+      }
+    ],
+    "synonyms": [
+      "sparkling water",
+      "soda water"
+    ],
+    "antonyms": [
+      "still water"
+    ]
+  },
+  {
+    "id": "w_flagrant",
+    "headword": "flagrant",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfleɪɡrənt/",
+    "meanings": [
+      {
+        "tr": "apaçık, göze batan (kötü şey)",
+        "en": "clearly and openly bad or shocking; blatant",
+        "exampleEn": "The decision was a flagrant violation of human rights.",
+        "exampleTr": "Karar, insan haklarının apaçık bir ihlaliydi."
+      }
+    ],
+    "synonyms": [
+      "blatant",
+      "glaring",
+      "brazen"
+    ],
+    "antonyms": [
+      "subtle",
+      "discreet"
+    ]
+  },
+  {
+    "id": "w_flagrantly",
+    "headword": "flagrantly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfleɪɡrəntli/",
+    "meanings": [
+      {
+        "tr": "apaçık bir şekilde, pervasızca",
+        "en": "in an obvious and shocking way, without any attempt to hide it",
+        "exampleEn": "They flagrantly ignored the safety rules.",
+        "exampleTr": "Güvenlik kurallarını pervasızca görmezden geldiler."
+      }
+    ],
+    "synonyms": [
+      "blatantly",
+      "openly",
+      "glaringly"
+    ],
+    "antonyms": [
+      "subtly",
+      "discreetly"
+    ]
+  },
+  {
+    "id": "w_flair",
+    "headword": "flair",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fleə/",
+    "meanings": [
+      {
+        "tr": "yetenek, kabiliyet; şıklık",
+        "en": "a natural talent for something, or a stylish quality",
+        "exampleEn": "She has a real flair for languages.",
+        "exampleTr": "Dillere karşı gerçek bir yeteneği var."
+      }
+    ],
+    "synonyms": [
+      "talent",
+      "knack",
+      "aptitude"
+    ],
+    "antonyms": [
+      "inability"
+    ]
+  },
+  {
+    "id": "w_flatten",
+    "headword": "flatten",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈflætən/",
+    "meanings": [
+      {
+        "tr": "düzleştirmek, yassılaştırmak",
+        "en": "to make something flat or flatter",
+        "exampleEn": "Use a rolling pin to flatten the dough.",
+        "exampleTr": "Hamuru düzleştirmek için bir oklava kullanın."
+      }
+    ],
+    "synonyms": [
+      "level",
+      "smooth",
+      "press"
+    ],
+    "antonyms": [
+      "raise",
+      "bump"
+    ]
+  },
+  {
+    "id": "w_flattening",
+    "headword": "flattening",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈflætənɪŋ/",
+    "meanings": [
+      {
+        "tr": "düzleşme, düzleştirme",
+        "en": "the process of becoming or making something flat",
+        "exampleEn": "The flattening of the growth curve was a hopeful sign.",
+        "exampleTr": "Büyüme eğrisinin düzleşmesi umut verici bir işaretti."
+      }
+    ],
+    "synonyms": [
+      "leveling",
+      "smoothing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_flattering",
+    "headword": "flattering",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈflætərɪŋ/",
+    "meanings": [
+      {
+        "tr": "iltifat edici, gururlandıran",
+        "en": "making someone seem more attractive or better than usual; expressing praise",
+        "exampleEn": "That dress is very flattering on you.",
+        "exampleTr": "O elbise sana çok yakışmış."
+      }
+    ],
+    "synonyms": [
+      "complimentary",
+      "becoming"
+    ],
+    "antonyms": [
+      "unflattering",
+      "insulting"
+    ]
+  },
+  {
+    "id": "w_flaunt",
+    "headword": "flaunt",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/flɔːnt/",
+    "meanings": [
+      {
+        "tr": "gösteriş yapmak, hava atmak",
+        "en": "to show off something proudly to impress others",
+        "exampleEn": "He loves to flaunt his wealth by driving expensive cars.",
+        "exampleTr": "Pahalı arabalar kullanarak servetiyle hava atmayı çok sever."
+      }
+    ],
+    "synonyms": [
+      "show off",
+      "parade",
+      "display"
+    ],
+    "antonyms": [
+      "hide",
+      "conceal"
+    ]
+  },
+  {
+    "id": "w_flawlessness",
+    "headword": "flawlessness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈflɔːləsnəs/",
+    "meanings": [
+      {
+        "tr": "kusursuzluk, mükemmellik",
+        "en": "the state of having no faults or imperfections",
+        "exampleEn": "The flawlessness of her performance amazed the judges.",
+        "exampleTr": "Performansının kusursuzluğu jüriyi hayran bıraktı."
+      }
+    ],
+    "synonyms": [
+      "perfection",
+      "impeccability"
+    ],
+    "antonyms": [
+      "imperfection",
+      "flaw"
+    ]
+  },
+  {
+    "id": "w_flaxseed",
+    "headword": "flaxseed",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈflækssiːd/",
+    "meanings": [
+      {
+        "tr": "keten tohumu",
+        "en": "the seed of the flax plant, often used as food or for oil",
+        "exampleEn": "She sprinkled some flaxseed over her morning yogurt.",
+        "exampleTr": "Sabah yoğurdunun üzerine biraz keten tohumu serpti."
+      }
+    ],
+    "synonyms": [
+      "linseed"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fleece",
+    "headword": "fleece",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fliːs/",
+    "meanings": [
+      {
+        "tr": "koyun postu, yün; polar kumaş",
+        "en": "the woolly coat of a sheep, or a soft warm fabric",
+        "exampleEn": "He zipped up his fleece to keep warm in the cold.",
+        "exampleTr": "Soğukta ısınmak için polarının fermuarını çekti."
+      }
+    ],
+    "synonyms": [
+      "wool"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fleetingness",
+    "headword": "fleetingness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfliːtɪŋnəs/",
+    "meanings": [
+      {
+        "tr": "geçicilik, kısa sürelilik",
+        "en": "the quality of lasting for only a very short time",
+        "exampleEn": "The poem captures the fleetingness of youth.",
+        "exampleTr": "Şiir, gençliğin geçiciliğini yansıtır."
+      }
+    ],
+    "synonyms": [
+      "transience",
+      "brevity"
+    ],
+    "antonyms": [
+      "permanence",
+      "durability"
+    ]
+  },
+  {
+    "id": "w_flighty",
+    "headword": "flighty",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈflaɪti/",
+    "meanings": [
+      {
+        "tr": "maymun iştahlı, kararsız, uçarı",
+        "en": "tending to change interests or feelings quickly; not serious or reliable",
+        "exampleEn": "She was too flighty to hold down a steady job.",
+        "exampleTr": "Düzenli bir işte tutunamayacak kadar maymun iştahlıydı."
+      }
+    ],
+    "synonyms": [
+      "fickle",
+      "capricious",
+      "scatterbrained"
+    ],
+    "antonyms": [
+      "steady",
+      "reliable"
+    ]
+  },
+  {
+    "id": "w_flora",
+    "headword": "flora",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈflɔːrə/",
+    "meanings": [
+      {
+        "tr": "bitki örtüsü, flora",
+        "en": "the plants of a particular region or period",
+        "exampleEn": "The island is famous for its unique flora and fauna.",
+        "exampleTr": "Ada, kendine özgü bitki ve hayvan örtüsüyle ünlüdür."
+      }
+    ],
+    "synonyms": [
+      "vegetation",
+      "plant life"
+    ],
+    "antonyms": [
+      "fauna"
+    ]
+  },
+  {
+    "id": "w_flotilla",
+    "headword": "flotilla",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fləˈtɪlə/",
+    "meanings": [
+      {
+        "tr": "küçük filo, tekne filosu",
+        "en": "a group of small ships or boats",
+        "exampleEn": "A flotilla of fishing boats set out at dawn.",
+        "exampleTr": "Bir balıkçı teknesi filosu şafakta denize açıldı."
+      }
+    ],
+    "synonyms": [
+      "fleet",
+      "squadron"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_flout",
+    "headword": "flout",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/flaʊt/",
+    "meanings": [
+      {
+        "tr": "(kurala) açıkça karşı gelmek, hiçe saymak",
+        "en": "to openly disobey a rule or law without hiding it",
+        "exampleEn": "Many drivers flout the speed limit on this road.",
+        "exampleTr": "Bu yolda birçok sürücü hız sınırını hiçe sayar."
+      }
+    ],
+    "synonyms": [
+      "defy",
+      "disregard",
+      "ignore"
+    ],
+    "antonyms": [
+      "obey",
+      "observe"
+    ]
+  },
+  {
+    "id": "w_fluctuation",
+    "headword": "fluctuation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌflʌktʃuˈeɪʃən/",
+    "meanings": [
+      {
+        "tr": "dalgalanma, iniş çıkış",
+        "en": "a change or variation, especially an irregular rise and fall in amount or value",
+        "exampleEn": "Investors are worried about the fluctuation in oil prices.",
+        "exampleTr": "Yatırımcılar petrol fiyatlarındaki dalgalanmadan endişe ediyor."
+      }
+    ],
+    "synonyms": [
+      "variation",
+      "swing",
+      "instability"
+    ],
+    "antonyms": [
+      "stability",
+      "steadiness"
+    ]
+  },
+  {
+    "id": "w_fluffy",
+    "headword": "fluffy",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈflʌfi/",
+    "meanings": [
+      {
+        "tr": "kabarık, yumuşak tüylü",
+        "en": "soft, light, and full of air or fur",
+        "exampleEn": "The kitten had soft, fluffy fur.",
+        "exampleTr": "Kedi yavrusunun yumuşak, kabarık tüyleri vardı."
+      }
+    ],
+    "synonyms": [
+      "soft",
+      "furry",
+      "downy"
+    ],
+    "antonyms": [
+      "flat",
+      "coarse"
+    ]
+  },
+  {
+    "id": "w_flustered",
+    "headword": "flustered",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈflʌstəd/",
+    "meanings": [
+      {
+        "tr": "telaşlanmış, şaşırmış, eli ayağına dolaşmış",
+        "en": "nervous, confused, or upset, especially in a hurried situation",
+        "exampleEn": "She got flustered when the interviewer asked an unexpected question.",
+        "exampleTr": "Görüşmeci beklenmedik bir soru sorunca telaşlandı."
+      }
+    ],
+    "synonyms": [
+      "agitated",
+      "rattled",
+      "frazzled"
+    ],
+    "antonyms": [
+      "calm",
+      "composed"
+    ]
+  },
+  {
+    "id": "w_for",
+    "headword": "for",
+    "pos": "prep",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔː/",
+    "meanings": [
+      {
+        "tr": "için (amaç, alıcı)",
+        "en": "used to show the purpose or intended recipient of something",
+        "exampleEn": "I bought this gift for my mother.",
+        "exampleTr": "Bu hediyeyi annem için aldım."
+      },
+      {
+        "tr": "boyunca, süresince (zaman)",
+        "en": "used to show a period of time",
+        "exampleEn": "We have lived here for ten years.",
+        "exampleTr": "Burada on yıldır yaşıyoruz."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

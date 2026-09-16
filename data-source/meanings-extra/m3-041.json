@@ -1,0 +1,230 @@
+[
+  {
+    "id": "w_dumb",
+    "headword": "dumb",
+    "extraMeanings": [
+      {
+        "tr": "suskun, dili tutulmuş, konuşamaz hale gelmiş",
+        "en": "temporarily unable to speak, e.g. from shock",
+        "exampleEn": "She was struck dumb with amazement when she saw the results.",
+        "exampleTr": "Sonuçları görünce şaşkınlıktan dili tutuldu."
+      }
+    ]
+  },
+  {
+    "id": "w_duplicate",
+    "headword": "duplicate",
+    "extraMeanings": [
+      {
+        "tr": "kopyalamak, çoğaltmak, tekrarlamak (fiil)",
+        "en": "to make an exact copy of something",
+        "exampleEn": "Please duplicate this document and give a copy to each member.",
+        "exampleTr": "Lütfen bu belgeyi çoğaltın ve her üyeye bir kopya verin."
+      }
+    ]
+  },
+  {
+    "id": "w_ease",
+    "headword": "ease",
+    "extraMeanings": [
+      {
+        "tr": "hafifletmek, azaltmak, dindirmek (fiil)",
+        "en": "to make a problem or pain less severe",
+        "exampleEn": "The medicine helped to ease the pain in his back.",
+        "exampleTr": "İlaç sırtındaki ağrıyı dindirmeye yardımcı oldu."
+      },
+      {
+        "tr": "yavaşça/dikkatlice hareket ettirmek (fiil)",
+        "en": "to move slowly and carefully",
+        "exampleEn": "He eased the car into the narrow parking space.",
+        "exampleTr": "Arabayı dar park yerine dikkatlice soktu."
+      }
+    ]
+  },
+  {
+    "id": "w_eclipse",
+    "headword": "eclipse",
+    "extraMeanings": [
+      {
+        "tr": "gölgede bırakmak, geride bırakmak (fiil)",
+        "en": "to make someone or something seem less important",
+        "exampleEn": "Her latest novel has eclipsed all her earlier work.",
+        "exampleTr": "Son romanı, önceki tüm eserlerini gölgede bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w_elaborate",
+    "headword": "elaborate",
+    "extraMeanings": [
+      {
+        "tr": "ayrıntılı, özenle hazırlanmış, karmaşık (sıfat)",
+        "en": "containing a lot of careful detail or many parts",
+        "exampleEn": "They had prepared an elaborate plan for the wedding.",
+        "exampleTr": "Düğün için ayrıntılı bir plan hazırlamışlardı."
+      }
+    ]
+  },
+  {
+    "id": "w_elect",
+    "headword": "elect",
+    "extraMeanings": [
+      {
+        "tr": "tercih etmek, karar vermek, seçmek (bir şeyi yapmayı)",
+        "en": "to choose to do something",
+        "exampleEn": "Many students elect to study abroad for a year.",
+        "exampleTr": "Birçok öğrenci bir yıl yurt dışında okumayı tercih ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_elite",
+    "headword": "elite",
+    "extraMeanings": [
+      {
+        "tr": "seçkin, üstün nitelikli (sıfat)",
+        "en": "belonging to the best or most privileged group",
+        "exampleEn": "He trained with an elite squad of athletes.",
+        "exampleTr": "Seçkin bir sporcu ekibiyle antrenman yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_embrace",
+    "headword": "embrace",
+    "extraMeanings": [
+      {
+        "tr": "benimsemek, kucaklamak, gönülden kabul etmek (fiil)",
+        "en": "to accept an idea or change willingly and enthusiastically",
+        "exampleEn": "The company was quick to embrace new technology.",
+        "exampleTr": "Şirket yeni teknolojiyi hızla benimsedi."
+      },
+      {
+        "tr": "sarılmak, kucaklamak (fiil)",
+        "en": "to hold someone closely in your arms",
+        "exampleEn": "She embraced her friend warmly at the airport.",
+        "exampleTr": "Havaalanında arkadaşına sıcak bir şekilde sarıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_emerging",
+    "headword": "emerging",
+    "extraMeanings": [
+      {
+        "tr": "ortaya çıkan, belirmeye başlayan (yeni)",
+        "en": "starting to exist or become known",
+        "exampleEn": "Scientists are studying an emerging pattern in the data.",
+        "exampleTr": "Bilim insanları verilerde ortaya çıkan bir örüntüyü inceliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_enterprise",
+    "headword": "enterprise",
+    "extraMeanings": [
+      {
+        "tr": "girişimcilik, cesaret, atılganlık",
+        "en": "the willingness and ability to take on new projects",
+        "exampleEn": "Her success is a result of hard work and enterprise.",
+        "exampleTr": "Başarısı, sıkı çalışmanın ve girişimciliğin sonucudur."
+      }
+    ]
+  },
+  {
+    "id": "w_engagement",
+    "headword": "engagement",
+    "extraMeanings": [
+      {
+        "tr": "çarpışma, çatışma (askeri)",
+        "en": "a fight or battle between armed forces",
+        "exampleEn": "The two armies had a brief engagement near the border.",
+        "exampleTr": "İki ordu sınır yakınında kısa bir çatışmaya girdi."
+      }
+    ]
+  },
+  {
+    "id": "w_erect",
+    "headword": "erect",
+    "extraMeanings": [
+      {
+        "tr": "dikmek, inşa etmek, kurmak (fiil)",
+        "en": "to build a structure or put it in an upright position",
+        "exampleEn": "They erected a large tent in the field for the festival.",
+        "exampleTr": "Festival için tarlaya büyük bir çadır kurdular."
+      }
+    ]
+  },
+  {
+    "id": "w_erupt",
+    "headword": "erupt",
+    "extraMeanings": [
+      {
+        "tr": "aniden patlak vermek, kopmak (öfke/şiddet/gürültü)",
+        "en": "to happen suddenly and violently, e.g. anger or noise",
+        "exampleEn": "The crowd erupted in cheers when the team scored.",
+        "exampleTr": "Takım gol atınca kalabalık tezahüratlarla coştu."
+      }
+    ]
+  },
+  {
+    "id": "w_escort",
+    "headword": "escort",
+    "extraMeanings": [
+      {
+        "tr": "eşlik eden kişi/koruma, refakatçi (isim)",
+        "en": "a person or vehicle that accompanies another for protection",
+        "exampleEn": "The president traveled with a police escort.",
+        "exampleTr": "Başkan polis eşliğinde seyahat etti."
+      }
+    ]
+  },
+  {
+    "id": "w_estate",
+    "headword": "estate",
+    "extraMeanings": [
+      {
+        "tr": "terekesi, miras (bir kişinin ölümünde bıraktığı mal varlığı)",
+        "en": "all the money and property a person leaves when they die",
+        "exampleEn": "Her entire estate was left to charity.",
+        "exampleTr": "Tüm mal varlığı hayır kurumuna bırakıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_estimate",
+    "headword": "estimate",
+    "extraMeanings": [
+      {
+        "tr": "tahmin etmek, kestirmek (fiil)",
+        "en": "to guess or calculate an approximate value",
+        "exampleEn": "Experts estimate that the project will cost two million dollars.",
+        "exampleTr": "Uzmanlar projenin iki milyon dolara mal olacağını tahmin ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_evil",
+    "headword": "evil",
+    "extraMeanings": [
+      {
+        "tr": "kötülük, fenalık (isim)",
+        "en": "a force or the fact of being profoundly wicked",
+        "exampleEn": "They believe in the eternal struggle between good and evil.",
+        "exampleTr": "İyi ile kötü arasındaki ebedi mücadeleye inanıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w_exception",
+    "headword": "exception",
+    "extraMeanings": [
+      {
+        "tr": "itiraz (take exception: gücenmek, itiraz etmek)",
+        "en": "objection, as in 'take exception to' something",
+        "exampleEn": "He took exception to her rude remarks.",
+        "exampleTr": "Onun kaba sözlerine gücendi/itiraz etti."
+      }
+    ]
+  }
+]

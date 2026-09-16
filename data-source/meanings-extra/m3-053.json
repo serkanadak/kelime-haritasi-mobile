@@ -1,0 +1,398 @@
+[
+  {
+    "id": "w_reproduction",
+    "headword": "reproduction",
+    "extraMeanings": [
+      {
+        "tr": "seslerin/görüntülerin yeniden verilmesi, kaydın kalitesi",
+        "en": "the way in which sound or images are reproduced",
+        "exampleEn": "This speaker system offers excellent sound reproduction.",
+        "exampleTr": "Bu hoparlör sistemi mükemmel ses kalitesi sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w_reserved",
+    "headword": "reserved",
+    "extraMeanings": [
+      {
+        "tr": "ayrılmış, rezerve edilmiş (yer, koltuk)",
+        "en": "kept for a particular person or purpose",
+        "exampleEn": "This table is reserved for a party of six.",
+        "exampleTr": "Bu masa altı kişilik bir grup için ayrılmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w_resistance",
+    "headword": "resistance",
+    "extraMeanings": [
+      {
+        "tr": "direnç (elektrik veya vücudun hastalığa karşı direnci)",
+        "en": "the ability to not be affected by something, or opposition in an electrical circuit",
+        "exampleEn": "Regular exercise builds up the body's resistance to disease.",
+        "exampleTr": "Düzenli egzersiz vücudun hastalığa karşı direncini artırır."
+      }
+    ]
+  },
+  {
+    "id": "w_resolution",
+    "headword": "resolution",
+    "extraMeanings": [
+      {
+        "tr": "çözünürlük (ekran, görüntü netliği)",
+        "en": "the level of detail in an image or screen",
+        "exampleEn": "The new monitor has a much higher resolution than the old one.",
+        "exampleTr": "Yeni monitörün çözünürlüğü eskisinden çok daha yüksek."
+      },
+      {
+        "tr": "kararlılık, azim",
+        "en": "firm determination to do something",
+        "exampleEn": "She faced the challenge with great resolution.",
+        "exampleTr": "Zorlukla büyük bir kararlılıkla yüzleşti."
+      }
+    ]
+  },
+  {
+    "id": "w_resume",
+    "headword": "resume",
+    "extraMeanings": [
+      {
+        "tr": "özgeçmiş, CV",
+        "en": "a short account of one's education and work experience",
+        "exampleEn": "Please send us your resume and a cover letter.",
+        "exampleTr": "Lütfen bize özgeçmişinizi ve bir ön yazı gönderin."
+      }
+    ]
+  },
+  {
+    "id": "w_reverse",
+    "headword": "reverse",
+    "extraMeanings": [
+      {
+        "tr": "tersi, karşıtı; arka yüz",
+        "en": "the opposite of something, or the back side",
+        "exampleEn": "The instructions are printed on the reverse of the page.",
+        "exampleTr": "Talimatlar sayfanın arka yüzüne basılmıştır."
+      },
+      {
+        "tr": "geri vites",
+        "en": "the gear that makes a vehicle move backwards",
+        "exampleEn": "He put the car into reverse and backed out of the driveway.",
+        "exampleTr": "Arabayı geri vitese takıp garaj yolundan geri çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_revolution",
+    "headword": "revolution",
+    "extraMeanings": [
+      {
+        "tr": "devir, tam dönüş (bir eksen etrafında)",
+        "en": "one complete turn around a central point",
+        "exampleEn": "The engine runs at three thousand revolutions per minute.",
+        "exampleTr": "Motor dakikada üç bin devir yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_revolve",
+    "headword": "revolve",
+    "extraMeanings": [
+      {
+        "tr": "etrafında dönmek, merkezinde olmak (konu, hayat)",
+        "en": "to have something as the main subject or focus",
+        "exampleEn": "Her whole life revolves around her children.",
+        "exampleTr": "Bütün hayatı çocuklarının etrafında dönüyor."
+      }
+    ]
+  },
+  {
+    "id": "w_riddle",
+    "headword": "riddle",
+    "extraMeanings": [
+      {
+        "tr": "muamma, çözülmesi zor gizem",
+        "en": "something that is hard to understand or explain",
+        "exampleEn": "The cause of the disease remains a riddle to scientists.",
+        "exampleTr": "Hastalığın nedeni bilim insanları için bir muamma olmaya devam ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_rider",
+    "headword": "rider",
+    "extraMeanings": [
+      {
+        "tr": "ek madde, ek şart (sözleşme, yasa)",
+        "en": "an additional clause or condition added to a document",
+        "exampleEn": "The senator attached a rider to the bill.",
+        "exampleTr": "Senatör yasa tasarısına bir ek madde iliştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_rite",
+    "headword": "rite",
+    "extraMeanings": [
+      {
+        "tr": "gelenek, alışkanlık haline gelmiş davranış",
+        "en": "an established custom or traditional practice",
+        "exampleEn": "Getting a driver's license is a rite of passage for many teenagers.",
+        "exampleTr": "Ehliyet almak birçok genç için bir geçiş töreni niteliğindedir."
+      }
+    ]
+  },
+  {
+    "id": "w_ritual",
+    "headword": "ritual",
+    "extraMeanings": [
+      {
+        "tr": "her zaman yapılan alışkanlık, rutin",
+        "en": "something done regularly and in the same way",
+        "exampleEn": "A cup of coffee in the morning is part of my daily ritual.",
+        "exampleTr": "Sabahları bir fincan kahve günlük rutinimin bir parçası."
+      }
+    ]
+  },
+  {
+    "id": "w_rival",
+    "headword": "rival",
+    "extraMeanings": [
+      {
+        "tr": "boy ölçüşmek, denk olmak",
+        "en": "to be as good as someone or something else",
+        "exampleEn": "Few cities can rival Paris for its beauty.",
+        "exampleTr": "Çok az şehir güzellik açısından Paris'le boy ölçüşebilir."
+      }
+    ]
+  },
+  {
+    "id": "w_roar",
+    "headword": "roar",
+    "extraMeanings": [
+      {
+        "tr": "kahkahayla gülmek, gürültüyle gülmek",
+        "en": "to laugh very loudly",
+        "exampleEn": "The audience roared with laughter at his jokes.",
+        "exampleTr": "Seyirci şakalarına kahkahalarla güldü."
+      }
+    ]
+  },
+  {
+    "id": "w_rocket",
+    "headword": "rocket",
+    "extraMeanings": [
+      {
+        "tr": "roka (salata bitkisi)",
+        "en": "a green salad leaf with a peppery taste",
+        "exampleEn": "The salad had rocket, tomatoes and parmesan.",
+        "exampleTr": "Salatada roka, domates ve parmesan vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_rocky",
+    "headword": "rocky",
+    "extraMeanings": [
+      {
+        "tr": "sarsıntılı, istikrarsız, çalkantılı",
+        "en": "difficult and likely to fail; unstable",
+        "exampleEn": "Their marriage went through a rocky period.",
+        "exampleTr": "Evlilikleri çalkantılı bir dönemden geçti."
+      }
+    ]
+  },
+  {
+    "id": "w_royalty",
+    "headword": "royalty",
+    "extraMeanings": [
+      {
+        "tr": "telif ücreti (yazar, sanatçıya ödenen)",
+        "en": "a payment made to an author or artist for use of their work",
+        "exampleEn": "The author earns royalties on every book sold.",
+        "exampleTr": "Yazar satılan her kitaptan telif ücreti kazanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_rug",
+    "headword": "rug",
+    "extraMeanings": [
+      {
+        "tr": "battaniye, örtü (dizlere veya at üzerine)",
+        "en": "a thick blanket used for warmth",
+        "exampleEn": "She wrapped a rug around her legs to keep warm.",
+        "exampleTr": "Sıcak kalmak için bacaklarına bir battaniye sardı."
+      }
+    ]
+  },
+  {
+    "id": "w_sack",
+    "headword": "sack",
+    "extraMeanings": [
+      {
+        "tr": "çuval, torba",
+        "en": "a large bag made of strong material",
+        "exampleEn": "He carried a sack of potatoes on his shoulder.",
+        "exampleTr": "Omzunda bir çuval patates taşıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_sage",
+    "headword": "sage",
+    "extraMeanings": [
+      {
+        "tr": "bilge, akıllıca (sıfat)",
+        "en": "wise, especially as a result of experience",
+        "exampleEn": "She gave me some sage advice about my career.",
+        "exampleTr": "Bana kariyerim hakkında akıllıca bir öğüt verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_sail",
+    "headword": "sail",
+    "extraMeanings": [
+      {
+        "tr": "yelken (tekne yelkeni)",
+        "en": "a sheet of fabric that catches the wind to move a boat",
+        "exampleEn": "They raised the sail as the wind picked up.",
+        "exampleTr": "Rüzgar sertleşince yelkeni açtılar."
+      }
+    ]
+  },
+  {
+    "id": "w_salon",
+    "headword": "salon",
+    "extraMeanings": [
+      {
+        "tr": "sanat/edebiyat toplantısı, sohbet salonu",
+        "en": "a gathering of intellectuals or artists at someone's home",
+        "exampleEn": "She hosted a literary salon every Friday evening.",
+        "exampleTr": "Her cuma akşamı edebi bir sohbet toplantısı düzenlerdi."
+      }
+    ]
+  },
+  {
+    "id": "w_scale_up",
+    "headword": "scale up",
+    "extraMeanings": [
+      {
+        "tr": "personel/üretim sayısını artırmak (işletme)",
+        "en": "to increase the size of a business or operation",
+        "exampleEn": "The startup plans to scale up its workforce next year.",
+        "exampleTr": "Girişim gelecek yıl iş gücünü artırmayı planlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_scar",
+    "headword": "scar",
+    "extraMeanings": [
+      {
+        "tr": "ruhsal yara, kalıcı etki",
+        "en": "a lasting emotional or psychological effect from a bad experience",
+        "exampleEn": "The war left deep scars on the whole generation.",
+        "exampleTr": "Savaş bütün nesilde derin ruhsal yaralar bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w_scent",
+    "headword": "scent",
+    "extraMeanings": [
+      {
+        "tr": "iz, koku izi (av hayvanının bıraktığı)",
+        "en": "the smell trail left by an animal or person",
+        "exampleEn": "The dogs picked up the fox's scent.",
+        "exampleTr": "Köpekler tilkinin iz kokusunu aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_scheme",
+    "headword": "scheme",
+    "extraMeanings": [
+      {
+        "tr": "dolap, entrika, hile",
+        "en": "a secret and dishonest plan",
+        "exampleEn": "They devised a scheme to defraud the elderly.",
+        "exampleTr": "Yaşlıları dolandırmak için bir dolap çevirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w_scrap",
+    "headword": "scrap",
+    "extraMeanings": [
+      {
+        "tr": "iptal etmek, çöpe atmak (plan, fikir)",
+        "en": "to get rid of or cancel a plan or system",
+        "exampleEn": "The government decided to scrap the new tax.",
+        "exampleTr": "Hükümet yeni vergiyi iptal etmeye karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_seal",
+    "headword": "seal",
+    "extraMeanings": [
+      {
+        "tr": "sızdırmaz biçimde kapatmak; kesinleştirmek",
+        "en": "to close tightly, or to make something final",
+        "exampleEn": "She sealed the envelope and posted it.",
+        "exampleTr": "Zarfı kapatıp postaladı."
+      }
+    ]
+  },
+  {
+    "id": "w_say",
+    "headword": "say",
+    "extraMeanings": [
+      {
+        "tr": "diyelim ki, örneğin, yaklaşık",
+        "en": "used to give an example or approximate figure",
+        "exampleEn": "Let's meet again in, say, two weeks.",
+        "exampleTr": "Diyelim ki iki hafta sonra tekrar buluşalım."
+      }
+    ]
+  },
+  {
+    "id": "w_rip",
+    "headword": "rip",
+    "extraMeanings": [
+      {
+        "tr": "yırtık, yarık (isim)",
+        "en": "a torn place in cloth or paper",
+        "exampleEn": "There was a large rip in his jeans.",
+        "exampleTr": "Kotunda büyük bir yırtık vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_retreat",
+    "headword": "retreat",
+    "extraMeanings": [
+      {
+        "tr": "geri çekilmek (fiil), vazgeçmek",
+        "en": "to move back or withdraw from a position or decision",
+        "exampleEn": "The army was forced to retreat from the city.",
+        "exampleTr": "Ordu şehirden geri çekilmek zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_reverence",
+    "headword": "reverence",
+    "extraMeanings": [
+      {
+        "tr": "derin saygıyla anmak/görmek (fiil)",
+        "en": "to regard or treat with deep respect",
+        "exampleEn": "The elders are reverenced in this community.",
+        "exampleTr": "Bu toplulukta yaşlılara derin saygı gösterilir."
+      }
+    ]
+  }
+]

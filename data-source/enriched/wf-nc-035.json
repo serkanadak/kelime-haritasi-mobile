@@ -1,0 +1,1256 @@
+[
+  {
+    "id": "w_rotary",
+    "headword": "rotary",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrəʊtəri/",
+    "meanings": [
+      {
+        "tr": "dönen, döner (bir eksen etrafında)",
+        "en": "turning around a central point, like a wheel",
+        "exampleEn": "The old phone had a rotary dial instead of buttons.",
+        "exampleTr": "Eski telefonda tuşlar yerine döner bir kadran vardı."
+      }
+    ],
+    "synonyms": [
+      "revolving",
+      "rotating",
+      "turning"
+    ],
+    "antonyms": [
+      "fixed",
+      "static"
+    ]
+  },
+  {
+    "id": "w_rotted",
+    "headword": "rotted",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɒtɪd/",
+    "meanings": [
+      {
+        "tr": "çürüdü, çürümüş",
+        "en": "past tense of rot; decayed naturally",
+        "exampleEn": "The fallen apples rotted on the ground over the winter.",
+        "exampleTr": "Düşen elmalar kış boyunca yerde çürüdü."
+      }
+    ],
+    "synonyms": [
+      "decayed",
+      "decomposed",
+      "spoiled"
+    ],
+    "antonyms": [
+      "preserved"
+    ]
+  },
+  {
+    "id": "w_rough_calculation",
+    "headword": "rough calculation",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌrʌf ˌkælkjʊˈleɪʃən/",
+    "meanings": [
+      {
+        "tr": "kabaca hesap, yaklaşık hesaplama",
+        "en": "an approximate estimate rather than an exact figure",
+        "exampleEn": "By my rough calculation, the trip will cost about a thousand dollars.",
+        "exampleTr": "Kabaca hesabıma göre, gezi yaklaşık bin dolara mal olacak."
+      }
+    ],
+    "synonyms": [
+      "estimate",
+      "approximation",
+      "ballpark figure"
+    ],
+    "antonyms": [
+      "precise calculation"
+    ]
+  },
+  {
+    "id": "w_roughness",
+    "headword": "roughness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrʌfnəs/",
+    "meanings": [
+      {
+        "tr": "pürüzlülük, kabalık",
+        "en": "the quality of having an uneven or coarse surface or manner",
+        "exampleEn": "You could feel the roughness of the unpolished wood.",
+        "exampleTr": "Cilalanmamış tahtanın pürüzlülüğünü hissedebiliyordun."
+      }
+    ],
+    "synonyms": [
+      "coarseness",
+      "harshness"
+    ],
+    "antonyms": [
+      "smoothness",
+      "softness"
+    ]
+  },
+  {
+    "id": "w_rover",
+    "headword": "rover",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrəʊvə/",
+    "meanings": [
+      {
+        "tr": "gezici araç, keşif aracı (özellikle uzayda)",
+        "en": "a vehicle for driving over rough terrain, especially on another planet",
+        "exampleEn": "The Mars rover sent back stunning images of the red planet.",
+        "exampleTr": "Mars keşif aracı kızıl gezegenin çarpıcı görüntülerini geri gönderdi."
+      },
+      {
+        "tr": "gezgin, avare kişi",
+        "en": "a person who wanders from place to place",
+        "exampleEn": "He was a rover at heart, never settling in one town for long.",
+        "exampleTr": "Ruhunda bir gezgindi, hiçbir kasabada uzun süre kalmazdı."
+      }
+    ],
+    "synonyms": [
+      "wanderer",
+      "nomad"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_rowdy",
+    "headword": "rowdy",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈraʊdi/",
+    "meanings": [
+      {
+        "tr": "gürültücü, kavgacı, ele avuca sığmaz",
+        "en": "noisy and rough, often in a disorderly way",
+        "exampleEn": "A rowdy crowd of fans filled the stadium.",
+        "exampleTr": "Gürültücü bir taraftar kalabalığı stadyumu doldurdu."
+      }
+    ],
+    "synonyms": [
+      "boisterous",
+      "unruly",
+      "raucous"
+    ],
+    "antonyms": [
+      "calm",
+      "quiet",
+      "orderly"
+    ]
+  },
+  {
+    "id": "w_rubbish_site",
+    "headword": "rubbish site",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrʌbɪʃ saɪt/",
+    "meanings": [
+      {
+        "tr": "çöp döküm sahası, çöplük",
+        "en": "a place where waste is dumped or disposed of (British English)",
+        "exampleEn": "The council opened a new rubbish site on the edge of town.",
+        "exampleTr": "Belediye kasabanın kenarında yeni bir çöp döküm sahası açtı."
+      }
+    ],
+    "synonyms": [
+      "landfill",
+      "dump",
+      "tip"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_ruby",
+    "headword": "ruby",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈruːbi/",
+    "meanings": [
+      {
+        "tr": "yakut (kırmızı değerli taş)",
+        "en": "a red precious stone",
+        "exampleEn": "She wore a ring set with a single, deep-red ruby.",
+        "exampleTr": "Tek bir koyu kırmızı yakutla süslü bir yüzük takıyordu."
+      }
+    ],
+    "synonyms": [
+      "gem",
+      "gemstone"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_ruffian",
+    "headword": "ruffian",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrʌfiən/",
+    "meanings": [
+      {
+        "tr": "kabadayı, zorba, haydut",
+        "en": "a violent or lawless person",
+        "exampleEn": "A gang of ruffians threatened the shopkeeper for money.",
+        "exampleTr": "Bir grup kabadayı, dükkan sahibini para için tehdit etti."
+      }
+    ],
+    "synonyms": [
+      "thug",
+      "hooligan",
+      "brute"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_rural_resident",
+    "headword": "rural resident",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrʊərəl ˈrezɪdənt/",
+    "meanings": [
+      {
+        "tr": "kırsal bölge sakini, köylü",
+        "en": "a person who lives in the countryside",
+        "exampleEn": "Many rural residents have to travel far to reach a hospital.",
+        "exampleTr": "Birçok kırsal bölge sakini bir hastaneye ulaşmak için uzağa gitmek zorunda."
+      }
+    ],
+    "synonyms": [
+      "countryside dweller",
+      "villager"
+    ],
+    "antonyms": [
+      "urban resident",
+      "city dweller"
+    ]
+  },
+  {
+    "id": "w_rusted",
+    "headword": "rusted",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrʌstɪd/",
+    "meanings": [
+      {
+        "tr": "paslandı, paslanmış",
+        "en": "covered with rust; corroded by moisture (past tense of rust)",
+        "exampleEn": "The old gate had rusted shut over the years.",
+        "exampleTr": "Eski kapı yıllar içinde paslanıp açılmaz olmuştu."
+      }
+    ],
+    "synonyms": [
+      "corroded",
+      "oxidized"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_rut",
+    "headword": "rut",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rʌt/",
+    "meanings": [
+      {
+        "tr": "tekdüzelik, sıkışıp kalma; monoton düzen",
+        "en": "a boring, unchanging routine that is hard to escape",
+        "exampleEn": "After ten years in the same job, she felt stuck in a rut.",
+        "exampleTr": "Aynı işte on yıl geçirdikten sonra kendini tekdüze bir düzene sıkışmış hissetti."
+      },
+      {
+        "tr": "tekerlek izi, oyuk (yolda)",
+        "en": "a deep, narrow track made by wheels in soft ground",
+        "exampleEn": "The cart's wheels left deep ruts in the muddy road.",
+        "exampleTr": "Arabanın tekerlekleri çamurlu yolda derin izler bıraktı."
+      }
+    ],
+    "synonyms": [
+      "groove",
+      "routine",
+      "furrow"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_rv",
+    "headword": "RV",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɑːˈviː/",
+    "meanings": [
+      {
+        "tr": "karavan, gezici ev aracı (recreational vehicle)",
+        "en": "a large vehicle equipped for living in, used for travel and holidays",
+        "exampleEn": "They spent the summer touring the country in their RV.",
+        "exampleTr": "Yazı karavanlarıyla ülkeyi gezerek geçirdiler."
+      }
+    ],
+    "synonyms": [
+      "camper",
+      "motorhome",
+      "caravan"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sabotage",
+    "headword": "sabotage",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsæbətɑːʒ/",
+    "meanings": [
+      {
+        "tr": "sabotaj, baltalama",
+        "en": "the deliberate destruction or obstruction of something",
+        "exampleEn": "The factory fire was later found to be an act of sabotage.",
+        "exampleTr": "Fabrika yangınının daha sonra bir sabotaj eylemi olduğu ortaya çıktı."
+      },
+      {
+        "tr": "baltalamak, sabote etmek",
+        "en": "to deliberately damage or ruin something",
+        "exampleEn": "He tried to sabotage his rival's presentation.",
+        "exampleTr": "Rakibinin sunumunu baltalamaya çalıştı."
+      }
+    ],
+    "synonyms": [
+      "undermine",
+      "wreck",
+      "subvert"
+    ],
+    "antonyms": [
+      "support",
+      "aid"
+    ]
+  },
+  {
+    "id": "w_sacrilege",
+    "headword": "sacrilege",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsækrɪlɪdʒ/",
+    "meanings": [
+      {
+        "tr": "kutsala saygısızlık, günah",
+        "en": "disrespect or violation of something sacred",
+        "exampleEn": "Damaging the ancient temple was seen as an act of sacrilege.",
+        "exampleTr": "Antik tapınağa zarar vermek kutsala saygısızlık olarak görüldü."
+      }
+    ],
+    "synonyms": [
+      "blasphemy",
+      "desecration",
+      "impiety"
+    ],
+    "antonyms": [
+      "reverence"
+    ]
+  },
+  {
+    "id": "w_sacrilegious",
+    "headword": "sacrilegious",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsækrɪˈlɪdʒəs/",
+    "meanings": [
+      {
+        "tr": "kutsala saygısız, dine hakaret eden",
+        "en": "showing disrespect for something regarded as sacred",
+        "exampleEn": "It felt sacrilegious to speak loudly inside the old cathedral.",
+        "exampleTr": "Eski katedralin içinde yüksek sesle konuşmak kutsala saygısızlık gibi geliyordu."
+      }
+    ],
+    "synonyms": [
+      "blasphemous",
+      "irreverent",
+      "profane"
+    ],
+    "antonyms": [
+      "reverent",
+      "pious"
+    ]
+  },
+  {
+    "id": "w_saddened",
+    "headword": "saddened",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsædnd/",
+    "meanings": [
+      {
+        "tr": "üzdü, kederlendirdi; üzüldü",
+        "en": "made sad or unhappy (past tense of sadden)",
+        "exampleEn": "We were deeply saddened by the news of his death.",
+        "exampleTr": "Ölüm haberinden derinden üzüldük."
+      }
+    ],
+    "synonyms": [
+      "grieved",
+      "dismayed"
+    ],
+    "antonyms": [
+      "cheered",
+      "gladdened"
+    ]
+  },
+  {
+    "id": "w_sailing_boat",
+    "headword": "sailing boat",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈseɪlɪŋ bəʊt/",
+    "meanings": [
+      {
+        "tr": "yelkenli tekne",
+        "en": "a boat that is moved through the water by sails",
+        "exampleEn": "They watched a small sailing boat glide across the bay.",
+        "exampleTr": "Küçük bir yelkenli teknenin körfezde süzülüşünü izlediler."
+      }
+    ],
+    "synonyms": [
+      "sailboat",
+      "yacht"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_saint",
+    "headword": "saint",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/seɪnt/",
+    "meanings": [
+      {
+        "tr": "aziz, ermiş",
+        "en": "a holy person honoured by a church after death",
+        "exampleEn": "The church was named after a medieval saint.",
+        "exampleTr": "Kilise ortaçağdan bir azizin adını taşıyordu."
+      },
+      {
+        "tr": "melek gibi iyi kimse",
+        "en": "a very good, kind, or patient person",
+        "exampleEn": "You must be a saint to put up with all that noise.",
+        "exampleTr": "Bunca gürültüye katlanmak için melek gibi biri olmalısın."
+      }
+    ],
+    "synonyms": [
+      "holy person"
+    ],
+    "antonyms": [
+      "sinner"
+    ]
+  },
+  {
+    "id": "w_salve",
+    "headword": "salve",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sælv/",
+    "meanings": [
+      {
+        "tr": "merhem, yara kremi",
+        "en": "a soothing ointment for wounds or sore skin",
+        "exampleEn": "She rubbed a soothing salve onto the burn.",
+        "exampleTr": "Yanığa yatıştırıcı bir merhem sürdü."
+      },
+      {
+        "tr": "teselli, avutan şey",
+        "en": "something that soothes or comforts feelings",
+        "exampleEn": "His kind words were a salve to her wounded pride.",
+        "exampleTr": "Nazik sözleri, yaralı gururuna bir teselli oldu."
+      }
+    ],
+    "synonyms": [
+      "ointment",
+      "balm"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sanctify",
+    "headword": "sanctify",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsæŋktɪfaɪ/",
+    "meanings": [
+      {
+        "tr": "kutsamak, takdis etmek",
+        "en": "to make something holy or set it apart as sacred",
+        "exampleEn": "The priest sanctified the new chapel with a special ceremony.",
+        "exampleTr": "Rahip özel bir törenle yeni şapeli kutsadı."
+      }
+    ],
+    "synonyms": [
+      "bless",
+      "consecrate",
+      "hallow"
+    ],
+    "antonyms": [
+      "desecrate"
+    ]
+  },
+  {
+    "id": "w_sank",
+    "headword": "sank",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sæŋk/",
+    "meanings": [
+      {
+        "tr": "battı (sink fiilinin geçmiş hali)",
+        "en": "went below the surface of water (past tense of sink)",
+        "exampleEn": "The ship struck an iceberg and sank within hours.",
+        "exampleTr": "Gemi bir buzdağına çarptı ve saatler içinde battı."
+      }
+    ],
+    "synonyms": [
+      "submerged",
+      "went down"
+    ],
+    "antonyms": [
+      "floated",
+      "rose"
+    ]
+  },
+  {
+    "id": "w_satirist",
+    "headword": "satirist",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsætərɪst/",
+    "meanings": [
+      {
+        "tr": "hiciv yazarı, taşlamacı",
+        "en": "a writer or performer who uses humour to criticize people or society",
+        "exampleEn": "The satirist mocked politicians in his weekly column.",
+        "exampleTr": "Hiciv yazarı, haftalık köşesinde politikacılarla alay etti."
+      }
+    ],
+    "synonyms": [
+      "parodist",
+      "lampooner"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_saunter",
+    "headword": "saunter",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɔːntə/",
+    "meanings": [
+      {
+        "tr": "aylak aylak yürümek, salınarak gezinmek",
+        "en": "to walk in a slow, relaxed, and unhurried way",
+        "exampleEn": "He sauntered down the street with his hands in his pockets.",
+        "exampleTr": "Elleri ceplerinde, sokakta aylak aylak yürüdü."
+      }
+    ],
+    "synonyms": [
+      "stroll",
+      "amble",
+      "wander"
+    ],
+    "antonyms": [
+      "rush",
+      "hurry"
+    ]
+  },
+  {
+    "id": "w_savage",
+    "headword": "savage",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsævɪdʒ/",
+    "meanings": [
+      {
+        "tr": "vahşi, gaddar, acımasız",
+        "en": "fierce, violent, and uncontrolled",
+        "exampleEn": "The dog launched a savage attack on the intruder.",
+        "exampleTr": "Köpek, davetsiz misafire vahşi bir saldırı başlattı."
+      },
+      {
+        "tr": "sert, acımasız (eleştiri vb.)",
+        "en": "extremely harsh or severe",
+        "exampleEn": "The film received savage reviews from the critics.",
+        "exampleTr": "Film, eleştirmenlerden çok sert eleştiriler aldı."
+      }
+    ],
+    "synonyms": [
+      "ferocious",
+      "brutal",
+      "vicious"
+    ],
+    "antonyms": [
+      "gentle",
+      "tame",
+      "mild"
+    ]
+  },
+  {
+    "id": "w_savagely",
+    "headword": "savagely",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsævɪdʒli/",
+    "meanings": [
+      {
+        "tr": "vahşice, acımasızca",
+        "en": "in a fierce, violent, or cruel way",
+        "exampleEn": "The victim had been savagely beaten.",
+        "exampleTr": "Kurban vahşice dövülmüştü."
+      }
+    ],
+    "synonyms": [
+      "brutally",
+      "ferociously",
+      "viciously"
+    ],
+    "antonyms": [
+      "gently",
+      "mildly"
+    ]
+  },
+  {
+    "id": "w_savagery",
+    "headword": "savagery",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsævɪdʒri/",
+    "meanings": [
+      {
+        "tr": "vahşet, gaddarlık",
+        "en": "extremely cruel and violent behaviour",
+        "exampleEn": "The report described the savagery of the attack in shocking detail.",
+        "exampleTr": "Rapor, saldırının vahşetini şok edici ayrıntılarla anlattı."
+      }
+    ],
+    "synonyms": [
+      "brutality",
+      "cruelty",
+      "ferocity"
+    ],
+    "antonyms": [
+      "gentleness",
+      "kindness"
+    ]
+  },
+  {
+    "id": "w_scamper",
+    "headword": "scamper",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskæmpə/",
+    "meanings": [
+      {
+        "tr": "seğirtmek, koşuşturmak (küçük ve hızlı adımlarla)",
+        "en": "to run quickly with short, light steps, like a small animal or child",
+        "exampleEn": "The squirrels scampered up the tree at the first sign of danger.",
+        "exampleTr": "Sincaplar, tehlikenin ilk işaretinde ağaca seğirttiler."
+      }
+    ],
+    "synonyms": [
+      "scurry",
+      "scuttle",
+      "dart"
+    ],
+    "antonyms": [
+      "plod"
+    ]
+  },
+  {
+    "id": "w_scantily",
+    "headword": "scantily",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskæntɪli/",
+    "meanings": [
+      {
+        "tr": "yetersizce, az; üstü başı açık şekilde",
+        "en": "in a way that is insufficient or barely covering",
+        "exampleEn": "The dancers were scantily dressed for the cold weather.",
+        "exampleTr": "Dansçılar soğuk hava için oldukça açık giyinmişlerdi."
+      }
+    ],
+    "synonyms": [
+      "barely",
+      "meagrely",
+      "sparsely"
+    ],
+    "antonyms": [
+      "amply",
+      "fully"
+    ]
+  },
+  {
+    "id": "w_scanty",
+    "headword": "scanty",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskænti/",
+    "meanings": [
+      {
+        "tr": "yetersiz, az, kıt",
+        "en": "too small in amount; barely enough",
+        "exampleEn": "The survivors lived on scanty supplies of food and water.",
+        "exampleTr": "Hayatta kalanlar kıt yiyecek ve su stoklarıyla yaşadılar."
+      }
+    ],
+    "synonyms": [
+      "meagre",
+      "sparse",
+      "insufficient"
+    ],
+    "antonyms": [
+      "abundant",
+      "ample",
+      "plentiful"
+    ]
+  },
+  {
+    "id": "w_scenario",
+    "headword": "scenario",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/səˈnɑːriəʊ/",
+    "meanings": [
+      {
+        "tr": "senaryo, olası durum",
+        "en": "a description of a possible situation or sequence of events",
+        "exampleEn": "In the worst-case scenario, the whole project could fail.",
+        "exampleTr": "En kötü senaryoda, tüm proje başarısız olabilir."
+      }
+    ],
+    "synonyms": [
+      "situation",
+      "scene",
+      "case"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_scheduler",
+    "headword": "scheduler",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʃedjuːlə/",
+    "meanings": [
+      {
+        "tr": "zamanlayıcı, programlayıcı (kişi ya da yazılım)",
+        "en": "a person or program that arranges the timing of tasks or events",
+        "exampleEn": "The app has a built-in scheduler to plan your meetings.",
+        "exampleTr": "Uygulamada toplantılarınızı planlamak için yerleşik bir zamanlayıcı var."
+      }
+    ],
+    "synonyms": [
+      "planner",
+      "organizer"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_scornful",
+    "headword": "scornful",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskɔːnfəl/",
+    "meanings": [
+      {
+        "tr": "küçümseyen, aşağılayan",
+        "en": "showing contempt or a lack of respect",
+        "exampleEn": "She gave a scornful laugh at his suggestion.",
+        "exampleTr": "Onun önerisine küçümseyen bir kahkaha attı."
+      }
+    ],
+    "synonyms": [
+      "contemptuous",
+      "disdainful",
+      "derisive"
+    ],
+    "antonyms": [
+      "respectful",
+      "admiring"
+    ]
+  },
+  {
+    "id": "w_scour",
+    "headword": "scour",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskaʊə/",
+    "meanings": [
+      {
+        "tr": "her yeri aramak, taramak",
+        "en": "to search a place thoroughly and carefully",
+        "exampleEn": "Police scoured the woods for the missing child.",
+        "exampleTr": "Polis, kayıp çocuk için ormanı taradı."
+      },
+      {
+        "tr": "ovarak temizlemek, ovmak",
+        "en": "to clean something by rubbing hard",
+        "exampleEn": "She scoured the pot until it shone.",
+        "exampleTr": "Tencereyi parlayana kadar ovaladı."
+      }
+    ],
+    "synonyms": [
+      "search",
+      "comb",
+      "scrub"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_screech",
+    "headword": "screech",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/skriːtʃ/",
+    "meanings": [
+      {
+        "tr": "çığlık atmak, cırlamak; gıcırdamak",
+        "en": "to make a loud, high, unpleasant sound",
+        "exampleEn": "The car's tyres screeched as it stopped suddenly.",
+        "exampleTr": "Araba aniden durunca lastikleri gıcırdadı."
+      }
+    ],
+    "synonyms": [
+      "shriek",
+      "squeal",
+      "screech"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_scrutinize",
+    "headword": "scrutinize",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskruːtɪnaɪz/",
+    "meanings": [
+      {
+        "tr": "dikkatle incelemek, irdelemek",
+        "en": "to examine something very carefully and in detail",
+        "exampleEn": "Investors scrutinized the company's financial records.",
+        "exampleTr": "Yatırımcılar şirketin mali kayıtlarını dikkatle incelediler."
+      }
+    ],
+    "synonyms": [
+      "examine",
+      "inspect",
+      "study"
+    ],
+    "antonyms": [
+      "glance",
+      "skim"
+    ]
+  },
+  {
+    "id": "w_scuffle",
+    "headword": "scuffle",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskʌfəl/",
+    "meanings": [
+      {
+        "tr": "arbede, itiş kakış, boğuşma",
+        "en": "a short, confused fight or struggle",
+        "exampleEn": "A scuffle broke out between the two fans outside the stadium.",
+        "exampleTr": "Stadyumun dışında iki taraftar arasında bir arbede çıktı."
+      }
+    ],
+    "synonyms": [
+      "brawl",
+      "tussle",
+      "skirmish"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_searing",
+    "headword": "searing",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪərɪŋ/",
+    "meanings": [
+      {
+        "tr": "kavurucu, yakıcı",
+        "en": "extremely hot or intense",
+        "exampleEn": "They worked in the searing heat of the desert.",
+        "exampleTr": "Çölün kavurucu sıcağında çalıştılar."
+      },
+      {
+        "tr": "sert, çok keskin (eleştiri)",
+        "en": "very harsh and critical",
+        "exampleEn": "The article was a searing attack on the government.",
+        "exampleTr": "Makale, hükümete yönelik çok sert bir saldırıydı."
+      }
+    ],
+    "synonyms": [
+      "scorching",
+      "blistering",
+      "intense"
+    ],
+    "antonyms": [
+      "mild",
+      "gentle"
+    ]
+  },
+  {
+    "id": "w_secluded",
+    "headword": "secluded",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sɪˈkluːdɪd/",
+    "meanings": [
+      {
+        "tr": "tenha, ıssız, gözlerden uzak",
+        "en": "quiet and private; away from other people",
+        "exampleEn": "They found a secluded beach far from the tourists.",
+        "exampleTr": "Turistlerden uzak, tenha bir plaj buldular."
+      }
+    ],
+    "synonyms": [
+      "isolated",
+      "private",
+      "remote"
+    ],
+    "antonyms": [
+      "public",
+      "crowded",
+      "exposed"
+    ]
+  },
+  {
+    "id": "w_sedation",
+    "headword": "sedation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sɪˈdeɪʃən/",
+    "meanings": [
+      {
+        "tr": "sakinleştirme, yatıştırma (ilaçla)",
+        "en": "the use of drugs to make someone calm or sleepy, often for medical reasons",
+        "exampleEn": "The patient was kept under sedation during the procedure.",
+        "exampleTr": "Hasta işlem sırasında sakinleştirici etkisi altında tutuldu."
+      }
+    ],
+    "synonyms": [
+      "tranquillization"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sedentary",
+    "headword": "sedentary",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsedəntri/",
+    "meanings": [
+      {
+        "tr": "hareketsiz, oturarak yapılan (yaşam tarzı)",
+        "en": "involving much sitting and little physical activity",
+        "exampleEn": "A sedentary lifestyle can increase the risk of heart disease.",
+        "exampleTr": "Hareketsiz bir yaşam tarzı kalp hastalığı riskini artırabilir."
+      }
+    ],
+    "synonyms": [
+      "inactive",
+      "desk-bound"
+    ],
+    "antonyms": [
+      "active",
+      "mobile"
+    ]
+  },
+  {
+    "id": "w_seen",
+    "headword": "seen",
+    "pos": "verb",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/siːn/",
+    "meanings": [
+      {
+        "tr": "görülmüş, görmüş (see fiilinin geçmiş ortacı)",
+        "en": "past participle of see; perceived with the eyes",
+        "exampleEn": "I have seen that film three times already.",
+        "exampleTr": "O filmi zaten üç kez izledim."
+      }
+    ],
+    "synonyms": [
+      "viewed",
+      "observed",
+      "witnessed"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_self_absorbed",
+    "headword": "self-absorbed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfəbˈzɔːbd/",
+    "meanings": [
+      {
+        "tr": "kendini beğenmiş, kendine dönük, bencil",
+        "en": "preoccupied with your own thoughts, interests, or feelings",
+        "exampleEn": "He is too self-absorbed to notice how others feel.",
+        "exampleTr": "Başkalarının nasıl hissettiğini fark edemeyecek kadar kendine dönük biri."
+      }
+    ],
+    "synonyms": [
+      "self-centred",
+      "egocentric",
+      "narcissistic"
+    ],
+    "antonyms": [
+      "selfless",
+      "considerate"
+    ]
+  },
+  {
+    "id": "w_self_denial",
+    "headword": "self-denial",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌself dɪˈnaɪəl/",
+    "meanings": [
+      {
+        "tr": "özveri, nefsine hakim olma, kendini yoksun bırakma",
+        "en": "the act of not allowing yourself things you want, especially for a moral reason",
+        "exampleEn": "Saving that much money required years of self-denial.",
+        "exampleTr": "O kadar para biriktirmek yıllarca özveri gerektirdi."
+      }
+    ],
+    "synonyms": [
+      "self-sacrifice",
+      "abstinence",
+      "asceticism"
+    ],
+    "antonyms": [
+      "self-indulgence"
+    ]
+  }
+]

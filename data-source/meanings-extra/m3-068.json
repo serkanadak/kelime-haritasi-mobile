@@ -1,0 +1,128 @@
+[
+  {
+    "id": "w_warden",
+    "headword": "warden",
+    "extraMeanings": [
+      {
+        "tr": "denetçi, görevli (belirli bir kuralı uygulayan)",
+        "en": "an official who ensures rules are obeyed in a particular place",
+        "exampleEn": "The traffic warden gave me a ticket for parking on double yellow lines.",
+        "exampleTr": "Trafik memuru çift sarı çizgiye park ettiğim için bana ceza kesti."
+      }
+    ]
+  },
+  {
+    "id": "w_warrant",
+    "headword": "warrant",
+    "extraMeanings": [
+      {
+        "tr": "müzekkere, resmî izin belgesi (arama/tutuklama emri)",
+        "en": "an official document that gives the police permission to do something",
+        "exampleEn": "The police obtained a warrant to search his house.",
+        "exampleTr": "Polis, evini aramak için bir arama emri aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_wilt",
+    "headword": "wilt",
+    "extraMeanings": [
+      {
+        "tr": "bitkin düşmek, gücü tükenmek (kişi için)",
+        "en": "to become weak or tired, especially because of heat",
+        "exampleEn": "By the afternoon the runners were wilting in the heat.",
+        "exampleTr": "Öğleden sonra koşucular sıcaktan bitkin düşüyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_yield",
+    "headword": "yield",
+    "extraMeanings": [
+      {
+        "tr": "ürün, verim (tarımsal üretim miktarı)",
+        "en": "the amount of something, such as crops, that is produced",
+        "exampleEn": "This year's crop yield was much higher than expected.",
+        "exampleTr": "Bu yılki ürün verimi beklenenden çok daha yüksekti."
+      }
+    ]
+  },
+  {
+    "id": "w_vibrant",
+    "headword": "vibrant",
+    "extraMeanings": [
+      {
+        "tr": "(renk) canlı, göz alıcı, parlak",
+        "en": "(of a colour) bright and strong",
+        "exampleEn": "She painted the walls in vibrant shades of orange and red.",
+        "exampleTr": "Duvarları göz alıcı turuncu ve kırmızı tonlarında boyadı."
+      }
+    ]
+  },
+  {
+    "id": "w_warped",
+    "headword": "warped",
+    "extraMeanings": [
+      {
+        "tr": "(mantık/düşünce) çarpık, sağlıksız",
+        "en": "(of ideas or humour) unpleasant or strange in a way that is not normal",
+        "exampleEn": "He has a warped sense of humour that many people find disturbing.",
+        "exampleTr": "Birçok kişinin rahatsız edici bulduğu çarpık bir mizah anlayışı var."
+      }
+    ]
+  },
+  {
+    "id": "w_wind-up",
+    "headword": "wind up",
+    "extraMeanings": [
+      {
+        "tr": "(bir yerde/durumda) bulmak kendini, sonu gelmek",
+        "en": "to end up in a particular place or situation",
+        "exampleEn": "If he keeps spending like that, he'll wind up broke.",
+        "exampleTr": "Böyle harcamaya devam ederse sonunda beş parasız kalacak."
+      },
+      {
+        "tr": "birine takılmak, birini kızdırmak (kışkırtmak)",
+        "en": "to deliberately tease or annoy someone",
+        "exampleEn": "Stop trying to wind me up, I know you're joking.",
+        "exampleTr": "Beni kızdırmaya çalışmayı bırak, şaka yaptığını biliyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_wilds",
+    "headword": "wilds",
+    "extraMeanings": [
+      {
+        "tr": "ücra köşe, ıssız uzak yer (mizahi)",
+        "en": "a place far from towns and civilization",
+        "exampleEn": "They live somewhere out in the wilds of northern Scotland.",
+        "exampleTr": "Kuzey İskoçya'nın ücra bir köşesinde yaşıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w_aggregate",
+    "headword": "aggregate",
+    "extraMeanings": [
+      {
+        "tr": "(spor) toplam skor, kümülatif sonuç",
+        "en": "a total made up of smaller amounts, especially of scores",
+        "exampleEn": "The team won 4-2 on aggregate over the two matches.",
+        "exampleTr": "Takım iki maçın toplamında 4-2 kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_appendage",
+    "headword": "appendage",
+    "extraMeanings": [
+      {
+        "tr": "(anatomi) uzuv, organ çıkıntısı (kol, bacak, kuyruk vb.)",
+        "en": "a part of the body that sticks out, such as an arm, leg or tail",
+        "exampleEn": "The insect uses its long appendages to sense its surroundings.",
+        "exampleTr": "Böcek, uzun uzuvlarını çevresini algılamak için kullanır."
+      }
+    ]
+  }
+]

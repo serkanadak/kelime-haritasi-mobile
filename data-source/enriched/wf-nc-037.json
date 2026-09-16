@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "w_shunning",
+    "headword": "shunning",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʃʌnɪŋ/",
+    "meanings": [
+      {
+        "tr": "birinden ya da bir şeyden kaçınma, dışlama",
+        "en": "the act of deliberately avoiding someone or something",
+        "exampleEn": "The community's shunning of the outsider left him completely isolated.",
+        "exampleTr": "Topluluğun yabancıyı dışlaması onu tamamen yalnız bıraktı."
+      }
+    ],
+    "synonyms": [
+      "avoidance",
+      "ostracism",
+      "rejection"
+    ],
+    "antonyms": [
+      "acceptance",
+      "welcome"
+    ]
+  },
+  {
+    "id": "w_shut_down",
+    "headword": "shut down",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʃʌt ˈdaʊn/",
+    "meanings": [
+      {
+        "tr": "(bir işletmeyi/makineyi) kapatmak, faaliyeti durdurmak",
+        "en": "to stop a business, machine, or system from operating",
+        "exampleEn": "The company had to shut down its factory after the accident.",
+        "exampleTr": "Şirket kazadan sonra fabrikasını kapatmak zorunda kaldı."
+      },
+      {
+        "tr": "(bilgisayarı) kapatmak",
+        "en": "to turn off a computer or device properly",
+        "exampleEn": "Please shut down your computer before you leave the office.",
+        "exampleTr": "Lütfen ofisten çıkmadan önce bilgisayarını kapat."
+      }
+    ],
+    "synonyms": [
+      "close",
+      "turn off",
+      "halt"
+    ],
+    "antonyms": [
+      "start up",
+      "open",
+      "launch"
+    ]
+  },
+  {
+    "id": "w_shut_off",
+    "headword": "shut off",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʃʌt ˈɒf/",
+    "meanings": [
+      {
+        "tr": "(su, gaz, elektrik vb.) kesmek, kapatmak",
+        "en": "to stop the flow or supply of something",
+        "exampleEn": "Remember to shut off the water before you go on holiday.",
+        "exampleTr": "Tatile gitmeden önce suyu kapatmayı unutma."
+      }
+    ],
+    "synonyms": [
+      "turn off",
+      "cut off",
+      "stop"
+    ],
+    "antonyms": [
+      "turn on",
+      "open"
+    ]
+  },
+  {
+    "id": "w_sickening",
+    "headword": "sickening",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪkənɪŋ/",
+    "meanings": [
+      {
+        "tr": "mide bulandırıcı, iğrenç",
+        "en": "causing disgust or a feeling of nausea",
+        "exampleEn": "There was a sickening smell coming from the drain.",
+        "exampleTr": "Giderden mide bulandırıcı bir koku geliyordu."
+      },
+      {
+        "tr": "son derece rahatsız edici, tiksindirici",
+        "en": "very shocking or morally offensive",
+        "exampleEn": "It was sickening to watch how they treated the animals.",
+        "exampleTr": "Hayvanlara nasıl davrandıklarını izlemek iğrençti."
+      }
+    ],
+    "synonyms": [
+      "nauseating",
+      "disgusting",
+      "revolting"
+    ],
+    "antonyms": [
+      "pleasant",
+      "delightful"
+    ]
+  },
+  {
+    "id": "w_side_story",
+    "headword": "side story",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsaɪd ˌstɔːri/",
+    "meanings": [
+      {
+        "tr": "yan hikaye, ana olay örgüsünün dışındaki alt anlatı",
+        "en": "a secondary narrative that is separate from the main plot",
+        "exampleEn": "The novel has a charming side story about the hero's grandmother.",
+        "exampleTr": "Romanda kahramanın büyükannesiyle ilgili sevimli bir yan hikaye var."
+      }
+    ],
+    "synonyms": [
+      "subplot",
+      "side plot"
+    ],
+    "antonyms": [
+      "main plot"
+    ]
+  },
+  {
+    "id": "w_side_street",
+    "headword": "side street",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsaɪd striːt/",
+    "meanings": [
+      {
+        "tr": "ara sokak, yan sokak",
+        "en": "a minor or less important street off a main road",
+        "exampleEn": "We parked the car in a quiet side street near the market.",
+        "exampleTr": "Arabayı pazarın yakınındaki sessiz bir ara sokağa park ettik."
+      }
+    ],
+    "synonyms": [
+      "back street",
+      "alley",
+      "lane"
+    ],
+    "antonyms": [
+      "main road",
+      "high street"
+    ]
+  },
+  {
+    "id": "w_siege",
+    "headword": "siege",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/siːdʒ/",
+    "meanings": [
+      {
+        "tr": "kuşatma, muhasara",
+        "en": "a military operation in which forces surround a place to force its surrender",
+        "exampleEn": "The city endured a long siege before it finally fell.",
+        "exampleTr": "Şehir sonunda düşmeden önce uzun bir kuşatmaya dayandı."
+      }
+    ],
+    "synonyms": [
+      "blockade",
+      "encirclement"
+    ],
+    "antonyms": [
+      "liberation",
+      "relief"
+    ]
+  },
+  {
+    "id": "w_sign_up",
+    "headword": "sign-up",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsaɪn ʌp/",
+    "meanings": [
+      {
+        "tr": "kayıt, üyelik oluşturma",
+        "en": "the act of registering or enrolling for something",
+        "exampleEn": "The website offers a free trial with every sign-up.",
+        "exampleTr": "Web sitesi her kayıtla ücretsiz bir deneme sunuyor."
+      }
+    ],
+    "synonyms": [
+      "registration",
+      "enrollment",
+      "subscription"
+    ],
+    "antonyms": [
+      "cancellation",
+      "unsubscription"
+    ]
+  },
+  {
+    "id": "w_silliness",
+    "headword": "silliness",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪlinəs/",
+    "meanings": [
+      {
+        "tr": "saçmalık, aptallık, çocuksuluk",
+        "en": "foolish or lighthearted behavior lacking seriousness",
+        "exampleEn": "The children's silliness made everyone at the party laugh.",
+        "exampleTr": "Çocukların saçmalıkları partideki herkesi güldürdü."
+      }
+    ],
+    "synonyms": [
+      "foolishness",
+      "frivolity",
+      "absurdity"
+    ],
+    "antonyms": [
+      "seriousness",
+      "sensibleness"
+    ]
+  },
+  {
+    "id": "w_simple_wording",
+    "headword": "simple wording",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsɪmpəl ˈwɜːdɪŋ/",
+    "meanings": [
+      {
+        "tr": "yalın ifade, anlaşılır dil kullanımı",
+        "en": "the use of plain, easy-to-understand language",
+        "exampleEn": "The contract was rewritten in simple wording so everyone could understand it.",
+        "exampleTr": "Sözleşme herkesin anlayabilmesi için yalın bir ifadeyle yeniden yazıldı."
+      }
+    ],
+    "synonyms": [
+      "plain language",
+      "clear phrasing"
+    ],
+    "antonyms": [
+      "jargon",
+      "complex phrasing"
+    ]
+  },
+  {
+    "id": "w_sinfulness",
+    "headword": "sinfulness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪnfəlnəs/",
+    "meanings": [
+      {
+        "tr": "günahkârlık, günaha düşkünlük",
+        "en": "the quality of being wicked or morally wrong",
+        "exampleEn": "The preacher warned his congregation about the sinfulness of greed.",
+        "exampleTr": "Vaiz cemaatini açgözlülüğün günahkârlığı konusunda uyardı."
+      }
+    ],
+    "synonyms": [
+      "wickedness",
+      "immorality",
+      "iniquity"
+    ],
+    "antonyms": [
+      "virtue",
+      "righteousness"
+    ]
+  },
+  {
+    "id": "w_sip_noisily",
+    "headword": "sip noisily",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsɪp ˈnɔɪzɪli/",
+    "meanings": [
+      {
+        "tr": "sesli sesli yudumlamak, höpürdeterek içmek",
+        "en": "to drink in small amounts while making a loud sound",
+        "exampleEn": "He would sip noisily at his tea, which annoyed his colleagues.",
+        "exampleTr": "Çayını höpürdeterek içerdi, bu da iş arkadaşlarını rahatsız ederdi."
+      }
+    ],
+    "synonyms": [
+      "slurp"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sit_down",
+    "headword": "sit down",
+    "pos": "phrase",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsɪt ˈdaʊn/",
+    "meanings": [
+      {
+        "tr": "oturmak, yerine oturmak",
+        "en": "to move into a seated position",
+        "exampleEn": "Please sit down and make yourself comfortable.",
+        "exampleTr": "Lütfen otur ve rahatına bak."
+      }
+    ],
+    "synonyms": [
+      "be seated",
+      "take a seat"
+    ],
+    "antonyms": [
+      "stand up",
+      "get up"
+    ]
+  },
+  {
+    "id": "w_six",
+    "headword": "six",
+    "pos": "number",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sɪks/",
+    "meanings": [
+      {
+        "tr": "altı (6)",
+        "en": "the number 6",
+        "exampleEn": "There are six chairs around the table.",
+        "exampleTr": "Masanın etrafında altı sandalye var."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_sixteen",
+    "headword": "sixteen",
+    "pos": "number",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsɪkˈstiːn/",
+    "meanings": [
+      {
+        "tr": "on altı (16)",
+        "en": "the number 16",
+        "exampleEn": "She will be sixteen years old next month.",
+        "exampleTr": "Gelecek ay on altı yaşına girecek."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_sixty",
+    "headword": "sixty",
+    "pos": "number",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪksti/",
+    "meanings": [
+      {
+        "tr": "altmış (60)",
+        "en": "the number 60",
+        "exampleEn": "My grandfather retired when he was sixty.",
+        "exampleTr": "Büyükbabam altmış yaşındayken emekli oldu."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_skeptic",
+    "headword": "skeptic",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskeptɪk/",
+    "meanings": [
+      {
+        "tr": "kuşkucu kimse, şüpheci",
+        "en": "a person who doubts or questions accepted beliefs or claims",
+        "exampleEn": "As a skeptic, she refused to believe the story without proof.",
+        "exampleTr": "Bir kuşkucu olarak, kanıt olmadan hikayeye inanmayı reddetti."
+      }
+    ],
+    "synonyms": [
+      "doubter",
+      "cynic",
+      "disbeliever"
+    ],
+    "antonyms": [
+      "believer"
+    ]
+  },
+  {
+    "id": "w_skepticism",
+    "headword": "skepticism",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskeptɪsɪzəm/",
+    "meanings": [
+      {
+        "tr": "kuşkuculuk, şüphecilik",
+        "en": "an attitude of doubt about the truth of something",
+        "exampleEn": "The new proposal was met with a great deal of skepticism.",
+        "exampleTr": "Yeni öneri büyük bir şüphecilikle karşılandı."
+      }
+    ],
+    "synonyms": [
+      "doubt",
+      "disbelief",
+      "cynicism"
+    ],
+    "antonyms": [
+      "belief",
+      "conviction",
+      "credulity"
+    ]
+  },
+  {
+    "id": "w_skew",
+    "headword": "skew",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/skjuː/",
+    "meanings": [
+      {
+        "tr": "çarpıtmak, saptırmak, yanlı hale getirmek",
+        "en": "to distort or bias something so it is no longer accurate",
+        "exampleEn": "A few extreme values can skew the average of the whole dataset.",
+        "exampleTr": "Birkaç uç değer tüm veri kümesinin ortalamasını çarpıtabilir."
+      }
+    ],
+    "synonyms": [
+      "distort",
+      "bias",
+      "slant"
+    ],
+    "antonyms": [
+      "balance",
+      "straighten"
+    ]
+  },
+  {
+    "id": "w_skilfully",
+    "headword": "skilfully",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskɪlfəli/",
+    "meanings": [
+      {
+        "tr": "ustalıkla, becerikli bir şekilde",
+        "en": "in a way that shows great ability or expertise",
+        "exampleEn": "She skilfully negotiated a better deal for the whole team.",
+        "exampleTr": "Tüm ekip için daha iyi bir anlaşmayı ustalıkla müzakere etti."
+      }
+    ],
+    "synonyms": [
+      "expertly",
+      "adeptly",
+      "deftly"
+    ],
+    "antonyms": [
+      "clumsily",
+      "ineptly"
+    ]
+  },
+  {
+    "id": "w_skim_over",
+    "headword": "skim over",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌskɪm ˈəʊvə/",
+    "meanings": [
+      {
+        "tr": "göz gezdirmek, üstünkörü okumak/geçmek",
+        "en": "to read or deal with something quickly without giving it detailed attention",
+        "exampleEn": "I only had time to skim over the report before the meeting.",
+        "exampleTr": "Toplantıdan önce rapora sadece göz gezdirecek vaktim vardı."
+      }
+    ],
+    "synonyms": [
+      "glance over",
+      "scan",
+      "skim through"
+    ],
+    "antonyms": [
+      "study",
+      "scrutinize"
+    ]
+  },
+  {
+    "id": "w_skiver",
+    "headword": "skiver",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "slang",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskaɪvə/",
+    "meanings": [
+      {
+        "tr": "kaytarıcı, işten kaçan kimse (İngiliz İngilizcesi)",
+        "en": "(British informal) a person who avoids work or duties",
+        "exampleEn": "The manager called him a skiver for taking so many sick days.",
+        "exampleTr": "Müdür, bu kadar çok hastalık izni aldığı için ona kaytarıcı dedi."
+      }
+    ],
+    "synonyms": [
+      "slacker",
+      "shirker",
+      "idler"
+    ],
+    "antonyms": [
+      "hard worker"
+    ]
+  },
+  {
+    "id": "w_slacker",
+    "headword": "slacker",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈslækə/",
+    "meanings": [
+      {
+        "tr": "tembel, işten kaçan, kaytaran kimse",
+        "en": "a person who avoids work or effort, especially through laziness",
+        "exampleEn": "He has a reputation as a slacker who never meets deadlines.",
+        "exampleTr": "Asla teslim tarihlerine yetişmeyen bir kaytarıcı olarak nam salmış."
+      }
+    ],
+    "synonyms": [
+      "idler",
+      "shirker",
+      "layabout"
+    ],
+    "antonyms": [
+      "hard worker",
+      "go-getter"
+    ]
+  },
+  {
+    "id": "w_sleek",
+    "headword": "sleek",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sliːk/",
+    "meanings": [
+      {
+        "tr": "düzgün ve parlak, şık ve modern görünümlü",
+        "en": "smooth, glossy, and elegant in appearance",
+        "exampleEn": "She drove a sleek black sports car.",
+        "exampleTr": "Şık, siyah bir spor araba kullanıyordu."
+      }
+    ],
+    "synonyms": [
+      "smooth",
+      "glossy",
+      "streamlined"
+    ],
+    "antonyms": [
+      "rough",
+      "bulky"
+    ]
+  },
+  {
+    "id": "w_slimness",
+    "headword": "slimness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈslɪmnəs/",
+    "meanings": [
+      {
+        "tr": "incelik, zayıflık",
+        "en": "the quality of being thin or slender",
+        "exampleEn": "The model was admired for the slimness of her figure.",
+        "exampleTr": "Model, vücudunun inceliğiyle takdir topluyordu."
+      }
+    ],
+    "synonyms": [
+      "slenderness",
+      "thinness"
+    ],
+    "antonyms": [
+      "fatness",
+      "stoutness"
+    ]
+  },
+  {
+    "id": "w_sloppily",
+    "headword": "sloppily",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈslɒpɪli/",
+    "meanings": [
+      {
+        "tr": "özensizce, baştan savma bir şekilde",
+        "en": "in a careless, untidy, or messy way",
+        "exampleEn": "The report was written so sloppily that no one could follow it.",
+        "exampleTr": "Rapor o kadar özensiz yazılmıştı ki kimse takip edemedi."
+      }
+    ],
+    "synonyms": [
+      "carelessly",
+      "untidily",
+      "messily"
+    ],
+    "antonyms": [
+      "neatly",
+      "carefully",
+      "meticulously"
+    ]
+  },
+  {
+    "id": "w_slow_down",
+    "headword": "slow down",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsləʊ ˈdaʊn/",
+    "meanings": [
+      {
+        "tr": "yavaşlamak, hız kesmek",
+        "en": "to reduce speed or become less active",
+        "exampleEn": "You should slow down when you approach the school.",
+        "exampleTr": "Okula yaklaşırken yavaşlamalısın."
+      },
+      {
+        "tr": "(bir şeyi) yavaşlatmak",
+        "en": "to make something happen at a slower rate",
+        "exampleEn": "Rising interest rates can slow down economic growth.",
+        "exampleTr": "Yükselen faiz oranları ekonomik büyümeyi yavaşlatabilir."
+      }
+    ],
+    "synonyms": [
+      "decelerate",
+      "ease off"
+    ],
+    "antonyms": [
+      "speed up",
+      "accelerate"
+    ]
+  },
+  {
+    "id": "w_sluggishness",
+    "headword": "sluggishness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈslʌɡɪʃnəs/",
+    "meanings": [
+      {
+        "tr": "ağırlık, uyuşukluk, durgunluk",
+        "en": "the state of being slow, inactive, or lacking energy",
+        "exampleEn": "The sluggishness of the economy worried investors.",
+        "exampleTr": "Ekonominin durgunluğu yatırımcıları endişelendirdi."
+      }
+    ],
+    "synonyms": [
+      "lethargy",
+      "torpor",
+      "inertia"
+    ],
+    "antonyms": [
+      "vigor",
+      "liveliness"
+    ]
+  },
+  {
+    "id": "w_sly",
+    "headword": "sly",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/slaɪ/",
+    "meanings": [
+      {
+        "tr": "kurnaz, sinsi",
+        "en": "clever in a deceptive or secretive way",
+        "exampleEn": "He gave a sly smile as if he knew a secret.",
+        "exampleTr": "Sanki bir sır biliyormuş gibi kurnaz bir gülümseme sergiledi."
+      }
+    ],
+    "synonyms": [
+      "cunning",
+      "crafty",
+      "devious"
+    ],
+    "antonyms": [
+      "honest",
+      "straightforward",
+      "naive"
+    ]
+  },
+  {
+    "id": "w_small_letter",
+    "headword": "small letter",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsmɔːl ˈletə/",
+    "meanings": [
+      {
+        "tr": "küçük harf",
+        "en": "a letter written in its lower-case form",
+        "exampleEn": "Write your name in small letters, not capitals.",
+        "exampleTr": "Adını büyük harflerle değil, küçük harflerle yaz."
+      }
+    ],
+    "synonyms": [
+      "lowercase letter"
+    ],
+    "antonyms": [
+      "capital letter",
+      "uppercase letter"
+    ]
+  },
+  {
+    "id": "w_smith",
+    "headword": "smith",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/smɪθ/",
+    "meanings": [
+      {
+        "tr": "demirci, metal işçisi",
+        "en": "a worker who makes or repairs metal objects, especially a blacksmith",
+        "exampleEn": "The village smith forged a new set of horseshoes.",
+        "exampleTr": "Köyün demircisi yeni bir takım at nalı dövdü."
+      }
+    ],
+    "synonyms": [
+      "blacksmith",
+      "metalworker"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_smoothness",
+    "headword": "smoothness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsmuːðnəs/",
+    "meanings": [
+      {
+        "tr": "pürüzsüzlük, düzgünlük, akıcılık",
+        "en": "the quality of being even, free from roughness or interruptions",
+        "exampleEn": "Everyone praised the smoothness of the new car's ride.",
+        "exampleTr": "Herkes yeni arabanın sürüşünün pürüzsüzlüğünü övdü."
+      }
+    ],
+    "synonyms": [
+      "evenness",
+      "sleekness",
+      "fluency"
+    ],
+    "antonyms": [
+      "roughness",
+      "coarseness"
+    ]
+  },
+  {
+    "id": "w_smother",
+    "headword": "smother",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsmʌðə/",
+    "meanings": [
+      {
+        "tr": "boğmak, havasız bırakarak öldürmek",
+        "en": "to kill someone by covering their nose and mouth so they cannot breathe",
+        "exampleEn": "The murderer tried to smother his victim with a pillow.",
+        "exampleTr": "Katil kurbanını bir yastıkla boğmaya çalıştı."
+      },
+      {
+        "tr": "bastırmak, örtbas etmek (duygu, ateş vb.)",
+        "en": "to suppress or stifle something such as a feeling or fire",
+        "exampleEn": "She tried to smother her laughter during the ceremony.",
+        "exampleTr": "Tören sırasında kahkahasını bastırmaya çalıştı."
+      }
+    ],
+    "synonyms": [
+      "suffocate",
+      "stifle",
+      "suppress"
+    ],
+    "antonyms": [
+      "release",
+      "reveal"
+    ]
+  },
+  {
+    "id": "w_smug_smile",
+    "headword": "smug smile",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsmʌɡ ˈsmaɪl/",
+    "meanings": [
+      {
+        "tr": "kendini beğenmiş gülümseme",
+        "en": "a self-satisfied expression showing excessive pride in oneself",
+        "exampleEn": "He wore a smug smile after winning the argument.",
+        "exampleTr": "Tartışmayı kazandıktan sonra kendini beğenmiş bir gülümseme takındı."
+      }
+    ],
+    "synonyms": [
+      "smirk",
+      "self-satisfied grin"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_smuggling",
+    "headword": "smuggling",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsmʌɡlɪŋ/",
+    "meanings": [
+      {
+        "tr": "kaçakçılık",
+        "en": "the crime of moving goods illegally into or out of a country",
+        "exampleEn": "The police cracked down on cigarette smuggling at the border.",
+        "exampleTr": "Polis sınırdaki sigara kaçakçılığına karşı sert önlemler aldı."
+      }
+    ],
+    "synonyms": [
+      "trafficking",
+      "contraband trade"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_snap_up",
+    "headword": "snap up",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsnæp ˈʌp/",
+    "meanings": [
+      {
+        "tr": "kapış kapış almak, hemen kapmak",
+        "en": "to buy or take something quickly and eagerly before others can",
+        "exampleEn": "Shoppers snapped up the discounted laptops within minutes.",
+        "exampleTr": "Alışverişçiler indirimli dizüstü bilgisayarları dakikalar içinde kapış kapış aldı."
+      }
+    ],
+    "synonyms": [
+      "grab",
+      "seize",
+      "buy up"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sneak_peek",
+    "headword": "sneak peek",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsniːk ˈpiːk/",
+    "meanings": [
+      {
+        "tr": "ön izleme, gizlice ilk bakış, önden gösterim",
+        "en": "an early or secret look at something before it is officially available",
+        "exampleEn": "The studio released a sneak peek of the upcoming film.",
+        "exampleTr": "Stüdyo yaklaşan filmin bir ön izlemesini yayınladı."
+      }
+    ],
+    "synonyms": [
+      "preview",
+      "first look",
+      "teaser"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_soberness",
+    "headword": "soberness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsəʊbənəs/",
+    "meanings": [
+      {
+        "tr": "ayıklık, ağırbaşlılık, ciddiyet",
+        "en": "the state of being sober or serious and not affected by alcohol",
+        "exampleEn": "The soberness of his tone made everyone listen carefully.",
+        "exampleTr": "Ses tonundaki ciddiyet herkesi dikkatle dinlemeye itti."
+      }
+    ],
+    "synonyms": [
+      "sobriety",
+      "seriousness",
+      "gravity"
+    ],
+    "antonyms": [
+      "drunkenness",
+      "frivolity"
+    ]
+  },
+  {
+    "id": "w_sod",
+    "headword": "sod",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sɒd/",
+    "meanings": [
+      {
+        "tr": "çim tabakası, çimenli toprak parçası",
+        "en": "a piece of grass-covered surface soil held together by its roots",
+        "exampleEn": "They laid fresh sod across the entire back garden.",
+        "exampleTr": "Arka bahçenin tamamına taze çim tabakası serdiler."
+      }
+    ],
+    "synonyms": [
+      "turf",
+      "grass"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_soda_water",
+    "headword": "soda water",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsəʊdə ˌwɔːtə/",
+    "meanings": [
+      {
+        "tr": "soda, maden suyu (gazlı su)",
+        "en": "water containing dissolved carbon dioxide, giving it bubbles",
+        "exampleEn": "She mixed the juice with a splash of soda water.",
+        "exampleTr": "Meyve suyunu biraz sodayla karıştırdı."
+      }
+    ],
+    "synonyms": [
+      "carbonated water",
+      "sparkling water",
+      "club soda"
+    ],
+    "antonyms": [
+      "still water"
+    ]
+  },
+  {
+    "id": "w_solemnly",
+    "headword": "solemnly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɒləmli/",
+    "meanings": [
+      {
+        "tr": "ciddiyetle, ağırbaşlılıkla, resmi bir biçimde",
+        "en": "in a formal and serious manner",
+        "exampleEn": "He solemnly swore to tell the truth in court.",
+        "exampleTr": "Mahkemede gerçeği söyleyeceğine ciddiyetle yemin etti."
+      }
+    ],
+    "synonyms": [
+      "gravely",
+      "earnestly",
+      "seriously"
+    ],
+    "antonyms": [
+      "cheerfully",
+      "light-heartedly"
+    ]
+  },
+  {
+    "id": "w_solidarity",
+    "headword": "solidarity",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsɒlɪˈdærəti/",
+    "meanings": [
+      {
+        "tr": "dayanışma, birlik ve beraberlik",
+        "en": "unity and mutual support among a group with shared interests",
+        "exampleEn": "The workers stood in solidarity with the striking miners.",
+        "exampleTr": "İşçiler grevdeki madencilerle dayanışma içinde durdu."
+      }
+    ],
+    "synonyms": [
+      "unity",
+      "cohesion",
+      "togetherness"
+    ],
+    "antonyms": [
+      "division",
+      "discord"
+    ]
+  },
+  {
+    "id": "w_soloist",
+    "headword": "soloist",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsəʊləʊɪst/",
+    "meanings": [
+      {
+        "tr": "solist, tek başına performans sergileyen sanatçı",
+        "en": "a musician or singer who performs alone or a solo part",
+        "exampleEn": "The violin soloist received a standing ovation.",
+        "exampleTr": "Keman solisti ayakta alkışlandı."
+      }
+    ],
+    "synonyms": [
+      "solo performer"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_some",
+    "headword": "some",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sʌm/",
+    "meanings": [
+      {
+        "tr": "biraz, bir miktar, bazı",
+        "en": "an unspecified amount or number of something",
+        "exampleEn": "Would you like some coffee before we start?",
+        "exampleTr": "Başlamadan önce biraz kahve ister misin?"
+      },
+      {
+        "tr": "bazı, kimi (belirli olmayan)",
+        "en": "used to refer to certain members of a group without specifying which",
+        "exampleEn": "Some people prefer tea, while others prefer coffee.",
+        "exampleTr": "Bazı insanlar çayı tercih ederken, bazıları kahveyi tercih eder."
+      }
+    ],
+    "synonyms": [
+      "a few",
+      "several",
+      "a little"
+    ],
+    "antonyms": [
+      "none",
+      "all"
+    ]
+  },
+  {
+    "id": "w_somebody",
+    "headword": "somebody",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsʌmbədi/",
+    "meanings": [
+      {
+        "tr": "biri, birisi (belirsiz kişi)",
+        "en": "an unknown or unspecified person",
+        "exampleEn": "Somebody left their umbrella in the meeting room.",
+        "exampleTr": "Biri şemsiyesini toplantı odasında bırakmış."
+      }
+    ],
+    "synonyms": [
+      "someone"
+    ],
+    "antonyms": [
+      "nobody",
+      "no one"
+    ]
+  }
+]

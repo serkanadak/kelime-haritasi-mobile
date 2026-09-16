@@ -1,0 +1,462 @@
+[
+  {
+    "id": "w_windscreen",
+    "headword": "windscreen",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwɪndskriːn/",
+    "meanings": [
+      {
+        "tr": "ön cam (araç)",
+        "en": "the window at the front of a vehicle",
+        "exampleEn": "The rain made it hard to see through the windscreen.",
+        "exampleTr": "Yağmur ön camdan görmeyi zorlaştırdı."
+      }
+    ],
+    "synonyms": ["windshield"],
+    "antonyms": []
+  },
+  {
+    "id": "w_windsurfing",
+    "headword": "windsurfing",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwɪndˌsɜːfɪŋ/",
+    "meanings": [
+      {
+        "tr": "rüzgar sörfü",
+        "en": "the sport of riding on water on a board with a sail",
+        "exampleEn": "We tried windsurfing on our holiday by the sea.",
+        "exampleTr": "Deniz kenarındaki tatilimizde rüzgar sörfü denedik."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_wing",
+    "headword": "wing",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/wɪŋ/",
+    "meanings": [
+      {
+        "tr": "kanat",
+        "en": "the part of a bird, insect, or plane used for flying",
+        "exampleEn": "The bird spread its wings and flew away.",
+        "exampleTr": "Kuş kanatlarını açtı ve uçup gitti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_wire",
+    "headword": "wire",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwaɪə/",
+    "meanings": [
+      {
+        "tr": "tel",
+        "en": "a thin piece of metal used to carry electricity or to make fences",
+        "exampleEn": "He connected the speakers with a long wire.",
+        "exampleTr": "Hoparlörleri uzun bir telle bağladı."
+      }
+    ],
+    "synonyms": ["cable"],
+    "antonyms": []
+  },
+  {
+    "id": "w_wither",
+    "headword": "wither",
+    "pos": "verb",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwɪðə/",
+    "meanings": [
+      {
+        "tr": "solmak, kurumak",
+        "en": "to become dry and start to die, especially of a plant",
+        "exampleEn": "The flowers will wither without water.",
+        "exampleTr": "Çiçekler susuz kalırsa solar."
+      }
+    ],
+    "synonyms": ["wilt", "shrivel"],
+    "antonyms": ["bloom", "flourish"]
+  },
+  {
+    "id": "w_wizard",
+    "headword": "wizard",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwɪzəd/",
+    "meanings": [
+      {
+        "tr": "büyücü, sihirbaz",
+        "en": "a man with magic powers in stories",
+        "exampleEn": "The young wizard cast a powerful spell.",
+        "exampleTr": "Genç büyücü güçlü bir büyü yaptı."
+      }
+    ],
+    "synonyms": ["sorcerer", "magician"],
+    "antonyms": []
+  },
+  {
+    "id": "w_wonder",
+    "headword": "wonder",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwʌndə/",
+    "meanings": [
+      {
+        "tr": "hayret, hayranlık; mucize",
+        "en": "a feeling of surprise and admiration, or something that causes it",
+        "exampleEn": "The children stared at the fireworks in wonder.",
+        "exampleTr": "Çocuklar havai fişeklere hayranlıkla baktı."
+      }
+    ],
+    "synonyms": ["awe", "marvel"],
+    "antonyms": []
+  },
+  {
+    "id": "w_working",
+    "headword": "working",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwɜːkɪŋ/",
+    "meanings": [
+      {
+        "tr": "çalışan, işleyen; iş ile ilgili",
+        "en": "having a job, or relating to work or operating properly",
+        "exampleEn": "She has long working hours at the hospital.",
+        "exampleTr": "Hastanede uzun çalışma saatleri var."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_workout",
+    "headword": "workout",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwɜːkaʊt/",
+    "meanings": [
+      {
+        "tr": "antrenman, egzersiz",
+        "en": "a period of physical exercise",
+        "exampleEn": "I do a workout at the gym every morning.",
+        "exampleTr": "Her sabah spor salonunda antrenman yaparım."
+      }
+    ],
+    "synonyms": ["exercise"],
+    "antonyms": []
+  },
+  {
+    "id": "w_workplace",
+    "headword": "workplace",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwɜːkpleɪs/",
+    "meanings": [
+      {
+        "tr": "iş yeri",
+        "en": "the place where someone works",
+        "exampleEn": "Safety is very important in the workplace.",
+        "exampleTr": "İş yerinde güvenlik çok önemlidir."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_workshop",
+    "headword": "workshop",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwɜːkʃɒp/",
+    "meanings": [
+      {
+        "tr": "atölye; çalıştay",
+        "en": "a room or building where things are made or repaired, or a meeting for practical training",
+        "exampleEn": "We attended a writing workshop last weekend.",
+        "exampleTr": "Geçen hafta sonu bir yazma çalıştayına katıldık."
+      }
+    ],
+    "synonyms": ["seminar"],
+    "antonyms": []
+  },
+  {
+    "id": "w_worn",
+    "headword": "worn",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/wɔːn/",
+    "meanings": [
+      {
+        "tr": "eskimiş, yıpranmış",
+        "en": "damaged or thin because of long use",
+        "exampleEn": "His old shoes were worn and full of holes.",
+        "exampleTr": "Eski ayakkabıları yıpranmış ve delik doluydu."
+      }
+    ],
+    "synonyms": ["shabby", "frayed"],
+    "antonyms": ["new"]
+  },
+  {
+    "id": "w_worth",
+    "headword": "worth",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/wɜːθ/",
+    "meanings": [
+      {
+        "tr": "değerinde, değer",
+        "en": "having a particular value, or good enough to deserve something",
+        "exampleEn": "This painting is worth a lot of money.",
+        "exampleTr": "Bu tablo çok para değerinde."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_worthwhile",
+    "headword": "worthwhile",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˌwɜːθˈwaɪl/",
+    "meanings": [
+      {
+        "tr": "değer, zahmete değer",
+        "en": "useful, important, or good enough to be worth the effort",
+        "exampleEn": "Volunteering is a worthwhile way to spend your time.",
+        "exampleTr": "Gönüllü olmak zamanını geçirmenin zahmete değer bir yoludur."
+      }
+    ],
+    "synonyms": ["valuable", "rewarding"],
+    "antonyms": ["pointless"]
+  },
+  {
+    "id": "w_worthy",
+    "headword": "worthy",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈwɜːði/",
+    "meanings": [
+      {
+        "tr": "layık, değer",
+        "en": "deserving respect, attention, or support",
+        "exampleEn": "The charity is a worthy cause that helps children.",
+        "exampleTr": "Bu hayır kurumu çocuklara yardım eden, desteği hak eden bir davadır."
+      }
+    ],
+    "synonyms": ["deserving", "admirable"],
+    "antonyms": ["unworthy"]
+  },
+  {
+    "id": "w_wound",
+    "headword": "wound",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/wuːnd/",
+    "meanings": [
+      {
+        "tr": "yara",
+        "en": "an injury to the body, especially a cut in the skin",
+        "exampleEn": "The nurse cleaned the wound on his arm.",
+        "exampleTr": "Hemşire kolundaki yarayı temizledi."
+      }
+    ],
+    "synonyms": ["injury", "cut"],
+    "antonyms": []
+  },
+  {
+    "id": "w_wrap",
+    "headword": "wrap",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ræp/",
+    "meanings": [
+      {
+        "tr": "dürüm; sarmalık örtü",
+        "en": "a type of food made by rolling a filling in thin bread, or a covering",
+        "exampleEn": "I bought a chicken wrap for lunch.",
+        "exampleTr": "Öğle yemeği için bir tavuklu dürüm aldım."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_wrapping",
+    "headword": "wrapping",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈræpɪŋ/",
+    "meanings": [
+      {
+        "tr": "ambalaj, sargı",
+        "en": "paper or material used to cover or pack something",
+        "exampleEn": "She removed the wrapping from the gift carefully.",
+        "exampleTr": "Hediyenin ambalajını dikkatlice çıkardı."
+      }
+    ],
+    "synonyms": ["packaging"],
+    "antonyms": []
+  },
+  {
+    "id": "w_wrist",
+    "headword": "wrist",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/rɪst/",
+    "meanings": [
+      {
+        "tr": "bilek",
+        "en": "the joint between the hand and the arm",
+        "exampleEn": "She wears a bracelet on her wrist.",
+        "exampleTr": "Bileğinde bir bilezik takıyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_wristwatch",
+    "headword": "wristwatch",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈrɪstwɒtʃ/",
+    "meanings": [
+      {
+        "tr": "kol saati",
+        "en": "a watch worn on the wrist",
+        "exampleEn": "He checked the time on his wristwatch.",
+        "exampleTr": "Kol saatinden saate baktı."
+      }
+    ],
+    "synonyms": ["watch"],
+    "antonyms": []
+  },
+  {
+    "id": "w_written",
+    "headword": "written",
+    "pos": "adj",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈrɪtən/",
+    "meanings": [
+      {
+        "tr": "yazılı",
+        "en": "expressed in writing rather than spoken",
+        "exampleEn": "You must provide written permission to take part.",
+        "exampleTr": "Katılmak için yazılı izin vermeniz gerekir."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": ["spoken", "oral"]
+  },
+  {
+    "id": "w_yell",
+    "headword": "yell",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/jel/",
+    "meanings": [
+      {
+        "tr": "bağırış, haykırış",
+        "en": "a loud, sharp cry or shout",
+        "exampleEn": "She gave a yell when she saw the spider.",
+        "exampleTr": "Örümceği görünce bir çığlık attı."
+      }
+    ],
+    "synonyms": ["shout", "cry"],
+    "antonyms": ["whisper"]
+  },
+  {
+    "id": "w_yoga",
+    "headword": "yoga",
+    "pos": "noun",
+    "level": "B1",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈjəʊɡə/",
+    "meanings": [
+      {
+        "tr": "yoga",
+        "en": "a set of exercises for the body and mind to relax and stay healthy",
+        "exampleEn": "She practises yoga every morning to relax.",
+        "exampleTr": "Rahatlamak için her sabah yoga yapar."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

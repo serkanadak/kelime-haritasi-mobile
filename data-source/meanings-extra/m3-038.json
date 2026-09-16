@@ -1,0 +1,320 @@
+[
+  {
+    "id": "w_commission",
+    "headword": "commission",
+    "extraMeanings": [
+      {
+        "tr": "komisyon, kurul (resmi soruşturma/görev heyeti)",
+        "en": "an official group appointed to control something or find out about something",
+        "exampleEn": "The government set up a commission to investigate the causes of the accident.",
+        "exampleTr": "Hükümet kazanın nedenlerini araştırmak için bir komisyon kurdu."
+      },
+      {
+        "tr": "sipariş vermek, ısmarlamak (fiil)",
+        "en": "to formally ask someone to make or do something for you",
+        "exampleEn": "The magazine commissioned a well-known photographer to take the pictures.",
+        "exampleTr": "Dergi fotoğrafları çekmesi için tanınmış bir fotoğrafçıya iş ısmarladı."
+      }
+    ]
+  },
+  {
+    "id": "w_commodity",
+    "headword": "commodity",
+    "extraMeanings": [
+      {
+        "tr": "değerli/faydalı şey, kıymetli varlık",
+        "en": "a useful or valuable quality or thing",
+        "exampleEn": "Time is a precious commodity when you have young children.",
+        "exampleTr": "Küçük çocuklarınız olduğunda zaman değerli bir varlıktır."
+      }
+    ]
+  },
+  {
+    "id": "w_compact",
+    "headword": "compact",
+    "extraMeanings": [
+      {
+        "tr": "pudralık, pudriyer (küçük makyaj kutusu)",
+        "en": "a small flat case containing powder for the face",
+        "exampleEn": "She took a compact out of her handbag to check her makeup.",
+        "exampleTr": "Makyajını kontrol etmek için çantasından pudralığını çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w_compensate",
+    "headword": "compensate",
+    "extraMeanings": [
+      {
+        "tr": "dengelemek, açığını kapatmak",
+        "en": "to provide a good effect to balance a bad or unwanted one",
+        "exampleEn": "Nothing can compensate for the loss of a loved one.",
+        "exampleTr": "Hiçbir şey sevilen birinin kaybını telafi edemez."
+      }
+    ]
+  },
+  {
+    "id": "w_compile",
+    "headword": "compile",
+    "extraMeanings": [
+      {
+        "tr": "derlemek (kodu makine diline çevirmek, bilgisayar)",
+        "en": "to change a computer program into a form that a computer can understand and run",
+        "exampleEn": "The program won't compile because there is a syntax error.",
+        "exampleTr": "Bir sözdizimi hatası olduğu için program derlenmiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_concrete",
+    "headword": "concrete",
+    "extraMeanings": [
+      {
+        "tr": "beton",
+        "en": "a hard building material made by mixing cement, sand, small stones and water",
+        "exampleEn": "The path was made of concrete.",
+        "exampleTr": "Patika betondan yapılmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_condemn",
+    "headword": "condemn",
+    "extraMeanings": [
+      {
+        "tr": "mahkûm etmek (mahkeme), ceza vermek",
+        "en": "to give a punishment, especially a severe one, in a court of law",
+        "exampleEn": "The prisoner was condemned to death.",
+        "exampleTr": "Mahkûm ölüm cezasına çarptırıldı."
+      },
+      {
+        "tr": "(bina için) kullanılamaz/yıkılacak ilan etmek",
+        "en": "to officially state that a building is not safe to use",
+        "exampleEn": "The old factory was condemned and later demolished.",
+        "exampleTr": "Eski fabrika kullanılamaz ilan edildi ve sonra yıkıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_cone",
+    "headword": "cone",
+    "extraMeanings": [
+      {
+        "tr": "külah (dondurma külahı)",
+        "en": "a thin, cone-shaped biscuit that holds ice cream",
+        "exampleEn": "She ordered a chocolate ice cream in a cone.",
+        "exampleTr": "Külah içinde çikolatalı dondurma söyledi."
+      },
+      {
+        "tr": "kozalak (çam kozalağı)",
+        "en": "the hard fruit of a pine or fir tree",
+        "exampleEn": "The children collected pine cones in the forest.",
+        "exampleTr": "Çocuklar ormanda çam kozalakları topladı."
+      }
+    ]
+  },
+  {
+    "id": "w_conference",
+    "headword": "conference",
+    "extraMeanings": [
+      {
+        "tr": "görüşme, müzakere (küçük resmi toplantı)",
+        "en": "a meeting of people to discuss a particular subject",
+        "exampleEn": "The teacher had a conference with the student's parents.",
+        "exampleTr": "Öğretmen öğrencinin ailesiyle bir görüşme yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_confine",
+    "headword": "confine",
+    "extraMeanings": [
+      {
+        "tr": "(with kalıbında) sınırlarını ... ile belirlemek, ... ile sınırlı tutmak",
+        "en": "to keep something within limits",
+        "exampleEn": "Please confine your remarks to the topic we are discussing.",
+        "exampleTr": "Lütfen sözlerinizi tartıştığımız konuyla sınırlı tutun."
+      }
+    ]
+  },
+  {
+    "id": "w_congress",
+    "headword": "congress",
+    "extraMeanings": [
+      {
+        "tr": "Kongre (ABD yasama organı)",
+        "en": "the elected group of politicians responsible for making laws in the US",
+        "exampleEn": "The bill was passed by Congress last week.",
+        "exampleTr": "Yasa tasarısı geçen hafta Kongre tarafından kabul edildi."
+      }
+    ]
+  },
+  {
+    "id": "w_consent",
+    "headword": "consent",
+    "extraMeanings": [
+      {
+        "tr": "razı olmak, izin vermek (fiil)",
+        "en": "to agree to do something, or to allow someone to do something",
+        "exampleEn": "Her father would not consent to the marriage.",
+        "exampleTr": "Babası evliliğe razı olmadı."
+      }
+    ]
+  },
+  {
+    "id": "w_console",
+    "headword": "console",
+    "extraMeanings": [
+      {
+        "tr": "konsol (kontrol paneli / oyun konsolu)",
+        "en": "a flat surface containing the controls for a machine, or a device for playing games",
+        "exampleEn": "He bought a new games console for his son.",
+        "exampleTr": "Oğlu için yeni bir oyun konsolu aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_constant",
+    "headword": "constant",
+    "extraMeanings": [
+      {
+        "tr": "değişmez, sabit (miktar/değer)",
+        "en": "staying the same, not changing in level or amount",
+        "exampleEn": "The car was travelling at a constant speed.",
+        "exampleTr": "Araba sabit bir hızla gidiyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_content",
+    "headword": "content",
+    "extraMeanings": [
+      {
+        "tr": "içerik, muhteva",
+        "en": "the things that are contained in something, or the ideas in a book, film, etc.",
+        "exampleEn": "The content of the book is more interesting than its title suggests.",
+        "exampleTr": "Kitabın içeriği başlığının düşündürdüğünden daha ilginç."
+      }
+    ]
+  },
+  {
+    "id": "w_convert",
+    "headword": "convert",
+    "extraMeanings": [
+      {
+        "tr": "din/görüş değiştirmek, döndürmek (inanç)",
+        "en": "to change your beliefs, especially your religion, or to persuade someone to do this",
+        "exampleEn": "He converted to Islam at the age of thirty.",
+        "exampleTr": "Otuz yaşında İslam'a geçti."
+      }
+    ]
+  },
+  {
+    "id": "w_convey",
+    "headword": "convey",
+    "extraMeanings": [
+      {
+        "tr": "taşımak, nakletmek",
+        "en": "to take or carry someone or something from one place to another",
+        "exampleEn": "The goods are conveyed to the port by train.",
+        "exampleTr": "Mallar limana trenle taşınıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_copper",
+    "headword": "copper",
+    "extraMeanings": [
+      {
+        "tr": "polis, aynasız (argo, İngiliz İngilizcesi)",
+        "en": "a police officer (informal, British)",
+        "exampleEn": "The coppers arrived within minutes of the alarm.",
+        "exampleTr": "Aynasızlar alarmdan dakikalar sonra geldi."
+      }
+    ]
+  },
+  {
+    "id": "w_core",
+    "headword": "core",
+    "extraMeanings": [
+      {
+        "tr": "(elma/armut) göbeği, iç kısmı",
+        "en": "the hard central part of certain fruits, containing the seeds",
+        "exampleEn": "She threw the apple core into the bin.",
+        "exampleTr": "Elma göbeğini çöpe attı."
+      },
+      {
+        "tr": "temel, esas (sıfat olarak: çekirdek/ana)",
+        "en": "most important or most basic",
+        "exampleEn": "Reading and writing are core skills that every child must learn.",
+        "exampleTr": "Okuma ve yazma her çocuğun öğrenmesi gereken temel becerilerdir."
+      }
+    ]
+  },
+  {
+    "id": "w_corporal",
+    "headword": "corporal",
+    "extraMeanings": [
+      {
+        "tr": "onbaşı (askeri rütbe)",
+        "en": "a person of low rank in the army or air force",
+        "exampleEn": "The corporal ordered the soldiers to line up.",
+        "exampleTr": "Onbaşı askerlere sıraya girmelerini emretti."
+      }
+    ]
+  },
+  {
+    "id": "w_correspond",
+    "headword": "correspond",
+    "extraMeanings": [
+      {
+        "tr": "karşılık gelmek, denk düşmek",
+        "en": "to match or be similar or equal to something",
+        "exampleEn": "The number on the door corresponds to the one on your ticket.",
+        "exampleTr": "Kapıdaki numara biletinizdeki numaraya karşılık gelir."
+      }
+    ]
+  },
+  {
+    "id": "w_counter",
+    "headword": "counter",
+    "extraMeanings": [
+      {
+        "tr": "karşı çıkmak, karşılık vermek (fiil)",
+        "en": "to react to something with an opposing opinion or action",
+        "exampleEn": "He countered their argument with some facts of his own.",
+        "exampleTr": "Onların iddiasına kendi gerçekleriyle karşılık verdi."
+      },
+      {
+        "tr": "sayaç (bir şeyin sayısını gösteren cihaz)",
+        "en": "a device that counts and shows a number",
+        "exampleEn": "The Geiger counter measures levels of radiation.",
+        "exampleTr": "Geiger sayacı radyasyon düzeylerini ölçer."
+      }
+    ]
+  },
+  {
+    "id": "w_costume",
+    "headword": "costume",
+    "extraMeanings": [
+      {
+        "tr": "mayo (İngiliz İngilizcesi: swimming costume)",
+        "en": "a piece of clothing worn for swimming (British)",
+        "exampleEn": "Don't forget to bring your swimming costume to the beach.",
+        "exampleTr": "Plaja mayonu getirmeyi unutma."
+      }
+    ]
+  },
+  {
+    "id": "w_cough",
+    "headword": "cough",
+    "extraMeanings": [
+      {
+        "tr": "öksürmek (fiil)",
+        "en": "to force air out of your lungs suddenly with a noise",
+        "exampleEn": "The smoke made her cough.",
+        "exampleTr": "Duman onu öksürttü."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "w_despicable",
+    "headword": "despicable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈspɪkəbl/",
+    "meanings": [
+      {
+        "tr": "aşağılık, alçak",
+        "en": "very unpleasant or evil; deserving contempt",
+        "exampleEn": "Stealing from the elderly is a despicable act.",
+        "exampleTr": "Yaşlılardan çalmak aşağılık bir davranıştır."
+      }
+    ],
+    "synonyms": [
+      "contemptible",
+      "vile",
+      "detestable"
+    ],
+    "antonyms": [
+      "admirable",
+      "noble"
+    ]
+  },
+  {
+    "id": "w_despite",
+    "headword": "despite",
+    "pos": "prep",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈspaɪt/",
+    "meanings": [
+      {
+        "tr": "rağmen, karşın",
+        "en": "without being affected by; in spite of",
+        "exampleEn": "Despite the rain, they continued the match.",
+        "exampleTr": "Yağmura rağmen maça devam ettiler."
+      }
+    ],
+    "synonyms": [
+      "notwithstanding",
+      "regardless of"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_despotic",
+    "headword": "despotic",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈspɒtɪk/",
+    "meanings": [
+      {
+        "tr": "despotça, zorba",
+        "en": "using power in a cruel and unfair way; tyrannical",
+        "exampleEn": "The country suffered under a despotic ruler for decades.",
+        "exampleTr": "Ülke onlarca yıl zorba bir yöneticinin altında acı çekti."
+      }
+    ],
+    "synonyms": [
+      "tyrannical",
+      "authoritarian",
+      "oppressive"
+    ],
+    "antonyms": [
+      "democratic",
+      "liberal"
+    ]
+  },
+  {
+    "id": "w_destabilize",
+    "headword": "destabilize",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/diːˈsteɪbəlaɪz/",
+    "meanings": [
+      {
+        "tr": "istikrarsızlaştırmak, dengesini bozmak",
+        "en": "to make a system, country, or situation less stable",
+        "exampleEn": "The scandal threatened to destabilize the entire government.",
+        "exampleTr": "Skandal tüm hükümeti istikrarsızlaştırmakla tehdit etti."
+      }
+    ],
+    "synonyms": [
+      "undermine",
+      "unsettle",
+      "disrupt"
+    ],
+    "antonyms": [
+      "stabilize",
+      "strengthen"
+    ]
+  },
+  {
+    "id": "w_destitution",
+    "headword": "destitution",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdestɪˈtjuːʃn/",
+    "meanings": [
+      {
+        "tr": "yoksulluk, sefalet",
+        "en": "the state of being extremely poor and lacking basic necessities",
+        "exampleEn": "The war left thousands of families in complete destitution.",
+        "exampleTr": "Savaş binlerce aileyi tam bir sefalet içinde bıraktı."
+      }
+    ],
+    "synonyms": [
+      "poverty",
+      "penury",
+      "indigence"
+    ],
+    "antonyms": [
+      "wealth",
+      "affluence"
+    ]
+  },
+  {
+    "id": "w_destroyer",
+    "headword": "destroyer",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈstrɔɪə/",
+    "meanings": [
+      {
+        "tr": "muhrip (savaş gemisi)",
+        "en": "a small, fast warship",
+        "exampleEn": "The navy deployed a destroyer to patrol the coast.",
+        "exampleTr": "Donanma, kıyıyı devriye gezmesi için bir muhrip gönderdi."
+      },
+      {
+        "tr": "yok edici, tahrip eden kimse/şey",
+        "en": "a person or thing that destroys something",
+        "exampleEn": "He was seen as a destroyer of traditions.",
+        "exampleTr": "O, geleneklerin yok edicisi olarak görülüyordu."
+      }
+    ],
+    "synonyms": [
+      "warship"
+    ],
+    "antonyms": [
+      "creator",
+      "builder"
+    ]
+  },
+  {
+    "id": "w_detachable",
+    "headword": "detachable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈtætʃəbl/",
+    "meanings": [
+      {
+        "tr": "çıkarılabilir, sökülebilir",
+        "en": "able to be removed and put back",
+        "exampleEn": "The jacket has a detachable hood.",
+        "exampleTr": "Ceketin çıkarılabilir bir kapüşonu var."
+      }
+    ],
+    "synonyms": [
+      "removable",
+      "separable"
+    ],
+    "antonyms": [
+      "fixed",
+      "attached"
+    ]
+  },
+  {
+    "id": "w_detainee",
+    "headword": "detainee",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdiːteɪˈniː/",
+    "meanings": [
+      {
+        "tr": "tutuklu, göz altındaki kişi",
+        "en": "a person who is kept in prison, usually for political reasons",
+        "exampleEn": "The detainees were held without trial for months.",
+        "exampleTr": "Tutuklular aylarca yargılanmadan alıkonuldu."
+      }
+    ],
+    "synonyms": [
+      "prisoner",
+      "captive"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_deterrence",
+    "headword": "deterrence",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈterəns/",
+    "meanings": [
+      {
+        "tr": "caydırma, caydırıcılık",
+        "en": "the act of discouraging an action by instilling fear of the consequences",
+        "exampleEn": "Nuclear weapons are often justified as a form of deterrence.",
+        "exampleTr": "Nükleer silahlar sıklıkla bir caydırıcılık biçimi olarak gerekçelendirilir."
+      }
+    ],
+    "synonyms": [
+      "prevention",
+      "discouragement"
+    ],
+    "antonyms": [
+      "encouragement",
+      "incentive"
+    ]
+  },
+  {
+    "id": "w_detestable",
+    "headword": "detestable",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈtestəbl/",
+    "meanings": [
+      {
+        "tr": "iğrenç, nefret uyandıran",
+        "en": "deserving to be strongly disliked; hateful",
+        "exampleEn": "His detestable behavior cost him all his friends.",
+        "exampleTr": "İğrenç davranışı ona tüm arkadaşlarına mal oldu."
+      }
+    ],
+    "synonyms": [
+      "despicable",
+      "abhorrent",
+      "loathsome"
+    ],
+    "antonyms": [
+      "admirable",
+      "lovable"
+    ]
+  },
+  {
+    "id": "w_detractor",
+    "headword": "detractor",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈtræktə/",
+    "meanings": [
+      {
+        "tr": "eleştiren kişi, karalayan kimse",
+        "en": "a person who criticizes something or someone",
+        "exampleEn": "Even his detractors admit that he is a talented leader.",
+        "exampleTr": "Onu karalayanlar bile yetenekli bir lider olduğunu kabul ediyor."
+      }
+    ],
+    "synonyms": [
+      "critic",
+      "disparager"
+    ],
+    "antonyms": [
+      "supporter",
+      "admirer"
+    ]
+  },
+  {
+    "id": "w_deviation",
+    "headword": "deviation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdiːviˈeɪʃn/",
+    "meanings": [
+      {
+        "tr": "sapma, ayrılma",
+        "en": "a difference from what is usual or expected",
+        "exampleEn": "Any deviation from the plan must be reported immediately.",
+        "exampleTr": "Plandan herhangi bir sapma derhal bildirilmelidir."
+      }
+    ],
+    "synonyms": [
+      "divergence",
+      "departure",
+      "variation"
+    ],
+    "antonyms": [
+      "conformity",
+      "adherence"
+    ]
+  },
+  {
+    "id": "w_diadem",
+    "headword": "diadem",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdaɪədem/",
+    "meanings": [
+      {
+        "tr": "taç, mücevherli taç",
+        "en": "a jewelled crown worn as a symbol of royalty",
+        "exampleEn": "The queen wore a golden diadem at the ceremony.",
+        "exampleTr": "Kraliçe törende altın bir taç takıyordu."
+      }
+    ],
+    "synonyms": [
+      "crown",
+      "tiara",
+      "coronet"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_diarrhoea",
+    "headword": "diarrhoea",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdaɪəˈrɪə/",
+    "meanings": [
+      {
+        "tr": "ishal",
+        "en": "an illness in which waste from the body is watery and frequent",
+        "exampleEn": "He got diarrhoea after drinking the unclean water.",
+        "exampleTr": "Temiz olmayan suyu içtikten sonra ishal oldu."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "constipation"
+    ]
+  },
+  {
+    "id": "w_dictatorial",
+    "headword": "dictatorial",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɪktəˈtɔːriəl/",
+    "meanings": [
+      {
+        "tr": "diktatörce, buyurgan",
+        "en": "using power in a controlling and unfair way; like a dictator",
+        "exampleEn": "Her dictatorial management style upset the whole team.",
+        "exampleTr": "Buyurgan yönetim tarzı tüm ekibi rahatsız etti."
+      }
+    ],
+    "synonyms": [
+      "authoritarian",
+      "despotic",
+      "tyrannical"
+    ],
+    "antonyms": [
+      "democratic",
+      "lenient"
+    ]
+  },
+  {
+    "id": "w_diction",
+    "headword": "diction",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdɪkʃn/",
+    "meanings": [
+      {
+        "tr": "diksiyon, sözcük seçimi ve söyleyiş",
+        "en": "the way in which someone pronounces words or the choice of words used",
+        "exampleEn": "The actor was praised for his clear diction.",
+        "exampleTr": "Oyuncu net diksiyonu nedeniyle övüldü."
+      }
+    ],
+    "synonyms": [
+      "enunciation",
+      "articulation",
+      "wording"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_digging",
+    "headword": "digging",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdɪɡɪŋ/",
+    "meanings": [
+      {
+        "tr": "kazma, kazı işi",
+        "en": "the activity of making a hole in the ground or removing earth",
+        "exampleEn": "The digging for the new foundation took several days.",
+        "exampleTr": "Yeni temel için kazı işi birkaç gün sürdü."
+      }
+    ],
+    "synonyms": [
+      "excavation",
+      "burrowing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_dignitary",
+    "headword": "dignitary",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdɪɡnɪtəri/",
+    "meanings": [
+      {
+        "tr": "önemli kişi, ileri gelen",
+        "en": "a person who holds a high rank or important position",
+        "exampleEn": "Several foreign dignitaries attended the state banquet.",
+        "exampleTr": "Birçok yabancı ileri gelen devlet ziyafetine katıldı."
+      }
+    ],
+    "synonyms": [
+      "official",
+      "notable",
+      "VIP"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_digress",
+    "headword": "digress",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/daɪˈɡres/",
+    "meanings": [
+      {
+        "tr": "konudan sapmak, konu dışına çıkmak",
+        "en": "to move away from the main subject in speaking or writing",
+        "exampleEn": "Let me not digress and return to the main point.",
+        "exampleTr": "Konudan sapmayayım ve ana noktaya döneyim."
+      }
+    ],
+    "synonyms": [
+      "deviate",
+      "stray",
+      "ramble"
+    ],
+    "antonyms": [
+      "focus"
+    ]
+  },
+  {
+    "id": "w_dilapidation",
+    "headword": "dilapidation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˌlæpɪˈdeɪʃn/",
+    "meanings": [
+      {
+        "tr": "harabe hali, bakımsızlık",
+        "en": "the state of being in bad condition due to age or neglect",
+        "exampleEn": "The old mansion had fallen into a state of dilapidation.",
+        "exampleTr": "Eski konak harabe bir hale gelmişti."
+      }
+    ],
+    "synonyms": [
+      "disrepair",
+      "decay",
+      "ruin"
+    ],
+    "antonyms": [
+      "restoration",
+      "repair"
+    ]
+  },
+  {
+    "id": "w_diluted",
+    "headword": "diluted",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/daɪˈluːtɪd/",
+    "meanings": [
+      {
+        "tr": "seyreltilmiş, sulandırılmış",
+        "en": "made weaker or thinner by adding water or another liquid",
+        "exampleEn": "The juice was too diluted and had almost no flavor.",
+        "exampleTr": "Meyve suyu fazla sulandırılmıştı ve neredeyse hiç tadı yoktu."
+      },
+      {
+        "tr": "zayıflatılmış, etkisi azaltılmış",
+        "en": "made weaker in strength or effect",
+        "exampleEn": "The final policy was a diluted version of the original proposal.",
+        "exampleTr": "Nihai politika, ilk önerinin zayıflatılmış bir versiyonuydu."
+      }
+    ],
+    "synonyms": [
+      "watered-down",
+      "weakened"
+    ],
+    "antonyms": [
+      "concentrated",
+      "strong"
+    ]
+  },
+  {
+    "id": "w_dimensional",
+    "headword": "dimensional",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/daɪˈmenʃənl/",
+    "meanings": [
+      {
+        "tr": "boyutlu, boyuta ilişkin",
+        "en": "relating to dimensions or measurements in space",
+        "exampleEn": "The software creates a three-dimensional model of the building.",
+        "exampleTr": "Yazılım, binanın üç boyutlu bir modelini oluşturuyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_diminishment",
+    "headword": "diminishment",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈmɪnɪʃmənt/",
+    "meanings": [
+      {
+        "tr": "azalma, küçülme",
+        "en": "the process of becoming or being made smaller or less",
+        "exampleEn": "There was a steady diminishment of his influence over the years.",
+        "exampleTr": "Yıllar içinde etkisinde istikrarlı bir azalma oldu."
+      }
+    ],
+    "synonyms": [
+      "reduction",
+      "decrease",
+      "decline"
+    ],
+    "antonyms": [
+      "increase",
+      "growth"
+    ]
+  },
+  {
+    "id": "w_dimness",
+    "headword": "dimness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdɪmnəs/",
+    "meanings": [
+      {
+        "tr": "loşluk, donukluk",
+        "en": "the state of being dark or not bright",
+        "exampleEn": "My eyes slowly adjusted to the dimness of the cellar.",
+        "exampleTr": "Gözlerim yavaşça mahzenin loşluğuna alıştı."
+      }
+    ],
+    "synonyms": [
+      "darkness",
+      "gloom"
+    ],
+    "antonyms": [
+      "brightness"
+    ]
+  },
+  {
+    "id": "w_dine_in",
+    "headword": "dine-in",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdaɪn ɪn/",
+    "meanings": [
+      {
+        "tr": "restoranda yenilen, mekânda servis",
+        "en": "relating to eating a meal at the restaurant rather than taking it away",
+        "exampleEn": "The cafe offers both dine-in and takeaway options.",
+        "exampleTr": "Kafe hem mekânda servis hem de paket seçenekleri sunuyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "takeaway",
+      "takeout"
+    ]
+  },
+  {
+    "id": "w_diner",
+    "headword": "diner",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdaɪnə/",
+    "meanings": [
+      {
+        "tr": "yemek yiyen kişi, müşteri",
+        "en": "a person who is eating a meal, especially in a restaurant",
+        "exampleEn": "The diners complained about the slow service.",
+        "exampleTr": "Yemek yiyen müşteriler yavaş servisten şikayet etti."
+      },
+      {
+        "tr": "küçük lokanta (özellikle ABD)",
+        "en": "a small, informal restaurant serving simple meals",
+        "exampleEn": "We stopped at a roadside diner for breakfast.",
+        "exampleTr": "Kahvaltı için yol kenarındaki küçük bir lokantada durduk."
+      }
+    ],
+    "synonyms": [
+      "eatery",
+      "restaurant"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_direct_route",
+    "headword": "direct route",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/dəˈrekt ruːt/",
+    "meanings": [
+      {
+        "tr": "doğrudan güzergah, en kısa yol",
+        "en": "the shortest or most direct way to a place, without detours",
+        "exampleEn": "Taking the direct route, we reached the city in two hours.",
+        "exampleTr": "Doğrudan güzergahı kullanarak şehre iki saatte ulaştık."
+      }
+    ],
+    "synonyms": [
+      "shortcut"
+    ],
+    "antonyms": [
+      "detour"
+    ]
+  },
+  {
+    "id": "w_directionless",
+    "headword": "directionless",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dəˈrekʃnləs/",
+    "meanings": [
+      {
+        "tr": "yönsüz, hedefsiz",
+        "en": "having no aim, purpose, or clear plan",
+        "exampleEn": "After leaving his job, he felt completely directionless.",
+        "exampleTr": "İşinden ayrıldıktan sonra kendini tamamen hedefsiz hissetti."
+      }
+    ],
+    "synonyms": [
+      "aimless",
+      "purposeless"
+    ],
+    "antonyms": [
+      "focused",
+      "purposeful"
+    ]
+  },
+  {
+    "id": "w_dirtiness",
+    "headword": "dirtiness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdɜːtinəs/",
+    "meanings": [
+      {
+        "tr": "kirlilik, pislik",
+        "en": "the state of being dirty or not clean",
+        "exampleEn": "The dirtiness of the kitchen shocked the inspector.",
+        "exampleTr": "Mutfağın kirliliği müfettişi şok etti."
+      }
+    ],
+    "synonyms": [
+      "filthiness",
+      "griminess"
+    ],
+    "antonyms": [
+      "cleanliness"
+    ]
+  },
+  {
+    "id": "w_disadvantageous",
+    "headword": "disadvantageous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɪsædvənˈteɪdʒəs/",
+    "meanings": [
+      {
+        "tr": "dezavantajlı, elverişsiz",
+        "en": "causing a disadvantage; unfavourable",
+        "exampleEn": "The new terms were disadvantageous to small businesses.",
+        "exampleTr": "Yeni şartlar küçük işletmeler için dezavantajlıydı."
+      }
+    ],
+    "synonyms": [
+      "unfavourable",
+      "detrimental"
+    ],
+    "antonyms": [
+      "advantageous",
+      "favourable"
+    ]
+  },
+  {
+    "id": "w_disallowed",
+    "headword": "disallowed",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɪsəˈlaʊd/",
+    "meanings": [
+      {
+        "tr": "izin verilmedi, geçersiz sayıldı",
+        "en": "refused to accept as valid; officially not allowed",
+        "exampleEn": "The goal was disallowed because the player was offside.",
+        "exampleTr": "Oyuncu ofsayt olduğu için gol geçersiz sayıldı."
+      }
+    ],
+    "synonyms": [
+      "rejected",
+      "prohibited",
+      "banned"
+    ],
+    "antonyms": [
+      "allowed",
+      "permitted"
+    ]
+  },
+  {
+    "id": "w_disavowal",
+    "headword": "disavowal",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɪsəˈvaʊəl/",
+    "meanings": [
+      {
+        "tr": "reddetme, inkar, tanımama",
+        "en": "a statement that you have no knowledge of or responsibility for something",
+        "exampleEn": "The party issued a public disavowal of the extremist group.",
+        "exampleTr": "Parti, aşırılıkçı grubu kamuoyu önünde reddettiğini açıkladı."
+      }
+    ],
+    "synonyms": [
+      "denial",
+      "repudiation",
+      "rejection"
+    ],
+    "antonyms": [
+      "acknowledgment",
+      "avowal"
+    ]
+  },
+  {
+    "id": "w_disband",
+    "headword": "disband",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈbænd/",
+    "meanings": [
+      {
+        "tr": "dağıtmak, dağılmak",
+        "en": "to stop existing as a group, or to cause a group to stop existing",
+        "exampleEn": "The committee decided to disband after the project ended.",
+        "exampleTr": "Komite proje bittikten sonra dağılmaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "dissolve",
+      "break up"
+    ],
+    "antonyms": [
+      "form",
+      "assemble"
+    ]
+  },
+  {
+    "id": "w_discard",
+    "headword": "discard",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈkɑːd/",
+    "meanings": [
+      {
+        "tr": "atmak, elden çıkarmak",
+        "en": "to throw away or get rid of something no longer wanted",
+        "exampleEn": "Please discard any food that has passed its expiry date.",
+        "exampleTr": "Lütfen son kullanma tarihi geçmiş her yiyeceği atın."
+      }
+    ],
+    "synonyms": [
+      "dispose of",
+      "throw away",
+      "dump"
+    ],
+    "antonyms": [
+      "keep",
+      "retain"
+    ]
+  },
+  {
+    "id": "w_discernment",
+    "headword": "discernment",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈsɜːnmənt/",
+    "meanings": [
+      {
+        "tr": "sağduyu, iyi yargı, ayırt etme yetisi",
+        "en": "the ability to judge well and understand things clearly",
+        "exampleEn": "She chose the paintings with great discernment.",
+        "exampleTr": "Tabloları büyük bir sağduyuyla seçti."
+      }
+    ],
+    "synonyms": [
+      "insight",
+      "judgment",
+      "perception"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_discordant",
+    "headword": "discordant",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈkɔːdnt/",
+    "meanings": [
+      {
+        "tr": "uyumsuz, ahenksiz",
+        "en": "not in agreement or harmony; harsh in sound",
+        "exampleEn": "The discordant notes made the music unpleasant to hear.",
+        "exampleTr": "Ahenksiz notalar müziği dinlemeyi rahatsız edici hale getirdi."
+      }
+    ],
+    "synonyms": [
+      "dissonant",
+      "clashing",
+      "conflicting"
+    ],
+    "antonyms": [
+      "harmonious",
+      "concordant"
+    ]
+  },
+  {
+    "id": "w_discrepancy",
+    "headword": "discrepancy",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈkrepənsi/",
+    "meanings": [
+      {
+        "tr": "tutarsızlık, uyuşmazlık",
+        "en": "a difference between two things that should be the same",
+        "exampleEn": "There is a discrepancy between the receipt and the bank statement.",
+        "exampleTr": "Makbuz ile banka ekstresi arasında bir tutarsızlık var."
+      }
+    ],
+    "synonyms": [
+      "inconsistency",
+      "disparity",
+      "difference"
+    ],
+    "antonyms": [
+      "agreement",
+      "consistency"
+    ]
+  },
+  {
+    "id": "w_discretion",
+    "headword": "discretion",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈskreʃn/",
+    "meanings": [
+      {
+        "tr": "takdir yetkisi, karar verme özgürlüğü",
+        "en": "the freedom to decide what should be done in a situation",
+        "exampleEn": "The decision is left to the manager's discretion.",
+        "exampleTr": "Karar yöneticinin takdirine bırakılmıştır."
+      },
+      {
+        "tr": "sağduyu, ihtiyat",
+        "en": "the quality of behaving in a careful and sensible way",
+        "exampleEn": "Please handle this matter with discretion.",
+        "exampleTr": "Lütfen bu meseleyi ihtiyatla ele alın."
+      }
+    ],
+    "synonyms": [
+      "prudence",
+      "judgment",
+      "tact"
+    ],
+    "antonyms": [
+      "indiscretion",
+      "recklessness"
+    ]
+  },
+  {
+    "id": "w_disdainful",
+    "headword": "disdainful",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈdeɪnfl/",
+    "meanings": [
+      {
+        "tr": "küçümseyen, hor gören",
+        "en": "showing that you think someone or something is unworthy of respect",
+        "exampleEn": "She gave a disdainful look at the cheap gift.",
+        "exampleTr": "Ucuz hediyeye küçümseyen bir bakış attı."
+      }
+    ],
+    "synonyms": [
+      "scornful",
+      "contemptuous"
+    ],
+    "antonyms": [
+      "respectful",
+      "admiring"
+    ]
+  },
+  {
+    "id": "w_disdainfully",
+    "headword": "disdainfully",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈdeɪnfəli/",
+    "meanings": [
+      {
+        "tr": "küçümseyerek, hor görerek",
+        "en": "in a way that shows contempt or lack of respect",
+        "exampleEn": "He disdainfully rejected their offer of help.",
+        "exampleTr": "Yardım tekliflerini küçümseyerek reddetti."
+      }
+    ],
+    "synonyms": [
+      "scornfully",
+      "contemptuously"
+    ],
+    "antonyms": [
+      "respectfully"
+    ]
+  },
+  {
+    "id": "w_disentangle",
+    "headword": "disentangle",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɪsɪnˈtæŋɡl/",
+    "meanings": [
+      {
+        "tr": "çözmek, ayıklamak, dolaşıklığı gidermek",
+        "en": "to separate things that have become twisted or confused",
+        "exampleEn": "It took hours to disentangle the knotted wires.",
+        "exampleTr": "Düğümlenmiş kabloları çözmek saatler aldı."
+      }
+    ],
+    "synonyms": [
+      "untangle",
+      "unravel",
+      "extricate"
+    ],
+    "antonyms": [
+      "tangle",
+      "entangle"
+    ]
+  },
+  {
+    "id": "w_disfavor",
+    "headword": "disfavor",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈfeɪvə/",
+    "meanings": [
+      {
+        "tr": "gözden düşme, hoşnutsuzluk",
+        "en": "disapproval or the state of being disliked",
+        "exampleEn": "The old policy gradually fell into disfavor.",
+        "exampleTr": "Eski politika giderek gözden düştü."
+      }
+    ],
+    "synonyms": [
+      "disapproval",
+      "disgrace"
+    ],
+    "antonyms": [
+      "favor",
+      "approval"
+    ]
+  },
+  {
+    "id": "w_disgruntled",
+    "headword": "disgruntled",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈɡrʌntld/",
+    "meanings": [
+      {
+        "tr": "hoşnutsuz, kırgın, huysuz",
+        "en": "annoyed or dissatisfied, especially about being treated unfairly",
+        "exampleEn": "A disgruntled employee filed a complaint against the company.",
+        "exampleTr": "Hoşnutsuz bir çalışan şirket hakkında şikayette bulundu."
+      }
+    ],
+    "synonyms": [
+      "dissatisfied",
+      "discontented",
+      "aggrieved"
+    ],
+    "antonyms": [
+      "satisfied",
+      "contented"
+    ]
+  },
+  {
+    "id": "w_disgust",
+    "headword": "disgust",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈɡʌst/",
+    "meanings": [
+      {
+        "tr": "tiksinti, iğrenme",
+        "en": "a strong feeling of dislike or disapproval",
+        "exampleEn": "She turned away in disgust at the sight of the rotten food.",
+        "exampleTr": "Çürümüş yemeği görünce tiksintiyle başını çevirdi."
+      },
+      {
+        "tr": "tiksindirmek, iğrendirmek",
+        "en": "to make someone feel strong dislike or nausea",
+        "exampleEn": "The violence in the film disgusted many viewers.",
+        "exampleTr": "Filmdeki şiddet birçok izleyiciyi tiksindirdi."
+      }
+    ],
+    "synonyms": [
+      "revulsion",
+      "repugnance",
+      "distaste"
+    ],
+    "antonyms": [
+      "delight",
+      "admiration"
+    ]
+  },
+  {
+    "id": "w_dishonorably",
+    "headword": "dishonorably",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪsˈɒnərəbli/",
+    "meanings": [
+      {
+        "tr": "onursuzca, şerefsizce",
+        "en": "in a way that brings shame or lacks honesty and honor",
+        "exampleEn": "He was dishonorably discharged from the army.",
+        "exampleTr": "Ordudan onursuzca terhis edildi."
+      }
+    ],
+    "synonyms": [
+      "shamefully",
+      "disgracefully"
+    ],
+    "antonyms": [
+      "honorably",
+      "nobly"
+    ]
+  }
+]

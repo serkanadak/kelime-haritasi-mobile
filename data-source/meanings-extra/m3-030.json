@@ -1,0 +1,464 @@
+[
+  {
+    "id": "w_secure",
+    "headword": "secure",
+    "extraMeanings": [
+      {
+        "tr": "sağlama almak, elde etmek (fiil)",
+        "en": "to succeed in obtaining something, especially with effort",
+        "exampleEn": "She managed to secure a place at the university.",
+        "exampleTr": "Üniversitede bir yer elde etmeyi başardı."
+      },
+      {
+        "tr": "sabitlemek, sıkıca bağlamak (fiil)",
+        "en": "to fasten something firmly",
+        "exampleEn": "He secured the boat to the dock with a rope.",
+        "exampleTr": "Tekneyi bir iple iskeleye sabitledi."
+      }
+    ]
+  },
+  {
+    "id": "w_security",
+    "headword": "security",
+    "extraMeanings": [
+      {
+        "tr": "güvenlik görevlileri/personeli",
+        "en": "the people or department that protect a building or organization",
+        "exampleEn": "Call security if you see anyone suspicious.",
+        "exampleTr": "Şüpheli birini görürseniz güvenliği arayın."
+      }
+    ]
+  },
+  {
+    "id": "w_select",
+    "headword": "select",
+    "extraMeanings": [
+      {
+        "tr": "seçmek (fiil)",
+        "en": "to choose something from a group",
+        "exampleEn": "Please select an option from the menu.",
+        "exampleTr": "Lütfen menüden bir seçenek seçin."
+      }
+    ]
+  },
+  {
+    "id": "w_series",
+    "headword": "series",
+    "extraMeanings": [
+      {
+        "tr": "dizi (televizyon), sezon",
+        "en": "a set of television or radio programmes with the same characters or theme",
+        "exampleEn": "They are filming a new comedy series.",
+        "exampleTr": "Yeni bir komedi dizisi çekiyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w_serve",
+    "headword": "server",
+    "extraMeanings": [
+      {
+        "tr": "servis kaşığı/aleti",
+        "en": "a utensil used for serving food",
+        "exampleEn": "She used a large server to dish out the salad.",
+        "exampleTr": "Salatayı dağıtmak için büyük bir servis kaşığı kullandı."
+      }
+    ]
+  },
+  {
+    "id": "w_service",
+    "headword": "service",
+    "extraMeanings": [
+      {
+        "tr": "(araç) bakım, servise götürme",
+        "en": "a routine inspection and maintenance of a vehicle or machine",
+        "exampleEn": "The car is due for its annual service next week.",
+        "exampleTr": "Araba gelecek hafta yıllık bakımına gidecek."
+      },
+      {
+        "tr": "ibadet, ayin",
+        "en": "a religious ceremony",
+        "exampleEn": "The church service lasted about an hour.",
+        "exampleTr": "Kilise ayini yaklaşık bir saat sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_session",
+    "headword": "session",
+    "extraMeanings": [
+      {
+        "tr": "(meclis vb.) oturum, celse",
+        "en": "a period during which a court, parliament or official body meets",
+        "exampleEn": "Parliament is now in session.",
+        "exampleTr": "Meclis şu anda oturum halinde."
+      }
+    ]
+  },
+  {
+    "id": "w_setting",
+    "headword": "setting",
+    "extraMeanings": [
+      {
+        "tr": "(hikaye/film) geçtiği yer ve zaman, mekan",
+        "en": "the place and time in which the events of a story take place",
+        "exampleEn": "The novel's setting is nineteenth-century Paris.",
+        "exampleTr": "Romanın geçtiği yer on dokuzuncu yüzyıl Paris'idir."
+      }
+    ]
+  },
+  {
+    "id": "w_settle",
+    "headword": "settle",
+    "extraMeanings": [
+      {
+        "tr": "(hesap/fatura) ödemek, kapatmak",
+        "en": "to pay money that is owed",
+        "exampleEn": "He settled the bill before leaving the restaurant.",
+        "exampleTr": "Restorandan ayrılmadan önce hesabı ödedi."
+      },
+      {
+        "tr": "rahatça oturmak, kurulmak",
+        "en": "to sit or lie down comfortably",
+        "exampleEn": "She settled into the armchair with a book.",
+        "exampleTr": "Bir kitapla koltuğa rahatça kuruldu."
+      }
+    ]
+  },
+  {
+    "id": "w_settlement",
+    "headword": "settlement",
+    "extraMeanings": [
+      {
+        "tr": "(para) ödeme, tazminat",
+        "en": "an amount of money paid to end a dispute or claim",
+        "exampleEn": "They reached a financial settlement out of court.",
+        "exampleTr": "Mahkeme dışında maddi bir tazminat üzerinde anlaştılar."
+      }
+    ]
+  },
+  {
+    "id": "w_sex",
+    "headword": "sex",
+    "extraMeanings": [
+      {
+        "tr": "cinsel ilişki, seks",
+        "en": "physical activity between people involving their sexual organs",
+        "exampleEn": "The film has scenes involving sex and violence.",
+        "exampleTr": "Filmde seks ve şiddet içeren sahneler var."
+      }
+    ]
+  },
+  {
+    "id": "w_shade",
+    "headword": "shades",
+    "extraMeanings": [
+      {
+        "tr": "güneş gözlüğü",
+        "en": "sunglasses (informal)",
+        "exampleEn": "He put on his shades before stepping onto the beach.",
+        "exampleTr": "Plaja çıkmadan önce güneş gözlüğünü taktı."
+      }
+    ]
+  },
+  {
+    "id": "w_shame",
+    "headword": "shame",
+    "extraMeanings": [
+      {
+        "tr": "utandırmak, mahcup etmek (fiil)",
+        "en": "to make someone feel ashamed",
+        "exampleEn": "He shamed his family with his behaviour.",
+        "exampleTr": "Davranışıyla ailesini utandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_share",
+    "headword": "share",
+    "extraMeanings": [
+      {
+        "tr": "paylaşmak (fiil)",
+        "en": "to have or use something with others",
+        "exampleEn": "We share an office at work.",
+        "exampleTr": "İş yerinde bir ofisi paylaşıyoruz."
+      },
+      {
+        "tr": "pay, hisse (genel)",
+        "en": "a part of something that is divided among people",
+        "exampleEn": "Everyone must do their share of the housework.",
+        "exampleTr": "Herkes ev işlerinden kendi payına düşeni yapmalı."
+      }
+    ]
+  },
+  {
+    "id": "w_sharp",
+    "headword": "sharp",
+    "extraMeanings": [
+      {
+        "tr": "zeki, keskin zekalı",
+        "en": "quick to notice or understand things",
+        "exampleEn": "She has a sharp mind and misses nothing.",
+        "exampleTr": "Keskin bir zekası var ve hiçbir şeyi kaçırmaz."
+      },
+      {
+        "tr": "tam (saat için), tam vaktinde",
+        "en": "exactly (used after a time)",
+        "exampleEn": "The meeting starts at nine o'clock sharp.",
+        "exampleTr": "Toplantı tam saat dokuzda başlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_sheet",
+    "headword": "sheet",
+    "extraMeanings": [
+      {
+        "tr": "kağıt yaprağı, sayfa",
+        "en": "a rectangular piece of paper",
+        "exampleEn": "Write your name on a blank sheet of paper.",
+        "exampleTr": "Adını boş bir kağıt yaprağına yaz."
+      }
+    ]
+  },
+  {
+    "id": "w_shelter",
+    "headword": "shelter",
+    "extraMeanings": [
+      {
+        "tr": "korumak, barındırmak; sığınmak (fiil)",
+        "en": "to protect or take refuge from danger or bad weather",
+        "exampleEn": "They sheltered under a tree during the storm.",
+        "exampleTr": "Fırtına sırasında bir ağacın altına sığındılar."
+      }
+    ]
+  },
+  {
+    "id": "w_signal",
+    "headword": "signal",
+    "extraMeanings": [
+      {
+        "tr": "işaret vermek, belirtmek (fiil)",
+        "en": "to make a movement or sound to give information or an instruction",
+        "exampleEn": "The driver signalled before turning left.",
+        "exampleTr": "Sürücü sola dönmeden önce işaret verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_sitting",
+    "headword": "sitting",
+    "extraMeanings": [
+      {
+        "tr": "tek seferde/oturuşta",
+        "en": "a period of time spent doing one activity continuously",
+        "exampleEn": "She read the whole book in one sitting.",
+        "exampleTr": "Bütün kitabı tek oturuşta okudu."
+      }
+    ]
+  },
+  {
+    "id": "w_skin",
+    "headword": "skin",
+    "extraMeanings": [
+      {
+        "tr": "kabuk (meyve/sebze)",
+        "en": "the outer covering of some fruits and vegetables",
+        "exampleEn": "You can eat the potato with its skin on.",
+        "exampleTr": "Patatesi kabuğuyla birlikte yiyebilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w_sleep",
+    "headword": "sleep",
+    "extraMeanings": [
+      {
+        "tr": "uyumak (fiil)",
+        "en": "to rest with your eyes closed and mind inactive",
+        "exampleEn": "I usually sleep for eight hours a night.",
+        "exampleTr": "Genellikle gecede sekiz saat uyurum."
+      }
+    ]
+  },
+  {
+    "id": "w_sleeve",
+    "headword": "sleeve",
+    "extraMeanings": [
+      {
+        "tr": "(plak/CD) kılıf, zarf",
+        "en": "a stiff paper or cardboard cover for a record or CD",
+        "exampleEn": "The album's sleeve had beautiful artwork.",
+        "exampleTr": "Albümün kılıfında güzel bir tasarım vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_slip",
+    "headword": "slip",
+    "extraMeanings": [
+      {
+        "tr": "kaymak, ayağı kaymak (fiil)",
+        "en": "to slide accidentally and lose one's balance",
+        "exampleEn": "She slipped on the wet floor and fell.",
+        "exampleTr": "Islak zeminde kaydı ve düştü."
+      },
+      {
+        "tr": "usulca/sessizce hareket etmek (fiil)",
+        "en": "to move somewhere quietly and quickly",
+        "exampleEn": "He slipped out of the room without a word.",
+        "exampleTr": "Tek kelime etmeden odadan usulca çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_slope",
+    "headword": "slope",
+    "extraMeanings": [
+      {
+        "tr": "eğimli olmak, meyilli olmak (fiil)",
+        "en": "to be at an angle rather than being level or vertical",
+        "exampleEn": "The garden slopes down towards the river.",
+        "exampleTr": "Bahçe nehre doğru eğimlidir."
+      }
+    ]
+  },
+  {
+    "id": "w_solid",
+    "headword": "solid",
+    "extraMeanings": [
+      {
+        "tr": "katı madde (isim)",
+        "en": "a substance that is firm and stable in shape, not liquid or gas",
+        "exampleEn": "Ice is water in its solid form.",
+        "exampleTr": "Buz, suyun katı halidir."
+      },
+      {
+        "tr": "som, saf (içi dolu, tek malzemeden)",
+        "en": "made completely of one material, with no hollow space inside",
+        "exampleEn": "The ring is made of solid gold.",
+        "exampleTr": "Yüzük som altından yapılmış."
+      }
+    ]
+  },
+  {
+    "id": "w_sort",
+    "headword": "sort",
+    "extraMeanings": [
+      {
+        "tr": "ayırmak, sınıflandırmak, düzenlemek (fiil)",
+        "en": "to arrange things into groups or a particular order",
+        "exampleEn": "She sorted the letters into two piles.",
+        "exampleTr": "Mektupları iki yığına ayırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_sour",
+    "headword": "sour",
+    "extraMeanings": [
+      {
+        "tr": "ekşimiş, bozulmuş (süt vb.)",
+        "en": "having an unpleasant taste or smell because it is no longer fresh",
+        "exampleEn": "The milk had gone sour in the heat.",
+        "exampleTr": "Süt sıcakta ekşimişti."
+      },
+      {
+        "tr": "asık suratlı, huysuz",
+        "en": "unfriendly or bad-tempered",
+        "exampleEn": "She gave me a sour look.",
+        "exampleTr": "Bana asık suratlı bir bakış attı."
+      }
+    ]
+  },
+  {
+    "id": "w_soul",
+    "headword": "soul",
+    "extraMeanings": [
+      {
+        "tr": "kimse, insan (tek bir kişi)",
+        "en": "a person (in expressions)",
+        "exampleEn": "There wasn't a single soul on the street.",
+        "exampleTr": "Sokakta tek bir kimse yoktu."
+      }
+    ]
+  },
+  {
+    "id": "w_spice",
+    "headword": "spice",
+    "extraMeanings": [
+      {
+        "tr": "heyecan/renk katmak (fiil, spice up)",
+        "en": "to make something more exciting or interesting",
+        "exampleEn": "They added some games to spice up the party.",
+        "exampleTr": "Partiye renk katmak için birkaç oyun eklediler."
+      }
+    ]
+  },
+  {
+    "id": "w_spirit",
+    "headword": "spirit",
+    "extraMeanings": [
+      {
+        "tr": "hayalet, ruh (doğaüstü)",
+        "en": "a supernatural being such as a ghost",
+        "exampleEn": "They believed an evil spirit haunted the house.",
+        "exampleTr": "Evde kötü bir ruhun dolaştığına inanıyorlardı."
+      },
+      {
+        "tr": "içki, sert alkollü içki (spirits)",
+        "en": "a strong alcoholic drink such as whisky or vodka",
+        "exampleEn": "The shop sells wine, beer and spirits.",
+        "exampleTr": "Dükkan şarap, bira ve sert içki satıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_sponge",
+    "headword": "sponge",
+    "extraMeanings": [
+      {
+        "tr": "pandispanya, sünger kek",
+        "en": "a light, soft cake",
+        "exampleEn": "She baked a lemon sponge for tea.",
+        "exampleTr": "Çay için limonlu pandispanya yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_sponsor",
+    "headword": "sponsor",
+    "extraMeanings": [
+      {
+        "tr": "sponsor olmak, desteklemek (fiil)",
+        "en": "to support a person, event or activity financially",
+        "exampleEn": "A local company sponsored the football team.",
+        "exampleTr": "Yerel bir şirket futbol takımına sponsor oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_signature",
+    "headword": "signature",
+    "extraMeanings": [
+      {
+        "tr": "kendine özgü, imza niteliğinde (sıfat gibi)",
+        "en": "a distinctive characteristic or product strongly associated with someone",
+        "exampleEn": "This dish is the chef's signature creation.",
+        "exampleTr": "Bu yemek şefin imza niteliğindeki eseridir."
+      }
+    ]
+  },
+  {
+    "id": "w_sponge2",
+    "headword": "sphere",
+    "extraMeanings": [
+      {
+        "tr": "alan, saha, çevre (mecazi)",
+        "en": "a particular area of activity, knowledge or influence",
+        "exampleEn": "She is well known in the sphere of politics.",
+        "exampleTr": "Siyaset alanında iyi tanınıyor."
+      }
+    ]
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "id": "w_overtake",
+    "headword": "overtake",
+    "extraMeanings": [
+      {
+        "tr": "gelip çatmak, aniden gelmek (kötü bir durum)",
+        "en": "(of something bad) to happen to someone suddenly",
+        "exampleEn": "A feeling of dread overtook her as she opened the letter.",
+        "exampleTr": "Mektubu açarken içini bir korku kapladı."
+      }
+    ]
+  },
+  {
+    "id": "w_overturn",
+    "headword": "overturn",
+    "extraMeanings": [
+      {
+        "tr": "devrilmek, alabora olmak",
+        "en": "to turn over or capsize",
+        "exampleEn": "The boat overturned in the rough sea.",
+        "exampleTr": "Tekne dalgalı denizde alabora oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_panel",
+    "headword": "panel",
+    "extraMeanings": [
+      {
+        "tr": "gösterge paneli, kontrol paneli",
+        "en": "a flat surface with controls or instruments on it",
+        "exampleEn": "The pilot checked the instruments on the control panel.",
+        "exampleTr": "Pilot kontrol panelindeki göstergeleri kontrol etti."
+      }
+    ]
+  },
+  {
+    "id": "w_pad",
+    "headword": "pad",
+    "extraMeanings": [
+      {
+        "tr": "yumuşak adımlarla yürümek, sessizce yürümek",
+        "en": "to walk softly and quietly",
+        "exampleEn": "The cat padded across the room without a sound.",
+        "exampleTr": "Kedi ses çıkarmadan odanın öbür ucuna yürüdü."
+      }
+    ]
+  },
+  {
+    "id": "w_particular",
+    "headword": "particular",
+    "extraMeanings": [
+      {
+        "tr": "titiz, müşkülpesent, zor beğenen",
+        "en": "very careful and demanding about details or standards",
+        "exampleEn": "She is very particular about how her coffee is made.",
+        "exampleTr": "Kahvesinin nasıl yapıldığı konusunda çok titizdir."
+      }
+    ]
+  },
+  {
+    "id": "w_patch",
+    "headword": "patch",
+    "extraMeanings": [
+      {
+        "tr": "yamamak, onarmak; (yazılım) düzeltme eki uygulamak",
+        "en": "to mend or repair, or fix software with a patch",
+        "exampleEn": "He patched the hole in his jeans.",
+        "exampleTr": "Kot pantolonundaki deliği yamadı."
+      },
+      {
+        "tr": "dönem, evre (zor/iyi bir süreç)",
+        "en": "a period of time, especially a difficult one",
+        "exampleEn": "They went through a rough patch in their marriage.",
+        "exampleTr": "Evliliklerinde zor bir dönem geçirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w_patent",
+    "headword": "patent",
+    "extraMeanings": [
+      {
+        "tr": "apaçık, aşikâr, besbelli",
+        "en": "obvious or clear",
+        "exampleEn": "His explanation was a patent lie.",
+        "exampleTr": "Açıklaması apaçık bir yalandı."
+      }
+    ]
+  },
+  {
+    "id": "w_patron",
+    "headword": "patron",
+    "extraMeanings": [
+      {
+        "tr": "müşteri, düzenli ziyaretçi (dükkân, restoran vb.)",
+        "en": "a customer of a shop, restaurant, or hotel",
+        "exampleEn": "The restaurant's regular patrons all know the owner by name.",
+        "exampleTr": "Restoranın düzenli müşterileri sahibini adıyla tanır."
+      }
+    ]
+  },
+  {
+    "id": "w_pave",
+    "headword": "pave",
+    "extraMeanings": [
+      {
+        "tr": "yol açmak, zemin hazırlamak (pave the way)",
+        "en": "to make something possible or easier to happen",
+        "exampleEn": "This discovery paved the way for further research.",
+        "exampleTr": "Bu keşif, daha ileri araştırmalara zemin hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w_paw",
+    "headword": "paw",
+    "extraMeanings": [
+      {
+        "tr": "pençeyle eşelemek; sarkıntılık etmek, ellemek",
+        "en": "to touch or scrape with a paw, or to touch someone in an unwanted way",
+        "exampleEn": "The dog pawed at the door, wanting to go out.",
+        "exampleTr": "Köpek dışarı çıkmak isteyerek kapıyı pençeledi."
+      }
+    ]
+  },
+  {
+    "id": "w_peak",
+    "headword": "peak",
+    "extraMeanings": [
+      {
+        "tr": "en yüksek seviyeye ulaşmak, zirve yapmak",
+        "en": "to reach the highest point or level",
+        "exampleEn": "Sales peaked in December and then declined.",
+        "exampleTr": "Satışlar aralıkta zirve yaptı, sonra düştü."
+      },
+      {
+        "tr": "en yoğun, doruk (zaman/dönem)",
+        "en": "at the highest or busiest level",
+        "exampleEn": "Traffic is heaviest during peak hours.",
+        "exampleTr": "Trafik en yoğun saatlerde çok ağırdır."
+      }
+    ]
+  },
+  {
+    "id": "w_peel",
+    "headword": "peel",
+    "extraMeanings": [
+      {
+        "tr": "soymak (kabuğunu); soyulmak, kabuk kabuk dökülmek",
+        "en": "to remove the skin, or to come off in strips",
+        "exampleEn": "She peeled an orange for the children.",
+        "exampleTr": "Çocuklar için bir portakal soydu."
+      }
+    ]
+  },
+  {
+    "id": "w_peep",
+    "headword": "peep",
+    "extraMeanings": [
+      {
+        "tr": "gizlice bakmak, dikizlemek",
+        "en": "to look quickly or secretly",
+        "exampleEn": "She peeped through the curtains to see who was outside.",
+        "exampleTr": "Dışarıda kimin olduğunu görmek için perdenin arasından baktı."
+      }
+    ]
+  },
+  {
+    "id": "w_peer",
+    "headword": "peer",
+    "extraMeanings": [
+      {
+        "tr": "dikkatle bakmak, gözlerini kısarak bakmak",
+        "en": "to look carefully or with difficulty",
+        "exampleEn": "He peered at the tiny print through his glasses.",
+        "exampleTr": "Gözlüğüyle küçük yazıya dikkatle baktı."
+      }
+    ]
+  },
+  {
+    "id": "w_peg",
+    "headword": "peg",
+    "extraMeanings": [
+      {
+        "tr": "sabitlemek, bağlamak (fiyat/değeri bir şeye)",
+        "en": "to fix or limit something at a particular level",
+        "exampleEn": "The currency is pegged to the US dollar.",
+        "exampleTr": "Para birimi ABD dolarına sabitlenmiştir."
+      }
+    ]
+  },
+  {
+    "id": "w_penetrate",
+    "headword": "penetrate",
+    "extraMeanings": [
+      {
+        "tr": "(pazara) girmek, sızmak; içine işlemek (anlaşılmak)",
+        "en": "to succeed in entering a market or organization",
+        "exampleEn": "The company struggled to penetrate the Asian market.",
+        "exampleTr": "Şirket Asya pazarına girmekte zorlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_perceive",
+    "headword": "perceive",
+    "extraMeanings": [
+      {
+        "tr": "bir şekilde görmek, addetmek, saymak",
+        "en": "to regard or think of someone or something in a particular way",
+        "exampleEn": "He is often perceived as arrogant by his colleagues.",
+        "exampleTr": "Meslektaşları onu genellikle kibirli olarak görür."
+      }
+    ]
+  },
+  {
+    "id": "w_perk",
+    "headword": "perk",
+    "extraMeanings": [
+      {
+        "tr": "canlanmak, neşelenmek (perk up)",
+        "en": "to become more cheerful or lively",
+        "exampleEn": "She perked up as soon as she heard the good news.",
+        "exampleTr": "İyi haberi duyar duymaz neşelendi."
+      }
+    ]
+  },
+  {
+    "id": "w_persist",
+    "headword": "persist",
+    "extraMeanings": [
+      {
+        "tr": "sürüp gitmek, varlığını sürdürmek",
+        "en": "to continue to exist or happen",
+        "exampleEn": "If the symptoms persist, you should see a doctor.",
+        "exampleTr": "Belirtiler sürerse bir doktora görünmelisiniz."
+      }
+    ]
+  },
+  {
+    "id": "w_petty",
+    "headword": "petty",
+    "extraMeanings": [
+      {
+        "tr": "küçük şeylere takılan, dar görüşlü, kıl",
+        "en": "caring too much about small, unimportant things",
+        "exampleEn": "Don't be so petty about who paid for lunch.",
+        "exampleTr": "Öğle yemeğini kimin ödediği konusunda bu kadar küçük olma."
+      }
+    ]
+  },
+  {
+    "id": "w_phase",
+    "headword": "phase",
+    "extraMeanings": [
+      {
+        "tr": "aşamalı olarak uygulamak/kaldırmak (phase in/out)",
+        "en": "to introduce or remove gradually in stages",
+        "exampleEn": "The government plans to phase out the old currency.",
+        "exampleTr": "Hükümet eski para birimini aşamalı olarak kaldırmayı planlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_pierce",
+    "headword": "pierce",
+    "extraMeanings": [
+      {
+        "tr": "(ses, ışık) yarıp geçmek, delip geçmek",
+        "en": "(of sound or light) to cut sharply through",
+        "exampleEn": "A scream pierced the silence of the night.",
+        "exampleTr": "Bir çığlık gecenin sessizliğini yardı."
+      }
+    ]
+  },
+  {
+    "id": "w_pillar",
+    "headword": "pillar",
+    "extraMeanings": [
+      {
+        "tr": "temel taşı, dayanak, sütun (mecazi)",
+        "en": "a person or thing that is an important supporting part of something",
+        "exampleEn": "She was a pillar of the local community.",
+        "exampleTr": "O, yerel toplumun bir dayanağıydı."
+      }
+    ]
+  },
+  {
+    "id": "w_pin",
+    "headword": "pin",
+    "extraMeanings": [
+      {
+        "tr": "iğnelemek, tutturmak; bir yere sıkıştırıp kımıldatmamak",
+        "en": "to fasten with a pin, or to hold someone firmly so they cannot move",
+        "exampleEn": "She pinned the notice to the board.",
+        "exampleTr": "Duyuruyu panoya iğneledi."
+      }
+    ]
+  },
+  {
+    "id": "w_pine",
+    "headword": "pine",
+    "extraMeanings": [
+      {
+        "tr": "özlem çekmek, hasretle içi gitmek (pine for)",
+        "en": "to feel a strong longing for someone or something",
+        "exampleEn": "He pined for his homeland after moving abroad.",
+        "exampleTr": "Yurt dışına taşındıktan sonra memleketinin hasretini çekti."
+      }
+    ]
+  },
+  {
+    "id": "w_pioneer",
+    "headword": "pioneer",
+    "extraMeanings": [
+      {
+        "tr": "öncülük etmek, ilk kez geliştirmek",
+        "en": "to be the first to develop or use something new",
+        "exampleEn": "The team pioneered a new surgical technique.",
+        "exampleTr": "Ekip yeni bir cerrahi tekniğe öncülük etti."
+      }
+    ]
+  },
+  {
+    "id": "w_pirate",
+    "headword": "pirate",
+    "extraMeanings": [
+      {
+        "tr": "korsan kopyasını yapmak, izinsiz çoğaltmak",
+        "en": "to illegally copy and sell a product",
+        "exampleEn": "The film was pirated and shared online before its release.",
+        "exampleTr": "Film vizyona girmeden önce korsan olarak çoğaltılıp internette paylaşıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_plague",
+    "headword": "plague",
+    "extraMeanings": [
+      {
+        "tr": "başına bela olmak, rahat vermemek, sürekli sıkıntı vermek",
+        "en": "to cause continual trouble or distress to someone",
+        "exampleEn": "Money problems plagued him for years.",
+        "exampleTr": "Para sorunları yıllarca başına bela oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_pitch_in",
+    "headword": "pitch in",
+    "extraMeanings": [
+      {
+        "tr": "hep birlikte (para) toplamak, ortaklaşa katkı koymak",
+        "en": "to contribute money together with others",
+        "exampleEn": "Everyone pitched in to buy her a gift.",
+        "exampleTr": "Ona hediye almak için herkes para koydu."
+      }
+    ]
+  },
+  {
+    "id": "w_pin",
+    "headword": "pin",
+    "extraMeanings": [
+      {
+        "tr": "(suç, sorumluluk) yıkmak, atmak (pin on)",
+        "en": "to blame someone for something, often unfairly",
+        "exampleEn": "They tried to pin the blame on the new employee.",
+        "exampleTr": "Suçu yeni çalışanın üstüne yıkmaya çalıştılar."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1261 @@
+[
+  {
+    "id": "w_lucidity",
+    "headword": "lucidity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/luːˈsɪdəti/",
+    "meanings": [
+      {
+        "tr": "berraklık, açıklık, zihin açıklığı",
+        "en": "clearness of thought or expression",
+        "exampleEn": "He explained the complex theory with remarkable lucidity.",
+        "exampleTr": "Karmaşık teoriyi olağanüstü bir açıklıkla anlattı."
+      },
+      {
+        "tr": "(hastada) bilinç açıklığı anı",
+        "en": "a period of being able to think clearly, especially during illness",
+        "exampleEn": "In a moment of lucidity, she recognized her daughter.",
+        "exampleTr": "Bir bilinç açıklığı anında kızını tanıdı."
+      }
+    ],
+    "synonyms": [
+      "clarity",
+      "clearness"
+    ],
+    "antonyms": [
+      "confusion",
+      "obscurity"
+    ]
+  },
+  {
+    "id": "w_lull",
+    "headword": "lull",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/lʌl/",
+    "meanings": [
+      {
+        "tr": "durgunluk, ara, sakinlik dönemi",
+        "en": "a quiet period during a time of activity",
+        "exampleEn": "There was a brief lull in the conversation.",
+        "exampleTr": "Konuşmada kısa bir durgunluk oldu."
+      },
+      {
+        "tr": "yatıştırmak, uyutmak",
+        "en": "to make someone calm or sleepy",
+        "exampleEn": "The gentle music lulled the baby to sleep.",
+        "exampleTr": "Yumuşak müzik bebeği uyuttu."
+      }
+    ],
+    "synonyms": [
+      "pause",
+      "break",
+      "respite"
+    ],
+    "antonyms": [
+      "activity",
+      "upsurge"
+    ]
+  },
+  {
+    "id": "w_luminosity",
+    "headword": "luminosity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌluːmɪˈnɒsəti/",
+    "meanings": [
+      {
+        "tr": "parlaklık, ışıklılık",
+        "en": "the quality of shining brightly or emitting light",
+        "exampleEn": "The luminosity of the stars amazed the astronomers.",
+        "exampleTr": "Yıldızların parlaklığı gökbilimcileri hayrete düşürdü."
+      }
+    ],
+    "synonyms": [
+      "brightness",
+      "radiance"
+    ],
+    "antonyms": [
+      "dullness",
+      "darkness"
+    ]
+  },
+  {
+    "id": "w_lump_sum",
+    "headword": "lump sum",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌlʌmp ˈsʌm/",
+    "meanings": [
+      {
+        "tr": "toplu ödeme, tek seferde ödenen miktar",
+        "en": "an amount of money paid all at once, not in installments",
+        "exampleEn": "She received a lump sum when she retired.",
+        "exampleTr": "Emekli olduğunda toplu bir ödeme aldı."
+      }
+    ],
+    "synonyms": [
+      "one-off payment"
+    ],
+    "antonyms": [
+      "installment"
+    ]
+  },
+  {
+    "id": "w_lumpy",
+    "headword": "lumpy",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlʌmpi/",
+    "meanings": [
+      {
+        "tr": "topaklı, pürüzlü",
+        "en": "full of lumps; not smooth",
+        "exampleEn": "The sauce was lumpy because it wasn't stirred enough.",
+        "exampleTr": "Sos yeterince karıştırılmadığı için topaklıydı."
+      }
+    ],
+    "synonyms": [
+      "bumpy",
+      "uneven"
+    ],
+    "antonyms": [
+      "smooth"
+    ]
+  },
+  {
+    "id": "w_lurker",
+    "headword": "lurker",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɜːkə/",
+    "meanings": [
+      {
+        "tr": "(internette) sessiz izleyici, katılmadan takip eden kişi",
+        "en": "someone who reads online discussions without participating",
+        "exampleEn": "Most members of the forum are lurkers who never post.",
+        "exampleTr": "Forumun çoğu üyesi hiç yazmayan sessiz izleyicilerdir."
+      },
+      {
+        "tr": "gizlice pusuda bekleyen kişi",
+        "en": "a person who waits or hides secretly",
+        "exampleEn": "A lurker was spotted near the back entrance.",
+        "exampleTr": "Arka girişin yakınında pusuda bekleyen biri fark edildi."
+      }
+    ],
+    "synonyms": [
+      "observer"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_luster",
+    "headword": "luster",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlʌstə/",
+    "meanings": [
+      {
+        "tr": "parlaklık, cila",
+        "en": "a gentle sheen or soft glow from a surface",
+        "exampleEn": "The pearls had a beautiful luster.",
+        "exampleTr": "İnciler güzel bir parlaklığa sahipti."
+      },
+      {
+        "tr": "görkem, itibar, parlaklık (mecazi)",
+        "en": "glory, distinction, or prestige",
+        "exampleEn": "The scandal took some of the luster off his reputation.",
+        "exampleTr": "Skandal, itibarının parlaklığını biraz azalttı."
+      }
+    ],
+    "synonyms": [
+      "sheen",
+      "gloss",
+      "shine"
+    ],
+    "antonyms": [
+      "dullness"
+    ]
+  },
+  {
+    "id": "w_lustrous",
+    "headword": "lustrous",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlʌstrəs/",
+    "meanings": [
+      {
+        "tr": "parlak, ışıltılı",
+        "en": "shining in a soft, gentle way",
+        "exampleEn": "She had long, lustrous black hair.",
+        "exampleTr": "Uzun, parlak siyah saçları vardı."
+      }
+    ],
+    "synonyms": [
+      "shiny",
+      "glossy",
+      "gleaming"
+    ],
+    "antonyms": [
+      "dull",
+      "matte"
+    ]
+  },
+  {
+    "id": "w_lyric",
+    "headword": "lyric",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪrɪk/",
+    "meanings": [
+      {
+        "tr": "şarkı sözü",
+        "en": "the words of a song",
+        "exampleEn": "The lyric of that song is really moving.",
+        "exampleTr": "O şarkının sözü gerçekten dokunaklı."
+      },
+      {
+        "tr": "lirik (duygusal, şiirsel)",
+        "en": "expressing personal emotions in a poetic way",
+        "exampleEn": "He wrote a lyric poem about lost love.",
+        "exampleTr": "Kayıp bir aşk üzerine lirik bir şiir yazdı."
+      }
+    ],
+    "synonyms": [
+      "words",
+      "verse"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_lyricist",
+    "headword": "lyricist",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪrɪsɪst/",
+    "meanings": [
+      {
+        "tr": "şarkı sözü yazarı",
+        "en": "a person who writes the words for songs",
+        "exampleEn": "She is a talented lyricist who has written for many pop stars.",
+        "exampleTr": "Birçok pop yıldızı için yazmış yetenekli bir şarkı sözü yazarıdır."
+      }
+    ],
+    "synonyms": [
+      "songwriter"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mac",
+    "headword": "mac",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/mæk/",
+    "meanings": [
+      {
+        "tr": "yağmurluk (İngiliz İngilizcesi, mackintosh kısaltması)",
+        "en": "a raincoat (British informal, short for mackintosh)",
+        "exampleEn": "Take your mac; it looks like rain.",
+        "exampleTr": "Yağmurluğunu al; yağmur yağacak gibi görünüyor."
+      }
+    ],
+    "synonyms": [
+      "raincoat"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_main_concern",
+    "headword": "main concern",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmeɪn kənˈsɜːn/",
+    "meanings": [
+      {
+        "tr": "asıl kaygı, temel endişe, öncelikli mesele",
+        "en": "the most important worry or issue",
+        "exampleEn": "Safety is our main concern on this project.",
+        "exampleTr": "Bu projede asıl kaygımız güvenliktir."
+      }
+    ],
+    "synonyms": [
+      "primary worry",
+      "chief issue"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_main_office",
+    "headword": "main office",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmeɪn ˈɒfɪs/",
+    "meanings": [
+      {
+        "tr": "merkez ofis, genel merkez",
+        "en": "the central or principal office of a company",
+        "exampleEn": "All important decisions are made at the main office.",
+        "exampleTr": "Bütün önemli kararlar merkez ofiste alınır."
+      }
+    ],
+    "synonyms": [
+      "headquarters",
+      "head office"
+    ],
+    "antonyms": [
+      "branch"
+    ]
+  },
+  {
+    "id": "w_main_point",
+    "headword": "main point",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmeɪn ˈpɔɪnt/",
+    "meanings": [
+      {
+        "tr": "ana fikir, asıl nokta",
+        "en": "the most important idea in a discussion or text",
+        "exampleEn": "Let me summarize the main point of the article.",
+        "exampleTr": "Makalenin ana fikrini özetleyeyim."
+      }
+    ],
+    "synonyms": [
+      "key point",
+      "main idea"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_main_storyline",
+    "headword": "main storyline",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmeɪn ˈstɔːrilaɪn/",
+    "meanings": [
+      {
+        "tr": "ana hikaye örgüsü, esas olay akışı",
+        "en": "the central plot of a story, film, or book",
+        "exampleEn": "The main storyline follows a detective solving a murder.",
+        "exampleTr": "Ana hikaye örgüsü, bir cinayeti çözen dedektifi takip eder."
+      }
+    ],
+    "synonyms": [
+      "main plot"
+    ],
+    "antonyms": [
+      "subplot"
+    ]
+  },
+  {
+    "id": "w_mainland",
+    "headword": "mainland",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmeɪnlənd/",
+    "meanings": [
+      {
+        "tr": "anakara, ana ülke toprağı",
+        "en": "the main part of a country, not including its islands",
+        "exampleEn": "They took a ferry from the island to the mainland.",
+        "exampleTr": "Adadan anakaraya bir feribotla geçtiler."
+      }
+    ],
+    "synonyms": [
+      "continent"
+    ],
+    "antonyms": [
+      "island"
+    ]
+  },
+  {
+    "id": "w_majestic",
+    "headword": "majestic",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/məˈdʒestɪk/",
+    "meanings": [
+      {
+        "tr": "görkemli, ihtişamlı, azametli",
+        "en": "impressively beautiful, grand, or dignified",
+        "exampleEn": "We admired the majestic mountains in the distance.",
+        "exampleTr": "Uzaktaki görkemli dağlara hayran kaldık."
+      }
+    ],
+    "synonyms": [
+      "grand",
+      "magnificent",
+      "splendid"
+    ],
+    "antonyms": [
+      "modest",
+      "humble"
+    ]
+  },
+  {
+    "id": "w_make_amends",
+    "headword": "make amends",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmeɪk əˈmendz/",
+    "meanings": [
+      {
+        "tr": "telafi etmek, gönül almak, kusurunu düzeltmek",
+        "en": "to do something to correct a wrong you have done",
+        "exampleEn": "He tried to make amends by apologizing to everyone.",
+        "exampleTr": "Herkesten özür dileyerek telafi etmeye çalıştı."
+      }
+    ],
+    "synonyms": [
+      "compensate",
+      "atone"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_malfunction",
+    "headword": "malfunction",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmælˈfʌŋkʃən/",
+    "meanings": [
+      {
+        "tr": "arıza, bozulma",
+        "en": "a failure to work correctly",
+        "exampleEn": "A technical malfunction delayed the flight.",
+        "exampleTr": "Teknik bir arıza uçuşu geciktirdi."
+      },
+      {
+        "tr": "düzgün çalışmamak, arızalanmak",
+        "en": "to fail to work in the normal way",
+        "exampleEn": "The engine began to malfunction during the trip.",
+        "exampleTr": "Motor yolculuk sırasında arızalanmaya başladı."
+      }
+    ],
+    "synonyms": [
+      "breakdown",
+      "fault",
+      "failure"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_malicious",
+    "headword": "malicious",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/məˈlɪʃəs/",
+    "meanings": [
+      {
+        "tr": "kötü niyetli, kasıtlı zarar verici",
+        "en": "intended to harm or upset someone",
+        "exampleEn": "He spread malicious rumors about his colleague.",
+        "exampleTr": "Meslektaşı hakkında kötü niyetli söylentiler yaydı."
+      }
+    ],
+    "synonyms": [
+      "spiteful",
+      "vicious",
+      "malevolent"
+    ],
+    "antonyms": [
+      "kind",
+      "benevolent"
+    ]
+  },
+  {
+    "id": "w_malignant",
+    "headword": "malignant",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/məˈlɪɡnənt/",
+    "meanings": [
+      {
+        "tr": "habis, kötü huylu (tümör)",
+        "en": "(of a tumor) likely to spread and cause death",
+        "exampleEn": "Tests showed the tumor was malignant.",
+        "exampleTr": "Testler tümörün habis olduğunu gösterdi."
+      },
+      {
+        "tr": "kötücül, zararlı",
+        "en": "showing a strong desire to harm someone",
+        "exampleEn": "There was a malignant look in his eyes.",
+        "exampleTr": "Gözlerinde kötücül bir bakış vardı."
+      }
+    ],
+    "synonyms": [
+      "cancerous",
+      "harmful"
+    ],
+    "antonyms": [
+      "benign"
+    ]
+  },
+  {
+    "id": "w_malleable",
+    "headword": "malleable",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmæliəbl/",
+    "meanings": [
+      {
+        "tr": "dövülebilir, şekil verilebilir (metal)",
+        "en": "able to be bent or shaped easily without breaking",
+        "exampleEn": "Gold is a highly malleable metal.",
+        "exampleTr": "Altın son derece dövülebilir bir metaldir."
+      },
+      {
+        "tr": "kolay etkilenen, yönlendirilebilir (kişi)",
+        "en": "easily influenced or changed",
+        "exampleEn": "Young children have malleable minds.",
+        "exampleTr": "Küçük çocukların zihinleri kolay etkilenir."
+      }
+    ],
+    "synonyms": [
+      "pliable",
+      "flexible"
+    ],
+    "antonyms": [
+      "rigid",
+      "inflexible"
+    ]
+  },
+  {
+    "id": "w_maltreatment",
+    "headword": "maltreatment",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/mælˈtriːtmənt/",
+    "meanings": [
+      {
+        "tr": "kötü muamele, eziyet",
+        "en": "cruel or violent treatment of a person or animal",
+        "exampleEn": "The charity works to prevent the maltreatment of animals.",
+        "exampleTr": "Hayır kurumu hayvanlara kötü muameleyi önlemek için çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "abuse",
+      "mistreatment"
+    ],
+    "antonyms": [
+      "care"
+    ]
+  },
+  {
+    "id": "w_manicured",
+    "headword": "manicured",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmænɪkjʊəd/",
+    "meanings": [
+      {
+        "tr": "bakımlı, özenle düzenlenmiş",
+        "en": "neatly trimmed and carefully cared for",
+        "exampleEn": "The house had a beautifully manicured lawn.",
+        "exampleTr": "Evin güzelce bakımlı bir çimenliği vardı."
+      },
+      {
+        "tr": "manikürlü (eller/tırnaklar)",
+        "en": "(of nails) treated with a manicure",
+        "exampleEn": "She showed off her perfectly manicured nails.",
+        "exampleTr": "Kusursuzca manikürlü tırnaklarını gösterdi."
+      }
+    ],
+    "synonyms": [
+      "groomed",
+      "trimmed"
+    ],
+    "antonyms": [
+      "unkempt"
+    ]
+  },
+  {
+    "id": "w_manslaughter",
+    "headword": "manslaughter",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmænslɔːtə/",
+    "meanings": [
+      {
+        "tr": "kasıtsız adam öldürme, taksirle ölüme sebebiyet",
+        "en": "the crime of killing someone without intending to",
+        "exampleEn": "He was convicted of manslaughter rather than murder.",
+        "exampleTr": "Cinayetten değil, kasıtsız adam öldürmeden mahkum edildi."
+      }
+    ],
+    "synonyms": [
+      "homicide"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mar",
+    "headword": "mar",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/mɑː/",
+    "meanings": [
+      {
+        "tr": "bozmak, zedelemek, gölge düşürmek",
+        "en": "to spoil or damage something",
+        "exampleEn": "The celebration was marred by violence.",
+        "exampleTr": "Kutlama şiddet olaylarıyla gölgelendi."
+      }
+    ],
+    "synonyms": [
+      "spoil",
+      "damage",
+      "tarnish"
+    ],
+    "antonyms": [
+      "enhance",
+      "improve"
+    ]
+  },
+  {
+    "id": "w_marginal",
+    "headword": "marginal",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɑːdʒɪnəl/",
+    "meanings": [
+      {
+        "tr": "önemsiz, küçük, sınırda",
+        "en": "very small in amount or importance",
+        "exampleEn": "There was only a marginal improvement in sales.",
+        "exampleTr": "Satışlarda yalnızca çok küçük bir iyileşme oldu."
+      },
+      {
+        "tr": "marjinal (ekonomi: son birime ait)",
+        "en": "relating to the change from one additional unit",
+        "exampleEn": "The marginal cost of producing one more unit is low.",
+        "exampleTr": "Bir birim daha üretmenin marjinal maliyeti düşüktür."
+      }
+    ],
+    "synonyms": [
+      "slight",
+      "minor",
+      "negligible"
+    ],
+    "antonyms": [
+      "significant",
+      "substantial"
+    ]
+  },
+  {
+    "id": "w_marijuana",
+    "headword": "marijuana",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmærɪˈwɑːnə/",
+    "meanings": [
+      {
+        "tr": "esrar, marihuana",
+        "en": "a drug made from the cannabis plant",
+        "exampleEn": "Marijuana is legal in several U.S. states.",
+        "exampleTr": "Marihuana birçok ABD eyaletinde yasaldır."
+      }
+    ],
+    "synonyms": [
+      "cannabis",
+      "weed"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mariner",
+    "headword": "mariner",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmærɪnə/",
+    "meanings": [
+      {
+        "tr": "denizci, gemici",
+        "en": "a sailor (formal or literary)",
+        "exampleEn": "The old mariner told tales of distant seas.",
+        "exampleTr": "Yaşlı denizci uzak denizlerin hikayelerini anlattı."
+      }
+    ],
+    "synonyms": [
+      "sailor",
+      "seaman"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_market_bubble",
+    "headword": "market bubble",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɑːkɪt ˌbʌbl/",
+    "meanings": [
+      {
+        "tr": "piyasa balonu, spekülatif fiyat şişkinliği",
+        "en": "a situation where asset prices rise far above their real value before crashing",
+        "exampleEn": "Many investors lost money when the market bubble burst.",
+        "exampleTr": "Piyasa balonu patladığında birçok yatırımcı para kaybetti."
+      }
+    ],
+    "synonyms": [
+      "speculative bubble",
+      "asset bubble"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mass_murder",
+    "headword": "mass murder",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmæs ˈmɜːdə/",
+    "meanings": [
+      {
+        "tr": "toplu cinayet, kitlesel katliam",
+        "en": "the killing of a large number of people at one time",
+        "exampleEn": "The dictator was responsible for the mass murder of civilians.",
+        "exampleTr": "Diktatör, sivillerin toplu katledilmesinden sorumluydu."
+      }
+    ],
+    "synonyms": [
+      "massacre",
+      "slaughter"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mass_transit",
+    "headword": "mass transit",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmæs ˈtrænzɪt/",
+    "meanings": [
+      {
+        "tr": "toplu taşıma",
+        "en": "public transport systems that move large numbers of people",
+        "exampleEn": "The city is investing in mass transit to reduce traffic.",
+        "exampleTr": "Şehir, trafiği azaltmak için toplu taşımaya yatırım yapıyor."
+      }
+    ],
+    "synonyms": [
+      "public transport",
+      "public transit"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_massage_therapist",
+    "headword": "massage therapist",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmæsɑːʒ ˌθerəpɪst/",
+    "meanings": [
+      {
+        "tr": "masaj terapisti",
+        "en": "a person trained to give massages for health or relaxation",
+        "exampleEn": "The massage therapist helped ease the tension in my back.",
+        "exampleTr": "Masaj terapisti sırtımdaki gerginliği hafifletti."
+      }
+    ],
+    "synonyms": [
+      "masseur",
+      "masseuse"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_masterwork",
+    "headword": "masterwork",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɑːstəwɜːk/",
+    "meanings": [
+      {
+        "tr": "şaheser, başyapıt",
+        "en": "an artist's or writer's greatest work",
+        "exampleEn": "This novel is considered his masterwork.",
+        "exampleTr": "Bu roman onun başyapıtı olarak kabul edilir."
+      }
+    ],
+    "synonyms": [
+      "masterpiece",
+      "magnum opus"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_matrimony",
+    "headword": "matrimony",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmætrɪməni/",
+    "meanings": [
+      {
+        "tr": "evlilik, nikah (resmi)",
+        "en": "the state of being married; marriage (formal)",
+        "exampleEn": "They were joined in holy matrimony.",
+        "exampleTr": "Kutsal evlilik bağıyla birleştiler."
+      }
+    ],
+    "synonyms": [
+      "marriage",
+      "wedlock"
+    ],
+    "antonyms": [
+      "divorce"
+    ]
+  },
+  {
+    "id": "w_maturity",
+    "headword": "maturity",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/məˈtʃʊərəti/",
+    "meanings": [
+      {
+        "tr": "olgunluk",
+        "en": "the quality of behaving in a sensible, adult way",
+        "exampleEn": "She handled the situation with great maturity.",
+        "exampleTr": "Durumu büyük bir olgunlukla ele aldı."
+      },
+      {
+        "tr": "vade (finans: ödeme günü)",
+        "en": "the time when a financial investment becomes due for payment",
+        "exampleEn": "The bond reaches maturity in ten years.",
+        "exampleTr": "Tahvil on yıl içinde vadesine ulaşır."
+      }
+    ],
+    "synonyms": [
+      "adulthood",
+      "ripeness"
+    ],
+    "antonyms": [
+      "immaturity"
+    ]
+  },
+  {
+    "id": "w_mauve",
+    "headword": "mauve",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/məʊv/",
+    "meanings": [
+      {
+        "tr": "leylak rengi, soluk mor",
+        "en": "a pale purple color",
+        "exampleEn": "She wore a mauve dress to the party.",
+        "exampleTr": "Partiye leylak renkli bir elbise giydi."
+      }
+    ],
+    "synonyms": [
+      "lilac",
+      "pale purple"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_maxim",
+    "headword": "maxim",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmæksɪm/",
+    "meanings": [
+      {
+        "tr": "özdeyiş, vecize, ilke",
+        "en": "a short statement expressing a general truth or rule of conduct",
+        "exampleEn": "He lived by the maxim 'honesty is the best policy'.",
+        "exampleTr": "'Dürüstlük en iyi politikadır' özdeyişine göre yaşadı."
+      }
+    ],
+    "synonyms": [
+      "saying",
+      "adage",
+      "proverb"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_maximal",
+    "headword": "maximal",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmæksɪməl/",
+    "meanings": [
+      {
+        "tr": "azami, en yüksek, maksimal",
+        "en": "as great or large as possible",
+        "exampleEn": "The team aimed for maximal efficiency in production.",
+        "exampleTr": "Ekip üretimde azami verimliliği hedefledi."
+      }
+    ],
+    "synonyms": [
+      "maximum",
+      "greatest"
+    ],
+    "antonyms": [
+      "minimal"
+    ]
+  },
+  {
+    "id": "w_may",
+    "headword": "may",
+    "pos": "verb",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/meɪ/",
+    "meanings": [
+      {
+        "tr": "-ebilir, -abilir (olasılık)",
+        "en": "used to say that something is possible",
+        "exampleEn": "It may rain later this afternoon.",
+        "exampleTr": "Öğleden sonra yağmur yağabilir."
+      },
+      {
+        "tr": "-ebilir miyim (izin)",
+        "en": "used to ask for or give permission",
+        "exampleEn": "May I leave the room?",
+        "exampleTr": "Odadan çıkabilir miyim?"
+      }
+    ],
+    "synonyms": [
+      "might",
+      "could"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_me",
+    "headword": "me",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/miː/",
+    "meanings": [
+      {
+        "tr": "beni, bana (birinci tekil şahıs nesne zamiri)",
+        "en": "the object form of 'I', referring to the speaker",
+        "exampleEn": "Can you give me the book?",
+        "exampleTr": "Bana kitabı verebilir misin?"
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "you"
+    ]
+  },
+  {
+    "id": "w_meager",
+    "headword": "meager",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmiːɡə/",
+    "meanings": [
+      {
+        "tr": "yetersiz, kıt, cılız",
+        "en": "very small in amount and not enough",
+        "exampleEn": "They survived on a meager income.",
+        "exampleTr": "Yetersiz bir gelirle geçindiler."
+      }
+    ],
+    "synonyms": [
+      "scanty",
+      "paltry",
+      "sparse"
+    ],
+    "antonyms": [
+      "abundant",
+      "plentiful"
+    ]
+  },
+  {
+    "id": "w_meaningless",
+    "headword": "meaningless",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmiːnɪŋləs/",
+    "meanings": [
+      {
+        "tr": "anlamsız, manasız",
+        "en": "having no meaning, purpose, or importance",
+        "exampleEn": "Without context, the numbers are completely meaningless.",
+        "exampleTr": "Bağlam olmadan sayılar tamamen anlamsızdır."
+      }
+    ],
+    "synonyms": [
+      "pointless",
+      "senseless"
+    ],
+    "antonyms": [
+      "meaningful",
+      "significant"
+    ]
+  },
+  {
+    "id": "w_measurable",
+    "headword": "measurable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmeʒərəbl/",
+    "meanings": [
+      {
+        "tr": "ölçülebilir",
+        "en": "able to be measured; large enough to be noticed",
+        "exampleEn": "The project produced measurable results within a month.",
+        "exampleTr": "Proje bir ay içinde ölçülebilir sonuçlar üretti."
+      }
+    ],
+    "synonyms": [
+      "quantifiable",
+      "assessable"
+    ],
+    "antonyms": [
+      "immeasurable",
+      "negligible"
+    ]
+  },
+  {
+    "id": "w_measuring_tool",
+    "headword": "measuring tool",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmeʒərɪŋ ˌtuːl/",
+    "meanings": [
+      {
+        "tr": "ölçüm aleti, ölçme aracı",
+        "en": "an instrument used to measure something",
+        "exampleEn": "A ruler is a simple measuring tool.",
+        "exampleTr": "Cetvel basit bir ölçüm aletidir."
+      }
+    ],
+    "synonyms": [
+      "gauge",
+      "instrument"
+    ],
+    "antonyms": []
+  }
+]

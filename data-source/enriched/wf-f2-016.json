@@ -1,0 +1,1296 @@
+[
+  {
+    "id": "w_repentantly",
+    "headword": "repentantly",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpɛntəntli/",
+    "meanings": [
+      {
+        "tr": "pişmanlıkla, tövbe ederek",
+        "en": "in a way that shows you feel sorry for something you have done",
+        "exampleEn": "He looked at her repentantly and apologized for his harsh words.",
+        "exampleTr": "Ona pişmanlıkla baktı ve sert sözleri için özür diledi."
+      }
+    ],
+    "synonyms": [
+      "remorsefully",
+      "contritely",
+      "ruefully"
+    ],
+    "antonyms": [
+      "unrepentantly",
+      "remorselessly"
+    ]
+  },
+  {
+    "id": "w_remorselessly",
+    "headword": "remorselessly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈmɔːsləsli/",
+    "meanings": [
+      {
+        "tr": "acımasızca, hiç durmadan",
+        "en": "in a cruel way without feeling sorry, or without stopping",
+        "exampleEn": "The army advanced remorselessly toward the capital.",
+        "exampleTr": "Ordu başkente doğru acımasızca ilerledi."
+      },
+      {
+        "tr": "vicdansızca, pişmanlık duymadan",
+        "en": "without showing regret or pity",
+        "exampleEn": "She criticized his work remorselessly.",
+        "exampleTr": "Onun çalışmasını vicdansızca eleştirdi."
+      }
+    ],
+    "synonyms": [
+      "relentlessly",
+      "mercilessly",
+      "unrelentingly"
+    ],
+    "antonyms": [
+      "mercifully",
+      "remorsefully"
+    ]
+  },
+  {
+    "id": "w_welsh",
+    "headword": "welsh",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɛlʃ/",
+    "meanings": [
+      {
+        "tr": "(borcunu/sözünü) yerine getirmemek, kaytarmak",
+        "en": "to fail to pay a debt or keep a promise",
+        "exampleEn": "He welshed on the bet and never paid what he owed.",
+        "exampleTr": "Bahsi ödemekten kaytardı ve borcunu asla ödemedi."
+      }
+    ],
+    "synonyms": [
+      "default",
+      "renege"
+    ],
+    "antonyms": [
+      "honour",
+      "pay"
+    ]
+  },
+  {
+    "id": "w_redress",
+    "headword": "redress",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈdrɛs/",
+    "meanings": [
+      {
+        "tr": "telafi, giderim, tazminat",
+        "en": "payment or action to correct something wrong or unfair",
+        "exampleEn": "Customers can seek redress through the courts.",
+        "exampleTr": "Müşteriler mahkemeler aracılığıyla telafi arayabilir."
+      },
+      {
+        "tr": "düzeltmek, gidermek",
+        "en": "to correct something that is unfair or wrong",
+        "exampleEn": "The government promised to redress the injustices of the past.",
+        "exampleTr": "Hükümet geçmişin adaletsizliklerini gidermeye söz verdi."
+      }
+    ],
+    "synonyms": [
+      "compensation",
+      "remedy",
+      "reparation"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_indemnity",
+    "headword": "indemnity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈdɛmnɪti/",
+    "meanings": [
+      {
+        "tr": "tazminat, zarar karşılığı güvence",
+        "en": "protection against or compensation for loss or damage",
+        "exampleEn": "The contract includes an indemnity clause protecting the buyer.",
+        "exampleTr": "Sözleşme, alıcıyı koruyan bir tazminat maddesi içeriyor."
+      }
+    ],
+    "synonyms": [
+      "compensation",
+      "insurance",
+      "reimbursement"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wordplay",
+    "headword": "wordplay",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɜːdpleɪ/",
+    "meanings": [
+      {
+        "tr": "kelime oyunu, söz oyunu",
+        "en": "the clever or humorous use of words, especially with double meanings",
+        "exampleEn": "The poem is full of clever wordplay and puns.",
+        "exampleTr": "Şiir zekice kelime oyunları ve cinaslarla dolu."
+      }
+    ],
+    "synonyms": [
+      "pun",
+      "punning",
+      "wit"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_drawn",
+    "headword": "drawn",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/drɔːn/",
+    "meanings": [
+      {
+        "tr": "bitkin, yorgun ve gergin (yüz)",
+        "en": "looking pale, tired, or worried",
+        "exampleEn": "Her face was pale and drawn after the long illness.",
+        "exampleTr": "Uzun hastalıktan sonra yüzü solgun ve bitkindi."
+      }
+    ],
+    "synonyms": [
+      "haggard",
+      "gaunt",
+      "tired"
+    ],
+    "antonyms": [
+      "fresh",
+      "rested"
+    ]
+  },
+  {
+    "id": "w_exchangeable",
+    "headword": "exchangeable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪksˈtʃeɪndʒəbl/",
+    "meanings": [
+      {
+        "tr": "değiştirilebilir, takas edilebilir",
+        "en": "able to be exchanged for something else",
+        "exampleEn": "The gift voucher is exchangeable for any product in the store.",
+        "exampleTr": "Hediye çeki mağazadaki herhangi bir ürünle değiştirilebilir."
+      }
+    ],
+    "synonyms": [
+      "interchangeable",
+      "substitutable"
+    ],
+    "antonyms": [
+      "irreplaceable",
+      "non-refundable"
+    ]
+  },
+  {
+    "id": "w_substitutable",
+    "headword": "substitutable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsʌbstɪtjuːtəbl/",
+    "meanings": [
+      {
+        "tr": "yerine başka bir şey konabilir, ikame edilebilir",
+        "en": "able to be replaced by something else that serves the same purpose",
+        "exampleEn": "In economics, two goods are substitutable if one can replace the other.",
+        "exampleTr": "Ekonomide, biri diğerinin yerini alabiliyorsa iki mal ikame edilebilirdir."
+      }
+    ],
+    "synonyms": [
+      "interchangeable",
+      "exchangeable",
+      "replaceable"
+    ],
+    "antonyms": [
+      "irreplaceable",
+      "complementary"
+    ]
+  },
+  {
+    "id": "w_irreplaceable",
+    "headword": "irreplaceable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪrɪˈpleɪsəbl/",
+    "meanings": [
+      {
+        "tr": "yeri doldurulamaz, vazgeçilmez",
+        "en": "too special or valuable to be replaced by anything else",
+        "exampleEn": "These ancient manuscripts are irreplaceable treasures.",
+        "exampleTr": "Bu antik el yazmaları yeri doldurulamaz hazinelerdir."
+      }
+    ],
+    "synonyms": [
+      "priceless",
+      "unique",
+      "invaluable"
+    ],
+    "antonyms": [
+      "replaceable",
+      "exchangeable"
+    ]
+  },
+  {
+    "id": "w_refill",
+    "headword": "refill",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈfɪl/",
+    "meanings": [
+      {
+        "tr": "yeniden doldurmak",
+        "en": "to fill something again after it has been emptied",
+        "exampleEn": "The waiter came over to refill our glasses.",
+        "exampleTr": "Garson bardaklarımızı yeniden doldurmak için geldi."
+      },
+      {
+        "tr": "yedek dolum, ikinci porsiyon",
+        "en": "an amount that fills something again",
+        "exampleEn": "Coffee refills are free at this café.",
+        "exampleTr": "Bu kafede kahve tazelemeleri ücretsizdir."
+      }
+    ],
+    "synonyms": [
+      "replenish",
+      "top up",
+      "restock"
+    ],
+    "antonyms": [
+      "empty",
+      "drain"
+    ]
+  },
+  {
+    "id": "w_restock",
+    "headword": "restock",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈstɒk/",
+    "meanings": [
+      {
+        "tr": "stok yenilemek, yeniden mal getirmek",
+        "en": "to fill up a supply of something again",
+        "exampleEn": "The store needs to restock its shelves before the weekend.",
+        "exampleTr": "Mağazanın hafta sonundan önce raflarını yeniden doldurması gerekiyor."
+      }
+    ],
+    "synonyms": [
+      "replenish",
+      "refill"
+    ],
+    "antonyms": [
+      "deplete",
+      "sell out"
+    ]
+  },
+  {
+    "id": "w_rebuff",
+    "headword": "rebuff",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈbʌf/",
+    "meanings": [
+      {
+        "tr": "geri çevirmek, reddetmek (teklif/yardım)",
+        "en": "to refuse an offer or request in an unfriendly way",
+        "exampleEn": "She rebuffed all his attempts to apologize.",
+        "exampleTr": "Onun tüm özür dileme çabalarını geri çevirdi."
+      },
+      {
+        "tr": "ret, geri çevirme",
+        "en": "an unkind refusal of an offer or request",
+        "exampleEn": "His proposal met with a sharp rebuff.",
+        "exampleTr": "Teklifi sert bir retle karşılandı."
+      }
+    ],
+    "synonyms": [
+      "reject",
+      "snub",
+      "spurn"
+    ],
+    "antonyms": [
+      "welcome",
+      "accept"
+    ]
+  },
+  {
+    "id": "w_neighbourhood",
+    "headword": "neighbourhood",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈneɪbəhʊd/",
+    "meanings": [
+      {
+        "tr": "mahalle, semt, çevre",
+        "en": "a district or area of a town, or the people who live there",
+        "exampleEn": "We moved to a quiet neighbourhood near the park.",
+        "exampleTr": "Parkın yakınındaki sakin bir mahalleye taşındık."
+      }
+    ],
+    "synonyms": [
+      "district",
+      "area",
+      "vicinity"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_toughness",
+    "headword": "toughness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʌfnəs/",
+    "meanings": [
+      {
+        "tr": "sağlamlık, dayanıklılık",
+        "en": "the quality of being strong and not easily damaged or broken",
+        "exampleEn": "The material is prized for its toughness and durability.",
+        "exampleTr": "Malzeme sağlamlığı ve dayanıklılığı nedeniyle değer görüyor."
+      },
+      {
+        "tr": "sertlik, metanet, dirayet",
+        "en": "the quality of being strong-willed or determined",
+        "exampleEn": "Mental toughness is essential for elite athletes.",
+        "exampleTr": "Zihinsel dayanıklılık seçkin sporcular için şarttır."
+      }
+    ],
+    "synonyms": [
+      "durability",
+      "resilience",
+      "sturdiness"
+    ],
+    "antonyms": [
+      "weakness",
+      "fragility"
+    ]
+  },
+  {
+    "id": "w_emphatic",
+    "headword": "emphatic",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪmˈfætɪk/",
+    "meanings": [
+      {
+        "tr": "kesin, vurgulu, kararlı",
+        "en": "done or said in a strong and clear way that leaves no doubt",
+        "exampleEn": "She was emphatic that she would not change her mind.",
+        "exampleTr": "Fikrini değiştirmeyeceği konusunda kesindi."
+      },
+      {
+        "tr": "ezici, açık ara (galibiyet)",
+        "en": "showing a clear and decisive result",
+        "exampleEn": "The team won an emphatic victory over their rivals.",
+        "exampleTr": "Takım rakiplerine karşı ezici bir galibiyet aldı."
+      }
+    ],
+    "synonyms": [
+      "forceful",
+      "decisive",
+      "insistent"
+    ],
+    "antonyms": [
+      "tentative",
+      "hesitant"
+    ]
+  },
+  {
+    "id": "w_deferential",
+    "headword": "deferential",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɛfəˈrɛnʃəl/",
+    "meanings": [
+      {
+        "tr": "saygılı, hürmetkâr, itaatkâr",
+        "en": "showing respect and politeness toward someone, often of higher rank",
+        "exampleEn": "He spoke in a deferential tone to his superiors.",
+        "exampleTr": "Üstlerine saygılı bir tonda konuştu."
+      }
+    ],
+    "synonyms": [
+      "respectful",
+      "reverential",
+      "obsequious"
+    ],
+    "antonyms": [
+      "disrespectful",
+      "arrogant"
+    ]
+  },
+  {
+    "id": "w_disrespectfully",
+    "headword": "disrespectfully",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɪsrɪˈspɛktfəli/",
+    "meanings": [
+      {
+        "tr": "saygısızca",
+        "en": "in a way that shows a lack of respect",
+        "exampleEn": "He behaved disrespectfully toward his teachers.",
+        "exampleTr": "Öğretmenlerine karşı saygısızca davrandı."
+      }
+    ],
+    "synonyms": [
+      "rudely",
+      "impolitely",
+      "insolently"
+    ],
+    "antonyms": [
+      "respectfully",
+      "deferentially"
+    ]
+  },
+  {
+    "id": "w_reinstatement",
+    "headword": "reinstatement",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːɪnˈsteɪtmənt/",
+    "meanings": [
+      {
+        "tr": "eski görevine/durumuna iade, yeniden atama",
+        "en": "the act of returning someone to a previous position or something to a previous state",
+        "exampleEn": "The union demanded the reinstatement of the dismissed workers.",
+        "exampleTr": "Sendika işten çıkarılan işçilerin işe iadesini talep etti."
+      }
+    ],
+    "synonyms": [
+      "restoration",
+      "reinstallation"
+    ],
+    "antonyms": [
+      "dismissal",
+      "removal"
+    ]
+  },
+  {
+    "id": "w_constraining",
+    "headword": "constraining",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈstreɪnɪŋ/",
+    "meanings": [
+      {
+        "tr": "kısıtlayıcı, sınırlayıcı",
+        "en": "limiting or restricting what someone can do",
+        "exampleEn": "He found the strict rules too constraining.",
+        "exampleTr": "Katı kuralları fazla kısıtlayıcı buldu."
+      }
+    ],
+    "synonyms": [
+      "restrictive",
+      "limiting",
+      "confining"
+    ],
+    "antonyms": [
+      "liberating",
+      "freeing"
+    ]
+  },
+  {
+    "id": "w_heave",
+    "headword": "heave",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hiːv/",
+    "meanings": [
+      {
+        "tr": "güçlükle kaldırmak/çekmek, hoplatmak",
+        "en": "to lift, pull, or throw something heavy with great effort",
+        "exampleEn": "They heaved the heavy crate onto the truck.",
+        "exampleTr": "Ağır sandığı güçlükle kamyona kaldırdılar."
+      },
+      {
+        "tr": "(göğüs) inip kalkmak, dalgalanmak",
+        "en": "to rise and fall repeatedly",
+        "exampleEn": "His chest heaved as he caught his breath.",
+        "exampleTr": "Nefesini toplarken göğsü inip kalkıyordu."
+      }
+    ],
+    "synonyms": [
+      "haul",
+      "hoist",
+      "lift"
+    ],
+    "antonyms": [
+      "lower",
+      "drop"
+    ]
+  },
+  {
+    "id": "w_resonating",
+    "headword": "resonating",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɛzəneɪtɪŋ/",
+    "meanings": [
+      {
+        "tr": "yankılanan, tınlayan",
+        "en": "producing a deep, clear, continuing sound",
+        "exampleEn": "The resonating sound of the bell filled the valley.",
+        "exampleTr": "Çanın yankılanan sesi vadiyi doldurdu."
+      },
+      {
+        "tr": "iz bırakan, etkileyen, karşılık bulan",
+        "en": "having a strong effect or meaning that people relate to",
+        "exampleEn": "Her speech contained a deeply resonating message about hope.",
+        "exampleTr": "Konuşması umut hakkında derinden iz bırakan bir mesaj içeriyordu."
+      }
+    ],
+    "synonyms": [
+      "echoing",
+      "reverberating",
+      "vibrating"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_venerated",
+    "headword": "venerated",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvɛnəreɪtɪd/",
+    "meanings": [
+      {
+        "tr": "saygıyla anılan, kutsanan, hürmet edilen",
+        "en": "treated with great respect, especially because of age, wisdom, or importance",
+        "exampleEn": "He is a venerated figure among historians.",
+        "exampleTr": "Tarihçiler arasında saygıyla anılan bir figürdür."
+      }
+    ],
+    "synonyms": [
+      "revered",
+      "worshipful",
+      "honoured"
+    ],
+    "antonyms": [
+      "despised",
+      "scorned"
+    ]
+  },
+  {
+    "id": "w_worshipful",
+    "headword": "worshipful",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɜːʃɪpfʊl/",
+    "meanings": [
+      {
+        "tr": "taparcasına, büyük saygı gösteren",
+        "en": "feeling or showing great respect and admiration",
+        "exampleEn": "The crowd gazed at the singer with worshipful eyes.",
+        "exampleTr": "Kalabalık şarkıcıya taparcasına bir bakışla baktı."
+      }
+    ],
+    "synonyms": [
+      "reverent",
+      "adoring",
+      "venerating"
+    ],
+    "antonyms": [
+      "contemptuous",
+      "disdainful"
+    ]
+  },
+  {
+    "id": "w_daydream",
+    "headword": "daydream",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdeɪdriːm/",
+    "meanings": [
+      {
+        "tr": "hayal, düş kurma",
+        "en": "a series of pleasant thoughts that distract you from the present",
+        "exampleEn": "She was lost in a daydream about her summer holiday.",
+        "exampleTr": "Yaz tatiliyle ilgili bir hayale dalmıştı."
+      },
+      {
+        "tr": "hayal kurmak, dalıp gitmek",
+        "en": "to have pleasant thoughts that make you stop paying attention",
+        "exampleEn": "He often daydreams during boring lectures.",
+        "exampleTr": "Sıkıcı derslerde sık sık hayal kurar."
+      }
+    ],
+    "synonyms": [
+      "reverie",
+      "fantasy",
+      "musing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_rejuvenate",
+    "headword": "rejuvenate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈdʒuːvəneɪt/",
+    "meanings": [
+      {
+        "tr": "gençleştirmek, canlandırmak",
+        "en": "to make someone or something feel or look young, fresh, or energetic again",
+        "exampleEn": "A short holiday can rejuvenate both mind and body.",
+        "exampleTr": "Kısa bir tatil hem zihni hem bedeni canlandırabilir."
+      }
+    ],
+    "synonyms": [
+      "revitalize",
+      "refresh",
+      "reinvigorate"
+    ],
+    "antonyms": [
+      "exhaust",
+      "wear out"
+    ]
+  },
+  {
+    "id": "w_reinvigorate",
+    "headword": "reinvigorate",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːɪnˈvɪɡəreɪt/",
+    "meanings": [
+      {
+        "tr": "yeniden canlandırmak, güç kazandırmak",
+        "en": "to give new energy or strength to something",
+        "exampleEn": "The new manager hopes to reinvigorate the struggling company.",
+        "exampleTr": "Yeni müdür, zor durumdaki şirketi yeniden canlandırmayı umuyor."
+      }
+    ],
+    "synonyms": [
+      "revitalize",
+      "rejuvenate",
+      "reenergize"
+    ],
+    "antonyms": [
+      "weaken",
+      "sap"
+    ]
+  },
+  {
+    "id": "w_reinvigorated",
+    "headword": "reinvigorated",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːɪnˈvɪɡəreɪtɪd/",
+    "meanings": [
+      {
+        "tr": "yeniden canlanmış, güç kazanmış",
+        "en": "given new energy or strength",
+        "exampleEn": "She returned to work reinvigorated after her vacation.",
+        "exampleTr": "Tatilinden sonra işine yeniden canlanmış olarak döndü."
+      }
+    ],
+    "synonyms": [
+      "revitalized",
+      "refreshed",
+      "energized"
+    ],
+    "antonyms": [
+      "exhausted",
+      "drained"
+    ]
+  },
+  {
+    "id": "w_ride_hailing",
+    "headword": "ride-hailing",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈraɪdˌheɪlɪŋ/",
+    "meanings": [
+      {
+        "tr": "çağrılı taşımacılık, uygulama üzerinden araç çağırma",
+        "en": "relating to ordering a car and driver through a smartphone app",
+        "exampleEn": "Ride-hailing services like Uber have transformed urban transport.",
+        "exampleTr": "Uber gibi çağrılı taşımacılık hizmetleri kentsel ulaşımı dönüştürdü."
+      }
+    ],
+    "synonyms": [
+      "ride-sharing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_cloak",
+    "headword": "cloak",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kləʊk/",
+    "meanings": [
+      {
+        "tr": "pelerin, harmani",
+        "en": "a loose outer piece of clothing without sleeves",
+        "exampleEn": "She wrapped a long black cloak around her shoulders.",
+        "exampleTr": "Omuzlarına uzun siyah bir pelerin sardı."
+      },
+      {
+        "tr": "örtü, perde, gizleme aracı",
+        "en": "something that hides or covers something else",
+        "exampleEn": "The meeting was held under a cloak of secrecy.",
+        "exampleTr": "Toplantı bir gizlilik perdesi altında yapıldı."
+      },
+      {
+        "tr": "gizlemek, örtmek",
+        "en": "to hide or cover something",
+        "exampleEn": "He tried to cloak his fear with a confident smile.",
+        "exampleTr": "Korkusunu kendinden emin bir gülümsemeyle gizlemeye çalıştı."
+      }
+    ],
+    "synonyms": [
+      "cape",
+      "mantle",
+      "cover"
+    ],
+    "antonyms": [
+      "reveal",
+      "expose"
+    ]
+  },
+  {
+    "id": "w_cylinders",
+    "headword": "cylinders",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪlɪndəz/",
+    "meanings": [
+      {
+        "tr": "silindirler (geometrik cisim)",
+        "en": "solid or hollow tube-shaped objects with circular ends",
+        "exampleEn": "The machine uses two metal cylinders to press the paper.",
+        "exampleTr": "Makine kâğıdı preslemek için iki metal silindir kullanıyor."
+      },
+      {
+        "tr": "silindirler (motor)",
+        "en": "the chambers in an engine where fuel is burned to produce power",
+        "exampleEn": "The engine has six cylinders and runs very smoothly.",
+        "exampleTr": "Motorun altı silindiri var ve çok sorunsuz çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "tubes",
+      "barrels"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_curlers",
+    "headword": "curlers",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkɜːləz/",
+    "meanings": [
+      {
+        "tr": "bigudiler, saç maşaları",
+        "en": "small tube-shaped objects used to make hair curl",
+        "exampleEn": "She sat with curlers in her hair before the party.",
+        "exampleTr": "Partiden önce saçında bigudilerle oturuyordu."
+      }
+    ],
+    "synonyms": [
+      "rollers"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_boisterous",
+    "headword": "boisterous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbɔɪstərəs/",
+    "meanings": [
+      {
+        "tr": "gürültücü, taşkın, coşkulu",
+        "en": "noisy, energetic, and cheerful in a lively way",
+        "exampleEn": "The children were boisterous and full of energy.",
+        "exampleTr": "Çocuklar gürültücü ve enerji doluydu."
+      }
+    ],
+    "synonyms": [
+      "rowdy",
+      "raucous",
+      "exuberant"
+    ],
+    "antonyms": [
+      "quiet",
+      "subdued",
+      "calm"
+    ]
+  },
+  {
+    "id": "w_raucous",
+    "headword": "raucous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrɔːkəs/",
+    "meanings": [
+      {
+        "tr": "kulak tırmalayan, boğuk ve gürültülü",
+        "en": "unpleasantly loud and harsh",
+        "exampleEn": "We could hear raucous laughter from the next room.",
+        "exampleTr": "Yan odadan kulak tırmalayan kahkahalar duyabiliyorduk."
+      }
+    ],
+    "synonyms": [
+      "harsh",
+      "boisterous",
+      "rowdy"
+    ],
+    "antonyms": [
+      "quiet",
+      "melodious"
+    ]
+  },
+  {
+    "id": "w_brute",
+    "headword": "brute",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bruːt/",
+    "meanings": [
+      {
+        "tr": "canavar, kaba/vahşi kimse",
+        "en": "a rough, cruel, or violent person",
+        "exampleEn": "He was a brute who bullied everyone around him.",
+        "exampleTr": "Etrafındaki herkese zorbalık eden bir canavardı."
+      },
+      {
+        "tr": "kaba (kuvvet), ham",
+        "en": "involving physical strength rather than thought",
+        "exampleEn": "They used brute force to break down the door.",
+        "exampleTr": "Kapıyı kırmak için kaba kuvvet kullandılar."
+      }
+    ],
+    "synonyms": [
+      "beast",
+      "savage",
+      "thug"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_oxidized",
+    "headword": "oxidized",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒksɪdaɪzd/",
+    "meanings": [
+      {
+        "tr": "oksitlenmiş, paslanmış",
+        "en": "combined with oxygen, often causing rust or discolouration",
+        "exampleEn": "The oxidized metal had turned a dull brown colour.",
+        "exampleTr": "Oksitlenmiş metal donuk kahverengi bir renge dönmüştü."
+      }
+    ],
+    "synonyms": [
+      "rusted",
+      "corroded"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_subvert",
+    "headword": "subvert",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/səbˈvɜːt/",
+    "meanings": [
+      {
+        "tr": "baltalamak, altını oymak, yıkmak",
+        "en": "to secretly try to destroy or weaken a system, authority, or belief",
+        "exampleEn": "The group tried to subvert the government from within.",
+        "exampleTr": "Grup hükümeti içeriden yıkmaya çalıştı."
+      }
+    ],
+    "synonyms": [
+      "undermine",
+      "sabotage",
+      "destabilize"
+    ],
+    "antonyms": [
+      "support",
+      "uphold"
+    ]
+  },
+  {
+    "id": "w_desecration",
+    "headword": "desecration",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɛsɪˈkreɪʃən/",
+    "meanings": [
+      {
+        "tr": "kutsala saygısızlık, tahrip etme",
+        "en": "the act of damaging or treating a holy or respected place with disrespect",
+        "exampleEn": "The desecration of the ancient temple shocked the community.",
+        "exampleTr": "Antik tapınağın tahrip edilmesi toplumu şoke etti."
+      }
+    ],
+    "synonyms": [
+      "defilement",
+      "profanation",
+      "violation"
+    ],
+    "antonyms": [
+      "consecration",
+      "reverence"
+    ]
+  },
+  {
+    "id": "w_sinner",
+    "headword": "sinner",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪnə/",
+    "meanings": [
+      {
+        "tr": "günahkâr",
+        "en": "a person who has done something morally or religiously wrong",
+        "exampleEn": "The preacher urged every sinner to repent.",
+        "exampleTr": "Vaiz her günahkârı tövbe etmeye çağırdı."
+      }
+    ],
+    "synonyms": [
+      "wrongdoer",
+      "transgressor",
+      "offender"
+    ],
+    "antonyms": [
+      "saint"
+    ]
+  },
+  {
+    "id": "w_ferocity",
+    "headword": "ferocity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fəˈrɒsɪti/",
+    "meanings": [
+      {
+        "tr": "vahşet, şiddet, hırçınlık",
+        "en": "the quality of being violent, fierce, or intense",
+        "exampleEn": "The storm struck the coast with terrifying ferocity.",
+        "exampleTr": "Fırtına kıyıya korkunç bir şiddetle vurdu."
+      }
+    ],
+    "synonyms": [
+      "fierceness",
+      "savagery",
+      "intensity"
+    ],
+    "antonyms": [
+      "gentleness",
+      "mildness"
+    ]
+  },
+  {
+    "id": "w_dart",
+    "headword": "dart",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɑːt/",
+    "meanings": [
+      {
+        "tr": "fırlamak, ok gibi seğirtmek",
+        "en": "to move suddenly and quickly in a particular direction",
+        "exampleEn": "A cat darted across the road in front of the car.",
+        "exampleTr": "Bir kedi arabanın önünden yola fırladı."
+      },
+      {
+        "tr": "dart, ok (oyun oku)",
+        "en": "a small pointed object thrown in the game of darts",
+        "exampleEn": "He threw the dart and hit the bullseye.",
+        "exampleTr": "Oku fırlattı ve tam ortayı vurdu."
+      }
+    ],
+    "synonyms": [
+      "dash",
+      "dash",
+      "rush"
+    ],
+    "antonyms": [
+      "dawdle",
+      "amble"
+    ]
+  },
+  {
+    "id": "w_plod",
+    "headword": "plod",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/plɒd/",
+    "meanings": [
+      {
+        "tr": "ağır ağır yürümek, güçlükle ilerlemek",
+        "en": "to walk slowly and heavily, as if tired",
+        "exampleEn": "The tired hikers plodded up the steep hill.",
+        "exampleTr": "Yorgun yürüyüşçüler dik tepeyi ağır ağır çıktılar."
+      },
+      {
+        "tr": "yavaş ve sıkıcı biçimde çalışmak",
+        "en": "to work slowly and steadily at something dull",
+        "exampleEn": "She plodded through the long report all afternoon.",
+        "exampleTr": "Bütün öğleden sonra uzun raporu güçlükle bitirmeye çalıştı."
+      }
+    ],
+    "synonyms": [
+      "trudge",
+      "lumber",
+      "slog"
+    ],
+    "antonyms": [
+      "dart",
+      "dash"
+    ]
+  },
+  {
+    "id": "w_meagrely",
+    "headword": "meagrely",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmiːɡəli/",
+    "meanings": [
+      {
+        "tr": "yetersizce, kıt kıt, az miktarda",
+        "en": "in a way that is small in amount and not enough",
+        "exampleEn": "The workers were meagrely paid for their long hours.",
+        "exampleTr": "İşçilere uzun çalışma saatleri için yetersizce ödeme yapıldı."
+      }
+    ],
+    "synonyms": [
+      "scantily",
+      "sparingly",
+      "poorly"
+    ],
+    "antonyms": [
+      "abundantly",
+      "generously"
+    ]
+  }
+]

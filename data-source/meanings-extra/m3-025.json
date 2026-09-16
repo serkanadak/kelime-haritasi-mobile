@@ -1,0 +1,332 @@
+[
+  {
+    "id": "w_lean",
+    "headword": "lean",
+    "extraMeanings": [
+      {
+        "tr": "yaslanmak, eğilmek",
+        "en": "to bend or rest against something for support",
+        "exampleEn": "She leaned against the wall while waiting for the bus.",
+        "exampleTr": "Otobüsü beklerken duvara yaslandı."
+      }
+    ]
+  },
+  {
+    "id": "w_leave",
+    "headword": "leave",
+    "extraMeanings": [
+      {
+        "tr": "ayrılmak, gitmek (fiil)",
+        "en": "to go away from a place or person",
+        "exampleEn": "We have to leave now or we'll miss the train.",
+        "exampleTr": "Şimdi gitmemiz gerek yoksa treni kaçıracağız."
+      },
+      {
+        "tr": "bırakmak, geride bırakmak (fiil)",
+        "en": "to let something remain where it is",
+        "exampleEn": "I left my keys on the kitchen table.",
+        "exampleTr": "Anahtarlarımı mutfak masasında bıraktım."
+      }
+    ]
+  },
+  {
+    "id": "w_lecture",
+    "headword": "lecture",
+    "extraMeanings": [
+      {
+        "tr": "azarlama, nutuk çekme",
+        "en": "a long serious talk criticizing someone's behaviour",
+        "exampleEn": "My dad gave me a lecture about coming home late.",
+        "exampleTr": "Babam eve geç geldiğim için bana nutuk çekti."
+      }
+    ]
+  },
+  {
+    "id": "w_length",
+    "headword": "length",
+    "extraMeanings": [
+      {
+        "tr": "süre, uzunluk (zaman)",
+        "en": "the amount of time something lasts",
+        "exampleEn": "The length of the film was almost three hours.",
+        "exampleTr": "Filmin süresi neredeyse üç saatti."
+      }
+    ]
+  },
+  {
+    "id": "w_lie",
+    "headword": "lie",
+    "extraMeanings": [
+      {
+        "tr": "uzanmak, yatmak (fiil)",
+        "en": "to be or move into a flat resting position",
+        "exampleEn": "I like to lie on the beach and read a book.",
+        "exampleTr": "Kumsalda uzanıp kitap okumayı severim."
+      }
+    ]
+  },
+  {
+    "id": "w_lift",
+    "headword": "lift",
+    "extraMeanings": [
+      {
+        "tr": "kaldırmak (fiil)",
+        "en": "to raise something to a higher position",
+        "exampleEn": "Can you help me lift this heavy box?",
+        "exampleTr": "Bu ağır kutuyu kaldırmama yardım eder misin?"
+      },
+      {
+        "tr": "arabayla bir yere bırakma, otostop",
+        "en": "a free ride in someone's car",
+        "exampleEn": "Do you need a lift to the station?",
+        "exampleTr": "İstasyona kadar seni arabayla bırakayım mı?"
+      }
+    ]
+  },
+  {
+    "id": "w_limit",
+    "headword": "limit",
+    "extraMeanings": [
+      {
+        "tr": "sınırlamak, kısıtlamak (fiil)",
+        "en": "to restrict something to a certain amount",
+        "exampleEn": "You should limit the amount of sugar you eat.",
+        "exampleTr": "Yediğin şeker miktarını sınırlamalısın."
+      }
+    ]
+  },
+  {
+    "id": "w_link",
+    "headword": "link",
+    "extraMeanings": [
+      {
+        "tr": "bağlamak, ilişkilendirmek (fiil)",
+        "en": "to connect two or more things",
+        "exampleEn": "The bridge links the two sides of the city.",
+        "exampleTr": "Köprü şehrin iki yakasını birbirine bağlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_liquid",
+    "headword": "liquid",
+    "extraMeanings": [
+      {
+        "tr": "sıvı (isim)",
+        "en": "a substance that flows freely, like water",
+        "exampleEn": "Pour the liquid into the glass carefully.",
+        "exampleTr": "Sıvıyı dikkatlice bardağa dök."
+      }
+    ]
+  },
+  {
+    "id": "w_lodge",
+    "headword": "lodge",
+    "extraMeanings": [
+      {
+        "tr": "kalmak, konaklamak (fiil)",
+        "en": "to stay somewhere temporarily, often paying rent",
+        "exampleEn": "He lodged with a local family during his studies.",
+        "exampleTr": "Öğrenimi sırasında yerel bir ailenin yanında kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_log",
+    "headword": "log",
+    "extraMeanings": [
+      {
+        "tr": "kayıt, günlük (isim)",
+        "en": "an official record of events or activities",
+        "exampleEn": "The captain wrote everything in the ship's log.",
+        "exampleTr": "Kaptan her şeyi geminin seyir defterine yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w_lump",
+    "headword": "lump",
+    "extraMeanings": [
+      {
+        "tr": "şişlik, ur (vücutta)",
+        "en": "a swelling or hard mass under the skin",
+        "exampleEn": "The doctor found a small lump on her arm.",
+        "exampleTr": "Doktor kolunda küçük bir şişlik buldu."
+      }
+    ]
+  },
+  {
+    "id": "w_lumber",
+    "headword": "lumber",
+    "extraMeanings": [
+      {
+        "tr": "hantalca yürümek, ağır ağır hareket etmek",
+        "en": "to move in a slow, heavy, awkward way",
+        "exampleEn": "The bear lumbered slowly across the field.",
+        "exampleTr": "Ayı tarlanın karşısına ağır ağır yürüdü."
+      }
+    ]
+  },
+  {
+    "id": "w_loop",
+    "headword": "loop",
+    "extraMeanings": [
+      {
+        "tr": "ilmeklemek, döngü oluşturmak (fiil)",
+        "en": "to make something into the shape of a loop",
+        "exampleEn": "He looped the rope around the post.",
+        "exampleTr": "İpi direğin etrafına doladı."
+      }
+    ]
+  },
+  {
+    "id": "w_march",
+    "headword": "march",
+    "extraMeanings": [
+      {
+        "tr": "yürüyüş; protesto yürüyüşü (isim)",
+        "en": "an organized walk by many people, often to protest",
+        "exampleEn": "Thousands joined the march for peace.",
+        "exampleTr": "Binlerce kişi barış yürüyüşüne katıldı."
+      },
+      {
+        "tr": "marş (müzik)",
+        "en": "a piece of music with a strong regular beat for marching",
+        "exampleEn": "The band played a military march.",
+        "exampleTr": "Bando askeri bir marş çaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_marble",
+    "headword": "marble",
+    "extraMeanings": [
+      {
+        "tr": "misket, bilye",
+        "en": "a small glass ball used in children's games",
+        "exampleEn": "The children played a game with colourful marbles.",
+        "exampleTr": "Çocuklar renkli misketlerle oyun oynadı."
+      }
+    ]
+  },
+  {
+    "id": "w_marker",
+    "headword": "marker",
+    "extraMeanings": [
+      {
+        "tr": "işaret, im, belirteç",
+        "en": "a sign or object that shows a position or fact",
+        "exampleEn": "A stone marker showed where the border was.",
+        "exampleTr": "Bir taş işareti sınırın nerede olduğunu gösteriyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_mass",
+    "headword": "mass",
+    "extraMeanings": [
+      {
+        "tr": "kütle, yığın (isim)",
+        "en": "a large amount of matter with no definite shape",
+        "exampleEn": "A dark mass of clouds covered the sky.",
+        "exampleTr": "Gökyüzünü koyu bir bulut kütlesi kapladı."
+      },
+      {
+        "tr": "ayin, kudas (dini)",
+        "en": "a religious ceremony in the Catholic Church",
+        "exampleEn": "They go to Mass every Sunday morning.",
+        "exampleTr": "Her pazar sabahı ayine giderler."
+      }
+    ]
+  },
+  {
+    "id": "w_measure",
+    "headword": "measure",
+    "extraMeanings": [
+      {
+        "tr": "ölçmek (fiil)",
+        "en": "to find the size, amount or degree of something",
+        "exampleEn": "Please measure the length of the table.",
+        "exampleTr": "Lütfen masanın uzunluğunu ölç."
+      }
+    ]
+  },
+  {
+    "id": "w_mend",
+    "headword": "mend",
+    "extraMeanings": [
+      {
+        "tr": "iyileşmek, düzelmek",
+        "en": "to get better after an illness or injury",
+        "exampleEn": "Her broken leg is mending well.",
+        "exampleTr": "Kırık bacağı güzelce iyileşiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_mess",
+    "headword": "mess",
+    "extraMeanings": [
+      {
+        "tr": "kötü durum, çıkmaz",
+        "en": "a difficult or confused situation",
+        "exampleEn": "My life is in a complete mess right now.",
+        "exampleTr": "Hayatım şu anda tam bir karmaşa içinde."
+      }
+    ]
+  },
+  {
+    "id": "w_mild",
+    "headword": "mild",
+    "extraMeanings": [
+      {
+        "tr": "acısız, yumuşak (tat)",
+        "en": "not strong or sharp in taste",
+        "exampleEn": "I prefer a mild cheese to a strong one.",
+        "exampleTr": "Sert peynir yerine yumuşak peyniri tercih ederim."
+      }
+    ]
+  },
+  {
+    "id": "w_minor",
+    "headword": "minor",
+    "extraMeanings": [
+      {
+        "tr": "reşit olmayan, küçük (kişi)",
+        "en": "a person who is not yet legally an adult",
+        "exampleEn": "It is illegal to sell alcohol to a minor.",
+        "exampleTr": "Reşit olmayan birine alkol satmak yasadışıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_mission",
+    "headword": "mission",
+    "extraMeanings": [
+      {
+        "tr": "heyet, temsilci grubu",
+        "en": "a group of people sent somewhere for a special purpose",
+        "exampleEn": "A trade mission was sent to negotiate the deal.",
+        "exampleTr": "Anlaşmayı görüşmek için bir ticaret heyeti gönderildi."
+      }
+    ]
+  },
+  {
+    "id": "w_model",
+    "headword": "model",
+    "extraMeanings": [
+      {
+        "tr": "maket, model (isim)",
+        "en": "a small copy of an object",
+        "exampleEn": "He built a model of a sailing ship.",
+        "exampleTr": "Bir yelkenli geminin maketini yaptı."
+      },
+      {
+        "tr": "manken, model (kişi)",
+        "en": "a person who wears clothes to show them to buyers",
+        "exampleEn": "She works as a fashion model in Paris.",
+        "exampleTr": "Paris'te moda mankeni olarak çalışıyor."
+      }
+    ]
+  }
+]

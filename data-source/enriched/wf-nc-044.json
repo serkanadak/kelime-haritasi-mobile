@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "w_undercharge",
+    "headword": "undercharge",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌndəˈtʃɑːdʒ/",
+    "meanings": [
+      {
+        "tr": "eksik ücret almak, olması gerekenden az para talep etmek",
+        "en": "to charge someone less than the correct amount",
+        "exampleEn": "The waiter undercharged us, so we paid only half the bill.",
+        "exampleTr": "Garson bizden eksik ücret aldı, bu yüzden hesabın sadece yarısını ödedik."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "overcharge"
+    ]
+  },
+  {
+    "id": "w_undercoat",
+    "headword": "undercoat",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌndəkəʊt/",
+    "meanings": [
+      {
+        "tr": "astar boya, alt kat boya",
+        "en": "a layer of paint applied before the final coat",
+        "exampleEn": "Apply an undercoat before painting the wall with the final colour.",
+        "exampleTr": "Duvarı son renkle boyamadan önce bir astar sürün."
+      }
+    ],
+    "synonyms": [
+      "primer"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_underling",
+    "headword": "underling",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌndəlɪŋ/",
+    "meanings": [
+      {
+        "tr": "ast, emir kulu, alt kademe çalışan (küçümseyici)",
+        "en": "a person of lower rank or status, especially one regarded with contempt",
+        "exampleEn": "The manager left the boring tasks to his underlings.",
+        "exampleTr": "Müdür sıkıcı işleri astlarına bıraktı."
+      }
+    ],
+    "synonyms": [
+      "subordinate",
+      "minion"
+    ],
+    "antonyms": [
+      "boss",
+      "superior"
+    ]
+  },
+  {
+    "id": "w_undermost",
+    "headword": "undermost",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌndəməʊst/",
+    "meanings": [
+      {
+        "tr": "en alttaki, en dipteki",
+        "en": "lowest in position",
+        "exampleEn": "The undermost layer of the cake was soaked in syrup.",
+        "exampleTr": "Pastanın en alt katı şuruba batırılmıştı."
+      }
+    ],
+    "synonyms": [
+      "lowest",
+      "bottommost"
+    ],
+    "antonyms": [
+      "uppermost",
+      "topmost"
+    ]
+  },
+  {
+    "id": "w_undernourished",
+    "headword": "undernourished",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌndəˈnʌrɪʃt/",
+    "meanings": [
+      {
+        "tr": "yetersiz beslenmiş, gıdasız",
+        "en": "not having enough food for good health and growth",
+        "exampleEn": "Many children in the region are undernourished and underweight.",
+        "exampleTr": "Bölgedeki birçok çocuk yetersiz beslenmiş ve zayıf durumda."
+      }
+    ],
+    "synonyms": [
+      "malnourished",
+      "underfed"
+    ],
+    "antonyms": [
+      "well-fed",
+      "overfed"
+    ]
+  },
+  {
+    "id": "w_undershirt",
+    "headword": "undershirt",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌndəʃɜːt/",
+    "meanings": [
+      {
+        "tr": "atlet, iç fanila, gömlek altına giyilen iç giysi",
+        "en": "a piece of underwear worn under a shirt",
+        "exampleEn": "He wore a white undershirt beneath his dress shirt.",
+        "exampleTr": "Gömleğinin altına beyaz bir atlet giymişti."
+      }
+    ],
+    "synonyms": [
+      "vest",
+      "singlet"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_underwhelm",
+    "headword": "underwhelm",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌndəˈwelm/",
+    "meanings": [
+      {
+        "tr": "hayal kırıklığına uğratmak, beklenen etkiyi yaratamamak",
+        "en": "to fail to impress or excite someone",
+        "exampleEn": "The much-hyped film underwhelmed most critics.",
+        "exampleTr": "Çok reklamı yapılan film çoğu eleştirmeni hayal kırıklığına uğrattı."
+      }
+    ],
+    "synonyms": [
+      "disappoint",
+      "bore"
+    ],
+    "antonyms": [
+      "impress",
+      "overwhelm"
+    ]
+  },
+  {
+    "id": "w_undeserving",
+    "headword": "undeserving",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌndɪˈzɜːvɪŋ/",
+    "meanings": [
+      {
+        "tr": "hak etmeyen, layık olmayan",
+        "en": "not deserving something, especially help or reward",
+        "exampleEn": "He felt undeserving of such generous praise.",
+        "exampleTr": "Bu kadar cömert övgüyü hak etmediğini hissetti."
+      }
+    ],
+    "synonyms": [
+      "unworthy"
+    ],
+    "antonyms": [
+      "deserving",
+      "worthy"
+    ]
+  },
+  {
+    "id": "w_undeveloped",
+    "headword": "undeveloped",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌndɪˈveləpt/",
+    "meanings": [
+      {
+        "tr": "gelişmemiş, işlenmemiş, kalkınmamış",
+        "en": "not developed; without buildings, industry, or advanced systems",
+        "exampleEn": "The land remained undeveloped for decades.",
+        "exampleTr": "Arazi onlarca yıl boyunca gelişmemiş halde kaldı."
+      }
+    ],
+    "synonyms": [
+      "undeveloped",
+      "untapped"
+    ],
+    "antonyms": [
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "w_undisputed",
+    "headword": "undisputed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌndɪˈspjuːtɪd/",
+    "meanings": [
+      {
+        "tr": "tartışmasız, itiraz edilemez, su götürmez",
+        "en": "accepted by everyone; not questioned or doubted",
+        "exampleEn": "She is the undisputed champion of the sport.",
+        "exampleTr": "O, bu sporun tartışmasız şampiyonudur."
+      }
+    ],
+    "synonyms": [
+      "unquestionable",
+      "indisputable",
+      "certain"
+    ],
+    "antonyms": [
+      "disputed",
+      "questionable"
+    ]
+  },
+  {
+    "id": "w_unearth",
+    "headword": "unearth",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈɜːθ/",
+    "meanings": [
+      {
+        "tr": "gün ışığına çıkarmak, ortaya çıkarmak, kazıp çıkarmak",
+        "en": "to find something in the ground by digging, or to discover hidden information",
+        "exampleEn": "Archaeologists unearthed ancient coins at the site.",
+        "exampleTr": "Arkeologlar bölgede antik paralar buldular."
+      },
+      {
+        "tr": "açığa çıkarmak (bilgi, gerçek)",
+        "en": "to discover something previously hidden or secret",
+        "exampleEn": "Reporters unearthed evidence of corruption.",
+        "exampleTr": "Muhabirler yolsuzluk kanıtları ortaya çıkardı."
+      }
+    ],
+    "synonyms": [
+      "discover",
+      "uncover",
+      "dig up"
+    ],
+    "antonyms": [
+      "bury",
+      "conceal"
+    ]
+  },
+  {
+    "id": "w_unearthed",
+    "headword": "unearthed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈɜːθt/",
+    "meanings": [
+      {
+        "tr": "gün ışığına çıkarılmış, ortaya çıkarılmış",
+        "en": "dug up from the ground or newly discovered",
+        "exampleEn": "The recently unearthed documents revealed the truth.",
+        "exampleTr": "Yakın zamanda ortaya çıkarılan belgeler gerçeği açığa vurdu."
+      }
+    ],
+    "synonyms": [
+      "uncovered",
+      "discovered"
+    ],
+    "antonyms": [
+      "buried",
+      "hidden"
+    ]
+  },
+  {
+    "id": "w_uneconomic",
+    "headword": "uneconomic",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌniːkəˈnɒmɪk/",
+    "meanings": [
+      {
+        "tr": "ekonomik olmayan, kârlı olmayan, verimsiz",
+        "en": "not producing a profit; not making good use of money or resources",
+        "exampleEn": "The mine was closed because it had become uneconomic to run.",
+        "exampleTr": "Maden, işletmesi ekonomik olmaktan çıktığı için kapatıldı."
+      }
+    ],
+    "synonyms": [
+      "unprofitable",
+      "unviable"
+    ],
+    "antonyms": [
+      "economic",
+      "profitable"
+    ]
+  },
+  {
+    "id": "w_unentitled",
+    "headword": "unentitled",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnɪnˈtaɪtld/",
+    "meanings": [
+      {
+        "tr": "hak sahibi olmayan, hakkı bulunmayan",
+        "en": "not having the right to something",
+        "exampleEn": "Part-time workers were unentitled to the bonus.",
+        "exampleTr": "Yarı zamanlı çalışanlar ikramiyeye hak sahibi değildi."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "entitled"
+    ]
+  },
+  {
+    "id": "w_unexceptional",
+    "headword": "unexceptional",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnɪkˈsepʃənl/",
+    "meanings": [
+      {
+        "tr": "sıradan, göze çarpmayan, olağan",
+        "en": "not special or unusual; ordinary",
+        "exampleEn": "The meal was pleasant but unexceptional.",
+        "exampleTr": "Yemek hoştu ama sıradandı."
+      }
+    ],
+    "synonyms": [
+      "ordinary",
+      "average",
+      "unremarkable"
+    ],
+    "antonyms": [
+      "exceptional",
+      "remarkable"
+    ]
+  },
+  {
+    "id": "w_unexplained",
+    "headword": "unexplained",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnɪkˈspleɪnd/",
+    "meanings": [
+      {
+        "tr": "açıklanamayan, açıklığa kavuşmamış",
+        "en": "not made clear or understood; without a known reason",
+        "exampleEn": "The cause of the fire remains unexplained.",
+        "exampleTr": "Yangının nedeni hâlâ açıklanamıyor."
+      }
+    ],
+    "synonyms": [
+      "mysterious",
+      "inexplicable"
+    ],
+    "antonyms": [
+      "explained",
+      "clear"
+    ]
+  },
+  {
+    "id": "w_unfamiliarity",
+    "headword": "unfamiliarity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnfəˌmɪliˈærəti/",
+    "meanings": [
+      {
+        "tr": "aşinasızlık, yabancılık, bilmezlik",
+        "en": "the state of not knowing or being used to something",
+        "exampleEn": "Her unfamiliarity with the software slowed her down.",
+        "exampleTr": "Yazılıma olan yabancılığı onu yavaşlattı."
+      }
+    ],
+    "synonyms": [
+      "unawareness",
+      "inexperience"
+    ],
+    "antonyms": [
+      "familiarity"
+    ]
+  },
+  {
+    "id": "w_unfazed",
+    "headword": "unfazed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈfeɪzd/",
+    "meanings": [
+      {
+        "tr": "istifini bozmayan, etkilenmeyen, sarsılmayan",
+        "en": "not worried or surprised by something difficult or unexpected",
+        "exampleEn": "She seemed completely unfazed by the criticism.",
+        "exampleTr": "Eleştiriden hiç etkilenmemiş görünüyordu."
+      }
+    ],
+    "synonyms": [
+      "unruffled",
+      "unperturbed",
+      "calm"
+    ],
+    "antonyms": [
+      "shaken",
+      "rattled"
+    ]
+  },
+  {
+    "id": "w_unfeasible",
+    "headword": "unfeasible",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈfiːzəbl/",
+    "meanings": [
+      {
+        "tr": "uygulanamaz, gerçekleştirilemez, olanaksız",
+        "en": "not able to be done or achieved",
+        "exampleEn": "The plan proved unfeasible within the tight budget.",
+        "exampleTr": "Plan, dar bütçe içinde uygulanamaz çıktı."
+      }
+    ],
+    "synonyms": [
+      "impractical",
+      "unworkable",
+      "impossible"
+    ],
+    "antonyms": [
+      "feasible",
+      "viable"
+    ]
+  },
+  {
+    "id": "w_unfeeling",
+    "headword": "unfeeling",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈfiːlɪŋ/",
+    "meanings": [
+      {
+        "tr": "duygusuz, hissiz, katı yürekli",
+        "en": "not caring about other people's feelings; cruel",
+        "exampleEn": "His unfeeling remarks hurt everyone at the table.",
+        "exampleTr": "Duygusuz sözleri masadaki herkesi incitti."
+      }
+    ],
+    "synonyms": [
+      "callous",
+      "heartless",
+      "cold"
+    ],
+    "antonyms": [
+      "compassionate",
+      "caring",
+      "sensitive"
+    ]
+  },
+  {
+    "id": "w_unfinished",
+    "headword": "unfinished",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈfɪnɪʃt/",
+    "meanings": [
+      {
+        "tr": "bitmemiş, tamamlanmamış, yarım kalmış",
+        "en": "not complete; not brought to an end",
+        "exampleEn": "She left the report unfinished on her desk.",
+        "exampleTr": "Raporu masasında yarım bıraktı."
+      }
+    ],
+    "synonyms": [
+      "incomplete",
+      "half-done"
+    ],
+    "antonyms": [
+      "finished",
+      "complete"
+    ]
+  },
+  {
+    "id": "w_unfitting",
+    "headword": "unfitting",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈfɪtɪŋ/",
+    "meanings": [
+      {
+        "tr": "uygunsuz, yakışıksız, yersiz",
+        "en": "not suitable or appropriate for a situation",
+        "exampleEn": "His casual clothes seemed unfitting for the formal ceremony.",
+        "exampleTr": "Günlük kıyafetleri resmi tören için uygunsuz görünüyordu."
+      }
+    ],
+    "synonyms": [
+      "inappropriate",
+      "unsuitable",
+      "improper"
+    ],
+    "antonyms": [
+      "fitting",
+      "appropriate"
+    ]
+  },
+  {
+    "id": "w_unfocused",
+    "headword": "unfocused",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈfəʊkəst/",
+    "meanings": [
+      {
+        "tr": "odaklanmamış, dağınık, belirsiz",
+        "en": "not concentrating or clearly directed",
+        "exampleEn": "His argument was unfocused and hard to follow.",
+        "exampleTr": "Argümanı dağınıktı ve takip etmesi zordu."
+      }
+    ],
+    "synonyms": [
+      "scattered",
+      "distracted",
+      "vague"
+    ],
+    "antonyms": [
+      "focused",
+      "concentrated"
+    ]
+  },
+  {
+    "id": "w_unforeseeable",
+    "headword": "unforeseeable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnfɔːˈsiːəbl/",
+    "meanings": [
+      {
+        "tr": "öngörülemez, tahmin edilemez",
+        "en": "impossible to know about or predict beforehand",
+        "exampleEn": "The delay was caused by unforeseeable circumstances.",
+        "exampleTr": "Gecikme, öngörülemeyen koşullardan kaynaklandı."
+      }
+    ],
+    "synonyms": [
+      "unpredictable",
+      "unexpected"
+    ],
+    "antonyms": [
+      "foreseeable",
+      "predictable"
+    ]
+  },
+  {
+    "id": "w_ungratefulness",
+    "headword": "ungratefulness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈɡreɪtflnəs/",
+    "meanings": [
+      {
+        "tr": "nankörlük, minnetsizlik",
+        "en": "the quality of not showing thanks for something received",
+        "exampleEn": "His ungratefulness after all their help was shocking.",
+        "exampleTr": "Onca yardımdan sonra gösterdiği nankörlük şaşırtıcıydı."
+      }
+    ],
+    "synonyms": [
+      "ingratitude",
+      "thanklessness"
+    ],
+    "antonyms": [
+      "gratitude",
+      "thankfulness"
+    ]
+  },
+  {
+    "id": "w_unhurt",
+    "headword": "unhurt",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈhɜːt/",
+    "meanings": [
+      {
+        "tr": "yara almamış, incinmemiş, zarar görmemiş",
+        "en": "not injured or harmed",
+        "exampleEn": "Amazingly, the driver walked away unhurt from the crash.",
+        "exampleTr": "İnanılmaz bir şekilde sürücü kazadan yara almadan kurtuldu."
+      }
+    ],
+    "synonyms": [
+      "unharmed",
+      "uninjured",
+      "safe"
+    ],
+    "antonyms": [
+      "injured",
+      "hurt"
+    ]
+  },
+  {
+    "id": "w_unhygienic",
+    "headword": "unhygienic",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnhaɪˈdʒiːnɪk/",
+    "meanings": [
+      {
+        "tr": "sağlıksız, hijyenik olmayan, temiz olmayan",
+        "en": "not clean, and therefore likely to cause disease",
+        "exampleEn": "The kitchen was closed for being unhygienic.",
+        "exampleTr": "Mutfak hijyenik olmadığı için kapatıldı."
+      }
+    ],
+    "synonyms": [
+      "unsanitary",
+      "dirty"
+    ],
+    "antonyms": [
+      "hygienic",
+      "clean",
+      "sanitary"
+    ]
+  },
+  {
+    "id": "w_unidentified",
+    "headword": "unidentified",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnaɪˈdentɪfaɪd/",
+    "meanings": [
+      {
+        "tr": "kimliği belirlenemeyen, tanımlanamayan",
+        "en": "not recognized or named",
+        "exampleEn": "An unidentified man was seen leaving the building.",
+        "exampleTr": "Kimliği belirsiz bir adamın binadan ayrıldığı görüldü."
+      }
+    ],
+    "synonyms": [
+      "unknown",
+      "unnamed"
+    ],
+    "antonyms": [
+      "identified",
+      "known"
+    ]
+  },
+  {
+    "id": "w_unilingual",
+    "headword": "unilingual",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌjuːnɪˈlɪŋɡwəl/",
+    "meanings": [
+      {
+        "tr": "tek dilli, sadece bir dil konuşan",
+        "en": "using or able to speak only one language",
+        "exampleEn": "The document was published in a unilingual English edition.",
+        "exampleTr": "Belge tek dilli İngilizce baskısıyla yayımlandı."
+      }
+    ],
+    "synonyms": [
+      "monolingual"
+    ],
+    "antonyms": [
+      "bilingual",
+      "multilingual"
+    ]
+  },
+  {
+    "id": "w_uninformative",
+    "headword": "uninformative",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnɪnˈfɔːmətɪv/",
+    "meanings": [
+      {
+        "tr": "bilgilendirici olmayan, aydınlatıcı olmayan",
+        "en": "not providing useful information",
+        "exampleEn": "The report was long but uninformative.",
+        "exampleTr": "Rapor uzundu ama bilgilendirici değildi."
+      }
+    ],
+    "synonyms": [
+      "unhelpful",
+      "vague"
+    ],
+    "antonyms": [
+      "informative",
+      "helpful"
+    ]
+  },
+  {
+    "id": "w_uninhabited",
+    "headword": "uninhabited",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnɪnˈhæbɪtɪd/",
+    "meanings": [
+      {
+        "tr": "ıssız, insan yaşamayan, meskûn olmayan",
+        "en": "having no people living there",
+        "exampleEn": "They landed on a small, uninhabited island.",
+        "exampleTr": "Küçük, ıssız bir adaya ayak bastılar."
+      }
+    ],
+    "synonyms": [
+      "deserted",
+      "empty",
+      "unpopulated"
+    ],
+    "antonyms": [
+      "inhabited",
+      "populated"
+    ]
+  },
+  {
+    "id": "w_unintelligible",
+    "headword": "unintelligible",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnɪnˈtelɪdʒəbl/",
+    "meanings": [
+      {
+        "tr": "anlaşılmaz, anlaşılamayan",
+        "en": "impossible to understand",
+        "exampleEn": "His handwriting was almost unintelligible.",
+        "exampleTr": "El yazısı neredeyse anlaşılmazdı."
+      }
+    ],
+    "synonyms": [
+      "incomprehensible",
+      "incoherent"
+    ],
+    "antonyms": [
+      "intelligible",
+      "clear",
+      "comprehensible"
+    ]
+  },
+  {
+    "id": "w_unintended",
+    "headword": "unintended",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnɪnˈtendɪd/",
+    "meanings": [
+      {
+        "tr": "kasıtsız, istenmeden olan, amaçlanmayan",
+        "en": "not planned or meant",
+        "exampleEn": "The policy had several unintended consequences.",
+        "exampleTr": "Politikanın birkaç istenmeyen sonucu oldu."
+      }
+    ],
+    "synonyms": [
+      "accidental",
+      "unplanned",
+      "inadvertent"
+    ],
+    "antonyms": [
+      "intended",
+      "deliberate"
+    ]
+  },
+  {
+    "id": "w_uninterrupted",
+    "headword": "uninterrupted",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnɪntəˈrʌptɪd/",
+    "meanings": [
+      {
+        "tr": "kesintisiz, aralıksız, sürekli",
+        "en": "continuing without stopping",
+        "exampleEn": "We enjoyed eight hours of uninterrupted sleep.",
+        "exampleTr": "Sekiz saat kesintisiz uyku çektik."
+      }
+    ],
+    "synonyms": [
+      "continuous",
+      "unbroken",
+      "constant"
+    ],
+    "antonyms": [
+      "interrupted",
+      "broken"
+    ]
+  },
+  {
+    "id": "w_uninvited",
+    "headword": "uninvited",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnɪnˈvaɪtɪd/",
+    "meanings": [
+      {
+        "tr": "davetsiz, çağrılmamış",
+        "en": "not having been asked to come",
+        "exampleEn": "Several uninvited guests turned up at the party.",
+        "exampleTr": "Partiye birkaç davetsiz misafir çıkageldi."
+      }
+    ],
+    "synonyms": [
+      "unwelcome",
+      "unasked"
+    ],
+    "antonyms": [
+      "invited",
+      "welcome"
+    ]
+  },
+  {
+    "id": "w_unison",
+    "headword": "unison",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈjuːnɪsn/",
+    "meanings": [
+      {
+        "tr": "birlik, uyum, aynı anda birlikte (yapma)",
+        "en": "doing or saying something at the same time as others",
+        "exampleEn": "The crowd chanted the slogan in unison.",
+        "exampleTr": "Kalabalık sloganı tek ağızdan hep bir ağızdan bağırdı."
+      }
+    ],
+    "synonyms": [
+      "harmony",
+      "accord",
+      "agreement"
+    ],
+    "antonyms": [
+      "discord"
+    ]
+  },
+  {
+    "id": "w_unkempt",
+    "headword": "unkempt",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈkempt/",
+    "meanings": [
+      {
+        "tr": "bakımsız, dağınık, özensiz",
+        "en": "not neat or tidy; not cared for",
+        "exampleEn": "His hair was unkempt and his clothes creased.",
+        "exampleTr": "Saçları dağınık, kıyafetleri buruşuktu."
+      }
+    ],
+    "synonyms": [
+      "dishevelled",
+      "untidy",
+      "scruffy"
+    ],
+    "antonyms": [
+      "neat",
+      "tidy",
+      "groomed"
+    ]
+  },
+  {
+    "id": "w_unkindness",
+    "headword": "unkindness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈkaɪndnəs/",
+    "meanings": [
+      {
+        "tr": "kabalık, sevgisizlik, zalimlik",
+        "en": "unkind behaviour; the quality of being unkind",
+        "exampleEn": "She never forgot his unkindness towards her.",
+        "exampleTr": "Ona karşı olan kabalığını hiç unutmadı."
+      }
+    ],
+    "synonyms": [
+      "cruelty",
+      "meanness"
+    ],
+    "antonyms": [
+      "kindness",
+      "compassion"
+    ]
+  },
+  {
+    "id": "w_unleash",
+    "headword": "unleash",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈliːʃ/",
+    "meanings": [
+      {
+        "tr": "serbest bırakmak, ortaya salıvermek, açığa çıkarmak",
+        "en": "to suddenly release a strong force, feeling, or activity",
+        "exampleEn": "The decision unleashed a wave of protests.",
+        "exampleTr": "Karar bir protesto dalgasını tetikledi."
+      }
+    ],
+    "synonyms": [
+      "release",
+      "let loose",
+      "trigger"
+    ],
+    "antonyms": [
+      "restrain",
+      "contain",
+      "suppress"
+    ]
+  },
+  {
+    "id": "w_unless",
+    "headword": "unless",
+    "pos": "conj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ənˈles/",
+    "meanings": [
+      {
+        "tr": "-medikçe, olmazsa, aksi takdirde",
+        "en": "except if; used to say something will happen if another thing does not",
+        "exampleEn": "We won't get there on time unless we leave now.",
+        "exampleTr": "Şimdi çıkmazsak oraya zamanında varamayız."
+      }
+    ],
+    "synonyms": [
+      "except if"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_unlicensed",
+    "headword": "unlicensed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈlaɪsnst/",
+    "meanings": [
+      {
+        "tr": "ruhsatsız, lisanssız, izinsiz",
+        "en": "not having official permission or a licence",
+        "exampleEn": "He was fined for driving an unlicensed vehicle.",
+        "exampleTr": "Ruhsatsız araç kullandığı için ceza aldı."
+      }
+    ],
+    "synonyms": [
+      "unauthorized",
+      "unregistered"
+    ],
+    "antonyms": [
+      "licensed",
+      "authorized"
+    ]
+  },
+  {
+    "id": "w_unlikelihood",
+    "headword": "unlikelihood",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈlaɪklihʊd/",
+    "meanings": [
+      {
+        "tr": "olasılık dışılık, ihtimalsizlik",
+        "en": "the state of being improbable or not likely to happen",
+        "exampleEn": "Given the unlikelihood of success, they abandoned the plan.",
+        "exampleTr": "Başarı ihtimalinin düşüklüğü göz önüne alınınca planı bıraktılar."
+      }
+    ],
+    "synonyms": [
+      "improbability"
+    ],
+    "antonyms": [
+      "likelihood",
+      "probability"
+    ]
+  },
+  {
+    "id": "w_unmatched",
+    "headword": "unmatched",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈmætʃt/",
+    "meanings": [
+      {
+        "tr": "eşsiz, benzersiz, emsalsiz",
+        "en": "better than any other; without equal",
+        "exampleEn": "Her skill as a negotiator is unmatched.",
+        "exampleTr": "Bir müzakereci olarak becerisi eşsizdir."
+      }
+    ],
+    "synonyms": [
+      "unrivalled",
+      "unequalled",
+      "peerless"
+    ],
+    "antonyms": [
+      "matched",
+      "equalled"
+    ]
+  },
+  {
+    "id": "w_unmemorable",
+    "headword": "unmemorable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈmemərəbl/",
+    "meanings": [
+      {
+        "tr": "akılda kalmayan, unutulur, sıradan",
+        "en": "not worth remembering; not special",
+        "exampleEn": "The concert was pleasant but ultimately unmemorable.",
+        "exampleTr": "Konser hoştu ama sonuçta akılda kalıcı değildi."
+      }
+    ],
+    "synonyms": [
+      "forgettable",
+      "unremarkable"
+    ],
+    "antonyms": [
+      "memorable",
+      "unforgettable"
+    ]
+  }
+]

@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "w_holiness",
+    "headword": "holiness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhəʊlinəs/",
+    "meanings": [
+      {
+        "tr": "kutsallık",
+        "en": "the state of being holy or sacred",
+        "exampleEn": "The pilgrims came to feel the holiness of the ancient shrine.",
+        "exampleTr": "Hacılar kadim türbenin kutsallığını hissetmeye geldi."
+      }
+    ],
+    "synonyms": [
+      "sanctity",
+      "sacredness"
+    ],
+    "antonyms": [
+      "profanity"
+    ]
+  },
+  {
+    "id": "w_homage",
+    "headword": "homage",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɒmɪdʒ/",
+    "meanings": [
+      {
+        "tr": "saygı, hürmet",
+        "en": "special honour or respect shown publicly",
+        "exampleEn": "The film pays homage to the great directors of the past.",
+        "exampleTr": "Film geçmişin büyük yönetmenlerine saygı sunuyor."
+      }
+    ],
+    "synonyms": [
+      "tribute",
+      "respect",
+      "honour"
+    ],
+    "antonyms": [
+      "disrespect"
+    ]
+  },
+  {
+    "id": "w_homebody",
+    "headword": "homebody",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhəʊmbɒdi/",
+    "meanings": [
+      {
+        "tr": "evcimen kişi, ev insanı",
+        "en": "a person who likes to stay at home",
+        "exampleEn": "She's a homebody who would rather read than go to parties.",
+        "exampleTr": "O, partilere gitmektense kitap okumayı tercih eden evcimen biridir."
+      }
+    ],
+    "synonyms": [
+      "stay-at-home"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_homogeneity",
+    "headword": "homogeneity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhɒmədʒəˈniːəti/",
+    "meanings": [
+      {
+        "tr": "türdeşlik, benzeşiklik",
+        "en": "the quality of being all of the same or a similar kind",
+        "exampleEn": "The homogeneity of the population makes it easier to study.",
+        "exampleTr": "Nüfusun türdeşliği onu incelemeyi kolaylaştırıyor."
+      }
+    ],
+    "synonyms": [
+      "uniformity",
+      "sameness"
+    ],
+    "antonyms": [
+      "heterogeneity",
+      "diversity"
+    ]
+  },
+  {
+    "id": "w_honorably",
+    "headword": "honorably",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒnərəbli/",
+    "meanings": [
+      {
+        "tr": "onurlu bir şekilde, şerefle",
+        "en": "in a way that is honest and deserving of respect",
+        "exampleEn": "He behaved honorably throughout the negotiations.",
+        "exampleTr": "Müzakereler boyunca onurlu bir şekilde davrandı."
+      }
+    ],
+    "synonyms": [
+      "nobly",
+      "virtuously"
+    ],
+    "antonyms": [
+      "dishonorably",
+      "shamefully"
+    ]
+  },
+  {
+    "id": "w_hooligan",
+    "headword": "hooligan",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhuːlɪɡən/",
+    "meanings": [
+      {
+        "tr": "holigan, serseri",
+        "en": "a young person who behaves in a violent and destructive way",
+        "exampleEn": "A group of hooligans smashed the shop windows after the match.",
+        "exampleTr": "Bir grup holigan maçtan sonra dükkânın camlarını kırdı."
+      }
+    ],
+    "synonyms": [
+      "thug",
+      "vandal",
+      "ruffian"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_horrendous",
+    "headword": "horrendous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɒˈrendəs/",
+    "meanings": [
+      {
+        "tr": "korkunç, dehşet verici",
+        "en": "extremely unpleasant or bad",
+        "exampleEn": "The traffic on the motorway was horrendous this morning.",
+        "exampleTr": "Bu sabah otoyoldaki trafik korkunçtu."
+      }
+    ],
+    "synonyms": [
+      "horrific",
+      "terrible",
+      "dreadful"
+    ],
+    "antonyms": [
+      "wonderful",
+      "pleasant"
+    ]
+  },
+  {
+    "id": "w_horrific",
+    "headword": "horrific",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɒˈrɪfɪk/",
+    "meanings": [
+      {
+        "tr": "dehşet verici, korkunç",
+        "en": "causing horror; very shocking",
+        "exampleEn": "There was a horrific accident on the highway last night.",
+        "exampleTr": "Dün gece otoyolda korkunç bir kaza oldu."
+      }
+    ],
+    "synonyms": [
+      "horrendous",
+      "gruesome",
+      "appalling"
+    ],
+    "antonyms": [
+      "pleasant"
+    ]
+  },
+  {
+    "id": "w_hors_d_oeuvre",
+    "headword": "hors d'oeuvre",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɔː ˈdɜːv/",
+    "meanings": [
+      {
+        "tr": "ordövr, meze",
+        "en": "a small savoury dish served before the main course of a meal",
+        "exampleEn": "The waiter brought a tray of hors d'oeuvre before dinner.",
+        "exampleTr": "Garson yemekten önce bir tabak ordövr getirdi."
+      }
+    ],
+    "synonyms": [
+      "appetizer",
+      "starter",
+      "canapé"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_hot_pepper",
+    "headword": "hot pepper",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhɒt ˈpepə/",
+    "meanings": [
+      {
+        "tr": "acı biber",
+        "en": "a small pepper with a strong, spicy taste",
+        "exampleEn": "She added a hot pepper to the sauce to make it spicier.",
+        "exampleTr": "Sosu daha acı yapmak için içine bir acı biber ekledi."
+      }
+    ],
+    "synonyms": [
+      "chili",
+      "chilli"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_humanitarian",
+    "headword": "humanitarian",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hjuːˌmænɪˈteəriən/",
+    "meanings": [
+      {
+        "tr": "insani, insancıl",
+        "en": "concerned with reducing suffering and improving people's lives",
+        "exampleEn": "The charity provides humanitarian aid to refugees.",
+        "exampleTr": "Yardım kuruluşu mültecilere insani yardım sağlıyor."
+      }
+    ],
+    "synonyms": [
+      "charitable",
+      "benevolent"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_humanoid",
+    "headword": "humanoid",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhjuːmənɔɪd/",
+    "meanings": [
+      {
+        "tr": "insansı, insan benzeri",
+        "en": "having an appearance or character resembling that of a human",
+        "exampleEn": "The factory uses a humanoid robot to greet visitors.",
+        "exampleTr": "Fabrika ziyaretçileri karşılamak için insansı bir robot kullanıyor."
+      }
+    ],
+    "synonyms": [
+      "android"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_humidity",
+    "headword": "humidity",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hjuːˈmɪdəti/",
+    "meanings": [
+      {
+        "tr": "nem, rutubet",
+        "en": "the amount of water vapour in the air",
+        "exampleEn": "The high humidity made the summer heat unbearable.",
+        "exampleTr": "Yüksek nem yaz sıcağını dayanılmaz kıldı."
+      }
+    ],
+    "synonyms": [
+      "dampness",
+      "moisture"
+    ],
+    "antonyms": [
+      "dryness",
+      "aridity"
+    ]
+  },
+  {
+    "id": "w_hunch",
+    "headword": "hunch",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hʌntʃ/",
+    "meanings": [
+      {
+        "tr": "önsezi, içe doğma",
+        "en": "a feeling that something is true even without evidence",
+        "exampleEn": "I had a hunch that she would arrive late.",
+        "exampleTr": "Onun geç geleceğine dair bir önsezim vardı."
+      }
+    ],
+    "synonyms": [
+      "feeling",
+      "intuition",
+      "suspicion"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_hundred",
+    "headword": "hundred",
+    "pos": "noun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhʌndrəd/",
+    "meanings": [
+      {
+        "tr": "yüz (sayı)",
+        "en": "the number 100",
+        "exampleEn": "There were about a hundred people at the concert.",
+        "exampleTr": "Konserde yaklaşık yüz kişi vardı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_hunt_for",
+    "headword": "hunt for",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhʌnt fɔː/",
+    "meanings": [
+      {
+        "tr": "aramak, peşine düşmek",
+        "en": "to search carefully for something",
+        "exampleEn": "She spent all morning hunting for her lost keys.",
+        "exampleTr": "Kaybettiği anahtarlarını aramakla bütün sabahını geçirdi."
+      }
+    ],
+    "synonyms": [
+      "search for",
+      "seek",
+      "look for"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_hunting_dog",
+    "headword": "hunting dog",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhʌntɪŋ dɒɡ/",
+    "meanings": [
+      {
+        "tr": "av köpeği",
+        "en": "a dog trained or used for hunting",
+        "exampleEn": "The farmer kept a hunting dog to track deer.",
+        "exampleTr": "Çiftçi geyik izlemek için bir av köpeği besliyordu."
+      }
+    ],
+    "synonyms": [
+      "hound"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_hurl",
+    "headword": "hurl",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɜːl/",
+    "meanings": [
+      {
+        "tr": "fırlatmak, savurmak",
+        "en": "to throw something with great force",
+        "exampleEn": "The protesters began to hurl stones at the police.",
+        "exampleTr": "Göstericiler polise taş fırlatmaya başladı."
+      }
+    ],
+    "synonyms": [
+      "throw",
+      "fling",
+      "toss"
+    ],
+    "antonyms": [
+      "catch"
+    ]
+  },
+  {
+    "id": "w_hurricane",
+    "headword": "hurricane",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhʌrɪkən/",
+    "meanings": [
+      {
+        "tr": "kasırga",
+        "en": "a violent storm with very strong winds",
+        "exampleEn": "The hurricane destroyed hundreds of homes along the coast.",
+        "exampleTr": "Kasırga sahil boyunca yüzlerce evi yıktı."
+      }
+    ],
+    "synonyms": [
+      "cyclone",
+      "typhoon",
+      "storm"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_hypocritical",
+    "headword": "hypocritical",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhɪpəˈkrɪtɪkəl/",
+    "meanings": [
+      {
+        "tr": "ikiyüzlü, riyakâr",
+        "en": "pretending to have beliefs or morals that one does not actually have",
+        "exampleEn": "It's hypocritical to criticize others for something you do yourself.",
+        "exampleTr": "Kendinin de yaptığı bir şey için başkalarını eleştirmek ikiyüzlülüktür."
+      }
+    ],
+    "synonyms": [
+      "insincere",
+      "two-faced",
+      "false"
+    ],
+    "antonyms": [
+      "sincere",
+      "genuine"
+    ]
+  },
+  {
+    "id": "w_hypocritically",
+    "headword": "hypocritically",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhɪpəˈkrɪtɪkli/",
+    "meanings": [
+      {
+        "tr": "ikiyüzlülükle, riyakârca",
+        "en": "in a hypocritical way; insincerely",
+        "exampleEn": "He hypocritically preached honesty while lying to everyone.",
+        "exampleTr": "Herkese yalan söylerken riyakârca dürüstlük vaaz ediyordu."
+      }
+    ],
+    "synonyms": [
+      "insincerely"
+    ],
+    "antonyms": [
+      "sincerely"
+    ]
+  },
+  {
+    "id": "w_icily",
+    "headword": "icily",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈaɪsɪli/",
+    "meanings": [
+      {
+        "tr": "buz gibi, soğuk bir tavırla",
+        "en": "in a very cold and unfriendly manner",
+        "exampleEn": "\"I don't need your help,\" she said icily.",
+        "exampleTr": "\"Yardımına ihtiyacım yok,\" dedi soğuk bir tavırla."
+      }
+    ],
+    "synonyms": [
+      "coldly",
+      "frostily"
+    ],
+    "antonyms": [
+      "warmly"
+    ]
+  },
+  {
+    "id": "w_idealist",
+    "headword": "idealist",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/aɪˈdɪəlɪst/",
+    "meanings": [
+      {
+        "tr": "idealist, ülkücü",
+        "en": "a person who believes in and pursues high or noble ideals",
+        "exampleEn": "As a young idealist, he wanted to change the whole world.",
+        "exampleTr": "Genç bir idealist olarak tüm dünyayı değiştirmek istiyordu."
+      }
+    ],
+    "synonyms": [
+      "dreamer",
+      "visionary"
+    ],
+    "antonyms": [
+      "realist",
+      "pragmatist"
+    ]
+  },
+  {
+    "id": "w_ideation",
+    "headword": "ideation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌaɪdiˈeɪʃən/",
+    "meanings": [
+      {
+        "tr": "fikir üretme, düşünce oluşturma",
+        "en": "the process of forming ideas or concepts",
+        "exampleEn": "The team held a workshop to encourage creative ideation.",
+        "exampleTr": "Ekip yaratıcı fikir üretmeyi teşvik etmek için bir çalıştay düzenledi."
+      }
+    ],
+    "synonyms": [
+      "brainstorming",
+      "conception"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_idiocy",
+    "headword": "idiocy",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪdiəsi/",
+    "meanings": [
+      {
+        "tr": "aptallık, ahmaklık",
+        "en": "extremely stupid behaviour",
+        "exampleEn": "It was sheer idiocy to drive so fast in the fog.",
+        "exampleTr": "Siste bu kadar hızlı araba sürmek tam bir aptallıktı."
+      }
+    ],
+    "synonyms": [
+      "stupidity",
+      "folly"
+    ],
+    "antonyms": [
+      "wisdom",
+      "intelligence"
+    ]
+  },
+  {
+    "id": "w_idly",
+    "headword": "idly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈaɪdli/",
+    "meanings": [
+      {
+        "tr": "boş boş, aylak aylak",
+        "en": "without doing anything or without purpose",
+        "exampleEn": "He sat idly by the window, watching the rain.",
+        "exampleTr": "Pencerenin yanında boş boş oturup yağmuru izledi."
+      }
+    ],
+    "synonyms": [
+      "lazily",
+      "aimlessly"
+    ],
+    "antonyms": [
+      "busily",
+      "actively"
+    ]
+  },
+  {
+    "id": "w_if",
+    "headword": "if",
+    "pos": "conj",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪf/",
+    "meanings": [
+      {
+        "tr": "eğer, şayet",
+        "en": "used to introduce a condition",
+        "exampleEn": "If it rains, we will stay at home.",
+        "exampleTr": "Eğer yağmur yağarsa evde kalacağız."
+      },
+      {
+        "tr": "...olup olmadığını",
+        "en": "whether",
+        "exampleEn": "I don't know if she is coming.",
+        "exampleTr": "Onun gelip gelmeyeceğini bilmiyorum."
+      }
+    ],
+    "synonyms": [
+      "whether",
+      "provided that"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_ignominy",
+    "headword": "ignominy",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪɡnəmɪni/",
+    "meanings": [
+      {
+        "tr": "rezalet, yüz karası",
+        "en": "public shame and loss of honour",
+        "exampleEn": "He suffered the ignominy of being fired in front of his colleagues.",
+        "exampleTr": "Meslektaşlarının önünde kovulmanın rezaletini yaşadı."
+      }
+    ],
+    "synonyms": [
+      "disgrace",
+      "humiliation",
+      "shame"
+    ],
+    "antonyms": [
+      "honour",
+      "glory"
+    ]
+  },
+  {
+    "id": "w_ill_fortune",
+    "headword": "ill fortune",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪl ˈfɔːtʃən/",
+    "meanings": [
+      {
+        "tr": "talihsizlik, kötü şans",
+        "en": "bad luck",
+        "exampleEn": "Through no fault of his own, ill fortune ruined his business.",
+        "exampleTr": "Hiçbir kusuru olmadan, talihsizlik işini mahvetti."
+      }
+    ],
+    "synonyms": [
+      "bad luck",
+      "misfortune"
+    ],
+    "antonyms": [
+      "good fortune",
+      "luck"
+    ]
+  },
+  {
+    "id": "w_ill_starred",
+    "headword": "ill-starred",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪl ˈstɑːd/",
+    "meanings": [
+      {
+        "tr": "talihsiz, uğursuz",
+        "en": "destined to fail or suffer; unlucky",
+        "exampleEn": "Their ill-starred romance ended in tragedy.",
+        "exampleTr": "Talihsiz aşkları trajediyle sonuçlandı."
+      }
+    ],
+    "synonyms": [
+      "unlucky",
+      "doomed",
+      "ill-fated"
+    ],
+    "antonyms": [
+      "fortunate",
+      "lucky"
+    ]
+  },
+  {
+    "id": "w_ill_timed",
+    "headword": "ill-timed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪl ˈtaɪmd/",
+    "meanings": [
+      {
+        "tr": "zamansız, uygunsuz zamanda",
+        "en": "happening at an unsuitable or inconvenient time",
+        "exampleEn": "His ill-timed joke made the meeting even more awkward.",
+        "exampleTr": "Zamansız şakası toplantıyı daha da tuhaflaştırdı."
+      }
+    ],
+    "synonyms": [
+      "untimely",
+      "inopportune"
+    ],
+    "antonyms": [
+      "well-timed",
+      "opportune"
+    ]
+  },
+  {
+    "id": "w_illiteracy",
+    "headword": "illiteracy",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈlɪtərəsi/",
+    "meanings": [
+      {
+        "tr": "okuryazar olmama, cehalet",
+        "en": "the inability to read or write",
+        "exampleEn": "The government launched a campaign to reduce illiteracy.",
+        "exampleTr": "Hükûmet okuryazar olmamayı azaltmak için bir kampanya başlattı."
+      }
+    ],
+    "synonyms": [
+      "ignorance"
+    ],
+    "antonyms": [
+      "literacy"
+    ]
+  },
+  {
+    "id": "w_illiterate",
+    "headword": "illiterate",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈlɪtərət/",
+    "meanings": [
+      {
+        "tr": "okuma yazma bilmeyen",
+        "en": "unable to read or write",
+        "exampleEn": "Many adults in the region are still illiterate.",
+        "exampleTr": "Bölgedeki birçok yetişkin hâlâ okuma yazma bilmiyor."
+      }
+    ],
+    "synonyms": [
+      "uneducated"
+    ],
+    "antonyms": [
+      "literate",
+      "educated"
+    ]
+  },
+  {
+    "id": "w_immaculate",
+    "headword": "immaculate",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈmækjələt/",
+    "meanings": [
+      {
+        "tr": "tertemiz, kusursuz",
+        "en": "perfectly clean and tidy; free from fault",
+        "exampleEn": "Her kitchen was always immaculate.",
+        "exampleTr": "Mutfağı her zaman tertemizdi."
+      }
+    ],
+    "synonyms": [
+      "spotless",
+      "pristine",
+      "flawless"
+    ],
+    "antonyms": [
+      "dirty",
+      "messy"
+    ]
+  },
+  {
+    "id": "w_immaterial",
+    "headword": "immaterial",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪməˈtɪəriəl/",
+    "meanings": [
+      {
+        "tr": "önemsiz, ilgisiz",
+        "en": "not important or relevant in a particular situation",
+        "exampleEn": "Whether he agrees or not is immaterial to the final decision.",
+        "exampleTr": "Onun kabul edip etmemesi nihai karar için önemsizdir."
+      }
+    ],
+    "synonyms": [
+      "irrelevant",
+      "unimportant"
+    ],
+    "antonyms": [
+      "relevant",
+      "important",
+      "material"
+    ]
+  },
+  {
+    "id": "w_immateriality",
+    "headword": "immateriality",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪmətɪəriˈæləti/",
+    "meanings": [
+      {
+        "tr": "önemsizlik, maddesizlik",
+        "en": "the quality of being unimportant or of having no physical substance",
+        "exampleEn": "The lawyer stressed the immateriality of the missing document.",
+        "exampleTr": "Avukat kayıp belgenin önemsizliğini vurguladı."
+      }
+    ],
+    "synonyms": [
+      "irrelevance"
+    ],
+    "antonyms": [
+      "relevance",
+      "materiality"
+    ]
+  },
+  {
+    "id": "w_immodestly",
+    "headword": "immodestly",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈmɒdɪstli/",
+    "meanings": [
+      {
+        "tr": "gösterişli bir şekilde, mütevazı olmayan biçimde",
+        "en": "in a way that shows too much pride or too little modesty",
+        "exampleEn": "He immodestly boasted about his achievements all evening.",
+        "exampleTr": "Bütün akşam başarılarıyla gösterişli bir şekilde övündü."
+      }
+    ],
+    "synonyms": [
+      "boastfully",
+      "arrogantly"
+    ],
+    "antonyms": [
+      "modestly",
+      "humbly"
+    ]
+  },
+  {
+    "id": "w_immunity",
+    "headword": "immunity",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈmjuːnəti/",
+    "meanings": [
+      {
+        "tr": "bağışıklık",
+        "en": "the body's ability to resist a particular infection",
+        "exampleEn": "The vaccine gives immunity against the virus.",
+        "exampleTr": "Aşı virüse karşı bağışıklık sağlar."
+      },
+      {
+        "tr": "dokunulmazlık, muafiyet",
+        "en": "official protection from prosecution or legal obligation",
+        "exampleEn": "The witness was granted immunity in exchange for his testimony.",
+        "exampleTr": "Tanığa ifadesi karşılığında dokunulmazlık verildi."
+      }
+    ],
+    "synonyms": [
+      "resistance",
+      "protection"
+    ],
+    "antonyms": [
+      "susceptibility",
+      "vulnerability"
+    ]
+  },
+  {
+    "id": "w_impartiality",
+    "headword": "impartiality",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪmpɑːʃiˈæləti/",
+    "meanings": [
+      {
+        "tr": "tarafsızlık, yansızlık",
+        "en": "the quality of treating everyone equally and fairly",
+        "exampleEn": "A judge must maintain complete impartiality.",
+        "exampleTr": "Bir yargıç tam bir tarafsızlık korumalıdır."
+      }
+    ],
+    "synonyms": [
+      "neutrality",
+      "fairness",
+      "objectivity"
+    ],
+    "antonyms": [
+      "bias",
+      "partiality"
+    ]
+  },
+  {
+    "id": "w_impasse",
+    "headword": "impasse",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/æmˈpɑːs/",
+    "meanings": [
+      {
+        "tr": "çıkmaz, açmaz",
+        "en": "a situation in which no progress is possible",
+        "exampleEn": "The negotiations reached an impasse over pay.",
+        "exampleTr": "Müzakereler ücret konusunda çıkmaza girdi."
+      }
+    ],
+    "synonyms": [
+      "deadlock",
+      "stalemate",
+      "standstill"
+    ],
+    "antonyms": [
+      "breakthrough"
+    ]
+  },
+  {
+    "id": "w_impassive",
+    "headword": "impassive",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪmˈpæsɪv/",
+    "meanings": [
+      {
+        "tr": "duygusuz, ifadesiz",
+        "en": "not showing any emotion",
+        "exampleEn": "His face remained impassive as he heard the verdict.",
+        "exampleTr": "Kararı duyduğunda yüzü ifadesiz kaldı."
+      }
+    ],
+    "synonyms": [
+      "expressionless",
+      "stoic",
+      "emotionless"
+    ],
+    "antonyms": [
+      "emotional",
+      "expressive"
+    ]
+  },
+  {
+    "id": "w_impeccable",
+    "headword": "impeccable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪmˈpekəbəl/",
+    "meanings": [
+      {
+        "tr": "kusursuz, mükemmel",
+        "en": "without any faults or mistakes; perfect",
+        "exampleEn": "She has impeccable taste in clothes.",
+        "exampleTr": "Giyimde kusursuz bir zevki var."
+      }
+    ],
+    "synonyms": [
+      "flawless",
+      "faultless",
+      "perfect"
+    ],
+    "antonyms": [
+      "flawed",
+      "imperfect"
+    ]
+  },
+  {
+    "id": "w_impeccably",
+    "headword": "impeccably",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪmˈpekəbli/",
+    "meanings": [
+      {
+        "tr": "kusursuzca, mükemmel biçimde",
+        "en": "in a perfect way, without any faults",
+        "exampleEn": "He was impeccably dressed for the interview.",
+        "exampleTr": "Görüşme için kusursuzca giyinmişti."
+      }
+    ],
+    "synonyms": [
+      "flawlessly",
+      "perfectly"
+    ],
+    "antonyms": [
+      "poorly"
+    ]
+  },
+  {
+    "id": "w_impede",
+    "headword": "impede",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪmˈpiːd/",
+    "meanings": [
+      {
+        "tr": "engellemek, güçleştirmek",
+        "en": "to slow down or block the progress of something",
+        "exampleEn": "Heavy snow impeded the rescue efforts.",
+        "exampleTr": "Yoğun kar kurtarma çalışmalarını engelledi."
+      }
+    ],
+    "synonyms": [
+      "hinder",
+      "obstruct",
+      "hamper"
+    ],
+    "antonyms": [
+      "aid",
+      "facilitate",
+      "assist"
+    ]
+  }
+]

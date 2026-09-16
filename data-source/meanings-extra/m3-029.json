@@ -1,0 +1,410 @@
+[
+  {
+    "id": "w_register",
+    "headword": "register",
+    "extraMeanings": [
+      {
+        "tr": "kaydetmek, kaydolmak (fiil)",
+        "en": "to record officially or enroll",
+        "exampleEn": "You need to register for the course before Friday.",
+        "exampleTr": "Cuma gününden önce derse kaydolman gerekiyor."
+      },
+      {
+        "tr": "göstermek, fark etmek (algılamak)",
+        "en": "to show a reading or notice something",
+        "exampleEn": "The thermometer registered a temperature of 40 degrees.",
+        "exampleTr": "Termometre 40 derece sıcaklık gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w_relation",
+    "headword": "relation",
+    "extraMeanings": [
+      {
+        "tr": "ilişki, alaka (konular arası bağ)",
+        "en": "the way two things are connected",
+        "exampleEn": "There is a clear relation between diet and health.",
+        "exampleTr": "Beslenme ile sağlık arasında net bir ilişki vardır."
+      }
+    ]
+  },
+  {
+    "id": "w_relative",
+    "headword": "relative",
+    "extraMeanings": [
+      {
+        "tr": "akraba (isim)",
+        "en": "a member of your family",
+        "exampleEn": "All my relatives came to the wedding.",
+        "exampleTr": "Bütün akrabalarım düğüne geldi."
+      }
+    ]
+  },
+  {
+    "id": "w_reject",
+    "headword": "reject",
+    "extraMeanings": [
+      {
+        "tr": "kabul etmemek, geri çevirmek (organ/başvuru)",
+        "en": "to refuse to accept a person or thing",
+        "exampleEn": "Her body might reject the transplanted kidney.",
+        "exampleTr": "Vücudu nakledilen böbreği reddedebilir."
+      }
+    ]
+  },
+  {
+    "id": "w_relate",
+    "headword": "relate",
+    "extraMeanings": [
+      {
+        "tr": "anlatmak, nakletmek",
+        "en": "to tell a story or describe events",
+        "exampleEn": "He related the whole story of his journey to us.",
+        "exampleTr": "Yolculuğunun tüm hikâyesini bize anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w_remedy",
+    "headword": "remedy",
+    "extraMeanings": [
+      {
+        "tr": "düzeltmek, gidermek (fiil)",
+        "en": "to correct or improve a bad situation",
+        "exampleEn": "The government promised to remedy the housing shortage.",
+        "exampleTr": "Hükümet konut sıkıntısını gidermeye söz verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_reserve",
+    "headword": "reserve",
+    "extraMeanings": [
+      {
+        "tr": "ayırtmak, rezerve etmek (fiil)",
+        "en": "to arrange to keep something for a particular person",
+        "exampleEn": "I'd like to reserve a table for two at eight o'clock.",
+        "exampleTr": "Saat sekize iki kişilik bir masa ayırtmak istiyorum."
+      },
+      {
+        "tr": "koruma alanı, doğa koruma bölgesi",
+        "en": "a protected area for wildlife or nature",
+        "exampleEn": "The elephants live in a large nature reserve.",
+        "exampleTr": "Filler büyük bir doğa koruma alanında yaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_resident",
+    "headword": "resident",
+    "extraMeanings": [
+      {
+        "tr": "sakin, oturan kişi (isim)",
+        "en": "a person who lives in a particular place",
+        "exampleEn": "The residents complained about the noise from the factory.",
+        "exampleTr": "Sakinler fabrikadan gelen gürültüden şikâyet ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_resist",
+    "headword": "resist",
+    "extraMeanings": [
+      {
+        "tr": "karşı koymak, dayanamamak (bir isteğe)",
+        "en": "to stop yourself from doing something you want to do",
+        "exampleEn": "I couldn't resist the chocolate cake.",
+        "exampleTr": "Çikolatalı pastaya karşı koyamadım."
+      }
+    ]
+  },
+  {
+    "id": "w_resolve",
+    "headword": "resolve",
+    "extraMeanings": [
+      {
+        "tr": "kararlı olmak, karar vermek",
+        "en": "to make a firm decision to do something",
+        "exampleEn": "She resolved to work harder next year.",
+        "exampleTr": "Gelecek yıl daha çok çalışmaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_resort",
+    "headword": "resort",
+    "extraMeanings": [
+      {
+        "tr": "başvurmak, çare olarak seçmek (to)",
+        "en": "to use something as a last option",
+        "exampleEn": "They had to resort to violence to defend themselves.",
+        "exampleTr": "Kendilerini savunmak için şiddete başvurmak zorunda kaldılar."
+      },
+      {
+        "tr": "çare, son çare",
+        "en": "something you use because there is no other choice",
+        "exampleEn": "As a last resort, we can call the police.",
+        "exampleTr": "Son çare olarak polisi arayabiliriz."
+      }
+    ]
+  },
+  {
+    "id": "w_respect",
+    "headword": "respect",
+    "extraMeanings": [
+      {
+        "tr": "saygı duymak (fiil)",
+        "en": "to admire someone or something",
+        "exampleEn": "Everyone respects her for her honesty.",
+        "exampleTr": "Herkes dürüstlüğünden dolayı ona saygı duyar."
+      },
+      {
+        "tr": "bakımdan, açıdan (in this respect)",
+        "en": "a particular aspect or detail of something",
+        "exampleEn": "In this respect, the two plans are very similar.",
+        "exampleTr": "Bu açıdan, iki plan birbirine çok benziyor."
+      }
+    ]
+  },
+  {
+    "id": "w_respond",
+    "headword": "respond",
+    "extraMeanings": [
+      {
+        "tr": "tepki vermek, karşılık göstermek (tedaviye vb.)",
+        "en": "to react in a particular way",
+        "exampleEn": "The patient responded well to the new treatment.",
+        "exampleTr": "Hasta yeni tedaviye iyi yanıt verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_rest",
+    "headword": "rest",
+    "extraMeanings": [
+      {
+        "tr": "geri kalan, kalanı (the rest)",
+        "en": "the remaining part or people",
+        "exampleEn": "I ate half and saved the rest for later.",
+        "exampleTr": "Yarısını yedim, geri kalanını sonraya sakladım."
+      },
+      {
+        "tr": "dayamak, yaslamak; durmak (fiil)",
+        "en": "to put something on or against something for support",
+        "exampleEn": "She rested her head on his shoulder.",
+        "exampleTr": "Başını onun omzuna yasladı."
+      }
+    ]
+  },
+  {
+    "id": "w_restore",
+    "headword": "restore",
+    "extraMeanings": [
+      {
+        "tr": "geri getirmek, yeniden sağlamak (düzen/sağlık)",
+        "en": "to bring back a previous condition",
+        "exampleEn": "The police worked hard to restore order in the city.",
+        "exampleTr": "Polis şehirde düzeni yeniden sağlamak için çok çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_retail",
+    "headword": "retail",
+    "extraMeanings": [
+      {
+        "tr": "perakende satmak / satılmak (fiil)",
+        "en": "to sell goods to the public in shops",
+        "exampleEn": "The book retails for about twenty dollars.",
+        "exampleTr": "Kitap yaklaşık yirmi dolara satılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_reward",
+    "headword": "reward",
+    "extraMeanings": [
+      {
+        "tr": "ödüllendirmek (fiil)",
+        "en": "to give something to someone for good work",
+        "exampleEn": "The company rewarded her with a promotion.",
+        "exampleTr": "Şirket onu terfiyle ödüllendirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_rid",
+    "headword": "rid",
+    "extraMeanings": [
+      {
+        "tr": "kurtulmak (get rid of)",
+        "en": "to free yourself from something unwanted",
+        "exampleEn": "I want to get rid of these old clothes.",
+        "exampleTr": "Bu eski kıyafetlerden kurtulmak istiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_rise",
+    "headword": "rise",
+    "extraMeanings": [
+      {
+        "tr": "yükselmek, artmak (fiil)",
+        "en": "to go up or increase",
+        "exampleEn": "Prices continue to rise every year.",
+        "exampleTr": "Fiyatlar her yıl artmaya devam ediyor."
+      },
+      {
+        "tr": "kalkmak, doğmak (güneş)",
+        "en": "to move upward or come into view",
+        "exampleEn": "The sun rises in the east.",
+        "exampleTr": "Güneş doğudan doğar."
+      }
+    ]
+  },
+  {
+    "id": "w_risk",
+    "headword": "risk",
+    "extraMeanings": [
+      {
+        "tr": "tehlikeye atmak, riske etmek (fiil)",
+        "en": "to put something in danger",
+        "exampleEn": "He risked his life to save the child.",
+        "exampleTr": "Çocuğu kurtarmak için hayatını tehlikeye attı."
+      }
+    ]
+  },
+  {
+    "id": "w_round",
+    "headword": "round",
+    "extraMeanings": [
+      {
+        "tr": "tur, raund (yarışma/maç aşaması)",
+        "en": "a stage in a competition or a series of events",
+        "exampleEn": "She was knocked out in the first round of the tournament.",
+        "exampleTr": "Turnuvanın ilk turunda elendi."
+      },
+      {
+        "tr": "etrafında, çevresinde (edat/zarf)",
+        "en": "on all sides of or around something",
+        "exampleEn": "We sat round the table and talked.",
+        "exampleTr": "Masanın etrafında oturup konuştuk."
+      }
+    ]
+  },
+  {
+    "id": "w_rubber",
+    "headword": "rubber",
+    "extraMeanings": [
+      {
+        "tr": "silgi",
+        "en": "a small object used to remove pencil marks",
+        "exampleEn": "Can I borrow your rubber to erase this mistake?",
+        "exampleTr": "Bu hatayı silmek için silgini ödünç alabilir miyim?"
+      }
+    ]
+  },
+  {
+    "id": "w_rubbish",
+    "headword": "rubbish",
+    "extraMeanings": [
+      {
+        "tr": "saçmalık, zırva",
+        "en": "nonsense; something silly or untrue",
+        "exampleEn": "Don't talk rubbish; that's not true at all.",
+        "exampleTr": "Saçmalama; bu hiç doğru değil."
+      }
+    ]
+  },
+  {
+    "id": "w_ruin",
+    "headword": "ruin",
+    "extraMeanings": [
+      {
+        "tr": "mahvetmek, berbat etmek (fiil)",
+        "en": "to spoil or destroy something completely",
+        "exampleEn": "The rain ruined our picnic.",
+        "exampleTr": "Yağmur pikniğimizi mahvetti."
+      }
+    ]
+  },
+  {
+    "id": "w_scan",
+    "headword": "scan",
+    "extraMeanings": [
+      {
+        "tr": "taramak, göz gezdirmek (fiil)",
+        "en": "to look through or examine something quickly",
+        "exampleEn": "She scanned the newspaper for job advertisements.",
+        "exampleTr": "İş ilanları için gazeteye göz gezdirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_scare",
+    "headword": "scare",
+    "extraMeanings": [
+      {
+        "tr": "korku, panik (isim)",
+        "en": "a sudden feeling of fear",
+        "exampleEn": "The loud noise gave me a real scare.",
+        "exampleTr": "Yüksek ses bana gerçek bir korku yaşattı."
+      }
+    ]
+  },
+  {
+    "id": "w_score",
+    "headword": "score",
+    "extraMeanings": [
+      {
+        "tr": "sayı/gol atmak, puan kazanmak (fiil)",
+        "en": "to get a point or goal in a game",
+        "exampleEn": "He scored two goals in the final match.",
+        "exampleTr": "Final maçında iki gol attı."
+      }
+    ]
+  },
+  {
+    "id": "w_scratch",
+    "headword": "scratch",
+    "extraMeanings": [
+      {
+        "tr": "kaşımak; çizmek (fiil)",
+        "en": "to rub the skin with nails, or make a mark",
+        "exampleEn": "Stop scratching your arm; it will get worse.",
+        "exampleTr": "Kolunu kaşımayı bırak, daha da kötüleşecek."
+      }
+    ]
+  },
+  {
+    "id": "w_season",
+    "headword": "season",
+    "extraMeanings": [
+      {
+        "tr": "dönem, sezon (etkinlik/spor)",
+        "en": "a period of the year for a particular activity",
+        "exampleEn": "The football season starts in September.",
+        "exampleTr": "Futbol sezonu Eylül'de başlıyor."
+      },
+      {
+        "tr": "tatlandırmak, baharatlamak (fiil)",
+        "en": "to add salt, pepper or spices to food",
+        "exampleEn": "Season the soup with a little salt and pepper.",
+        "exampleTr": "Çorbayı biraz tuz ve karabiberle tatlandır."
+      }
+    ]
+  },
+  {
+    "id": "w_rod",
+    "headword": "rod",
+    "extraMeanings": [
+      {
+        "tr": "olta kamışı, olta",
+        "en": "a long thin pole used for fishing",
+        "exampleEn": "He bought a new fishing rod for the trip.",
+        "exampleTr": "Gezi için yeni bir olta kamışı aldı."
+      }
+    ]
+  }
+]

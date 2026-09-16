@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "w_instead_of",
+    "headword": "instead of",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈsted əv/",
+    "meanings": [
+      {
+        "tr": "yerine, -ecek yerde",
+        "en": "in place of something or someone",
+        "exampleEn": "Let's walk instead of taking the bus.",
+        "exampleTr": "Otobüse binmek yerine yürüyelim."
+      }
+    ],
+    "synonyms": [
+      "rather than",
+      "in place of"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_instinctive",
+    "headword": "instinctive",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈstɪŋktɪv/",
+    "meanings": [
+      {
+        "tr": "içgüdüsel",
+        "en": "done without thinking, based on natural feeling",
+        "exampleEn": "Her instinctive reaction was to protect the child.",
+        "exampleTr": "İçgüdüsel tepkisi çocuğu korumak oldu."
+      }
+    ],
+    "synonyms": [
+      "intuitive",
+      "natural",
+      "reflexive"
+    ],
+    "antonyms": [
+      "deliberate",
+      "conscious"
+    ]
+  },
+  {
+    "id": "w_instinctively",
+    "headword": "instinctively",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈstɪŋktɪvli/",
+    "meanings": [
+      {
+        "tr": "içgüdüsel olarak",
+        "en": "in a way based on natural instinct rather than thought",
+        "exampleEn": "He instinctively ducked when the ball flew towards him.",
+        "exampleTr": "Top ona doğru uçunca içgüdüsel olarak eğildi."
+      }
+    ],
+    "synonyms": [
+      "intuitively",
+      "naturally"
+    ],
+    "antonyms": [
+      "deliberately",
+      "consciously"
+    ]
+  },
+  {
+    "id": "w_instrumental",
+    "headword": "instrumental",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪnstrəˈmentl/",
+    "meanings": [
+      {
+        "tr": "çok önemli rol oynayan, etkili",
+        "en": "very important in making something happen",
+        "exampleEn": "She was instrumental in setting up the new department.",
+        "exampleTr": "Yeni departmanın kurulmasında etkili bir rol oynadı."
+      },
+      {
+        "tr": "enstrümantal, sözsüz (müzik)",
+        "en": "performed with instruments only, without singing",
+        "exampleEn": "The album includes several instrumental tracks.",
+        "exampleTr": "Albümde birkaç enstrümantal parça var."
+      }
+    ],
+    "synonyms": [
+      "crucial",
+      "key",
+      "pivotal"
+    ],
+    "antonyms": [
+      "unimportant"
+    ]
+  },
+  {
+    "id": "w_insubordination",
+    "headword": "insubordination",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪnsəˌbɔːdɪˈneɪʃn/",
+    "meanings": [
+      {
+        "tr": "itaatsizlik, emre karşı gelme",
+        "en": "refusal to obey orders or authority",
+        "exampleEn": "The soldier was punished for insubordination.",
+        "exampleTr": "Asker itaatsizlik nedeniyle cezalandırıldı."
+      }
+    ],
+    "synonyms": [
+      "disobedience",
+      "defiance",
+      "rebellion"
+    ],
+    "antonyms": [
+      "obedience",
+      "compliance"
+    ]
+  },
+  {
+    "id": "w_insubstantial",
+    "headword": "insubstantial",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪnsəbˈstænʃl/",
+    "meanings": [
+      {
+        "tr": "önemsiz, cılız, hafif",
+        "en": "not large, solid or important",
+        "exampleEn": "The evidence against him was insubstantial.",
+        "exampleTr": "Aleyhindeki kanıtlar cılızdı."
+      }
+    ],
+    "synonyms": [
+      "flimsy",
+      "slight",
+      "weak"
+    ],
+    "antonyms": [
+      "substantial",
+      "solid"
+    ]
+  },
+  {
+    "id": "w_insure",
+    "headword": "insure",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈʃʊər/",
+    "meanings": [
+      {
+        "tr": "sigortalamak",
+        "en": "to buy insurance so you get money if something is lost or damaged",
+        "exampleEn": "We insured the house against fire and theft.",
+        "exampleTr": "Evi yangına ve hırsızlığa karşı sigortaladık."
+      }
+    ],
+    "synonyms": [
+      "cover",
+      "indemnify"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_insurrection",
+    "headword": "insurrection",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪnsəˈrekʃn/",
+    "meanings": [
+      {
+        "tr": "ayaklanma, isyan",
+        "en": "an organized attempt by a group to overthrow the government",
+        "exampleEn": "The armed insurrection was quickly crushed by the army.",
+        "exampleTr": "Silahlı ayaklanma ordu tarafından çabucak bastırıldı."
+      }
+    ],
+    "synonyms": [
+      "uprising",
+      "rebellion",
+      "revolt"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_integration",
+    "headword": "integration",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪntɪˈɡreɪʃn/",
+    "meanings": [
+      {
+        "tr": "entegrasyon, bütünleşme",
+        "en": "the process of combining people or things into one whole",
+        "exampleEn": "The integration of immigrants into society takes time.",
+        "exampleTr": "Göçmenlerin topluma entegrasyonu zaman alır."
+      }
+    ],
+    "synonyms": [
+      "incorporation",
+      "unification",
+      "merging"
+    ],
+    "antonyms": [
+      "segregation",
+      "separation"
+    ]
+  },
+  {
+    "id": "w_intellect",
+    "headword": "intellect",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪntəlekt/",
+    "meanings": [
+      {
+        "tr": "akıl, zeka, us",
+        "en": "the ability to think and understand ideas in a logical way",
+        "exampleEn": "She is a woman of great intellect.",
+        "exampleTr": "O, büyük zekaya sahip bir kadın."
+      }
+    ],
+    "synonyms": [
+      "intelligence",
+      "reason",
+      "mind"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_intelligible",
+    "headword": "intelligible",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtelɪdʒəbl/",
+    "meanings": [
+      {
+        "tr": "anlaşılır, anlaşılabilir",
+        "en": "able to be understood clearly",
+        "exampleEn": "His speech was barely intelligible over the noise.",
+        "exampleTr": "Konuşması gürültünün üstünden zar zor anlaşılıyordu."
+      }
+    ],
+    "synonyms": [
+      "understandable",
+      "comprehensible",
+      "clear"
+    ],
+    "antonyms": [
+      "unintelligible",
+      "incomprehensible"
+    ]
+  },
+  {
+    "id": "w_intemperate",
+    "headword": "intemperate",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtempərət/",
+    "meanings": [
+      {
+        "tr": "ölçüsüz, aşırı, dizginsiz",
+        "en": "showing a lack of self-control, especially in speech or drinking",
+        "exampleEn": "He was criticized for his intemperate remarks.",
+        "exampleTr": "Ölçüsüz sözleri yüzünden eleştirildi."
+      }
+    ],
+    "synonyms": [
+      "excessive",
+      "immoderate",
+      "unrestrained"
+    ],
+    "antonyms": [
+      "temperate",
+      "moderate"
+    ]
+  },
+  {
+    "id": "w_interest",
+    "headword": "interest",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general",
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪntrəst/",
+    "meanings": [
+      {
+        "tr": "ilgi, merak",
+        "en": "a feeling of wanting to know about or take part in something",
+        "exampleEn": "She has a keen interest in modern art.",
+        "exampleTr": "Modern sanata büyük bir ilgisi var."
+      },
+      {
+        "tr": "faiz",
+        "en": "money paid for the use of borrowed money",
+        "exampleEn": "The loan carries an interest rate of five percent.",
+        "exampleTr": "Kredinin faiz oranı yüzde beş."
+      }
+    ],
+    "synonyms": [
+      "curiosity",
+      "concern"
+    ],
+    "antonyms": [
+      "indifference",
+      "boredom"
+    ]
+  },
+  {
+    "id": "w_interject",
+    "headword": "interject",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪntəˈdʒekt/",
+    "meanings": [
+      {
+        "tr": "araya girip söylemek, lafa girmek",
+        "en": "to say something suddenly, interrupting a conversation",
+        "exampleEn": "\"That's not true,\" she interjected.",
+        "exampleTr": "\"Bu doğru değil,\" diye araya girdi."
+      }
+    ],
+    "synonyms": [
+      "interrupt",
+      "interpose",
+      "chime in"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_interloper",
+    "headword": "interloper",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪntələʊpər/",
+    "meanings": [
+      {
+        "tr": "davetsiz misafir, izinsiz giren kişi",
+        "en": "someone who becomes involved where they are not wanted",
+        "exampleEn": "The locals treated the tourists as interlopers.",
+        "exampleTr": "Yerliler turistlere davetsiz misafir muamelesi yaptı."
+      }
+    ],
+    "synonyms": [
+      "intruder",
+      "trespasser",
+      "outsider"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_internationalism",
+    "headword": "internationalism",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪntəˈnæʃnəlɪzəm/",
+    "meanings": [
+      {
+        "tr": "enternasyonalizm, uluslararasıcılık",
+        "en": "the belief that countries should work together for the common good",
+        "exampleEn": "He was a lifelong advocate of internationalism and cooperation.",
+        "exampleTr": "Hayatı boyunca enternasyonalizmi ve iş birliğini savundu."
+      }
+    ],
+    "synonyms": [
+      "globalism"
+    ],
+    "antonyms": [
+      "nationalism",
+      "isolationism"
+    ]
+  },
+  {
+    "id": "w_internationalist",
+    "headword": "internationalist",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪntəˈnæʃnəlɪst/",
+    "meanings": [
+      {
+        "tr": "enternasyonalist, uluslararası iş birliğini savunan kişi",
+        "en": "a person who believes countries should cooperate internationally",
+        "exampleEn": "As an internationalist, she opposed closing the borders.",
+        "exampleTr": "Bir enternasyonalist olarak sınırların kapatılmasına karşı çıktı."
+      }
+    ],
+    "synonyms": [
+      "globalist"
+    ],
+    "antonyms": [
+      "nationalist",
+      "isolationist"
+    ]
+  },
+  {
+    "id": "w_interred",
+    "headword": "interred",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtɜːd/",
+    "meanings": [
+      {
+        "tr": "gömüldü, defnedildi",
+        "en": "buried a dead body (past tense of inter)",
+        "exampleEn": "He was interred in the family vault.",
+        "exampleTr": "Aile mezarlığına defnedildi."
+      }
+    ],
+    "synonyms": [
+      "buried",
+      "entombed"
+    ],
+    "antonyms": [
+      "exhumed",
+      "disinterred"
+    ]
+  },
+  {
+    "id": "w_intervention",
+    "headword": "intervention",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general",
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪntəˈvenʃn/",
+    "meanings": [
+      {
+        "tr": "müdahale",
+        "en": "the act of becoming involved in a situation to change it",
+        "exampleEn": "Military intervention only made the conflict worse.",
+        "exampleTr": "Askeri müdahale çatışmayı yalnızca kötüleştirdi."
+      }
+    ],
+    "synonyms": [
+      "involvement",
+      "interference",
+      "mediation"
+    ],
+    "antonyms": [
+      "noninterference"
+    ]
+  },
+  {
+    "id": "w_interview_programme",
+    "headword": "interview programme",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪntəvjuː ˌprəʊɡræm/",
+    "meanings": [
+      {
+        "tr": "röportaj programı, söyleşi programı",
+        "en": "a TV or radio show in which people are interviewed",
+        "exampleEn": "She hosts a weekly interview programme on the radio.",
+        "exampleTr": "Radyoda haftalık bir röportaj programı sunuyor."
+      }
+    ],
+    "synonyms": [
+      "talk show",
+      "chat show"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_intimacy",
+    "headword": "intimacy",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪntɪməsi/",
+    "meanings": [
+      {
+        "tr": "yakınlık, samimiyet",
+        "en": "a close and warm personal relationship",
+        "exampleEn": "The intimacy between the two friends grew over the years.",
+        "exampleTr": "İki arkadaş arasındaki yakınlık yıllar içinde arttı."
+      }
+    ],
+    "synonyms": [
+      "closeness",
+      "familiarity",
+      "warmth"
+    ],
+    "antonyms": [
+      "distance",
+      "coldness"
+    ]
+  },
+  {
+    "id": "w_into",
+    "headword": "into",
+    "pos": "prep",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪntuː/",
+    "meanings": [
+      {
+        "tr": "içine, -e doğru",
+        "en": "moving to the inside of a place or thing",
+        "exampleEn": "She walked into the room and sat down.",
+        "exampleTr": "Odaya girdi ve oturdu."
+      },
+      {
+        "tr": "-e çok meraklı, hoşlanan (informal)",
+        "en": "very interested in or keen on something",
+        "exampleEn": "He's really into jazz these days.",
+        "exampleTr": "Bu aralar caza gerçekten meraklı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "out of"
+    ]
+  },
+  {
+    "id": "w_intolerance",
+    "headword": "intolerance",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtɒlərəns/",
+    "meanings": [
+      {
+        "tr": "hoşgörüsüzlük, tahammülsüzlük",
+        "en": "unwillingness to accept ideas or behaviour different from your own",
+        "exampleEn": "The book condemns religious intolerance.",
+        "exampleTr": "Kitap dini hoşgörüsüzlüğü kınıyor."
+      },
+      {
+        "tr": "(besin/ilaç) intolerans, dayanıksızlık",
+        "en": "a condition of being unable to eat a food without becoming ill",
+        "exampleEn": "She has a lactose intolerance.",
+        "exampleTr": "Laktoz intoleransı var."
+      }
+    ],
+    "synonyms": [
+      "bigotry",
+      "prejudice",
+      "narrow-mindedness"
+    ],
+    "antonyms": [
+      "tolerance",
+      "open-mindedness"
+    ]
+  },
+  {
+    "id": "w_intone",
+    "headword": "intone",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtəʊn/",
+    "meanings": [
+      {
+        "tr": "tek düze bir sesle söylemek, ezgiyle okumak",
+        "en": "to say something slowly in a level, often solemn voice",
+        "exampleEn": "The priest intoned the words of the prayer.",
+        "exampleTr": "Rahip duanın sözlerini ezgiyle okudu."
+      }
+    ],
+    "synonyms": [
+      "chant",
+      "recite"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_intoxication",
+    "headword": "intoxication",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˌtɒksɪˈkeɪʃn/",
+    "meanings": [
+      {
+        "tr": "sarhoşluk, zehirlenme",
+        "en": "the state of being drunk or affected by a drug",
+        "exampleEn": "He was arrested for driving in a state of intoxication.",
+        "exampleTr": "Sarhoş halde araç kullanmaktan tutuklandı."
+      }
+    ],
+    "synonyms": [
+      "drunkenness",
+      "inebriation"
+    ],
+    "antonyms": [
+      "sobriety"
+    ]
+  },
+  {
+    "id": "w_intrinsically",
+    "headword": "intrinsically",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtrɪnsɪkli/",
+    "meanings": [
+      {
+        "tr": "özünde, doğası gereği",
+        "en": "in a way that is part of the basic nature of something",
+        "exampleEn": "There is nothing intrinsically wrong with the idea.",
+        "exampleTr": "Fikirde özünde yanlış olan bir şey yok."
+      }
+    ],
+    "synonyms": [
+      "inherently",
+      "fundamentally",
+      "essentially"
+    ],
+    "antonyms": [
+      "extrinsically"
+    ]
+  },
+  {
+    "id": "w_intuitive",
+    "headword": "intuitive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtjuːɪtɪv/",
+    "meanings": [
+      {
+        "tr": "sezgisel; kolay anlaşılır",
+        "en": "based on feelings rather than facts, or easy to use naturally",
+        "exampleEn": "The software has a simple, intuitive interface.",
+        "exampleTr": "Yazılımın basit, sezgisel bir arayüzü var."
+      }
+    ],
+    "synonyms": [
+      "instinctive",
+      "natural"
+    ],
+    "antonyms": [
+      "counterintuitive"
+    ]
+  },
+  {
+    "id": "w_invalidate",
+    "headword": "invalidate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general",
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈvælɪdeɪt/",
+    "meanings": [
+      {
+        "tr": "geçersiz kılmak, çürütmek",
+        "en": "to make something no longer valid or correct",
+        "exampleEn": "A single error can invalidate the whole experiment.",
+        "exampleTr": "Tek bir hata bütün deneyi geçersiz kılabilir."
+      }
+    ],
+    "synonyms": [
+      "nullify",
+      "cancel",
+      "void"
+    ],
+    "antonyms": [
+      "validate",
+      "confirm"
+    ]
+  },
+  {
+    "id": "w_invalidation",
+    "headword": "invalidation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˌvælɪˈdeɪʃn/",
+    "meanings": [
+      {
+        "tr": "geçersiz kılma, iptal",
+        "en": "the act of making something no longer valid",
+        "exampleEn": "The invalidation of the contract cost them millions.",
+        "exampleTr": "Sözleşmenin geçersiz kılınması onlara milyonlara mal oldu."
+      }
+    ],
+    "synonyms": [
+      "nullification",
+      "cancellation"
+    ],
+    "antonyms": [
+      "validation"
+    ]
+  },
+  {
+    "id": "w_invertebrate",
+    "headword": "invertebrate",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈvɜːtɪbrət/",
+    "meanings": [
+      {
+        "tr": "omurgasız (hayvan)",
+        "en": "an animal without a backbone, such as an insect or worm",
+        "exampleEn": "Insects are the largest group of invertebrates on Earth.",
+        "exampleTr": "Böcekler dünyadaki en büyük omurgasız grubudur."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "vertebrate"
+    ]
+  },
+  {
+    "id": "w_invigorate",
+    "headword": "invigorate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈvɪɡəreɪt/",
+    "meanings": [
+      {
+        "tr": "canlandırmak, güç vermek",
+        "en": "to make someone feel healthy and full of energy",
+        "exampleEn": "A cold shower can invigorate you in the morning.",
+        "exampleTr": "Soğuk bir duş sabahleyin seni canlandırabilir."
+      }
+    ],
+    "synonyms": [
+      "energize",
+      "refresh",
+      "revitalize"
+    ],
+    "antonyms": [
+      "tire",
+      "exhaust"
+    ]
+  },
+  {
+    "id": "w_invigorated",
+    "headword": "invigorated",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈvɪɡəreɪtɪd/",
+    "meanings": [
+      {
+        "tr": "canlanmış, dinçleşmiş",
+        "en": "feeling full of energy and health",
+        "exampleEn": "She felt invigorated after her morning run.",
+        "exampleTr": "Sabah koşusundan sonra kendini dinç hissetti."
+      }
+    ],
+    "synonyms": [
+      "energized",
+      "refreshed",
+      "revitalized"
+    ],
+    "antonyms": [
+      "exhausted",
+      "drained"
+    ]
+  },
+  {
+    "id": "w_irate",
+    "headword": "irate",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/aɪˈreɪt/",
+    "meanings": [
+      {
+        "tr": "çok öfkeli, hiddetli",
+        "en": "very angry",
+        "exampleEn": "An irate customer demanded to see the manager.",
+        "exampleTr": "Öfkeli bir müşteri müdürü görmek istedi."
+      }
+    ],
+    "synonyms": [
+      "furious",
+      "enraged",
+      "incensed"
+    ],
+    "antonyms": [
+      "calm",
+      "pleased"
+    ]
+  },
+  {
+    "id": "w_irrationalist",
+    "headword": "irrationalist",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈræʃənəlɪst/",
+    "meanings": [
+      {
+        "tr": "akılcılığı reddeden kişi, irrasyonalist",
+        "en": "a person who rejects reason as the basis of knowledge",
+        "exampleEn": "Critics dismissed him as an irrationalist who ignored the evidence.",
+        "exampleTr": "Eleştirmenler onu kanıtları yok sayan bir irrasyonalist olarak nitelendirdi."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "rationalist"
+    ]
+  },
+  {
+    "id": "w_irregularity",
+    "headword": "irregularity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general",
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˌreɡjəˈlærəti/",
+    "meanings": [
+      {
+        "tr": "düzensizlik, usulsüzlük",
+        "en": "something that is not regular, even, or according to the rules",
+        "exampleEn": "The audit revealed several financial irregularities.",
+        "exampleTr": "Denetim birkaç mali usulsüzlüğü ortaya çıkardı."
+      }
+    ],
+    "synonyms": [
+      "anomaly",
+      "deviation",
+      "abnormality"
+    ],
+    "antonyms": [
+      "regularity",
+      "uniformity"
+    ]
+  },
+  {
+    "id": "w_irreligious",
+    "headword": "irreligious",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪrɪˈlɪdʒəs/",
+    "meanings": [
+      {
+        "tr": "dinsiz, dine karşı",
+        "en": "not religious or showing no respect for religion",
+        "exampleEn": "He grew up in an irreligious household.",
+        "exampleTr": "Dinsiz bir evde büyüdü."
+      }
+    ],
+    "synonyms": [
+      "godless",
+      "secular",
+      "impious"
+    ],
+    "antonyms": [
+      "religious",
+      "pious"
+    ]
+  },
+  {
+    "id": "w_irresolution",
+    "headword": "irresolution",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˌrezəˈluːʃn/",
+    "meanings": [
+      {
+        "tr": "kararsızlık, tereddüt",
+        "en": "the state of being unable to make a decision",
+        "exampleEn": "His irresolution cost the team a valuable opportunity.",
+        "exampleTr": "Kararsızlığı takıma değerli bir fırsata mal oldu."
+      }
+    ],
+    "synonyms": [
+      "indecision",
+      "hesitation",
+      "uncertainty"
+    ],
+    "antonyms": [
+      "resolution",
+      "decisiveness"
+    ]
+  },
+  {
+    "id": "w_irresponsibility",
+    "headword": "irresponsibility",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪrɪˌspɒnsəˈbɪləti/",
+    "meanings": [
+      {
+        "tr": "sorumsuzluk",
+        "en": "the fact of not thinking about the consequences of your actions",
+        "exampleEn": "Leaving the children alone was an act of sheer irresponsibility.",
+        "exampleTr": "Çocukları yalnız bırakmak tam bir sorumsuzluktu."
+      }
+    ],
+    "synonyms": [
+      "recklessness",
+      "carelessness",
+      "negligence"
+    ],
+    "antonyms": [
+      "responsibility"
+    ]
+  },
+  {
+    "id": "w_irresponsibly",
+    "headword": "irresponsibly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪrɪˈspɒnsəbli/",
+    "meanings": [
+      {
+        "tr": "sorumsuzca",
+        "en": "in a way that shows no thought about consequences",
+        "exampleEn": "He behaved irresponsibly by spending all the money.",
+        "exampleTr": "Bütün parayı harcayarak sorumsuzca davrandı."
+      }
+    ],
+    "synonyms": [
+      "recklessly",
+      "carelessly"
+    ],
+    "antonyms": [
+      "responsibly"
+    ]
+  },
+  {
+    "id": "w_irreverent",
+    "headword": "irreverent",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈrevərənt/",
+    "meanings": [
+      {
+        "tr": "saygısız, hürmetsiz",
+        "en": "not showing respect for things usually treated with respect",
+        "exampleEn": "The comedian is known for his irreverent humour.",
+        "exampleTr": "Komedyen saygısız mizahıyla tanınıyor."
+      }
+    ],
+    "synonyms": [
+      "disrespectful",
+      "flippant",
+      "cheeky"
+    ],
+    "antonyms": [
+      "reverent",
+      "respectful"
+    ]
+  },
+  {
+    "id": "w_irritant",
+    "headword": "irritant",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪrɪtənt/",
+    "meanings": [
+      {
+        "tr": "tahriş edici madde; rahatsız edici şey",
+        "en": "a substance or thing that causes irritation or annoyance",
+        "exampleEn": "Smoke is a common irritant to the eyes.",
+        "exampleTr": "Duman gözler için yaygın bir tahriş edicidir."
+      }
+    ],
+    "synonyms": [
+      "annoyance",
+      "nuisance"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_isolate",
+    "headword": "isolate",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈaɪsəleɪt/",
+    "meanings": [
+      {
+        "tr": "izole etmek, ayırmak, tecrit etmek",
+        "en": "to separate someone or something from others",
+        "exampleEn": "Doctors decided to isolate the infected patients.",
+        "exampleTr": "Doktorlar enfekte hastaları izole etmeye karar verdi."
+      }
+    ],
+    "synonyms": [
+      "separate",
+      "segregate",
+      "quarantine"
+    ],
+    "antonyms": [
+      "integrate",
+      "combine"
+    ]
+  },
+  {
+    "id": "w_its",
+    "headword": "its",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪts/",
+    "meanings": [
+      {
+        "tr": "onun (cansız/hayvan için)",
+        "en": "belonging to or connected with a thing or animal already mentioned",
+        "exampleEn": "The dog wagged its tail happily.",
+        "exampleTr": "Köpek kuyruğunu mutlulukla salladı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_itself",
+    "headword": "itself",
+    "pos": "pron",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪtˈself/",
+    "meanings": [
+      {
+        "tr": "kendisi, kendini (cansız/hayvan için)",
+        "en": "used as the object referring to the same thing that is the subject",
+        "exampleEn": "The cat cleaned itself in the sun.",
+        "exampleTr": "Kedi güneşte kendini temizledi."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "w_decipher",
+    "headword": "decipher",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈsaɪfə/",
+    "meanings": [
+      {
+        "tr": "şifresini çözmek, anlamını çözmek",
+        "en": "to discover the meaning of something difficult to read or understand",
+        "exampleEn": "It took me a while to decipher his messy handwriting.",
+        "exampleTr": "Onun dağınık el yazısını çözmek biraz zamanımı aldı."
+      }
+    ],
+    "synonyms": [
+      "decode",
+      "interpret",
+      "work out"
+    ],
+    "antonyms": [
+      "encode",
+      "encrypt"
+    ]
+  },
+  {
+    "id": "w_decontrol",
+    "headword": "decontrol",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdiːkənˈtrəʊl/",
+    "meanings": [
+      {
+        "tr": "kontrolü/denetimi kaldırmak, serbest bırakmak",
+        "en": "to remove official controls or restrictions from something",
+        "exampleEn": "The government decided to decontrol prices in the energy sector.",
+        "exampleTr": "Hükümet enerji sektöründe fiyatların denetimini kaldırmaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "deregulate",
+      "liberalize"
+    ],
+    "antonyms": [
+      "control",
+      "regulate"
+    ]
+  },
+  {
+    "id": "w_decree",
+    "headword": "decree",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈkriː/",
+    "meanings": [
+      {
+        "tr": "kararname, ferman, resmi emir",
+        "en": "an official order given by a person with authority",
+        "exampleEn": "The king issued a decree banning all public gatherings.",
+        "exampleTr": "Kral tüm toplu buluşmaları yasaklayan bir kararname çıkardı."
+      },
+      {
+        "tr": "buyurmak, kararname ile emretmek",
+        "en": "to order something officially",
+        "exampleEn": "The court decreed that the property should be sold.",
+        "exampleTr": "Mahkeme mülkün satılmasına hükmetti."
+      }
+    ],
+    "synonyms": [
+      "edict",
+      "order",
+      "ruling"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_dedicate_to",
+    "headword": "dedicate to",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdedɪkeɪt tuː/",
+    "meanings": [
+      {
+        "tr": "-e adamak, tahsis etmek",
+        "en": "to give all your time or energy to a particular activity or purpose",
+        "exampleEn": "She decided to dedicate her life to helping the poor.",
+        "exampleTr": "Hayatını yoksullara yardım etmeye adamaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "devote to",
+      "commit to"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_defeatable",
+    "headword": "defeatable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈfiːtəbl/",
+    "meanings": [
+      {
+        "tr": "yenilebilir, mağlup edilebilir",
+        "en": "able to be defeated or overcome",
+        "exampleEn": "The champion seemed unstoppable, but he proved to be defeatable.",
+        "exampleTr": "Şampiyon durdurulamaz görünüyordu ama yenilebilir olduğunu kanıtladı."
+      }
+    ],
+    "synonyms": [
+      "beatable",
+      "conquerable"
+    ],
+    "antonyms": [
+      "invincible",
+      "unbeatable"
+    ]
+  },
+  {
+    "id": "w_defeatist",
+    "headword": "defeatist",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈfiːtɪst/",
+    "meanings": [
+      {
+        "tr": "yenilgiyi baştan kabullenen, bozguncu",
+        "en": "expecting or accepting failure before making an effort",
+        "exampleEn": "Stop being so defeatist; we still have a chance to win.",
+        "exampleTr": "Bu kadar bozguncu olmayı bırak; hâlâ kazanma şansımız var."
+      }
+    ],
+    "synonyms": [
+      "pessimistic",
+      "negative"
+    ],
+    "antonyms": [
+      "optimistic",
+      "hopeful"
+    ]
+  },
+  {
+    "id": "w_defenceless",
+    "headword": "defenceless",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈfensləs/",
+    "meanings": [
+      {
+        "tr": "savunmasız, korumasız",
+        "en": "unable to protect yourself from attack or harm",
+        "exampleEn": "The soldiers attacked a defenceless village.",
+        "exampleTr": "Askerler savunmasız bir köye saldırdı."
+      }
+    ],
+    "synonyms": [
+      "helpless",
+      "vulnerable",
+      "unprotected"
+    ],
+    "antonyms": [
+      "protected",
+      "secure"
+    ]
+  },
+  {
+    "id": "w_deferral",
+    "headword": "deferral",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈfɜːrəl/",
+    "meanings": [
+      {
+        "tr": "erteleme, tehir",
+        "en": "the act of delaying something until a later time",
+        "exampleEn": "The company requested a deferral of the tax payment.",
+        "exampleTr": "Şirket vergi ödemesinin ertelenmesini talep etti."
+      }
+    ],
+    "synonyms": [
+      "postponement",
+      "delay"
+    ],
+    "antonyms": [
+      "advancement"
+    ]
+  },
+  {
+    "id": "w_deferred",
+    "headword": "deferred",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈfɜːd/",
+    "meanings": [
+      {
+        "tr": "ertelenmiş, tehir edilmiş",
+        "en": "delayed until a later time",
+        "exampleEn": "They offered a deferred payment plan for new customers.",
+        "exampleTr": "Yeni müşteriler için ertelenmiş ödeme planı sundular."
+      }
+    ],
+    "synonyms": [
+      "postponed",
+      "delayed"
+    ],
+    "antonyms": [
+      "immediate"
+    ]
+  },
+  {
+    "id": "w_defile",
+    "headword": "defile",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈfaɪl/",
+    "meanings": [
+      {
+        "tr": "kirletmek, lekelemek, murdar etmek",
+        "en": "to make something dirty or no longer pure, especially something sacred",
+        "exampleEn": "Vandals defiled the ancient temple with graffiti.",
+        "exampleTr": "Vandallar antik tapınağı grafitiyle kirletti."
+      }
+    ],
+    "synonyms": [
+      "desecrate",
+      "pollute",
+      "contaminate"
+    ],
+    "antonyms": [
+      "purify",
+      "cleanse"
+    ]
+  },
+  {
+    "id": "w_deflect",
+    "headword": "deflect",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈflekt/",
+    "meanings": [
+      {
+        "tr": "saptırmak, yön değiştirmek",
+        "en": "to make something change direction, especially by hitting it",
+        "exampleEn": "The goalkeeper managed to deflect the ball away from the net.",
+        "exampleTr": "Kaleci topu kaleden uzağa saptırmayı başardı."
+      },
+      {
+        "tr": "(dikkati, eleştiriyi) başka yöne çekmek",
+        "en": "to turn attention or criticism away from something",
+        "exampleEn": "She tried to deflect attention from her own mistakes.",
+        "exampleTr": "Kendi hatalarından dikkati başka yöne çekmeye çalıştı."
+      }
+    ],
+    "synonyms": [
+      "divert",
+      "turn aside"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_deform",
+    "headword": "deform",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈfɔːm/",
+    "meanings": [
+      {
+        "tr": "biçimini bozmak, şekil bozukluğuna uğratmak",
+        "en": "to change or spoil the normal shape of something",
+        "exampleEn": "The intense heat can deform plastic components.",
+        "exampleTr": "Yoğun ısı plastik parçaların şeklini bozabilir."
+      }
+    ],
+    "synonyms": [
+      "distort",
+      "misshape",
+      "warp"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_deformity",
+    "headword": "deformity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈfɔːməti/",
+    "meanings": [
+      {
+        "tr": "şekil bozukluğu, deformite, sakatlık",
+        "en": "a part of the body that is not the normal shape because of injury or disease",
+        "exampleEn": "The disease left him with a permanent deformity in his hand.",
+        "exampleTr": "Hastalık elinde kalıcı bir şekil bozukluğu bıraktı."
+      }
+    ],
+    "synonyms": [
+      "malformation",
+      "distortion"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_defrost",
+    "headword": "defrost",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdiːˈfrɒst/",
+    "meanings": [
+      {
+        "tr": "buzunu çözmek, buzunu eritmek",
+        "en": "to make frozen food or a freezer become warmer and no longer frozen",
+        "exampleEn": "Remember to defrost the chicken before you cook it.",
+        "exampleTr": "Pişirmeden önce tavuğun buzunu çözmeyi unutma."
+      }
+    ],
+    "synonyms": [
+      "thaw",
+      "unfreeze"
+    ],
+    "antonyms": [
+      "freeze"
+    ]
+  },
+  {
+    "id": "w_deftly",
+    "headword": "deftly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdeftli/",
+    "meanings": [
+      {
+        "tr": "ustaca, becerikli bir şekilde, hünerle",
+        "en": "in a skilful and quick way",
+        "exampleEn": "She deftly sliced the vegetables into thin pieces.",
+        "exampleTr": "Sebzeleri ustaca ince parçalara doğradı."
+      }
+    ],
+    "synonyms": [
+      "skilfully",
+      "adroitly",
+      "nimbly"
+    ],
+    "antonyms": [
+      "clumsily",
+      "awkwardly"
+    ]
+  },
+  {
+    "id": "w_dejection",
+    "headword": "dejection",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈdʒekʃn/",
+    "meanings": [
+      {
+        "tr": "keder, umutsuzluk, moral bozukluğu",
+        "en": "a feeling of unhappiness and low spirits",
+        "exampleEn": "A sense of dejection settled over the team after the loss.",
+        "exampleTr": "Yenilgiden sonra takımı bir keder duygusu sardı."
+      }
+    ],
+    "synonyms": [
+      "despondency",
+      "gloom",
+      "depression"
+    ],
+    "antonyms": [
+      "elation",
+      "joy"
+    ]
+  },
+  {
+    "id": "w_delivery_person",
+    "headword": "delivery person",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈlɪvəri ˌpɜːsn/",
+    "meanings": [
+      {
+        "tr": "teslimatçı, kurye, dağıtım görevlisi",
+        "en": "a person whose job is to bring goods to people's homes or workplaces",
+        "exampleEn": "The delivery person left the package at the front door.",
+        "exampleTr": "Teslimatçı paketi ön kapıya bıraktı."
+      }
+    ],
+    "synonyms": [
+      "courier",
+      "deliveryman"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_demeanour",
+    "headword": "demeanour",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈmiːnə/",
+    "meanings": [
+      {
+        "tr": "tavır, davranış biçimi, hâl",
+        "en": "the way a person behaves and looks to others",
+        "exampleEn": "Despite the bad news, she kept a calm demeanour.",
+        "exampleTr": "Kötü habere rağmen sakin bir tavır sergiledi."
+      }
+    ],
+    "synonyms": [
+      "manner",
+      "conduct",
+      "bearing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_demerit",
+    "headword": "demerit",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdiːˈmerɪt/",
+    "meanings": [
+      {
+        "tr": "kusur, olumsuz yön, eksi puan",
+        "en": "a fault or disadvantage; a mark against someone for bad behaviour",
+        "exampleEn": "The teacher gave him a demerit for talking in class.",
+        "exampleTr": "Öğretmen sınıfta konuştuğu için ona eksi puan verdi."
+      }
+    ],
+    "synonyms": [
+      "fault",
+      "drawback"
+    ],
+    "antonyms": [
+      "merit",
+      "credit"
+    ]
+  },
+  {
+    "id": "w_demolisher",
+    "headword": "demolisher",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈmɒlɪʃə/",
+    "meanings": [
+      {
+        "tr": "yıkıcı, yıkım yapan kişi ya da araç",
+        "en": "a person or thing that demolishes or destroys buildings",
+        "exampleEn": "The demolisher brought down the old factory in a single day.",
+        "exampleTr": "Yıkıcı, eski fabrikayı tek günde yerle bir etti."
+      }
+    ],
+    "synonyms": [
+      "destroyer",
+      "wrecker"
+    ],
+    "antonyms": [
+      "builder"
+    ]
+  },
+  {
+    "id": "w_demonstrator",
+    "headword": "demonstrator",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdemənstreɪtə/",
+    "meanings": [
+      {
+        "tr": "gösterici, protestocu",
+        "en": "a person who takes part in a public protest",
+        "exampleEn": "Thousands of demonstrators gathered outside the parliament.",
+        "exampleTr": "Binlerce gösterici meclisin önünde toplandı."
+      },
+      {
+        "tr": "tanıtımcı, ürün tanıtan kişi",
+        "en": "a person who shows how something works or is used",
+        "exampleEn": "The demonstrator showed us how to use the new blender.",
+        "exampleTr": "Tanıtımcı bize yeni blenderin nasıl kullanılacağını gösterdi."
+      }
+    ],
+    "synonyms": [
+      "protester",
+      "activist"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_demoralize",
+    "headword": "demoralize",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈmɒrəlaɪz/",
+    "meanings": [
+      {
+        "tr": "moralini bozmak, cesaretini kırmak",
+        "en": "to make someone lose confidence or hope",
+        "exampleEn": "The constant criticism began to demoralize the whole team.",
+        "exampleTr": "Sürekli eleştiri tüm takımın moralini bozmaya başladı."
+      }
+    ],
+    "synonyms": [
+      "dishearten",
+      "discourage"
+    ],
+    "antonyms": [
+      "encourage",
+      "motivate"
+    ]
+  },
+  {
+    "id": "w_demoralized",
+    "headword": "demoralized",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈmɒrəlaɪzd/",
+    "meanings": [
+      {
+        "tr": "morali bozuk, cesareti kırılmış",
+        "en": "having lost confidence or hope",
+        "exampleEn": "After losing three games in a row, the players felt demoralized.",
+        "exampleTr": "Üst üste üç maç kaybettikten sonra oyuncular morali bozuk hissetti."
+      }
+    ],
+    "synonyms": [
+      "disheartened",
+      "discouraged",
+      "dispirited"
+    ],
+    "antonyms": [
+      "encouraged",
+      "motivated"
+    ]
+  },
+  {
+    "id": "w_demoralizing",
+    "headword": "demoralizing",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈmɒrəlaɪzɪŋ/",
+    "meanings": [
+      {
+        "tr": "moral bozucu, cesaret kırıcı",
+        "en": "causing someone to lose confidence or hope",
+        "exampleEn": "It was a demoralizing defeat for the young team.",
+        "exampleTr": "Genç takım için moral bozucu bir yenilgiydi."
+      }
+    ],
+    "synonyms": [
+      "disheartening",
+      "discouraging"
+    ],
+    "antonyms": [
+      "encouraging",
+      "uplifting"
+    ]
+  },
+  {
+    "id": "w_demure",
+    "headword": "demure",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈmjʊə/",
+    "meanings": [
+      {
+        "tr": "utangaç, sessiz ve alçakgönüllü, edepli",
+        "en": "quiet, shy, and behaving in a modest way, especially of a woman",
+        "exampleEn": "She gave a demure smile and looked away.",
+        "exampleTr": "Utangaç bir gülümseme verip başını çevirdi."
+      }
+    ],
+    "synonyms": [
+      "modest",
+      "reserved",
+      "shy"
+    ],
+    "antonyms": [
+      "brazen",
+      "bold"
+    ]
+  },
+  {
+    "id": "w_dent",
+    "headword": "dent",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dent/",
+    "meanings": [
+      {
+        "tr": "göçük, çukur, ezik",
+        "en": "a hollow mark in a surface made by hitting or pressing it",
+        "exampleEn": "There was a small dent in the side of the car.",
+        "exampleTr": "Arabanın yan tarafında küçük bir göçük vardı."
+      },
+      {
+        "tr": "göçük yapmak, ezmek",
+        "en": "to make a hollow mark in a hard surface",
+        "exampleEn": "He accidentally dented the door with his bike.",
+        "exampleTr": "Bisikletiyle yanlışlıkla kapıda göçük yaptı."
+      }
+    ],
+    "synonyms": [
+      "hollow",
+      "depression",
+      "ding"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_depend_on",
+    "headword": "depend on",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈpend ɒn/",
+    "meanings": [
+      {
+        "tr": "-e bağlı olmak",
+        "en": "to be affected or decided by something",
+        "exampleEn": "Our plans for tomorrow depend on the weather.",
+        "exampleTr": "Yarınki planlarımız havaya bağlı."
+      },
+      {
+        "tr": "-e güvenmek, itimat etmek",
+        "en": "to trust someone to help or support you",
+        "exampleEn": "You can always depend on your friends in hard times.",
+        "exampleTr": "Zor zamanlarda her zaman arkadaşlarına güvenebilirsin."
+      }
+    ],
+    "synonyms": [
+      "rely on",
+      "count on"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_dependability",
+    "headword": "dependability",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˌpendəˈbɪləti/",
+    "meanings": [
+      {
+        "tr": "güvenilirlik, itimat edilebilirlik",
+        "en": "the quality of being able to be trusted and relied on",
+        "exampleEn": "Customers value the dependability of our delivery service.",
+        "exampleTr": "Müşteriler teslimat hizmetimizin güvenilirliğine değer veriyor."
+      }
+    ],
+    "synonyms": [
+      "reliability",
+      "trustworthiness"
+    ],
+    "antonyms": [
+      "unreliability"
+    ]
+  },
+  {
+    "id": "w_dependency",
+    "headword": "dependency",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈpendənsi/",
+    "meanings": [
+      {
+        "tr": "bağımlılık, tabiiyet",
+        "en": "the state of needing something or someone in order to survive or function",
+        "exampleEn": "The country's dependency on oil imports is a serious problem.",
+        "exampleTr": "Ülkenin petrol ithalatına bağımlılığı ciddi bir sorun."
+      }
+    ],
+    "synonyms": [
+      "reliance",
+      "addiction"
+    ],
+    "antonyms": [
+      "independence"
+    ]
+  },
+  {
+    "id": "w_depersonalize",
+    "headword": "depersonalize",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdiːˈpɜːsənəlaɪz/",
+    "meanings": [
+      {
+        "tr": "kişiliksizleştirmek, kişisel özelliklerinden arındırmak",
+        "en": "to make something less personal or human",
+        "exampleEn": "Large bureaucracies can depersonalize the way people are treated.",
+        "exampleTr": "Büyük bürokrasiler insanlara davranış biçimini kişiliksizleştirebilir."
+      }
+    ],
+    "synonyms": [
+      "dehumanize"
+    ],
+    "antonyms": [
+      "personalize"
+    ]
+  },
+  {
+    "id": "w_depiction",
+    "headword": "depiction",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈpɪkʃn/",
+    "meanings": [
+      {
+        "tr": "tasvir, betimleme, resmetme",
+        "en": "a picture or description of someone or something",
+        "exampleEn": "The film's depiction of war is brutally realistic.",
+        "exampleTr": "Filmin savaş tasviri acımasızca gerçekçi."
+      }
+    ],
+    "synonyms": [
+      "portrayal",
+      "representation",
+      "description"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_depletion",
+    "headword": "depletion",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈpliːʃn/",
+    "meanings": [
+      {
+        "tr": "tükenme, azalma, boşalma",
+        "en": "a reduction in the amount of something, especially a resource",
+        "exampleEn": "The depletion of natural resources threatens future generations.",
+        "exampleTr": "Doğal kaynakların tükenmesi gelecek nesilleri tehdit ediyor."
+      }
+    ],
+    "synonyms": [
+      "exhaustion",
+      "reduction"
+    ],
+    "antonyms": [
+      "replenishment"
+    ]
+  },
+  {
+    "id": "w_deplore",
+    "headword": "deplore",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈplɔː/",
+    "meanings": [
+      {
+        "tr": "şiddetle kınamak, ayıplamak, esef etmek",
+        "en": "to strongly disapprove of something and criticize it",
+        "exampleEn": "Most people deplore violence of any kind.",
+        "exampleTr": "Çoğu insan her türlü şiddeti şiddetle kınar."
+      }
+    ],
+    "synonyms": [
+      "condemn",
+      "denounce"
+    ],
+    "antonyms": [
+      "praise",
+      "applaud"
+    ]
+  },
+  {
+    "id": "w_deportation",
+    "headword": "deportation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdiːpɔːˈteɪʃn/",
+    "meanings": [
+      {
+        "tr": "sınır dışı etme, ülkeden çıkarma",
+        "en": "the act of forcing someone to leave a country, usually because they have broken the law",
+        "exampleEn": "He is facing deportation after his visa expired.",
+        "exampleTr": "Vizesinin süresi dolduktan sonra sınır dışı edilmeyle karşı karşıya."
+      }
+    ],
+    "synonyms": [
+      "expulsion",
+      "banishment"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_derision",
+    "headword": "derision",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈrɪʒn/",
+    "meanings": [
+      {
+        "tr": "alay, küçümseme, istihza",
+        "en": "the act of laughing at someone or something in a scornful way",
+        "exampleEn": "His proposal was met with derision from the committee.",
+        "exampleTr": "Önerisi komiteden alayla karşılandı."
+      }
+    ],
+    "synonyms": [
+      "mockery",
+      "ridicule",
+      "scorn"
+    ],
+    "antonyms": [
+      "respect",
+      "admiration"
+    ]
+  },
+  {
+    "id": "w_dermis",
+    "headword": "dermis",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdɜːmɪs/",
+    "meanings": [
+      {
+        "tr": "derma, alt deri (derinin iç tabakası)",
+        "en": "the thick layer of skin below the surface layer",
+        "exampleEn": "The dermis contains blood vessels, nerves, and hair follicles.",
+        "exampleTr": "Derma kan damarları, sinirler ve kıl köklerini içerir."
+      }
+    ],
+    "synonyms": [
+      "corium"
+    ],
+    "antonyms": [
+      "epidermis"
+    ]
+  },
+  {
+    "id": "w_descent",
+    "headword": "descent",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈsent/",
+    "meanings": [
+      {
+        "tr": "iniş, alçalma",
+        "en": "the act of moving down to a lower level or position",
+        "exampleEn": "The plane began its descent towards the airport.",
+        "exampleTr": "Uçak havaalanına doğru inişine başladı."
+      },
+      {
+        "tr": "soy, köken, nesep",
+        "en": "the origin of a person, traced through their family",
+        "exampleEn": "She is of Irish descent on her mother's side.",
+        "exampleTr": "Anne tarafından İrlanda kökenlidir."
+      }
+    ],
+    "synonyms": [
+      "drop",
+      "fall",
+      "ancestry"
+    ],
+    "antonyms": [
+      "ascent",
+      "rise"
+    ]
+  },
+  {
+    "id": "w_describable",
+    "headword": "describable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈskraɪbəbl/",
+    "meanings": [
+      {
+        "tr": "tarif edilebilir, betimlenebilir",
+        "en": "able to be described in words",
+        "exampleEn": "The beauty of the scene was barely describable.",
+        "exampleTr": "Manzaranın güzelliği zar zor tarif edilebilirdi."
+      }
+    ],
+    "synonyms": [
+      "definable",
+      "expressible"
+    ],
+    "antonyms": [
+      "indescribable"
+    ]
+  },
+  {
+    "id": "w_desecrate",
+    "headword": "desecrate",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdesɪkreɪt/",
+    "meanings": [
+      {
+        "tr": "kutsallığını bozmak, saygısızlık etmek, kirletmek",
+        "en": "to damage or treat a sacred place or object with disrespect",
+        "exampleEn": "Thieves desecrated several graves in the old cemetery.",
+        "exampleTr": "Hırsızlar eski mezarlıkta birkaç mezara saygısızlık etti."
+      }
+    ],
+    "synonyms": [
+      "defile",
+      "profane",
+      "violate"
+    ],
+    "antonyms": [
+      "consecrate",
+      "sanctify"
+    ]
+  },
+  {
+    "id": "w_deserter",
+    "headword": "deserter",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈzɜːtə/",
+    "meanings": [
+      {
+        "tr": "asker kaçağı, firari, terk eden kişi",
+        "en": "a person who leaves the armed forces or a duty without permission",
+        "exampleEn": "The deserter was caught trying to cross the border.",
+        "exampleTr": "Firari, sınırı geçmeye çalışırken yakalandı."
+      }
+    ],
+    "synonyms": [
+      "defector",
+      "runaway"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_desertion",
+    "headword": "desertion",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈzɜːʃn/",
+    "meanings": [
+      {
+        "tr": "terk etme, firar, kaçma",
+        "en": "the act of leaving someone or something, especially the armed forces, without intending to return",
+        "exampleEn": "He was charged with desertion during wartime.",
+        "exampleTr": "Savaş zamanında firar suçlamasıyla yargılandı."
+      }
+    ],
+    "synonyms": [
+      "abandonment",
+      "defection"
+    ],
+    "antonyms": [
+      "loyalty"
+    ]
+  },
+  {
+    "id": "w_deservedly",
+    "headword": "deservedly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈzɜːvɪdli/",
+    "meanings": [
+      {
+        "tr": "hak ederek, hakkıyla, layıkıyla",
+        "en": "in a way that is deserved or earned",
+        "exampleEn": "She deservedly won the award for best actress.",
+        "exampleTr": "En iyi kadın oyuncu ödülünü hak ederek kazandı."
+      }
+    ],
+    "synonyms": [
+      "rightly",
+      "justly"
+    ],
+    "antonyms": [
+      "undeservedly",
+      "unfairly"
+    ]
+  },
+  {
+    "id": "w_designate",
+    "headword": "designate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdezɪɡneɪt/",
+    "meanings": [
+      {
+        "tr": "belirlemek, tayin etmek, atamak",
+        "en": "to choose someone or something for a particular purpose or role",
+        "exampleEn": "The area has been designated as a national park.",
+        "exampleTr": "Bu bölge milli park olarak belirlendi."
+      }
+    ],
+    "synonyms": [
+      "appoint",
+      "assign",
+      "nominate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_designated",
+    "headword": "designated",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdezɪɡneɪtɪd/",
+    "meanings": [
+      {
+        "tr": "belirlenmiş, tayin edilmiş, ayrılmış",
+        "en": "chosen or marked out for a particular purpose",
+        "exampleEn": "Please smoke only in the designated areas.",
+        "exampleTr": "Lütfen yalnızca belirlenmiş alanlarda sigara için."
+      }
+    ],
+    "synonyms": [
+      "appointed",
+      "assigned",
+      "specified"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_desist",
+    "headword": "desist",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈzɪst/",
+    "meanings": [
+      {
+        "tr": "vazgeçmek, son vermek, durmak",
+        "en": "to stop doing something",
+        "exampleEn": "They were ordered to desist from further construction.",
+        "exampleTr": "Daha fazla inşaattan vazgeçmeleri emredildi."
+      }
+    ],
+    "synonyms": [
+      "cease",
+      "stop",
+      "refrain"
+    ],
+    "antonyms": [
+      "continue",
+      "persist"
+    ]
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "w_class",
+    "headword": "class",
+    "extraMeanings": [
+      {
+        "tr": "toplumsal sınıf, tabaka",
+        "en": "a group in society with the same social/economic status",
+        "exampleEn": "The middle class has grown in many countries.",
+        "exampleTr": "Orta sınıf birçok ülkede büyüdü."
+      },
+      {
+        "tr": "kalite, zariflik",
+        "en": "stylish quality or elegance",
+        "exampleEn": "She dresses with real class.",
+        "exampleTr": "Gerçek bir zarafetle giyiniyor."
+      }
+    ]
+  },
+  {
+    "id": "w_clean",
+    "headword": "clean",
+    "extraMeanings": [
+      {
+        "tr": "temizlemek (fiil)",
+        "en": "to remove dirt from something",
+        "exampleEn": "I need to clean the kitchen before they arrive.",
+        "exampleTr": "Onlar gelmeden önce mutfağı temizlemem gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_close",
+    "headword": "close",
+    "extraMeanings": [
+      {
+        "tr": "yakın (sıfat)",
+        "en": "near in space, time or relationship",
+        "exampleEn": "The shop is close to my house.",
+        "exampleTr": "Dükkan evime yakın."
+      }
+    ]
+  },
+  {
+    "id": "w_club",
+    "headword": "club",
+    "extraMeanings": [
+      {
+        "tr": "gece kulübü, disko",
+        "en": "a place where people dance to music at night",
+        "exampleEn": "We danced all night at the club.",
+        "exampleTr": "Kulüpte bütün gece dans ettik."
+      },
+      {
+        "tr": "sopa, cop",
+        "en": "a heavy stick used as a weapon",
+        "exampleEn": "He hit the lock with a wooden club.",
+        "exampleTr": "Kilide tahta bir sopayla vurdu."
+      }
+    ]
+  },
+  {
+    "id": "w_coach",
+    "headword": "coach",
+    "extraMeanings": [
+      {
+        "tr": "otobüs (şehirlerarası)",
+        "en": "a comfortable bus for long journeys",
+        "exampleEn": "We took a coach from London to Edinburgh.",
+        "exampleTr": "Londra'dan Edinburgh'a otobüsle gittik."
+      },
+      {
+        "tr": "çalıştırmak, koçluk yapmak (fiil)",
+        "en": "to train a person or team",
+        "exampleEn": "She coaches the school football team.",
+        "exampleTr": "Okul futbol takımını çalıştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_coat",
+    "headword": "coat",
+    "extraMeanings": [
+      {
+        "tr": "kat (boya/örtü tabakası)",
+        "en": "a layer of paint or other substance",
+        "exampleEn": "The wall needs a second coat of paint.",
+        "exampleTr": "Duvarın ikinci bir kat boyaya ihtiyacı var."
+      }
+    ]
+  },
+  {
+    "id": "w_code",
+    "headword": "code",
+    "extraMeanings": [
+      {
+        "tr": "kod yazmak, programlamak (fiil)",
+        "en": "to write computer programs",
+        "exampleEn": "She learned to code when she was twelve.",
+        "exampleTr": "On iki yaşındayken kod yazmayı öğrendi."
+      },
+      {
+        "tr": "kurallar bütünü, yasa",
+        "en": "a set of rules or laws",
+        "exampleEn": "Everyone must follow the school's dress code.",
+        "exampleTr": "Herkes okulun kıyafet kurallarına uymalı."
+      }
+    ]
+  },
+  {
+    "id": "w_cold",
+    "headword": "cold",
+    "extraMeanings": [
+      {
+        "tr": "soğuk algınlığı, nezle",
+        "en": "a common illness with a blocked nose",
+        "exampleEn": "I caught a cold last week.",
+        "exampleTr": "Geçen hafta nezle oldum."
+      }
+    ]
+  },
+  {
+    "id": "w_collect",
+    "headword": "collect",
+    "extraMeanings": [
+      {
+        "tr": "almak, teslim almak (birini/bir şeyi)",
+        "en": "to go and get someone or something",
+        "exampleEn": "I'll collect the children from school at three.",
+        "exampleTr": "Çocukları okuldan saat üçte alacağım."
+      }
+    ]
+  },
+  {
+    "id": "w_collection",
+    "headword": "collection",
+    "extraMeanings": [
+      {
+        "tr": "para toplama, bağış toplama",
+        "en": "the act of gathering money for a purpose",
+        "exampleEn": "They made a collection for the local hospital.",
+        "exampleTr": "Yerel hastane için bağış topladılar."
+      }
+    ]
+  },
+  {
+    "id": "w_color",
+    "headword": "color",
+    "extraMeanings": [
+      {
+        "tr": "boyamak, renklendirmek (fiil)",
+        "en": "to add color to something",
+        "exampleEn": "The children colored the pictures with crayons.",
+        "exampleTr": "Çocuklar resimleri boya kalemleriyle boyadı."
+      }
+    ]
+  },
+  {
+    "id": "w_come",
+    "headword": "come",
+    "extraMeanings": [
+      {
+        "tr": "olmak, gerçekleşmek; bir duruma ulaşmak",
+        "en": "to reach a particular state or result",
+        "exampleEn": "In the end, everything came right.",
+        "exampleTr": "Sonunda her şey yoluna girdi."
+      }
+    ]
+  },
+  {
+    "id": "w_cool",
+    "headword": "cool",
+    "extraMeanings": [
+      {
+        "tr": "sakin, soğukkanlı",
+        "en": "calm and not nervous or emotional",
+        "exampleEn": "She stayed cool during the emergency.",
+        "exampleTr": "Acil durum sırasında sakin kaldı."
+      },
+      {
+        "tr": "soğutmak, soğumak (fiil)",
+        "en": "to make or become less hot",
+        "exampleEn": "Let the soup cool before you eat it.",
+        "exampleTr": "Çorbayı yemeden önce soğumaya bırak."
+      }
+    ]
+  },
+  {
+    "id": "w_copy",
+    "headword": "copy",
+    "extraMeanings": [
+      {
+        "tr": "kopyalamak, taklit etmek (fiil)",
+        "en": "to make a copy or imitate something",
+        "exampleEn": "He copied the answers from his friend.",
+        "exampleTr": "Cevapları arkadaşından kopyaladı."
+      },
+      {
+        "tr": "adet, nüsha (kitap/dergi)",
+        "en": "a single example of a book, magazine, etc.",
+        "exampleEn": "I bought a copy of her new book.",
+        "exampleTr": "Onun yeni kitabından bir adet aldım."
+      }
+    ]
+  },
+  {
+    "id": "w_corn",
+    "headword": "corn",
+    "extraMeanings": [
+      {
+        "tr": "tahıl, hububat (İngiliz İngilizcesi)",
+        "en": "grain crops such as wheat in British English",
+        "exampleEn": "The fields of corn stretched to the horizon.",
+        "exampleTr": "Tahıl tarlaları ufka kadar uzanıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_correct",
+    "headword": "correct",
+    "extraMeanings": [
+      {
+        "tr": "düzeltmek (fiil)",
+        "en": "to make right or fix mistakes",
+        "exampleEn": "The teacher corrected our homework.",
+        "exampleTr": "Öğretmen ödevlerimizi düzeltti."
+      }
+    ]
+  },
+  {
+    "id": "w_country",
+    "headword": "country",
+    "extraMeanings": [
+      {
+        "tr": "kırsal, köy/taşra",
+        "en": "land outside towns and cities",
+        "exampleEn": "They moved to the country for a quieter life.",
+        "exampleTr": "Daha sakin bir yaşam için kırsala taşındılar."
+      }
+    ]
+  },
+  {
+    "id": "w_course",
+    "headword": "course",
+    "extraMeanings": [
+      {
+        "tr": "yemek (menüde bir tabak)",
+        "en": "one part of a meal",
+        "exampleEn": "The main course was grilled fish.",
+        "exampleTr": "Ana yemek ızgara balıktı."
+      },
+      {
+        "tr": "rota, yön, gidişat",
+        "en": "the direction or route something takes",
+        "exampleEn": "The ship changed course during the storm.",
+        "exampleTr": "Gemi fırtına sırasında rotasını değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_cover",
+    "headword": "cover",
+    "extraMeanings": [
+      {
+        "tr": "örtmek, kaplamak (fiil)",
+        "en": "to put something over something else",
+        "exampleEn": "She covered the table with a cloth.",
+        "exampleTr": "Masayı bir örtüyle örttü."
+      },
+      {
+        "tr": "kapsamak, ele almak",
+        "en": "to include or deal with a subject",
+        "exampleEn": "The lesson covers three main topics.",
+        "exampleTr": "Ders üç ana konuyu kapsıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_cry",
+    "headword": "cry",
+    "extraMeanings": [
+      {
+        "tr": "bağırmak, haykırmak",
+        "en": "to shout or say something loudly",
+        "exampleEn": "\"Help!\" she cried.",
+        "exampleTr": "\"İmdat!\" diye bağırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_cup",
+    "headword": "cup",
+    "extraMeanings": [
+      {
+        "tr": "kupa (ödül)",
+        "en": "a trophy awarded to a competition winner",
+        "exampleEn": "Our team won the cup this year.",
+        "exampleTr": "Takımımız bu yıl kupayı kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w_dance",
+    "headword": "dance",
+    "extraMeanings": [
+      {
+        "tr": "dans (etkinlik/parti)",
+        "en": "a social event where people dance",
+        "exampleEn": "There is a school dance on Friday.",
+        "exampleTr": "Cuma günü okulda bir dans var."
+      }
+    ]
+  },
+  {
+    "id": "w_dark",
+    "headword": "dark",
+    "extraMeanings": [
+      {
+        "tr": "karanlık (isim)",
+        "en": "the absence of light",
+        "exampleEn": "The children are afraid of the dark.",
+        "exampleTr": "Çocuklar karanlıktan korkuyor."
+      }
+    ]
+  },
+  {
+    "id": "w_date",
+    "headword": "date",
+    "extraMeanings": [
+      {
+        "tr": "randevu, buluşma (romantik)",
+        "en": "a romantic meeting arranged in advance",
+        "exampleEn": "They went on a date last night.",
+        "exampleTr": "Dün gece buluşmaya çıktılar."
+      },
+      {
+        "tr": "hurma (meyve)",
+        "en": "a sweet brown fruit from a palm tree",
+        "exampleEn": "She ate a handful of dates.",
+        "exampleTr": "Bir avuç hurma yedi."
+      }
+    ]
+  },
+  {
+    "id": "w_dear",
+    "headword": "dear",
+    "extraMeanings": [
+      {
+        "tr": "pahalı (İngiliz İngilizcesi)",
+        "en": "expensive, costing a lot",
+        "exampleEn": "Fresh fruit can be quite dear in winter.",
+        "exampleTr": "Taze meyve kışın oldukça pahalı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w_design",
+    "headword": "design",
+    "extraMeanings": [
+      {
+        "tr": "tasarlamak (fiil)",
+        "en": "to plan and create something",
+        "exampleEn": "He designed the new office building.",
+        "exampleTr": "Yeni ofis binasını o tasarladı."
+      }
+    ]
+  },
+  {
+    "id": "w_dish",
+    "headword": "dish",
+    "extraMeanings": [
+      {
+        "tr": "çanak anten",
+        "en": "a round antenna for receiving signals",
+        "exampleEn": "They installed a satellite dish on the roof.",
+        "exampleTr": "Çatıya bir çanak anten taktılar."
+      }
+    ]
+  },
+  {
+    "id": "w_do",
+    "headword": "do",
+    "extraMeanings": [
+      {
+        "tr": "yeterli olmak, uygun olmak",
+        "en": "to be enough or suitable",
+        "exampleEn": "This small table will do for now.",
+        "exampleTr": "Bu küçük masa şimdilik yeterli olur."
+      }
+    ]
+  },
+  {
+    "id": "w_drama",
+    "headword": "drama",
+    "extraMeanings": [
+      {
+        "tr": "olay, gerginlik, patırtı",
+        "en": "an exciting or emotional situation",
+        "exampleEn": "There was a lot of drama at the meeting.",
+        "exampleTr": "Toplantıda çok fazla olay çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_dress",
+    "headword": "dress",
+    "extraMeanings": [
+      {
+        "tr": "giyinmek, giydirmek (fiil)",
+        "en": "to put clothes on yourself or someone",
+        "exampleEn": "She dressed quickly and left the house.",
+        "exampleTr": "Hızlıca giyindi ve evden çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_drink",
+    "headword": "drink",
+    "extraMeanings": [
+      {
+        "tr": "içmek (fiil)",
+        "en": "to take liquid into your mouth and swallow",
+        "exampleEn": "You should drink more water.",
+        "exampleTr": "Daha fazla su içmelisin."
+      },
+      {
+        "tr": "içki, alkollü içecek",
+        "en": "an alcoholic beverage",
+        "exampleEn": "Let's go out for a drink after work.",
+        "exampleTr": "İşten sonra bir şeyler içmeye çıkalım."
+      }
+    ]
+  },
+  {
+    "id": "w_drive",
+    "headword": "drive",
+    "extraMeanings": [
+      {
+        "tr": "araba sürmek, kullanmak (fiil)",
+        "en": "to operate and control a vehicle",
+        "exampleEn": "She drives to work every day.",
+        "exampleTr": "Her gün işe arabayla gidiyor."
+      },
+      {
+        "tr": "araç yolu (eve giden özel yol)",
+        "en": "a private road leading to a house",
+        "exampleEn": "He parked the car in the drive.",
+        "exampleTr": "Arabayı araç yoluna park etti."
+      }
+    ]
+  },
+  {
+    "id": "w_drum",
+    "headword": "drum",
+    "extraMeanings": [
+      {
+        "tr": "varil, bidon",
+        "en": "a large cylindrical container",
+        "exampleEn": "They stored the oil in metal drums.",
+        "exampleTr": "Yağı metal varillerde sakladılar."
+      }
+    ]
+  },
+  {
+    "id": "w_dry",
+    "headword": "dry",
+    "extraMeanings": [
+      {
+        "tr": "kurutmak, kurumak (fiil)",
+        "en": "to make or become dry",
+        "exampleEn": "She dried her hair with a towel.",
+        "exampleTr": "Saçını havluyla kuruttu."
+      }
+    ]
+  },
+  {
+    "id": "w_ear",
+    "headword": "ear",
+    "extraMeanings": [
+      {
+        "tr": "başak (mısır/buğday başağı)",
+        "en": "the seed-bearing head of a grain plant",
+        "exampleEn": "He picked an ear of corn from the field.",
+        "exampleTr": "Tarladan bir mısır başağı kopardı."
+      }
+    ]
+  },
+  {
+    "id": "w_end",
+    "headword": "end",
+    "extraMeanings": [
+      {
+        "tr": "bitmek, sona ermek (fiil)",
+        "en": "to finish or come to a stop",
+        "exampleEn": "The film ends at ten o'clock.",
+        "exampleTr": "Film saat onda bitiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_enjoy",
+    "headword": "enjoy",
+    "extraMeanings": [
+      {
+        "tr": "sahip olmak (bir avantaja/imkana)",
+        "en": "to have or benefit from something good",
+        "exampleEn": "The region enjoys a mild climate.",
+        "exampleTr": "Bölge ılıman bir iklime sahip."
+      }
+    ]
+  },
+  {
+    "id": "w_event",
+    "headword": "event",
+    "extraMeanings": [
+      {
+        "tr": "müsabaka, yarışma dalı",
+        "en": "one of the races or contests in a competition",
+        "exampleEn": "The 100 metres is my favorite event.",
+        "exampleTr": "100 metre en sevdiğim yarışma dalı."
+      }
+    ]
+  },
+  {
+    "id": "w_excuse",
+    "headword": "excuse",
+    "extraMeanings": [
+      {
+        "tr": "mazur görmek, affetmek (fiil)",
+        "en": "to forgive someone for a small fault",
+        "exampleEn": "Please excuse me for being late.",
+        "exampleTr": "Geç kaldığım için beni mazur görün."
+      }
+    ]
+  },
+  {
+    "id": "w_face",
+    "headword": "face",
+    "extraMeanings": [
+      {
+        "tr": "yüzleşmek, karşı karşıya olmak (fiil)",
+        "en": "to deal with or confront something difficult",
+        "exampleEn": "We must face the truth.",
+        "exampleTr": "Gerçekle yüzleşmeliyiz."
+      },
+      {
+        "tr": "bakmak, dönük olmak (yön)",
+        "en": "to be turned toward a direction",
+        "exampleEn": "The house faces the sea.",
+        "exampleTr": "Ev denize bakıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_fair",
+    "headword": "fair",
+    "extraMeanings": [
+      {
+        "tr": "fuar, panayır (isim)",
+        "en": "an event with entertainment or trade stalls",
+        "exampleEn": "We had fun at the summer fair.",
+        "exampleTr": "Yaz panayırında eğlendik."
+      },
+      {
+        "tr": "sarışın, açık renk (saç/ten)",
+        "en": "light in color, especially hair or skin",
+        "exampleEn": "She has fair hair and blue eyes.",
+        "exampleTr": "Sarışın saçları ve mavi gözleri var."
+      }
+    ]
+  },
+  {
+    "id": "w_fall",
+    "headword": "fall",
+    "extraMeanings": [
+      {
+        "tr": "sonbahar (Amerikan İngilizcesi)",
+        "en": "the season autumn in American English",
+        "exampleEn": "The leaves turn red in the fall.",
+        "exampleTr": "Yapraklar sonbaharda kızarır."
+      },
+      {
+        "tr": "azalmak, düşmek (miktar/seviye)",
+        "en": "to decrease in amount or level",
+        "exampleEn": "Prices fell sharply last month.",
+        "exampleTr": "Geçen ay fiyatlar keskin bir şekilde düştü."
+      }
+    ]
+  },
+  {
+    "id": "w_fan",
+    "headword": "fan",
+    "extraMeanings": [
+      {
+        "tr": "yelpazelemek, havalandırmak (fiil)",
+        "en": "to move air to cool something",
+        "exampleEn": "She fanned herself with a newspaper.",
+        "exampleTr": "Bir gazeteyle kendini yelpazeledi."
+      }
+    ]
+  },
+  {
+    "id": "w_far",
+    "headword": "far",
+    "extraMeanings": [
+      {
+        "tr": "çok, kat kat (karşılaştırmada)",
+        "en": "by a great amount, much",
+        "exampleEn": "This book is far better than the last one.",
+        "exampleTr": "Bu kitap sonuncusundan çok daha iyi."
+      }
+    ]
+  },
+  {
+    "id": "w_fast",
+    "headword": "fast",
+    "extraMeanings": [
+      {
+        "tr": "oruç tutmak; oruç (fiil/isim)",
+        "en": "to go without food; a period of not eating",
+        "exampleEn": "Many people fast during religious holidays.",
+        "exampleTr": "Birçok insan dini bayramlarda oruç tutar."
+      }
+    ]
+  },
+  {
+    "id": "w_feed",
+    "headword": "feed",
+    "extraMeanings": [
+      {
+        "tr": "beslemek, yem vermek (fiil)",
+        "en": "to give food to a person or animal",
+        "exampleEn": "Don't forget to feed the cat.",
+        "exampleTr": "Kediyi beslemeyi unutma."
+      }
+    ]
+  },
+  {
+    "id": "w_feel",
+    "headword": "feel",
+    "extraMeanings": [
+      {
+        "tr": "dokunmak, elle yoklamak",
+        "en": "to touch something to examine it",
+        "exampleEn": "Feel how soft this blanket is.",
+        "exampleTr": "Bu battaniyenin ne kadar yumuşak olduğuna dokun."
+      },
+      {
+        "tr": "düşünmek, kanısında olmak",
+        "en": "to have an opinion or belief",
+        "exampleEn": "I feel that we should wait a little longer.",
+        "exampleTr": "Bence biraz daha beklemeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w_field",
+    "headword": "field",
+    "extraMeanings": [
+      {
+        "tr": "alan, uzmanlık dalı",
+        "en": "an area of study or work",
+        "exampleEn": "She is an expert in the field of medicine.",
+        "exampleTr": "Tıp alanında bir uzman."
+      }
+    ]
+  },
+  {
+    "id": "w_fight",
+    "headword": "fight",
+    "extraMeanings": [
+      {
+        "tr": "dövüşmek, savaşmak, mücadele etmek (fiil)",
+        "en": "to use force against someone or struggle for something",
+        "exampleEn": "The soldiers fought bravely.",
+        "exampleTr": "Askerler cesurca savaştı."
+      }
+    ]
+  },
+  {
+    "id": "w_file",
+    "headword": "file",
+    "extraMeanings": [
+      {
+        "tr": "eğe (alet)",
+        "en": "a tool with a rough surface for smoothing",
+        "exampleEn": "He smoothed the metal edge with a file.",
+        "exampleTr": "Metal kenarı bir eğeyle düzeltti."
+      },
+      {
+        "tr": "dosyalamak, sunmak (fiil)",
+        "en": "to store papers or officially submit something",
+        "exampleEn": "She filed the report yesterday.",
+        "exampleTr": "Raporu dün dosyaladı."
+      }
+    ]
+  },
+  {
+    "id": "w_find",
+    "headword": "find",
+    "extraMeanings": [
+      {
+        "tr": "bulmak, kanısına varmak (deneyimle)",
+        "en": "to discover something to be true from experience",
+        "exampleEn": "I find this book very interesting.",
+        "exampleTr": "Bu kitabı çok ilginç buluyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_fine",
+    "headword": "fine",
+    "extraMeanings": [
+      {
+        "tr": "para cezası (isim)",
+        "en": "money paid as a punishment",
+        "exampleEn": "He got a fine for parking illegally.",
+        "exampleTr": "Kurallara aykırı park ettiği için ceza aldı."
+      },
+      {
+        "tr": "ince, çok küçük parçalı",
+        "en": "very thin or in small particles",
+        "exampleEn": "The beach had soft, fine sand.",
+        "exampleTr": "Plajda yumuşak, ince kum vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_finish",
+    "headword": "finish",
+    "extraMeanings": [
+      {
+        "tr": "bitmek, sona ermek",
+        "en": "to come to an end",
+        "exampleEn": "The concert finishes at midnight.",
+        "exampleTr": "Konser gece yarısı bitiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_fire",
+    "headword": "fire",
+    "extraMeanings": [
+      {
+        "tr": "işten çıkarmak, kovmak (fiil)",
+        "en": "to dismiss someone from a job",
+        "exampleEn": "The manager fired two employees.",
+        "exampleTr": "Müdür iki çalışanı işten çıkardı."
+      },
+      {
+        "tr": "ateş etmek (fiil)",
+        "en": "to shoot a gun",
+        "exampleEn": "The soldier fired into the air.",
+        "exampleTr": "Asker havaya ateş etti."
+      }
+    ]
+  },
+  {
+    "id": "w_first",
+    "headword": "first",
+    "extraMeanings": [
+      {
+        "tr": "önce, ilk olarak (zarf)",
+        "en": "before anything else",
+        "exampleEn": "First, wash your hands.",
+        "exampleTr": "Önce ellerini yıka."
+      }
+    ]
+  },
+  {
+    "id": "w_fish",
+    "headword": "fish",
+    "extraMeanings": [
+      {
+        "tr": "balık tutmak (fiil)",
+        "en": "to try to catch fish",
+        "exampleEn": "They fished in the river all afternoon.",
+        "exampleTr": "Bütün öğleden sonra nehirde balık tuttular."
+      }
+    ]
+  }
+]

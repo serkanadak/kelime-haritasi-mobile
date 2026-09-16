@@ -1,0 +1,428 @@
+[
+  {
+    "id": "w_edge",
+    "headword": "edge",
+    "extraMeanings": [
+      {
+        "tr": "keskinlik, keskin taraf (bıçak vb.)",
+        "en": "the sharp cutting side of a blade",
+        "exampleEn": "The knife had lost its edge and couldn't cut the bread.",
+        "exampleTr": "Bıçak keskinliğini yitirmişti ve ekmeği kesemiyordu."
+      },
+      {
+        "tr": "üstünlük, avantaj",
+        "en": "a slight advantage over others",
+        "exampleEn": "Her experience gave her an edge over the other candidates.",
+        "exampleTr": "Deneyimi ona diğer adaylar karşısında bir üstünlük sağladı."
+      }
+    ]
+  },
+  {
+    "id": "w_edition",
+    "headword": "edition",
+    "extraMeanings": [
+      {
+        "tr": "(gazete/program) sayı, yayın",
+        "en": "a particular issue of a newspaper or broadcast",
+        "exampleEn": "This story was on the front page of yesterday's edition.",
+        "exampleTr": "Bu haber dünkü sayının ilk sayfasındaydı."
+      }
+    ]
+  },
+  {
+    "id": "w_element",
+    "headword": "element",
+    "extraMeanings": [
+      {
+        "tr": "element (kimyasal)",
+        "en": "a basic chemical substance",
+        "exampleEn": "Oxygen is one of the most common elements on Earth.",
+        "exampleTr": "Oksijen, Dünya'daki en yaygın elementlerden biridir."
+      },
+      {
+        "tr": "biraz, bir miktar (bir şeyin izi)",
+        "en": "a small amount of a quality or feeling",
+        "exampleEn": "There was an element of truth in what he said.",
+        "exampleTr": "Söylediklerinde biraz gerçeklik payı vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_engage",
+    "headword": "engage",
+    "extraMeanings": [
+      {
+        "tr": "işe almak, tutmak",
+        "en": "to employ or hire someone",
+        "exampleEn": "They engaged a lawyer to handle the case.",
+        "exampleTr": "Davayla ilgilenmesi için bir avukat tuttular."
+      }
+    ]
+  },
+  {
+    "id": "w_engaged",
+    "headword": "engaged",
+    "extraMeanings": [
+      {
+        "tr": "meşgul (telefon hattı)",
+        "en": "a phone line that is busy",
+        "exampleEn": "I tried to call her but the line was engaged.",
+        "exampleTr": "Onu aramaya çalıştım ama hat meşguldü."
+      }
+    ]
+  },
+  {
+    "id": "w_engine",
+    "headword": "engine",
+    "extraMeanings": [
+      {
+        "tr": "lokomotif",
+        "en": "the front vehicle that pulls a train",
+        "exampleEn": "The engine pulled twelve carriages up the hill.",
+        "exampleTr": "Lokomotif on iki vagonu tepeye çekti."
+      }
+    ]
+  },
+  {
+    "id": "w_entertain",
+    "headword": "entertain",
+    "extraMeanings": [
+      {
+        "tr": "ağırlamak, misafir etmek",
+        "en": "to invite guests and give them food and drink",
+        "exampleEn": "They love to entertain friends at their house on weekends.",
+        "exampleTr": "Hafta sonları evlerinde arkadaşlarını ağırlamayı severler."
+      }
+    ]
+  },
+  {
+    "id": "w_entry",
+    "headword": "entry",
+    "extraMeanings": [
+      {
+        "tr": "(sözlük/liste) madde, giriş",
+        "en": "a single item recorded in a list, diary, or dictionary",
+        "exampleEn": "Each dictionary entry gives the word's meaning and pronunciation.",
+        "exampleTr": "Her sözlük maddesi kelimenin anlamını ve telaffuzunu verir."
+      },
+      {
+        "tr": "katılım, başvuru (yarışma)",
+        "en": "something submitted to a competition",
+        "exampleEn": "The winning entry was chosen from over a thousand.",
+        "exampleTr": "Kazanan katılım, binden fazlası arasından seçildi."
+      }
+    ]
+  },
+  {
+    "id": "w_equal",
+    "headword": "equal",
+    "extraMeanings": [
+      {
+        "tr": "eşit olmak, denk gelmek (fiil)",
+        "en": "to be the same in amount or value",
+        "exampleEn": "Two plus two equals four.",
+        "exampleTr": "İki artı iki dört eder."
+      }
+    ]
+  },
+  {
+    "id": "w_even",
+    "headword": "even",
+    "extraMeanings": [
+      {
+        "tr": "bile, hatta (zarf)",
+        "en": "used to emphasize something surprising",
+        "exampleEn": "Even a child could solve this problem.",
+        "exampleTr": "Bu problemi bir çocuk bile çözebilirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_exact",
+    "headword": "exact",
+    "extraMeanings": [
+      {
+        "tr": "talep etmek, zorla almak (fiil)",
+        "en": "to demand and obtain something by force",
+        "exampleEn": "The ruler exacted heavy taxes from the people.",
+        "exampleTr": "Hükümdar halktan ağır vergiler talep etti."
+      }
+    ]
+  },
+  {
+    "id": "w_excess",
+    "headword": "excess",
+    "extraMeanings": [
+      {
+        "tr": "fazla, ek (sıfat)",
+        "en": "more than is needed or allowed",
+        "exampleEn": "You have to pay for excess baggage at the airport.",
+        "exampleTr": "Havaalanında fazla bagaj için ödeme yapmanız gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w_exclusive",
+    "headword": "exclusive",
+    "extraMeanings": [
+      {
+        "tr": "özel haber, sadece bize ait (haber)",
+        "en": "a story reported by only one newspaper or channel",
+        "exampleEn": "The magazine ran an exclusive interview with the star.",
+        "exampleTr": "Dergi, yıldızla özel bir röportaj yayımladı."
+      }
+    ]
+  },
+  {
+    "id": "w_exit",
+    "headword": "exit",
+    "extraMeanings": [
+      {
+        "tr": "çıkmak, ayrılmak (fiil)",
+        "en": "to leave a place",
+        "exampleEn": "Please exit the building through the back door.",
+        "exampleTr": "Lütfen binadan arka kapıdan çıkın."
+      }
+    ]
+  },
+  {
+    "id": "w_expand",
+    "headword": "expand",
+    "extraMeanings": [
+      {
+        "tr": "ayrıntılandırmak, açmak (on ile)",
+        "en": "to explain something in more detail",
+        "exampleEn": "Could you expand on that point a little?",
+        "exampleTr": "Bu noktayı biraz açabilir misin?"
+      }
+    ]
+  },
+  {
+    "id": "w_expense",
+    "headword": "expense",
+    "extraMeanings": [
+      {
+        "tr": "pahasına, zararına (at the expense of)",
+        "en": "the loss or harm suffered so something can happen",
+        "exampleEn": "He built his career at the expense of his health.",
+        "exampleTr": "Kariyerini sağlığı pahasına kurdu."
+      }
+    ]
+  },
+  {
+    "id": "w_experiment",
+    "headword": "experiment",
+    "extraMeanings": [
+      {
+        "tr": "denemek, deney yapmak (fiil)",
+        "en": "to try new things to see what happens",
+        "exampleEn": "The chef likes to experiment with unusual flavors.",
+        "exampleTr": "Şef, sıra dışı lezzetlerle denemeler yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w_export",
+    "headword": "export",
+    "extraMeanings": [
+      {
+        "tr": "ihraç etmek (fiil)",
+        "en": "to send goods to another country to sell",
+        "exampleEn": "The country exports oil to many parts of the world.",
+        "exampleTr": "Ülke, dünyanın birçok yerine petrol ihraç eder."
+      }
+    ]
+  },
+  {
+    "id": "w_expose",
+    "headword": "expose",
+    "extraMeanings": [
+      {
+        "tr": "(film/fotoğraf) ışığa tutmak, poz vermek",
+        "en": "to allow light to reach photographic film",
+        "exampleEn": "The film was accidentally exposed to light and ruined.",
+        "exampleTr": "Film yanlışlıkla ışığa maruz kaldı ve bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w_extend",
+    "headword": "extend",
+    "extraMeanings": [
+      {
+        "tr": "sunmak, iletmek (davet/teşekkür)",
+        "en": "to offer or give something such as thanks or an invitation",
+        "exampleEn": "I would like to extend my thanks to everyone who helped.",
+        "exampleTr": "Yardım eden herkese teşekkürlerimi sunmak istiyorum."
+      },
+      {
+        "tr": "uzanmak, yayılmak",
+        "en": "to stretch or reach over an area",
+        "exampleEn": "The forest extends for miles beyond the river.",
+        "exampleTr": "Orman, nehrin ötesinde kilometrelerce uzanır."
+      }
+    ]
+  },
+  {
+    "id": "w_extent",
+    "headword": "extent",
+    "extraMeanings": [
+      {
+        "tr": "büyüklük, genişlik (alan)",
+        "en": "the size or area of something",
+        "exampleEn": "From the hill we could see the full extent of the valley.",
+        "exampleTr": "Tepeden vadinin tüm genişliğini görebiliyorduk."
+      }
+    ]
+  },
+  {
+    "id": "w_extreme",
+    "headword": "extreme",
+    "extraMeanings": [
+      {
+        "tr": "uç nokta, aşırılık (isim)",
+        "en": "the furthest possible point or degree",
+        "exampleEn": "She goes from one extreme to the other in her moods.",
+        "exampleTr": "Ruh hali bir uçtan diğerine gidip geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_fade",
+    "headword": "fade",
+    "extraMeanings": [
+      {
+        "tr": "yavaşça yok olmak, azalmak (ses/ışık/anı)",
+        "en": "to gradually disappear or become weaker",
+        "exampleEn": "The sound of the music slowly faded away.",
+        "exampleTr": "Müziğin sesi yavaşça kayboldu."
+      }
+    ]
+  },
+  {
+    "id": "w_faint",
+    "headword": "faint",
+    "extraMeanings": [
+      {
+        "tr": "bayılmak (fiil)",
+        "en": "to lose consciousness for a short time",
+        "exampleEn": "She fainted in the heat and fell to the ground.",
+        "exampleTr": "Sıcakta bayıldı ve yere düştü."
+      }
+    ]
+  },
+  {
+    "id": "w_fake",
+    "headword": "fake",
+    "extraMeanings": [
+      {
+        "tr": "sahte şey, taklit (isim)",
+        "en": "something that is not genuine",
+        "exampleEn": "The painting turned out to be a fake.",
+        "exampleTr": "Tablonun sahte olduğu ortaya çıktı."
+      },
+      {
+        "tr": "numara yapmak, taklit etmek (fiil)",
+        "en": "to pretend to have a feeling or condition",
+        "exampleEn": "He faked being ill to avoid the exam.",
+        "exampleTr": "Sınavdan kaçmak için hasta numarası yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_fancy",
+    "headword": "fancy",
+    "extraMeanings": [
+      {
+        "tr": "canı istemek, arzu etmek (fiil)",
+        "en": "to want or wish to have something",
+        "exampleEn": "Do you fancy a cup of coffee?",
+        "exampleTr": "Canın bir fincan kahve ister mi?"
+      },
+      {
+        "tr": "hoşlanmak, gözü olmak (birine)",
+        "en": "to be attracted to someone",
+        "exampleEn": "I think he fancies you.",
+        "exampleTr": "Bence senden hoşlanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_farewell",
+    "headword": "farewell",
+    "extraMeanings": [
+      {
+        "tr": "güle güle, hoşça kal (ünlem)",
+        "en": "a way of saying goodbye",
+        "exampleEn": "\"Farewell!\" she called as the ship left the harbor.",
+        "exampleTr": "Gemi limandan ayrılırken \"Hoşça kalın!\" diye seslendi."
+      }
+    ]
+  },
+  {
+    "id": "w_faithful",
+    "headword": "faithful",
+    "extraMeanings": [
+      {
+        "tr": "aslına sadık, birebir (çeviri/kopya)",
+        "en": "accurate and true to the original",
+        "exampleEn": "The movie is a faithful adaptation of the novel.",
+        "exampleTr": "Film, romanın aslına sadık bir uyarlamasıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_favour",
+    "headword": "favour",
+    "extraMeanings": [
+      {
+        "tr": "desteklemek, tercih etmek (fiil)",
+        "en": "to prefer or support one thing over another",
+        "exampleEn": "Most people favour the new plan.",
+        "exampleTr": "İnsanların çoğu yeni planı destekliyor."
+      },
+      {
+        "tr": "lehte, taraftar (in favour of)",
+        "en": "supporting or agreeing with something",
+        "exampleEn": "Are you in favour of the proposal?",
+        "exampleTr": "Öneriden yana mısın?"
+      }
+    ]
+  },
+  {
+    "id": "w_feast",
+    "headword": "feast",
+    "extraMeanings": [
+      {
+        "tr": "dini bayram, yortu",
+        "en": "a religious festival or holy day",
+        "exampleEn": "Christmas is an important feast for Christians.",
+        "exampleTr": "Noel, Hristiyanlar için önemli bir bayramdır."
+      }
+    ]
+  },
+  {
+    "id": "w_fetch",
+    "headword": "fetch",
+    "extraMeanings": [
+      {
+        "tr": "(satışta) para getirmek, etmek",
+        "en": "to be sold for a particular price",
+        "exampleEn": "The old painting fetched a high price at auction.",
+        "exampleTr": "Eski tablo açık artırmada yüksek bir fiyata satıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_facility",
+    "headword": "facility",
+    "extraMeanings": [
+      {
+        "tr": "kolaylık, yetenek",
+        "en": "a natural ability to do something easily",
+        "exampleEn": "She has a great facility for learning languages.",
+        "exampleTr": "Dil öğrenmede büyük bir kolaylığı var."
+      }
+    ]
+  }
+]

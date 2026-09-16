@@ -1,0 +1,650 @@
+[
+  {
+    "id": "w_screen",
+    "headword": "screen",
+    "extraMeanings": [
+      {
+        "tr": "perde (sinema perdesi / bölme perdesi)",
+        "en": "a flat surface on which films or images are shown, or a partition",
+        "exampleEn": "The film was shown on a huge screen at the cinema.",
+        "exampleTr": "Film sinemada devasa bir perdede gösterildi."
+      },
+      {
+        "tr": "taramak, elemek (kontrol etmek)",
+        "en": "to test or examine something to detect a problem",
+        "exampleEn": "Doctors screen patients for the disease every year.",
+        "exampleTr": "Doktorlar hastaları her yıl bu hastalık için tarar."
+      }
+    ]
+  },
+  {
+    "id": "w_screw",
+    "headword": "screw",
+    "extraMeanings": [
+      {
+        "tr": "vidalamak (fiil)",
+        "en": "to fasten something using a screw or by twisting",
+        "exampleEn": "He screwed the shelf onto the wall.",
+        "exampleTr": "Rafı duvara vidaladı."
+      }
+    ]
+  },
+  {
+    "id": "w_script",
+    "headword": "script",
+    "extraMeanings": [
+      {
+        "tr": "yazı, alfabe (yazım sistemi)",
+        "en": "a set of letters used in writing a language",
+        "exampleEn": "Arabic script is written from right to left.",
+        "exampleTr": "Arap yazısı sağdan sola yazılır."
+      }
+    ]
+  },
+  {
+    "id": "w_search",
+    "headword": "search",
+    "extraMeanings": [
+      {
+        "tr": "aramak, arama yapmak (fiil)",
+        "en": "to look carefully for something",
+        "exampleEn": "Police searched the house for evidence.",
+        "exampleTr": "Polis kanıt bulmak için evi aradı."
+      }
+    ]
+  },
+  {
+    "id": "w_seed",
+    "headword": "seed",
+    "extraMeanings": [
+      {
+        "tr": "seri başı (spor turnuvasında)",
+        "en": "a ranked player in a tournament",
+        "exampleEn": "She is the top seed in this year's tennis tournament.",
+        "exampleTr": "Bu yılki tenis turnuvasının bir numaralı seri başı o."
+      }
+    ]
+  },
+  {
+    "id": "w_send",
+    "headword": "send",
+    "extraMeanings": [
+      {
+        "tr": "yollamak, göndermek (bir yere gitmesini sağlamak)",
+        "en": "to cause someone to go somewhere",
+        "exampleEn": "They sent their son to a boarding school.",
+        "exampleTr": "Oğullarını yatılı bir okula gönderdiler."
+      }
+    ]
+  },
+  {
+    "id": "w_senior",
+    "headword": "senior",
+    "extraMeanings": [
+      {
+        "tr": "son sınıf öğrencisi (lise/üniversite)",
+        "en": "a student in the final year of school or college",
+        "exampleEn": "She is a senior at the local high school.",
+        "exampleTr": "Yerel lisede son sınıf öğrencisi."
+      }
+    ]
+  },
+  {
+    "id": "w_sense",
+    "headword": "sense",
+    "extraMeanings": [
+      {
+        "tr": "anlamak, sezmek, hissetmek (fiil)",
+        "en": "to become aware of something without being told",
+        "exampleEn": "I could sense that something was wrong.",
+        "exampleTr": "Bir şeylerin yanlış olduğunu sezebiliyordum."
+      },
+      {
+        "tr": "anlam (bir kelimenin anlamı)",
+        "en": "one of the meanings of a word",
+        "exampleEn": "The word 'bank' has several senses.",
+        "exampleTr": "'Bank' kelimesinin birkaç anlamı var."
+      }
+    ]
+  },
+  {
+    "id": "w_separate",
+    "headword": "separate",
+    "extraMeanings": [
+      {
+        "tr": "ayırmak, ayrılmak (fiil)",
+        "en": "to divide or keep apart",
+        "exampleEn": "Separate the eggs from the flour before mixing.",
+        "exampleTr": "Karıştırmadan önce yumurtaları undan ayırın."
+      }
+    ]
+  },
+  {
+    "id": "w_serve",
+    "headword": "serve",
+    "extraMeanings": [
+      {
+        "tr": "servis atmak (tenis, voleybol)",
+        "en": "to start play by hitting the ball in sports",
+        "exampleEn": "She served the ball and won the point.",
+        "exampleTr": "Topu servis attı ve sayıyı kazandı."
+      },
+      {
+        "tr": "işe yaramak, hizmet görmek",
+        "en": "to be useful for a particular purpose",
+        "exampleEn": "This box can serve as a small table.",
+        "exampleTr": "Bu kutu küçük bir masa işlevi görebilir."
+      }
+    ]
+  },
+  {
+    "id": "w_set",
+    "headword": "set",
+    "extraMeanings": [
+      {
+        "tr": "koymak, yerleştirmek; ayarlamak (fiil)",
+        "en": "to put something in a place or into a state",
+        "exampleEn": "She set the vase on the table.",
+        "exampleTr": "Vazoyu masaya koydu."
+      },
+      {
+        "tr": "batmak (güneş)",
+        "en": "when the sun goes down below the horizon",
+        "exampleEn": "The sun sets in the west.",
+        "exampleTr": "Güneş batıda batar."
+      }
+    ]
+  },
+  {
+    "id": "w_shade",
+    "headword": "shade",
+    "extraMeanings": [
+      {
+        "tr": "ton (renk tonu)",
+        "en": "a particular form of a colour",
+        "exampleEn": "She painted the wall a light shade of blue.",
+        "exampleTr": "Duvarı açık bir mavi tonuyla boyadı."
+      },
+      {
+        "tr": "abajur, gölgelik, perde (ışığı engelleyen)",
+        "en": "something that blocks light, such as a lampshade or blind",
+        "exampleEn": "Please pull down the shade; the sun is too bright.",
+        "exampleTr": "Lütfen perdeyi indir; güneş çok parlak."
+      }
+    ]
+  },
+  {
+    "id": "w_shadow",
+    "headword": "shadow",
+    "extraMeanings": [
+      {
+        "tr": "iz, belirti, gölge (mecazi)",
+        "en": "a slight amount or trace of something",
+        "exampleEn": "There was not a shadow of doubt in his mind.",
+        "exampleTr": "Aklında en ufak bir şüphe gölgesi yoktu."
+      }
+    ]
+  },
+  {
+    "id": "w_shape",
+    "headword": "shape",
+    "extraMeanings": [
+      {
+        "tr": "şekillendirmek, biçimlendirmek (fiil)",
+        "en": "to give something a particular form",
+        "exampleEn": "He shaped the clay into a bowl.",
+        "exampleTr": "Kili bir kase şekline soktu."
+      },
+      {
+        "tr": "form, kondisyon (fiziksel durum)",
+        "en": "the physical condition of someone or something",
+        "exampleEn": "She stays in good shape by running every day.",
+        "exampleTr": "Her gün koşarak formda kalıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_shell",
+    "headword": "shell",
+    "extraMeanings": [
+      {
+        "tr": "top mermisi, mermi kovanı",
+        "en": "a metal case filled with explosives, fired from a large gun",
+        "exampleEn": "The soldiers fired shells at the enemy position.",
+        "exampleTr": "Askerler düşman mevzisine top mermisi attı."
+      }
+    ]
+  },
+  {
+    "id": "w_shine",
+    "headword": "shine",
+    "extraMeanings": [
+      {
+        "tr": "parlatmak, cilalamak (fiil)",
+        "en": "to make something bright by polishing",
+        "exampleEn": "He shined his shoes before the interview.",
+        "exampleTr": "Görüşmeden önce ayakkabılarını parlattı."
+      }
+    ]
+  },
+  {
+    "id": "w_shock",
+    "headword": "shock",
+    "extraMeanings": [
+      {
+        "tr": "şaşırtmak, sarsmak (fiil)",
+        "en": "to surprise or upset someone greatly",
+        "exampleEn": "The news shocked the whole town.",
+        "exampleTr": "Haber bütün kasabayı şoke etti."
+      },
+      {
+        "tr": "elektrik çarpması",
+        "en": "a sudden painful effect of electricity passing through the body",
+        "exampleEn": "He got a shock when he touched the wire.",
+        "exampleTr": "Tele dokununca elektrik çarptı."
+      }
+    ]
+  },
+  {
+    "id": "w_shoot",
+    "headword": "shoot",
+    "extraMeanings": [
+      {
+        "tr": "çekim yapmak, film çekmek",
+        "en": "to film or photograph something",
+        "exampleEn": "They shot the movie in Italy.",
+        "exampleTr": "Filmi İtalya'da çektiler."
+      },
+      {
+        "tr": "filiz, sürgün (bitki)",
+        "en": "a new part growing on a plant",
+        "exampleEn": "Green shoots appeared on the tree in spring.",
+        "exampleTr": "İlkbaharda ağaçta yeşil filizler belirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_shot",
+    "headword": "shot",
+    "extraMeanings": [
+      {
+        "tr": "deneme, girişim, şans",
+        "en": "an attempt to do something",
+        "exampleEn": "Give it a shot; you might succeed.",
+        "exampleTr": "Bir dene; başarabilirsin."
+      },
+      {
+        "tr": "iğne, aşı (tıbbi)",
+        "en": "an injection of a drug or vaccine",
+        "exampleEn": "The nurse gave me a flu shot.",
+        "exampleTr": "Hemşire bana grip aşısı yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_show",
+    "headword": "show",
+    "extraMeanings": [
+      {
+        "tr": "göstermek (fiil)",
+        "en": "to let someone see something",
+        "exampleEn": "Can you show me your ticket?",
+        "exampleTr": "Bana biletini gösterebilir misin?"
+      },
+      {
+        "tr": "sergi, fuar",
+        "en": "a public exhibition or display",
+        "exampleEn": "We went to the car show at the weekend.",
+        "exampleTr": "Hafta sonu otomobil fuarına gittik."
+      }
+    ]
+  },
+  {
+    "id": "w_sink",
+    "headword": "sink",
+    "extraMeanings": [
+      {
+        "tr": "batmak, batırmak (fiil)",
+        "en": "to go down below the surface of water",
+        "exampleEn": "The ship began to sink after hitting the rocks.",
+        "exampleTr": "Gemi kayalara çarptıktan sonra batmaya başladı."
+      }
+    ]
+  },
+  {
+    "id": "w_slave",
+    "headword": "slave",
+    "extraMeanings": [
+      {
+        "tr": "köle gibi çalışmak, canını dişine takmak (fiil)",
+        "en": "to work very hard",
+        "exampleEn": "She slaved away in the kitchen all day.",
+        "exampleTr": "Bütün gün mutfakta köle gibi çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_slice",
+    "headword": "slice",
+    "extraMeanings": [
+      {
+        "tr": "dilimlemek, kesmek (fiil)",
+        "en": "to cut something into slices",
+        "exampleEn": "He sliced the bread for sandwiches.",
+        "exampleTr": "Sandviç için ekmeği dilimledi."
+      }
+    ]
+  },
+  {
+    "id": "w_slide",
+    "headword": "slide",
+    "extraMeanings": [
+      {
+        "tr": "kaymak (fiil)",
+        "en": "to move smoothly over a surface",
+        "exampleEn": "The children slid across the icy path.",
+        "exampleTr": "Çocuklar buzlu yolda kaydı."
+      },
+      {
+        "tr": "slayt (sunum sayfası)",
+        "en": "a single page of a presentation",
+        "exampleEn": "The next slide shows our sales figures.",
+        "exampleTr": "Bir sonraki slayt satış rakamlarımızı gösteriyor."
+      }
+    ]
+  },
+  {
+    "id": "w_smooth",
+    "headword": "smooth",
+    "extraMeanings": [
+      {
+        "tr": "sorunsuz, akıcı, rahat",
+        "en": "happening without problems or difficulties",
+        "exampleEn": "We had a smooth flight to Paris.",
+        "exampleTr": "Paris'e sorunsuz bir uçuş yaptık."
+      }
+    ]
+  },
+  {
+    "id": "w_soft",
+    "headword": "soft",
+    "extraMeanings": [
+      {
+        "tr": "hafif, alçak (ses/ışık); yumuşak (tavır)",
+        "en": "quiet, gentle, or not harsh",
+        "exampleEn": "She spoke in a soft voice so as not to wake the baby.",
+        "exampleTr": "Bebeği uyandırmamak için alçak bir sesle konuştu."
+      }
+    ]
+  },
+  {
+    "id": "w_south",
+    "headword": "south",
+    "extraMeanings": [
+      {
+        "tr": "güney (yön/bölge, isim)",
+        "en": "the direction or region to the south",
+        "exampleEn": "They moved to the south of the country.",
+        "exampleTr": "Ülkenin güneyine taşındılar."
+      }
+    ]
+  },
+  {
+    "id": "w_space",
+    "headword": "space",
+    "extraMeanings": [
+      {
+        "tr": "boşluk (harfler arası); yer açmak (fiil)",
+        "en": "an empty gap, or to arrange with gaps between",
+        "exampleEn": "Leave a space between each word.",
+        "exampleTr": "Her kelimenin arasına bir boşluk bırakın."
+      }
+    ]
+  },
+  {
+    "id": "w_speaker",
+    "headword": "speaker",
+    "extraMeanings": [
+      {
+        "tr": "belli bir dili konuşan kişi",
+        "en": "a person who speaks a particular language",
+        "exampleEn": "She is a native speaker of Spanish.",
+        "exampleTr": "O, anadili İspanyolca olan biri."
+      }
+    ]
+  },
+  {
+    "id": "w_speed",
+    "headword": "speed",
+    "extraMeanings": [
+      {
+        "tr": "hızla gitmek, hız yapmak (fiil)",
+        "en": "to move quickly or drive too fast",
+        "exampleEn": "The car sped down the highway.",
+        "exampleTr": "Araba otoyolda hızla ilerledi."
+      }
+    ]
+  },
+  {
+    "id": "w_spill",
+    "headword": "spill",
+    "extraMeanings": [
+      {
+        "tr": "dökülme, sızıntı (isim)",
+        "en": "an amount of liquid that has spilled out",
+        "exampleEn": "There was a big oil spill in the ocean.",
+        "exampleTr": "Okyanusta büyük bir petrol sızıntısı oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_split",
+    "headword": "split",
+    "extraMeanings": [
+      {
+        "tr": "bölmek, yarmak; ayrılmak (fiil)",
+        "en": "to divide or break into parts",
+        "exampleEn": "Let's split the bill between us.",
+        "exampleTr": "Hesabı aramızda bölüşelim."
+      }
+    ]
+  },
+  {
+    "id": "w_spread",
+    "headword": "spread",
+    "extraMeanings": [
+      {
+        "tr": "yaymak, yayılmak; sürmek (fiil)",
+        "en": "to open out, extend, or apply over a surface",
+        "exampleEn": "The fire spread quickly through the building.",
+        "exampleTr": "Yangın binada hızla yayıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_square",
+    "headword": "square",
+    "extraMeanings": [
+      {
+        "tr": "kare (şekil, isim); meydan",
+        "en": "a shape with four equal sides, or an open public space in a town",
+        "exampleEn": "We met in the town square near the fountain.",
+        "exampleTr": "Kasaba meydanında çeşmenin yanında buluştuk."
+      }
+    ]
+  },
+  {
+    "id": "w_staff",
+    "headword": "staff",
+    "extraMeanings": [
+      {
+        "tr": "asa, değnek, sopa",
+        "en": "a long stick used for support or as a weapon",
+        "exampleEn": "The old man walked with a wooden staff.",
+        "exampleTr": "Yaşlı adam tahta bir asayla yürüdü."
+      }
+    ]
+  },
+  {
+    "id": "w_stamp",
+    "headword": "stamp",
+    "extraMeanings": [
+      {
+        "tr": "damga, mühür",
+        "en": "a tool for pressing a mark onto paper, or the mark itself",
+        "exampleEn": "The officer put a stamp in my passport.",
+        "exampleTr": "Görevli pasaportuma bir damga vurdu."
+      },
+      {
+        "tr": "ayağını yere vurmak, tepinmek (fiil)",
+        "en": "to bring the foot down heavily on the ground",
+        "exampleEn": "He stamped his feet to keep warm.",
+        "exampleTr": "Isınmak için ayaklarını yere vurdu."
+      }
+    ]
+  },
+  {
+    "id": "w_statement",
+    "headword": "statement",
+    "extraMeanings": [
+      {
+        "tr": "hesap özeti, ekstre",
+        "en": "a printed record of money in a bank account",
+        "exampleEn": "I check my bank statement every month.",
+        "exampleTr": "Her ay banka hesap özetimi kontrol ederim."
+      }
+    ]
+  },
+  {
+    "id": "w_step",
+    "headword": "step",
+    "extraMeanings": [
+      {
+        "tr": "adım atmak, basmak (fiil)",
+        "en": "to move by putting one foot in front of the other",
+        "exampleEn": "She stepped carefully over the puddle.",
+        "exampleTr": "Su birikintisinin üzerinden dikkatlice adım attı."
+      },
+      {
+        "tr": "basamak, aşama (bir süreçte)",
+        "en": "one of a series of actions to achieve something",
+        "exampleEn": "The first step is to open the account.",
+        "exampleTr": "İlk adım hesabı açmaktır."
+      }
+    ]
+  },
+  {
+    "id": "w_stomach",
+    "headword": "stomach",
+    "extraMeanings": [
+      {
+        "tr": "tahammül etmek, sindirmek, katlanmak (fiil)",
+        "en": "to be able to bear or tolerate something",
+        "exampleEn": "I can't stomach violent films.",
+        "exampleTr": "Şiddet içeren filmlere tahammül edemiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_storm",
+    "headword": "storm",
+    "extraMeanings": [
+      {
+        "tr": "öfkeyle dalmak, hızla girmek/çıkmak (fiil)",
+        "en": "to move somewhere in an angry, forceful way",
+        "exampleEn": "She stormed out of the room in anger.",
+        "exampleTr": "Öfkeyle odadan fırlayıp çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_straight",
+    "headword": "straight",
+    "extraMeanings": [
+      {
+        "tr": "doğruca, dosdoğru (zarf); art arda",
+        "en": "directly, without delay, or in a row",
+        "exampleEn": "Go straight home after school.",
+        "exampleTr": "Okuldan sonra doğruca eve git."
+      }
+    ]
+  },
+  {
+    "id": "w_strike",
+    "headword": "strike",
+    "extraMeanings": [
+      {
+        "tr": "vurmak, çarpmak (fiil)",
+        "en": "to hit someone or something forcefully",
+        "exampleEn": "Lightning struck the old tree.",
+        "exampleTr": "Yıldırım yaşlı ağaca çarptı."
+      },
+      {
+        "tr": "aklına gelmek, etki etmek",
+        "en": "to suddenly come to mind or make an impression",
+        "exampleEn": "It struck me that I had forgotten my keys.",
+        "exampleTr": "Anahtarlarımı unuttuğum aklıma geldi."
+      }
+    ]
+  },
+  {
+    "id": "w_string",
+    "headword": "string",
+    "extraMeanings": [
+      {
+        "tr": "tel (müzik aletinin teli)",
+        "en": "a thin wire on a musical instrument",
+        "exampleEn": "One of the guitar strings broke during the concert.",
+        "exampleTr": "Konser sırasında gitarın tellerinden biri koptu."
+      },
+      {
+        "tr": "dizi, sıra (art arda gelen şeyler)",
+        "en": "a series of things or events",
+        "exampleEn": "The team had a string of victories.",
+        "exampleTr": "Takım art arda bir dizi galibiyet aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_study",
+    "headword": "study",
+    "extraMeanings": [
+      {
+        "tr": "çalışma odası",
+        "en": "a room used for reading and working",
+        "exampleEn": "He keeps his books in the study.",
+        "exampleTr": "Kitaplarını çalışma odasında tutar."
+      }
+    ]
+  },
+  {
+    "id": "w_suit",
+    "headword": "suit",
+    "extraMeanings": [
+      {
+        "tr": "uygun olmak, yakışmak (fiil)",
+        "en": "to be convenient for or look good on someone",
+        "exampleEn": "That dress really suits you.",
+        "exampleTr": "O elbise sana gerçekten yakışıyor."
+      },
+      {
+        "tr": "dava (hukuki)",
+        "en": "a case brought to a court of law",
+        "exampleEn": "They filed a suit against the company.",
+        "exampleTr": "Şirkete karşı dava açtılar."
+      }
+    ]
+  },
+  {
+    "id": "w_suggest",
+    "headword": "suggest",
+    "extraMeanings": [
+      {
+        "tr": "ima etmek, göstermek, işaret etmek",
+        "en": "to show or indicate that something is likely true",
+        "exampleEn": "The evidence suggests that he is guilty.",
+        "exampleTr": "Kanıtlar onun suçlu olduğunu gösteriyor."
+      }
+    ]
+  }
+]

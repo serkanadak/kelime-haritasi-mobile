@@ -1,0 +1,170 @@
+[
+  {
+    "id": "w_imperial",
+    "headword": "imperial",
+    "extraMeanings": [
+      {
+        "tr": "emperyal (ölçü sistemi); İngiliz ölçü birimlerine ait",
+        "en": "relating to the non-metric system of weights and measures (inches, pounds, pints)",
+        "exampleEn": "In the US, distances are still measured in imperial units like miles and feet.",
+        "exampleTr": "ABD'de mesafeler hâlâ mil ve fit gibi emperyal birimlerle ölçülür."
+      }
+    ]
+  },
+  {
+    "id": "w_implant",
+    "headword": "implant",
+    "extraMeanings": [
+      {
+        "tr": "(fikir, düşünce) zihne yerleştirmek, kafaya sokmak",
+        "en": "to fix an idea firmly in someone's mind",
+        "exampleEn": "The advertisement was designed to implant the brand name in viewers' minds.",
+        "exampleTr": "Reklam, marka adını izleyicilerin zihnine yerleştirmek için tasarlanmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_indict",
+    "headword": "indict",
+    "extraMeanings": [
+      {
+        "tr": "(bir şeyi/durumu) eleştirmek, mahkûm etmek, kınamak",
+        "en": "to criticize something strongly, to condemn",
+        "exampleEn": "The report indicts the government for failing to protect the poor.",
+        "exampleTr": "Rapor, hükümeti yoksulları koruyamadığı için mahkûm ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_inferno",
+    "headword": "inferno",
+    "extraMeanings": [
+      {
+        "tr": "cehennem gibi yer, katlanılmaz kaos ortamı",
+        "en": "a place or situation of great chaos, heat, or suffering resembling hell",
+        "exampleEn": "The overcrowded prison was described as an inferno of violence and despair.",
+        "exampleTr": "Aşırı kalabalık hapishane, şiddet ve çaresizlik dolu bir cehennem olarak tanımlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_inflection",
+    "headword": "inflection",
+    "extraMeanings": [
+      {
+        "tr": "(dilbilgisi) çekim, sözcüğün ek alarak biçim değiştirmesi",
+        "en": "a change in the form of a word to show grammatical function",
+        "exampleEn": "In English, the inflection '-ed' marks the past tense of regular verbs.",
+        "exampleTr": "İngilizcede '-ed' çekimi, düzenli fiillerin geçmiş zamanını gösterir."
+      }
+    ]
+  },
+  {
+    "id": "w_inhibit",
+    "headword": "inhibit",
+    "extraMeanings": [
+      {
+        "tr": "(kişiyi) çekingenleştirmek, sıkılganlaştırmak, rahat davranmasını engellemek",
+        "en": "to make someone feel embarrassed or unable to act naturally",
+        "exampleEn": "The presence of the camera seemed to inhibit the children.",
+        "exampleTr": "Kameranın varlığı çocukları çekingenleştirmiş gibiydi."
+      }
+    ]
+  },
+  {
+    "id": "w_jolt",
+    "headword": "jolt",
+    "extraMeanings": [
+      {
+        "tr": "(duygusal) sarsıntı, ani ve rahatsız edici uyarı, silkeleyip kendine getirme",
+        "en": "a sudden shock that makes someone act or change",
+        "exampleEn": "The bad exam result gave him the jolt he needed to start studying.",
+        "exampleTr": "Kötü sınav sonucu, ders çalışmaya başlaması için ona gereken sarsıntıyı verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_junkie",
+    "headword": "junkie",
+    "extraMeanings": [
+      {
+        "tr": "(bir şeye) düşkün kimse, tutkun, meraklı (esprili kullanım)",
+        "en": "a person who is extremely enthusiastic about something",
+        "exampleEn": "She's a real news junkie who checks headlines every hour.",
+        "exampleTr": "O, her saat başı manşetlere bakan gerçek bir haber düşkünü."
+      }
+    ]
+  },
+  {
+    "id": "w_juvenile",
+    "headword": "juvenile",
+    "extraMeanings": [
+      {
+        "tr": "(hukuk) reşit olmayan; çocuk/ergen suçluya ilişkin",
+        "en": "relating to young people who are not yet adults, especially in law",
+        "exampleEn": "He was tried in a juvenile court because he was only fifteen.",
+        "exampleTr": "Yalnızca on beş yaşında olduğu için çocuk mahkemesinde yargılandı."
+      }
+    ]
+  },
+  {
+    "id": "w_lament",
+    "headword": "lament",
+    "extraMeanings": [
+      {
+        "tr": "(bir durumdan) yakınmak, hayıflanmak, şikâyet etmek",
+        "en": "to express regret or disappointment about something",
+        "exampleEn": "Many teachers lament the decline in students' reading habits.",
+        "exampleTr": "Birçok öğretmen, öğrencilerin okuma alışkanlıklarındaki düşüşten yakınıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_lavish",
+    "headword": "lavish",
+    "extraMeanings": [
+      {
+        "tr": "(sevgi, para vb.) bol bol vermek, esirgemeden sunmak",
+        "en": "to give someone a lot of something, generously or in large amounts",
+        "exampleEn": "They lavished attention and gifts on their only grandchild.",
+        "exampleTr": "Tek torunlarına bol bol ilgi ve hediye yağdırdılar."
+      }
+    ]
+  },
+  {
+    "id": "w_learned",
+    "headword": "learned",
+    "extraMeanings": [
+      {
+        "tr": "(davranış, tepki) sonradan öğrenilmiş, edinilmiş",
+        "en": "acquired through experience rather than being natural or instinctive",
+        "exampleEn": "Fear of certain animals is often a learned response, not an instinct.",
+        "exampleTr": "Bazı hayvanlardan korkmak, çoğu zaman içgüdü değil, öğrenilmiş bir tepkidir."
+      }
+    ]
+  },
+  {
+    "id": "w_levy",
+    "headword": "levy",
+    "extraMeanings": [
+      {
+        "tr": "(vergi vb.) koymak, salmak, tahsil etmek (fiil)",
+        "en": "to officially impose or collect a tax, fee, or fine",
+        "exampleEn": "The government plans to levy a new tax on sugary drinks.",
+        "exampleTr": "Hükümet, şekerli içeceklere yeni bir vergi koymayı planlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_liaison",
+    "headword": "liaison",
+    "extraMeanings": [
+      {
+        "tr": "gizli aşk ilişkisi, gönül ilişkisi",
+        "en": "a secret sexual relationship between two people",
+        "exampleEn": "The novel describes a secret liaison between the countess and a young officer.",
+        "exampleTr": "Roman, kontes ile genç bir subay arasındaki gizli bir aşk ilişkisini anlatır."
+      }
+    ]
+  }
+]

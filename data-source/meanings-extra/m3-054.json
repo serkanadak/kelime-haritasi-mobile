@@ -1,0 +1,494 @@
+[
+  {
+    "id": "w_sector",
+    "headword": "sector",
+    "extraMeanings": [
+      {
+        "tr": "kesim, bölge (askeri/coğrafi)",
+        "en": "a distinct area or part of a place, often under specific control",
+        "exampleEn": "The city was divided into four sectors after the war.",
+        "exampleTr": "Şehir savaştan sonra dört bölgeye ayrıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_segment",
+    "headword": "segment",
+    "extraMeanings": [
+      {
+        "tr": "dilim (portakal vb. narenciyenin)",
+        "en": "one of the parts into which a citrus fruit divides naturally",
+        "exampleEn": "She peeled the orange and ate it segment by segment.",
+        "exampleTr": "Portakalı soydu ve dilim dilim yedi."
+      }
+    ]
+  },
+  {
+    "id": "w_shed",
+    "headword": "shed",
+    "extraMeanings": [
+      {
+        "tr": "dökmek, akıtmak (gözyaşı, kan); (deri/tüy) dökmek",
+        "en": "to get rid of something or let something fall off",
+        "exampleEn": "Snakes shed their skin as they grow.",
+        "exampleTr": "Yılanlar büyürken derilerini döker."
+      }
+    ]
+  },
+  {
+    "id": "w_shield",
+    "headword": "shield",
+    "extraMeanings": [
+      {
+        "tr": "korumak, siper olmak",
+        "en": "to protect someone or something from danger or harm",
+        "exampleEn": "She raised her hand to shield her eyes from the sun.",
+        "exampleTr": "Güneşten gözlerini korumak için elini kaldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_shift",
+    "headword": "shift",
+    "extraMeanings": [
+      {
+        "tr": "kaydırmak, yer değiştirmek, taşımak",
+        "en": "to move or change from one position or direction to another",
+        "exampleEn": "He shifted his weight from one foot to the other.",
+        "exampleTr": "Ağırlığını bir ayağından diğerine kaydırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_shrink",
+    "headword": "shrink",
+    "extraMeanings": [
+      {
+        "tr": "küçülmek, çekmek, büzülmek",
+        "en": "to become smaller in size or amount",
+        "exampleEn": "My sweater shrank in the wash.",
+        "exampleTr": "Kazağım yıkamada çekti."
+      }
+    ]
+  },
+  {
+    "id": "w_shrug",
+    "headword": "shrug",
+    "extraMeanings": [
+      {
+        "tr": "omuz silkme (isim)",
+        "en": "the act of raising your shoulders to show you do not know or care",
+        "exampleEn": "He answered my question with a shrug.",
+        "exampleTr": "Soruma bir omuz silkmeyle cevap verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_shudder",
+    "headword": "shudder",
+    "extraMeanings": [
+      {
+        "tr": "titreme, ürperti (isim)",
+        "en": "a sudden shaking movement of the body from fear or cold",
+        "exampleEn": "A shudder ran through her when she heard the news.",
+        "exampleTr": "Haberi duyunca içinden bir ürperti geçti."
+      }
+    ]
+  },
+  {
+    "id": "w_shatter",
+    "headword": "shatter",
+    "extraMeanings": [
+      {
+        "tr": "yıkmak, alt üst etmek (umut, hayal, güven)",
+        "en": "to destroy or severely damage something such as hopes or beliefs",
+        "exampleEn": "The accident shattered all his dreams of becoming an athlete.",
+        "exampleTr": "Kaza, onun atlet olma hayallerini yıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_shaft",
+    "headword": "shaft",
+    "extraMeanings": [
+      {
+        "tr": "ışık huzmesi, ışık demeti",
+        "en": "a narrow beam of light",
+        "exampleEn": "A shaft of sunlight came through the window.",
+        "exampleTr": "Pencereden bir güneş huzmesi süzüldü."
+      }
+    ]
+  },
+  {
+    "id": "w_slam",
+    "headword": "slam",
+    "extraMeanings": [
+      {
+        "tr": "sert eleştirmek, yerden yere vurmak",
+        "en": "to criticize someone or something very strongly",
+        "exampleEn": "The critics slammed her latest film.",
+        "exampleTr": "Eleştirmenler onun son filmini yerden yere vurdu."
+      }
+    ]
+  },
+  {
+    "id": "w_slap",
+    "headword": "slap",
+    "extraMeanings": [
+      {
+        "tr": "tokat atmak, şaplak vurmak (fiil)",
+        "en": "to hit someone with the flat part of your hand",
+        "exampleEn": "She slapped him across the face.",
+        "exampleTr": "Suratına bir tokat attı."
+      }
+    ]
+  },
+  {
+    "id": "w_slash",
+    "headword": "slash",
+    "extraMeanings": [
+      {
+        "tr": "büyük ölçüde kısmak, indirmek (fiyat, bütçe)",
+        "en": "to reduce something such as prices or costs by a large amount",
+        "exampleEn": "The store slashed its prices by 50 percent.",
+        "exampleTr": "Mağaza fiyatlarını yüzde 50 indirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_slaughter",
+    "headword": "slaughter",
+    "extraMeanings": [
+      {
+        "tr": "hayvan kesmek; katletmek (fiil)",
+        "en": "to kill animals for food, or to kill people brutally",
+        "exampleEn": "Thousands of animals are slaughtered here every day.",
+        "exampleTr": "Burada her gün binlerce hayvan kesiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_slight",
+    "headword": "slight",
+    "extraMeanings": [
+      {
+        "tr": "ince, narin (yapılı)",
+        "en": "thin and delicate in build",
+        "exampleEn": "She was a slight woman with short brown hair.",
+        "exampleTr": "Kısa kahverengi saçlı, narin yapılı bir kadındı."
+      }
+    ]
+  },
+  {
+    "id": "w_smack",
+    "headword": "smack",
+    "extraMeanings": [
+      {
+        "tr": "tam, tam ortasına, dosdoğru (zarf)",
+        "en": "exactly or directly in a particular place",
+        "exampleEn": "The ball hit him smack in the middle of his forehead.",
+        "exampleTr": "Top tam alnının ortasına çarptı."
+      }
+    ]
+  },
+  {
+    "id": "w_smash",
+    "headword": "smash",
+    "extraMeanings": [
+      {
+        "tr": "çarpmak, toslamak (araç vb.)",
+        "en": "to hit something violently, often causing a crash",
+        "exampleEn": "The car smashed into a wall.",
+        "exampleTr": "Araba bir duvara çarptı."
+      }
+    ]
+  },
+  {
+    "id": "w_smear",
+    "headword": "smear",
+    "extraMeanings": [
+      {
+        "tr": "karalamak, itibarını zedelemek",
+        "en": "to damage someone's reputation with false accusations",
+        "exampleEn": "They tried to smear him with false accusations.",
+        "exampleTr": "Onu asılsız suçlamalarla karalamaya çalıştılar."
+      }
+    ]
+  },
+  {
+    "id": "w_snap",
+    "headword": "snap",
+    "extraMeanings": [
+      {
+        "tr": "ters ters konuşmak, terslemek",
+        "en": "to speak to someone quickly in an angry way",
+        "exampleEn": "\"Leave me alone!\" she snapped.",
+        "exampleTr": "\"Beni rahat bırak!\" diye tersledi."
+      },
+      {
+        "tr": "fotoğraf çekmek",
+        "en": "to take a quick photograph",
+        "exampleEn": "Tourists were snapping pictures of the castle.",
+        "exampleTr": "Turistler kalenin fotoğraflarını çekiyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_sneak",
+    "headword": "sneak",
+    "extraMeanings": [
+      {
+        "tr": "gizlice almak/sokmak/vermek",
+        "en": "to take, put, or do something secretly",
+        "exampleEn": "He sneaked a chocolate bar into his pocket.",
+        "exampleTr": "Cebine gizlice bir çikolata soktu."
+      }
+    ]
+  },
+  {
+    "id": "w_sniff",
+    "headword": "sniff",
+    "extraMeanings": [
+      {
+        "tr": "koklama, burun çekme (isim)",
+        "en": "the act of smelling or drawing air in through the nose",
+        "exampleEn": "The dog gave the ground a quick sniff.",
+        "exampleTr": "Köpek yeri hızlıca kokladı."
+      }
+    ]
+  },
+  {
+    "id": "w_snore",
+    "headword": "snore",
+    "extraMeanings": [
+      {
+        "tr": "horlamak (fiil)",
+        "en": "to breathe noisily while sleeping",
+        "exampleEn": "He snores so loudly that I can't sleep.",
+        "exampleTr": "O kadar yüksek sesle horluyor ki uyuyamıyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_snowball",
+    "headword": "snowball",
+    "extraMeanings": [
+      {
+        "tr": "hızla büyümek, çığ gibi büyümek",
+        "en": "to grow quickly in size or importance",
+        "exampleEn": "The small protest snowballed into a nationwide movement.",
+        "exampleTr": "Küçük protesto çığ gibi büyüyerek ülke çapında bir harekete dönüştü."
+      }
+    ]
+  },
+  {
+    "id": "w_soak",
+    "headword": "soak",
+    "extraMeanings": [
+      {
+        "tr": "ıslatmak, suda bekletmek (fiil)",
+        "en": "to make something completely wet or leave it in liquid",
+        "exampleEn": "Soak the beans overnight before cooking them.",
+        "exampleTr": "Fasulyeleri pişirmeden önce bir gece suda beklet."
+      }
+    ]
+  },
+  {
+    "id": "w_sober",
+    "headword": "sober",
+    "extraMeanings": [
+      {
+        "tr": "ciddi, ağırbaşlı, ölçülü",
+        "en": "serious, sensible, and not silly",
+        "exampleEn": "We need to take a sober look at the facts.",
+        "exampleTr": "Gerçeklere ciddi bir gözle bakmamız gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_soil",
+    "headword": "soil",
+    "extraMeanings": [
+      {
+        "tr": "kirletmek, lekelemek (fiil)",
+        "en": "to make something dirty",
+        "exampleEn": "His clothes were soiled with mud.",
+        "exampleTr": "Kıyafetleri çamurla kirlenmişti."
+      }
+    ]
+  },
+  {
+    "id": "w_sole",
+    "headword": "sole",
+    "extraMeanings": [
+      {
+        "tr": "ayak tabanı; ayakkabı tabanı (isim)",
+        "en": "the bottom part of the foot or a shoe",
+        "exampleEn": "The soles of my shoes are worn out.",
+        "exampleTr": "Ayakkabılarımın tabanları aşınmış."
+      }
+    ]
+  },
+  {
+    "id": "w_sketch",
+    "headword": "sketch",
+    "extraMeanings": [
+      {
+        "tr": "skeç, kısa komik oyun (isim)",
+        "en": "a short, usually funny scene performed by actors",
+        "exampleEn": "The show opened with a comedy sketch.",
+        "exampleTr": "Gösteri bir komedi skeciyle başladı."
+      }
+    ]
+  },
+  {
+    "id": "w_skip",
+    "headword": "skip",
+    "extraMeanings": [
+      {
+        "tr": "sekerek/hoplayarak yürümek, sıçramak",
+        "en": "to move forward with light jumping steps",
+        "exampleEn": "The children skipped happily down the road.",
+        "exampleTr": "Çocuklar yolda neşeyle sekerek gittiler."
+      }
+    ]
+  },
+  {
+    "id": "w_slack",
+    "headword": "slack",
+    "extraMeanings": [
+      {
+        "tr": "ihmalkâr, dikkatsiz, gevşek davranan",
+        "en": "not taking enough care or making enough effort",
+        "exampleEn": "The staff had become slack about security.",
+        "exampleTr": "Personel güvenlik konusunda ihmalkâr olmuştu."
+      }
+    ]
+  },
+  {
+    "id": "w_slump",
+    "headword": "slump",
+    "extraMeanings": [
+      {
+        "tr": "çökmek, yığılmak (fiil)",
+        "en": "to fall or sit down heavily because you are tired or ill",
+        "exampleEn": "He slumped into his chair, exhausted.",
+        "exampleTr": "Bitkin bir halde koltuğuna yığıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_sneer",
+    "headword": "sneer",
+    "extraMeanings": [
+      {
+        "tr": "alay etmek, küçümsemek (fiil)",
+        "en": "to smile or speak in a way that shows contempt",
+        "exampleEn": "He sneered at my attempt to help.",
+        "exampleTr": "Yardım etme çabamla alay etti."
+      }
+    ]
+  },
+  {
+    "id": "w_soar",
+    "headword": "soar",
+    "extraMeanings": [
+      {
+        "tr": "yükselmek, göğe uzanmak (bina/dağ vb.)",
+        "en": "to rise high into the air (of a tall structure)",
+        "exampleEn": "The cathedral's towers soar above the city.",
+        "exampleTr": "Katedralin kuleleri şehrin üzerinde göğe uzanır."
+      }
+    ]
+  },
+  {
+    "id": "w_shred",
+    "headword": "shred",
+    "extraMeanings": [
+      {
+        "tr": "kırıntı, zerre, nebze (isim)",
+        "en": "a very small amount of something",
+        "exampleEn": "There isn't a shred of evidence against him.",
+        "exampleTr": "Ona karşı zerre kadar kanıt yok."
+      }
+    ]
+  },
+  {
+    "id": "w_shriek",
+    "headword": "shriek",
+    "extraMeanings": [
+      {
+        "tr": "çığlık, feryat (isim)",
+        "en": "a loud, high cry",
+        "exampleEn": "She let out a shriek of delight.",
+        "exampleTr": "Sevinçle bir çığlık attı."
+      }
+    ]
+  },
+  {
+    "id": "w_sob",
+    "headword": "sob",
+    "extraMeanings": [
+      {
+        "tr": "hıçkırık (isim)",
+        "en": "the act or sound of crying with short breaths",
+        "exampleEn": "She spoke between sobs.",
+        "exampleTr": "Hıçkırıklar arasında konuştu."
+      }
+    ]
+  },
+  {
+    "id": "w_settled",
+    "headword": "settled",
+    "extraMeanings": [
+      {
+        "tr": "yerleşmiş, düzene girmiş, oturmuş",
+        "en": "having a fixed, stable, and comfortable way of life",
+        "exampleEn": "After years of moving, they finally felt settled.",
+        "exampleTr": "Yıllarca taşındıktan sonra sonunda yerleşmiş hissettiler."
+      },
+      {
+        "tr": "durgun, açık (hava)",
+        "en": "calm and not likely to change (of weather)",
+        "exampleEn": "The forecast promises settled weather for the weekend.",
+        "exampleTr": "Hava tahmini hafta sonu için durgun bir hava vaat ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_sole",
+    "headword": "sole",
+    "extraMeanings": [
+      {
+        "tr": "ayak tabanı; ayakkabı tabanı (isim)",
+        "en": "the bottom part of the foot or a shoe",
+        "exampleEn": "The soles of my shoes are worn out.",
+        "exampleTr": "Ayakkabılarımın tabanları aşınmış."
+      }
+    ]
+  },
+  {
+    "id": "w_serial",
+    "headword": "serial",
+    "extraMeanings": [
+      {
+        "tr": "dizi, tefrika (isim)",
+        "en": "a story broadcast or published in separate regular parts",
+        "exampleEn": "The radio serial had millions of listeners.",
+        "exampleTr": "Radyo dizisinin milyonlarca dinleyicisi vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_since",
+    "headword": "since",
+    "extraMeanings": [
+      {
+        "tr": "-dığı için, madem ki (bağlaç)",
+        "en": "because; for the reason that",
+        "exampleEn": "Since you're here, you might as well help.",
+        "exampleTr": "Madem buradasın, bari yardım et."
+      }
+    ]
+  }
+]

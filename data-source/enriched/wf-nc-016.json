@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "w_goodie",
+    "headword": "goodie",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡʊdi/",
+    "meanings": [
+      {
+        "tr": "leziz şey, tatlı çerez, güzel bir şey",
+        "en": "something attractive or pleasant to eat, especially a sweet treat",
+        "exampleEn": "The kids' party bags were full of goodies like chocolate and candy.",
+        "exampleTr": "Çocukların parti çantaları çikolata ve şeker gibi güzel şeylerle doluydu."
+      }
+    ],
+    "synonyms": [
+      "treat",
+      "delicacy"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_governable",
+    "headword": "governable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡʌvənəbl/",
+    "meanings": [
+      {
+        "tr": "yönetilebilir, idare edilebilir",
+        "en": "able to be governed or controlled",
+        "exampleEn": "Some critics argued the country was barely governable after the crisis.",
+        "exampleTr": "Bazı eleştirmenler krizden sonra ülkenin neredeyse yönetilemez halde olduğunu savundu."
+      }
+    ],
+    "synonyms": [
+      "controllable",
+      "manageable"
+    ],
+    "antonyms": [
+      "ungovernable",
+      "unruly"
+    ]
+  },
+  {
+    "id": "w_governess",
+    "headword": "governess",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡʌvənəs/",
+    "meanings": [
+      {
+        "tr": "mürebbiye, özel öğretmen (çocuklara bakan ve ders veren kadın)",
+        "en": "a woman employed in a private household to teach and care for the children",
+        "exampleEn": "In the 19th century, a governess lived with the family and educated their daughters.",
+        "exampleTr": "19. yüzyılda mürebbiye ailenin yanında yaşar ve kızlarını eğitirdi."
+      }
+    ],
+    "synonyms": [
+      "tutor"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_graceless",
+    "headword": "graceless",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡreɪsləs/",
+    "meanings": [
+      {
+        "tr": "zarafetsiz, kaba, incelikten yoksun",
+        "en": "lacking grace, elegance, or good manners",
+        "exampleEn": "His graceless response to the criticism embarrassed everyone in the room.",
+        "exampleTr": "Eleştiriye verdiği kaba yanıt odadaki herkesi utandırdı."
+      }
+    ],
+    "synonyms": [
+      "clumsy",
+      "awkward",
+      "inelegant"
+    ],
+    "antonyms": [
+      "graceful",
+      "elegant"
+    ]
+  },
+  {
+    "id": "w_gracelessly",
+    "headword": "gracelessly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡreɪsləsli/",
+    "meanings": [
+      {
+        "tr": "zarafetsizce, kabaca, incelikten yoksun bir şekilde",
+        "en": "in a way that lacks grace, elegance, or courtesy",
+        "exampleEn": "She gracelessly pushed past the other guests to reach the exit.",
+        "exampleTr": "Diğer konukları kabaca iterek çıkışa doğru ilerledi."
+      }
+    ],
+    "synonyms": [
+      "clumsily",
+      "awkwardly"
+    ],
+    "antonyms": [
+      "gracefully",
+      "elegantly"
+    ]
+  },
+  {
+    "id": "w_grade_school",
+    "headword": "grade school",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡreɪd skuːl/",
+    "meanings": [
+      {
+        "tr": "ilkokul (ABD)",
+        "en": "(American English) elementary school; a school for young children in the first years of formal education",
+        "exampleEn": "I still remember my best friend from grade school.",
+        "exampleTr": "İlkokuldan en yakın arkadaşımı hâlâ hatırlıyorum."
+      }
+    ],
+    "synonyms": [
+      "elementary school",
+      "primary school"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_grate",
+    "headword": "grate",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡreɪt/",
+    "meanings": [
+      {
+        "tr": "rendelemek",
+        "en": "to rub food against a grater to break it into small pieces",
+        "exampleEn": "Grate some cheese over the pasta before serving.",
+        "exampleTr": "Servis etmeden önce makarnanın üzerine biraz peynir rendele."
+      },
+      {
+        "tr": "sinir bozmak, rahatsız etmek (bir ses veya davranış)",
+        "en": "to be irritating or annoying",
+        "exampleEn": "His constant complaining really began to grate on my nerves.",
+        "exampleTr": "Sürekli şikâyet etmesi gerçekten sinirlerimi bozmaya başladı."
+      },
+      {
+        "tr": "gıcırdatmak, sürtünerek ses çıkarmak",
+        "en": "to make a harsh grinding sound by rubbing",
+        "exampleEn": "The old door grated against the stone floor as it opened.",
+        "exampleTr": "Eski kapı açılırken taş zemine sürtünerek gıcırdadı."
+      }
+    ],
+    "synonyms": [
+      "shred",
+      "irritate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_gratefulness",
+    "headword": "gratefulness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡreɪtfʊlnəs/",
+    "meanings": [
+      {
+        "tr": "minnettarlık, şükran",
+        "en": "the quality of being grateful; a feeling of thankfulness",
+        "exampleEn": "She expressed her gratefulness for all the support she had received.",
+        "exampleTr": "Aldığı tüm destek için minnettarlığını dile getirdi."
+      }
+    ],
+    "synonyms": [
+      "gratitude",
+      "thankfulness",
+      "appreciation"
+    ],
+    "antonyms": [
+      "ingratitude"
+    ]
+  },
+  {
+    "id": "w_gratification",
+    "headword": "gratification",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡrætɪfɪˈkeɪʃn/",
+    "meanings": [
+      {
+        "tr": "tatmin, haz, memnuniyet",
+        "en": "the pleasure or satisfaction gained from having what one wants",
+        "exampleEn": "He sought instant gratification rather than long-term rewards.",
+        "exampleTr": "Uzun vadeli ödüller yerine anlık tatmin peşindeydi."
+      }
+    ],
+    "synonyms": [
+      "satisfaction",
+      "pleasure",
+      "fulfillment"
+    ],
+    "antonyms": [
+      "dissatisfaction",
+      "frustration"
+    ]
+  },
+  {
+    "id": "w_gratifying",
+    "headword": "gratifying",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡrætɪfaɪɪŋ/",
+    "meanings": [
+      {
+        "tr": "memnun edici, hoşnut edici, tatmin edici",
+        "en": "giving pleasure or satisfaction",
+        "exampleEn": "It was gratifying to see her hard work finally pay off.",
+        "exampleTr": "Sıkı çalışmasının sonunda karşılığını görmek memnuniyet vericiydi."
+      }
+    ],
+    "synonyms": [
+      "satisfying",
+      "pleasing",
+      "rewarding"
+    ],
+    "antonyms": [
+      "disappointing",
+      "frustrating"
+    ]
+  },
+  {
+    "id": "w_greater",
+    "headword": "greater",
+    "pos": "adj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡreɪtə/",
+    "meanings": [
+      {
+        "tr": "daha büyük, daha fazla, daha üstün (great'in üstünlük hali)",
+        "en": "comparative form of great; larger, more, or more important",
+        "exampleEn": "We need a greater effort from everyone to finish on time.",
+        "exampleTr": "Zamanında bitirmek için herkesten daha büyük bir çaba gerekiyor."
+      }
+    ],
+    "synonyms": [
+      "larger",
+      "bigger"
+    ],
+    "antonyms": [
+      "lesser",
+      "smaller"
+    ]
+  },
+  {
+    "id": "w_greenery",
+    "headword": "greenery",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡriːnəri/",
+    "meanings": [
+      {
+        "tr": "yeşillik, yeşil bitki örtüsü",
+        "en": "green leaves, plants, or branches, especially used for decoration",
+        "exampleEn": "The balcony was decorated with lush greenery and flowers.",
+        "exampleTr": "Balkon gür yeşillikler ve çiçeklerle süslenmişti."
+      }
+    ],
+    "synonyms": [
+      "foliage",
+      "vegetation"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_greenness",
+    "headword": "greenness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡriːnnəs/",
+    "meanings": [
+      {
+        "tr": "yeşillik, yeşil olma durumu",
+        "en": "the state or quality of being green in colour",
+        "exampleEn": "The greenness of the fields after the rain was striking.",
+        "exampleTr": "Yağmurdan sonra tarlaların yeşilliği göz alıcıydı."
+      },
+      {
+        "tr": "toyluk, tecrübesizlik",
+        "en": "lack of experience or maturity",
+        "exampleEn": "His greenness as a manager showed in the way he handled the conflict.",
+        "exampleTr": "Yönetici olarak toyluğu, anlaşmazlığı ele alış biçiminde belli oluyordu."
+      }
+    ],
+    "synonyms": [
+      "verdancy",
+      "inexperience"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_grimy",
+    "headword": "grimy",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡraɪmi/",
+    "meanings": [
+      {
+        "tr": "kir pas içinde, is bağlamış, kirli",
+        "en": "covered with dirt or grime",
+        "exampleEn": "The windows were so grimy that we could barely see through them.",
+        "exampleTr": "Pencereler o kadar kirliydi ki içinden zar zor görebiliyorduk."
+      }
+    ],
+    "synonyms": [
+      "dirty",
+      "filthy",
+      "grubby"
+    ],
+    "antonyms": [
+      "clean",
+      "spotless"
+    ]
+  },
+  {
+    "id": "w_grin_and_bear_it",
+    "headword": "grin and bear it",
+    "pos": "idiom",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɡrɪn ən ˈbeər ɪt/",
+    "meanings": [
+      {
+        "tr": "hoşnutsuz bir duruma sabırla ve şikâyet etmeden katlanmak, dişini sıkmak",
+        "en": "to accept an unpleasant or difficult situation without complaining",
+        "exampleEn": "There's nothing we can do about the delay, so we'll just have to grin and bear it.",
+        "exampleTr": "Gecikme konusunda yapabileceğimiz bir şey yok, o yüzden dişimizi sıkıp katlanmak zorundayız."
+      }
+    ],
+    "synonyms": [
+      "endure",
+      "put up with it"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_grindstone",
+    "headword": "grindstone",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡraɪndstəʊn/",
+    "meanings": [
+      {
+        "tr": "bileği taşı, değirmen taşı",
+        "en": "a thick revolving stone used for sharpening tools or grinding things",
+        "exampleEn": "The blacksmith sharpened the blade on a spinning grindstone.",
+        "exampleTr": "Demirci bıçağı dönen bir bileği taşında biledi."
+      },
+      {
+        "tr": "(keep one's nose to the grindstone) sıkı ve aralıksız çalışmak",
+        "en": "used in the phrase 'keep one's nose to the grindstone' meaning to work hard and continuously",
+        "exampleEn": "If you keep your nose to the grindstone, you'll finish the project by Friday.",
+        "exampleTr": "Aralıksız sıkı çalışırsan projeyi cumaya kadar bitirirsin."
+      }
+    ],
+    "synonyms": [
+      "whetstone"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_gripe",
+    "headword": "gripe",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡraɪp/",
+    "meanings": [
+      {
+        "tr": "söylenmek, dırdır etmek, şikâyet edip durmak",
+        "en": "to complain about something in an annoying way",
+        "exampleEn": "He's always griping about how much work he has to do.",
+        "exampleTr": "Sürekli ne kadar çok işi olduğu hakkında söyleniyor."
+      },
+      {
+        "tr": "şikâyet, yakınma, dert",
+        "en": "a complaint or grievance",
+        "exampleEn": "My main gripe with the hotel was the slow service.",
+        "exampleTr": "Otelle ilgili başlıca şikâyetim yavaş hizmetti."
+      }
+    ],
+    "synonyms": [
+      "complain",
+      "grumble",
+      "moan"
+    ],
+    "antonyms": [
+      "praise"
+    ]
+  },
+  {
+    "id": "w_grisly",
+    "headword": "grisly",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡrɪzli/",
+    "meanings": [
+      {
+        "tr": "korkunç, tüyler ürpertici, dehşet verici (özellikle ölüm/şiddetle ilgili)",
+        "en": "extremely unpleasant and causing horror, especially involving death or violence",
+        "exampleEn": "The detective described the grisly details of the murder scene.",
+        "exampleTr": "Dedektif cinayet mahallinin tüyler ürpertici ayrıntılarını anlattı."
+      }
+    ],
+    "synonyms": [
+      "gruesome",
+      "gory",
+      "horrific"
+    ],
+    "antonyms": [
+      "pleasant"
+    ]
+  },
+  {
+    "id": "w_gritty",
+    "headword": "gritty",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡrɪti/",
+    "meanings": [
+      {
+        "tr": "kararlı, azimli, cesur (zorluklara rağmen)",
+        "en": "showing courage and determination in the face of difficulty",
+        "exampleEn": "Her gritty performance helped the team win the championship.",
+        "exampleTr": "Onun kararlı performansı takımın şampiyonluğu kazanmasına yardımcı oldu."
+      },
+      {
+        "tr": "gerçekçi ve sert, çarpıcı (özellikle hayatın zor yanlarını gösteren)",
+        "en": "showing something unpleasant in a realistic way",
+        "exampleEn": "The film offers a gritty portrayal of life in the inner city.",
+        "exampleTr": "Film, şehir merkezindeki yaşamın sert ve gerçekçi bir tasvirini sunuyor."
+      },
+      {
+        "tr": "kum gibi, kumlu (dokuda)",
+        "en": "containing or covered with small hard particles like sand",
+        "exampleEn": "The spinach still had a gritty texture from the soil.",
+        "exampleTr": "Ispanak hâlâ topraktan gelen kumlu bir dokuya sahipti."
+      }
+    ],
+    "synonyms": [
+      "determined",
+      "tough",
+      "courageous"
+    ],
+    "antonyms": [
+      "weak",
+      "smooth"
+    ]
+  },
+  {
+    "id": "w_groggy",
+    "headword": "groggy",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡrɒɡi/",
+    "meanings": [
+      {
+        "tr": "sersem, uykulu, mahmur, ayağa zor duran",
+        "en": "weak and unable to think clearly, especially after sleep, illness, or a shock",
+        "exampleEn": "I felt groggy for hours after taking the medication.",
+        "exampleTr": "İlacı aldıktan sonra saatlerce sersem hissettim."
+      }
+    ],
+    "synonyms": [
+      "drowsy",
+      "dazed",
+      "woozy"
+    ],
+    "antonyms": [
+      "alert",
+      "clear-headed"
+    ]
+  },
+  {
+    "id": "w_groundward",
+    "headword": "groundward",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡraʊndwəd/",
+    "meanings": [
+      {
+        "tr": "yere doğru, zemine doğru",
+        "en": "toward the ground",
+        "exampleEn": "The leaves drifted groundward in the autumn breeze.",
+        "exampleTr": "Yapraklar sonbahar rüzgârında yere doğru süzüldü."
+      }
+    ],
+    "synonyms": [
+      "downward"
+    ],
+    "antonyms": [
+      "upward",
+      "skyward"
+    ]
+  },
+  {
+    "id": "w_grudge",
+    "headword": "grudge",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡrʌdʒ/",
+    "meanings": [
+      {
+        "tr": "kin, garez, gücenme, hınç",
+        "en": "a feeling of resentment or ill will held against someone because of a past wrong",
+        "exampleEn": "She still holds a grudge against him for lying to her.",
+        "exampleTr": "Ona yalan söylediği için hâlâ kin besliyor."
+      },
+      {
+        "tr": "esirgemek, çok görmek, kıskanmak",
+        "en": "to feel unwilling to give or allow something",
+        "exampleEn": "I don't grudge him his success; he worked hard for it.",
+        "exampleTr": "Başarısını ondan esirgemiyorum; bunun için çok çalıştı."
+      }
+    ],
+    "synonyms": [
+      "resentment",
+      "bitterness",
+      "rancour"
+    ],
+    "antonyms": [
+      "goodwill"
+    ]
+  },
+  {
+    "id": "w_grudgingly",
+    "headword": "grudgingly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡrʌdʒɪŋli/",
+    "meanings": [
+      {
+        "tr": "istemeye istemeye, gönülsüzce, zoraki",
+        "en": "in a reluctant or unwilling way",
+        "exampleEn": "He grudgingly admitted that she was right.",
+        "exampleTr": "İstemeye istemeye onun haklı olduğunu kabul etti."
+      }
+    ],
+    "synonyms": [
+      "reluctantly",
+      "unwillingly"
+    ],
+    "antonyms": [
+      "willingly",
+      "eagerly"
+    ]
+  },
+  {
+    "id": "w_grueling",
+    "headword": "grueling",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡruːəlɪŋ/",
+    "meanings": [
+      {
+        "tr": "çok yorucu, çetin, bitkin düşüren, ağır",
+        "en": "extremely tiring and demanding",
+        "exampleEn": "The athletes faced a grueling training schedule before the Olympics.",
+        "exampleTr": "Sporcular Olimpiyatlar öncesinde çok yorucu bir antrenman programıyla karşı karşıyaydı."
+      }
+    ],
+    "synonyms": [
+      "exhausting",
+      "punishing",
+      "strenuous"
+    ],
+    "antonyms": [
+      "easy",
+      "effortless"
+    ]
+  },
+  {
+    "id": "w_gullible",
+    "headword": "gullible",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡʌləbl/",
+    "meanings": [
+      {
+        "tr": "saf, kolay kanan, her söylenene inanan",
+        "en": "easily deceived or tricked because of being too trusting",
+        "exampleEn": "He was gullible enough to believe the email promising him a free car.",
+        "exampleTr": "Kendisine bedava araba vaat eden e-postaya inanacak kadar saftı."
+      }
+    ],
+    "synonyms": [
+      "naive",
+      "credulous",
+      "trusting"
+    ],
+    "antonyms": [
+      "skeptical",
+      "shrewd"
+    ]
+  },
+  {
+    "id": "w_gullibly",
+    "headword": "gullibly",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡʌləbli/",
+    "meanings": [
+      {
+        "tr": "safça, kolay kanarak, her söylenene inanır biçimde",
+        "en": "in a way that shows a person is easily deceived or too trusting",
+        "exampleEn": "She gullibly handed over her savings to the con artist.",
+        "exampleTr": "Birikimlerini safça dolandırıcıya teslim etti."
+      }
+    ],
+    "synonyms": [
+      "naively",
+      "credulously"
+    ],
+    "antonyms": [
+      "skeptically"
+    ]
+  },
+  {
+    "id": "w_gully",
+    "headword": "gully",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡʌli/",
+    "meanings": [
+      {
+        "tr": "su ile oyulmuş dar vadi, sel yatağı, dere yarığı, hendek",
+        "en": "a small valley or channel cut into the earth by running water",
+        "exampleEn": "Heavy rain carved a deep gully into the hillside.",
+        "exampleTr": "Şiddetli yağmur, yamaçta derin bir sel yatağı oydu."
+      }
+    ],
+    "synonyms": [
+      "ravine",
+      "gorge",
+      "ditch"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_gut",
+    "headword": "gut",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡʌt/",
+    "meanings": [
+      {
+        "tr": "bağırsak, mide, karın; iç organlar",
+        "en": "the stomach or intestines; the digestive organs",
+        "exampleEn": "He felt a sharp pain in his gut after the meal.",
+        "exampleTr": "Yemekten sonra karnında keskin bir ağrı hissetti."
+      },
+      {
+        "tr": "içgüdüsel his, sezgi (gut feeling)",
+        "en": "an instinctive feeling rather than one based on reasoning",
+        "exampleEn": "My gut told me not to trust him.",
+        "exampleTr": "İçgüdülerim ona güvenmememi söyledi."
+      },
+      {
+        "tr": "içini boşaltmak, iç organlarını çıkarmak; (yangın vb.) içini tahrip etmek",
+        "en": "to remove the internal organs of a fish or animal; to destroy the interior of a building",
+        "exampleEn": "The fire completely gutted the old warehouse.",
+        "exampleTr": "Yangın eski deponun içini tamamen tahrip etti."
+      }
+    ],
+    "synonyms": [
+      "stomach",
+      "belly",
+      "intestines"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_guzzle",
+    "headword": "guzzle",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡʌzl/",
+    "meanings": [
+      {
+        "tr": "lıkır lıkır içmek, oburca yiyip içmek, silip süpürmek",
+        "en": "to eat or drink something quickly and in large amounts",
+        "exampleEn": "He guzzled two bottles of water after the run.",
+        "exampleTr": "Koşudan sonra iki şişe suyu lıkır lıkır içti."
+      },
+      {
+        "tr": "(yakıt/enerji) çok tüketmek",
+        "en": "to use up fuel or resources at a fast rate",
+        "exampleEn": "That old car guzzles gas on the highway.",
+        "exampleTr": "O eski araba otoyolda çok yakıt tüketiyor."
+      }
+    ],
+    "synonyms": [
+      "gulp",
+      "gobble",
+      "swig"
+    ],
+    "antonyms": [
+      "sip",
+      "nibble"
+    ]
+  },
+  {
+    "id": "w_gym_clothes",
+    "headword": "gym clothes",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdʒɪm kləʊðz/",
+    "meanings": [
+      {
+        "tr": "spor kıyafetleri, spor salonu için giysiler",
+        "en": "clothing worn for exercising or working out at a gym",
+        "exampleEn": "Don't forget to pack your gym clothes for the workout later.",
+        "exampleTr": "Sonraki antrenman için spor kıyafetlerini almayı unutma."
+      }
+    ],
+    "synonyms": [
+      "workout clothes",
+      "sportswear"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_habit_forming",
+    "headword": "habit-forming",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhæbɪt ˌfɔːmɪŋ/",
+    "meanings": [
+      {
+        "tr": "alışkanlık yapan, bağımlılık yapan",
+        "en": "tending to become a habit that is difficult to stop; addictive",
+        "exampleEn": "These painkillers can be habit-forming if taken for too long.",
+        "exampleTr": "Bu ağrı kesiciler çok uzun süre alınırsa bağımlılık yapabilir."
+      }
+    ],
+    "synonyms": [
+      "addictive"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_habitually",
+    "headword": "habitually",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/həˈbɪtʃuəli/",
+    "meanings": [
+      {
+        "tr": "her zaman, alışkanlık gereği, mutat olarak, sürekli",
+        "en": "in a way that is regular or usual; as a habit",
+        "exampleEn": "He habitually arrives late to meetings.",
+        "exampleTr": "Toplantılara alışkanlık gereği sürekli geç gelir."
+      }
+    ],
+    "synonyms": [
+      "regularly",
+      "customarily",
+      "routinely"
+    ],
+    "antonyms": [
+      "occasionally",
+      "rarely"
+    ]
+  },
+  {
+    "id": "w_hairdo",
+    "headword": "hairdo",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈheəduː/",
+    "meanings": [
+      {
+        "tr": "saç modeli, saç şekli (özellikle kadınlarda)",
+        "en": "the style in which someone's hair is arranged, especially a woman's",
+        "exampleEn": "She got a new hairdo for the wedding.",
+        "exampleTr": "Düğün için yeni bir saç modeli yaptırdı."
+      }
+    ],
+    "synonyms": [
+      "hairstyle",
+      "coiffure"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_halfheartedly",
+    "headword": "halfheartedly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhɑːfˈhɑːtɪdli/",
+    "meanings": [
+      {
+        "tr": "isteksizce, gönülsüzce, yarım gönülle",
+        "en": "without enthusiasm or real effort",
+        "exampleEn": "He halfheartedly agreed to help, but you could tell he didn't want to.",
+        "exampleTr": "İstemeye istemeye yardım etmeyi kabul etti ama istemediği belliydi."
+      }
+    ],
+    "synonyms": [
+      "unenthusiastically",
+      "reluctantly"
+    ],
+    "antonyms": [
+      "wholeheartedly",
+      "eagerly"
+    ]
+  },
+  {
+    "id": "w_hallow",
+    "headword": "hallow",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhæləʊ/",
+    "meanings": [
+      {
+        "tr": "kutsamak, kutsal kılmak, takdis etmek",
+        "en": "to make something holy or to honour it as sacred",
+        "exampleEn": "The ground was hallowed in memory of those who died there.",
+        "exampleTr": "Toprak, orada ölenlerin anısına kutsandı."
+      }
+    ],
+    "synonyms": [
+      "consecrate",
+      "sanctify",
+      "bless"
+    ],
+    "antonyms": [
+      "desecrate"
+    ]
+  },
+  {
+    "id": "w_hamlet",
+    "headword": "hamlet",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhæmlət/",
+    "meanings": [
+      {
+        "tr": "küçük köy, mezra (genellikle kilisesi olmayan)",
+        "en": "a small village, especially one without a church",
+        "exampleEn": "They lived in a quiet hamlet nestled among the hills.",
+        "exampleTr": "Tepelerin arasına kurulmuş sessiz bir mezrada yaşıyorlardı."
+      }
+    ],
+    "synonyms": [
+      "village",
+      "settlement"
+    ],
+    "antonyms": [
+      "city",
+      "metropolis"
+    ]
+  },
+  {
+    "id": "w_hand_down",
+    "headword": "hand down",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhænd ˈdaʊn/",
+    "meanings": [
+      {
+        "tr": "(gelenek, mal vb.) sonraki nesillere aktarmak, miras bırakmak",
+        "en": "to pass something to a younger person, often within a family or across generations",
+        "exampleEn": "This watch was handed down to me by my grandfather.",
+        "exampleTr": "Bu saat bana büyükbabamdan miras kaldı."
+      },
+      {
+        "tr": "(mahkeme kararı) resmen açıklamak, tebliğ etmek",
+        "en": "to officially announce a decision or sentence, as by a court",
+        "exampleEn": "The judge handed down a five-year sentence.",
+        "exampleTr": "Hâkim beş yıllık bir ceza kararı açıkladı."
+      }
+    ],
+    "synonyms": [
+      "pass down",
+      "bequeath"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_handbill",
+    "headword": "handbill",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhændbɪl/",
+    "meanings": [
+      {
+        "tr": "el ilanı, broşür",
+        "en": "a small printed advertisement or notice distributed by hand",
+        "exampleEn": "Volunteers passed out handbills promoting the concert.",
+        "exampleTr": "Gönüllüler konseri duyuran el ilanları dağıttı."
+      }
+    ],
+    "synonyms": [
+      "flyer",
+      "leaflet",
+      "pamphlet"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_handful",
+    "headword": "handful",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhændfʊl/",
+    "meanings": [
+      {
+        "tr": "bir avuç (dolusu)",
+        "en": "the amount that can be held in one hand",
+        "exampleEn": "She grabbed a handful of nuts from the bowl.",
+        "exampleTr": "Kâseden bir avuç kuruyemiş aldı."
+      },
+      {
+        "tr": "az sayıda, bir avuç (küçük miktar)",
+        "en": "a small number of people or things",
+        "exampleEn": "Only a handful of people showed up to the meeting.",
+        "exampleTr": "Toplantıya sadece birkaç kişi geldi."
+      },
+      {
+        "tr": "başa çıkması zor kişi/şey, çetin ceviz",
+        "en": "a person or thing that is difficult to control or deal with",
+        "exampleEn": "Their three-year-old is a real handful.",
+        "exampleTr": "Üç yaşındaki çocukları gerçekten başa çıkması zor biri."
+      }
+    ],
+    "synonyms": [
+      "few"
+    ],
+    "antonyms": [
+      "lot",
+      "multitude"
+    ]
+  },
+  {
+    "id": "w_handgun",
+    "headword": "handgun",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhændɡʌn/",
+    "meanings": [
+      {
+        "tr": "tabanca, el silahı",
+        "en": "a small gun that can be held and fired with one hand",
+        "exampleEn": "The officer kept a handgun in a holster on his belt.",
+        "exampleTr": "Memur kemerindeki kılıfta bir tabanca taşıyordu."
+      }
+    ],
+    "synonyms": [
+      "pistol",
+      "revolver"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_handheld",
+    "headword": "handheld",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhændheld/",
+    "meanings": [
+      {
+        "tr": "elde taşınabilir, avuç içi, el tipi",
+        "en": "designed to be held and operated in one hand",
+        "exampleEn": "She scanned the barcodes with a handheld device.",
+        "exampleTr": "Barkodları elde taşınabilir bir cihazla taradı."
+      }
+    ],
+    "synonyms": [
+      "portable"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_handleable",
+    "headword": "handleable",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhændləbl/",
+    "meanings": [
+      {
+        "tr": "idare edilebilir, üstesinden gelinebilir, ele alınabilir",
+        "en": "able to be handled, managed, or dealt with",
+        "exampleEn": "Breaking the project into steps made it far more handleable.",
+        "exampleTr": "Projeyi adımlara bölmek onu çok daha idare edilebilir hale getirdi."
+      }
+    ],
+    "synonyms": [
+      "manageable",
+      "controllable"
+    ],
+    "antonyms": [
+      "unmanageable"
+    ]
+  },
+  {
+    "id": "w_hankering",
+    "headword": "hankering",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhæŋkərɪŋ/",
+    "meanings": [
+      {
+        "tr": "şiddetli istek, canı çekme, özlem, arzu",
+        "en": "a strong desire or craving for something",
+        "exampleEn": "I've had a hankering for chocolate all day.",
+        "exampleTr": "Bütün gün canım çikolata çekti."
+      }
+    ],
+    "synonyms": [
+      "craving",
+      "longing",
+      "yearning"
+    ],
+    "antonyms": [
+      "aversion"
+    ]
+  }
+]

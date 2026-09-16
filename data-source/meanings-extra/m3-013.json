@@ -1,0 +1,566 @@
+[
+  {
+    "id": "w_pour",
+    "headword": "pour",
+    "extraMeanings": [
+      {
+        "tr": "bardaktan boşanırcasına yağmur yağmak",
+        "en": "to rain very heavily",
+        "exampleEn": "We can't go out now — it's pouring outside.",
+        "exampleTr": "Şimdi dışarı çıkamayız — dışarıda bardaktan boşanırcasına yağmur yağıyor."
+      },
+      {
+        "tr": "akın etmek, akışıp gelmek (insan/şey kalabalığı)",
+        "en": "to move somewhere in large numbers",
+        "exampleEn": "Fans poured into the stadium before the match.",
+        "exampleTr": "Taraftarlar maçtan önce stadyuma akın etti."
+      }
+    ]
+  },
+  {
+    "id": "w_power",
+    "headword": "power",
+    "extraMeanings": [
+      {
+        "tr": "elektrik, enerji",
+        "en": "electricity supply",
+        "exampleEn": "The storm cut off the power to the whole town.",
+        "exampleTr": "Fırtına tüm kasabanın elektriğini kesti."
+      },
+      {
+        "tr": "güç sağlamak, çalıştırmak (fiil)",
+        "en": "to supply with energy to operate",
+        "exampleEn": "The engine is powered by solar energy.",
+        "exampleTr": "Motor güneş enerjisiyle çalışır."
+      }
+    ]
+  },
+  {
+    "id": "w_pride",
+    "headword": "pride",
+    "extraMeanings": [
+      {
+        "tr": "kibir, gurur (olumsuz anlamda)",
+        "en": "having too high an opinion of oneself",
+        "exampleEn": "His pride wouldn't let him admit he was wrong.",
+        "exampleTr": "Kibri, hatalı olduğunu kabul etmesine izin vermiyordu."
+      },
+      {
+        "tr": "aslan sürüsü",
+        "en": "a group of lions living together",
+        "exampleEn": "A pride of lions rested under the tree.",
+        "exampleTr": "Bir aslan sürüsü ağacın altında dinleniyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_principal",
+    "headword": "principal",
+    "extraMeanings": [
+      {
+        "tr": "okul müdürü",
+        "en": "the head of a school",
+        "exampleEn": "The principal spoke to all the students in the hall.",
+        "exampleTr": "Müdür salonda tüm öğrencilere konuştu."
+      }
+    ]
+  },
+  {
+    "id": "w_private",
+    "headword": "private",
+    "extraMeanings": [
+      {
+        "tr": "er, asker (rütbe)",
+        "en": "a soldier of the lowest rank",
+        "exampleEn": "He joined the army as a private.",
+        "exampleTr": "Orduya er olarak katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_pro",
+    "headword": "pro",
+    "extraMeanings": [
+      {
+        "tr": "lehte, taraftar (ön ek/edat olarak: -yanlısı)",
+        "en": "in favour of something",
+        "exampleEn": "Many people in the town are pro the new park.",
+        "exampleTr": "Kasabadaki birçok kişi yeni parktan yana."
+      }
+    ]
+  },
+  {
+    "id": "w_produce",
+    "headword": "produce",
+    "extraMeanings": [
+      {
+        "tr": "ürün, sebze-meyve (isim: pro-dus)",
+        "en": "food grown on a farm, especially fruit and vegetables",
+        "exampleEn": "The market sells fresh local produce every morning.",
+        "exampleTr": "Pazar her sabah taze yerel ürünler satar."
+      },
+      {
+        "tr": "çıkarmak, göstermek (fiil)",
+        "en": "to bring something out to be seen",
+        "exampleEn": "She produced a photo from her bag.",
+        "exampleTr": "Çantasından bir fotoğraf çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w_produce",
+    "headword": "produce",
+    "extraMeanings": [
+      {
+        "tr": "ürün, sebze-meyve (isim: pro-dus)",
+        "en": "food grown on a farm, especially fruit and vegetables",
+        "exampleEn": "The market sells fresh local produce every morning.",
+        "exampleTr": "Pazar her sabah taze yerel ürünler satar."
+      },
+      {
+        "tr": "çıkarmak, göstermek (fiil)",
+        "en": "to bring something out to be seen",
+        "exampleEn": "She produced a photo from her bag.",
+        "exampleTr": "Çantasından bir fotoğraf çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w_promise",
+    "headword": "promise",
+    "extraMeanings": [
+      {
+        "tr": "söz vermek (fiil)",
+        "en": "to say you will certainly do something",
+        "exampleEn": "I promise I will call you tomorrow.",
+        "exampleTr": "Yarın seni arayacağıma söz veriyorum."
+      },
+      {
+        "tr": "umut vaat etme, gelecek vaadi",
+        "en": "signs that something will be good or successful",
+        "exampleEn": "The young player shows great promise.",
+        "exampleTr": "Genç oyuncu büyük umut vaat ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_proper",
+    "headword": "proper",
+    "extraMeanings": [
+      {
+        "tr": "düzgün, terbiyeli, uygun (davranış)",
+        "en": "socially correct or acceptable",
+        "exampleEn": "It isn't proper to talk with your mouth full.",
+        "exampleTr": "Ağzın doluyken konuşmak uygun değildir."
+      }
+    ]
+  },
+  {
+    "id": "w_pull",
+    "headword": "pull",
+    "extraMeanings": [
+      {
+        "tr": "(kas vb.) incitmek, zorlamak",
+        "en": "to injure a muscle by stretching it too much",
+        "exampleEn": "He pulled a muscle while lifting the box.",
+        "exampleTr": "Kutuyu kaldırırken bir kasını incitti."
+      }
+    ]
+  },
+  {
+    "id": "w_raise",
+    "headword": "raise",
+    "extraMeanings": [
+      {
+        "tr": "(çocuk/hayvan) yetiştirmek, büyütmek",
+        "en": "to look after a child or animal until it is grown",
+        "exampleEn": "They raised three children in that small house.",
+        "exampleTr": "O küçük evde üç çocuk büyüttüler."
+      },
+      {
+        "tr": "(para) toplamak, (konu) gündeme getirmek",
+        "en": "to collect money, or to mention a subject",
+        "exampleEn": "We raised money for the hospital.",
+        "exampleTr": "Hastane için para topladık."
+      }
+    ]
+  },
+  {
+    "id": "w_range",
+    "headword": "range",
+    "extraMeanings": [
+      {
+        "tr": "sıradağ, dağ silsilesi",
+        "en": "a line of mountains or hills",
+        "exampleEn": "The mountain range stretched as far as we could see.",
+        "exampleTr": "Sıradağlar görebildiğimiz kadar uzanıyordu."
+      },
+      {
+        "tr": "değişmek, uzanmak (fiil: -den -e kadar olmak)",
+        "en": "to vary between limits",
+        "exampleEn": "Prices range from ten to fifty dollars.",
+        "exampleTr": "Fiyatlar on dolardan elli dolara kadar değişir."
+      }
+    ]
+  },
+  {
+    "id": "w_rap",
+    "headword": "rap",
+    "extraMeanings": [
+      {
+        "tr": "hafifçe vurmak, tıklatmak (fiil/isim)",
+        "en": "to hit something quickly and lightly",
+        "exampleEn": "She gave a quick rap on the door.",
+        "exampleTr": "Kapıya hızlıca tıklattı."
+      }
+    ]
+  },
+  {
+    "id": "w_rate",
+    "headword": "rate",
+    "extraMeanings": [
+      {
+        "tr": "değerlendirmek, puanlamak (fiil)",
+        "en": "to judge the quality or value of something",
+        "exampleEn": "Critics rated the film very highly.",
+        "exampleTr": "Eleştirmenler filme çok yüksek puan verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_rather",
+    "headword": "rather",
+    "extraMeanings": [
+      {
+        "tr": "aksine, daha doğrusu (bir şeyi düzeltirken)",
+        "en": "more accurately; instead",
+        "exampleEn": "It wasn't a mistake; rather, it was done on purpose.",
+        "exampleTr": "Bir hata değildi; aksine, bilerek yapıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_raw",
+    "headword": "raw",
+    "extraMeanings": [
+      {
+        "tr": "acemi, deneyimsiz, ham (yetenek/kişi)",
+        "en": "not yet trained or experienced",
+        "exampleEn": "He is a raw talent who needs coaching.",
+        "exampleTr": "O, çalıştırılması gereken ham bir yetenek."
+      }
+    ]
+  },
+  {
+    "id": "w_reflect",
+    "headword": "reflect",
+    "extraMeanings": [
+      {
+        "tr": "(ışık/görüntü) yansıtmak",
+        "en": "to throw back light or an image",
+        "exampleEn": "The calm lake reflected the mountains.",
+        "exampleTr": "Sakin göl dağları yansıtıyordu."
+      },
+      {
+        "tr": "göstermek, belirtisi olmak",
+        "en": "to show or be a sign of something",
+        "exampleEn": "The results reflect months of hard work.",
+        "exampleTr": "Sonuçlar aylar süren çalışmayı yansıtıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_release",
+    "headword": "release",
+    "extraMeanings": [
+      {
+        "tr": "serbest bırakmak, salıvermek (fiil)",
+        "en": "to set someone or something free",
+        "exampleEn": "The police released him after questioning.",
+        "exampleTr": "Polis onu sorguladıktan sonra serbest bıraktı."
+      },
+      {
+        "tr": "(film/albüm) piyasaya sürmek (fiil)",
+        "en": "to make a film, record, etc. available to the public",
+        "exampleEn": "The band released a new album last week.",
+        "exampleTr": "Grup geçen hafta yeni bir albüm çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w_remote",
+    "headword": "remote",
+    "extraMeanings": [
+      {
+        "tr": "uzaktan kumanda",
+        "en": "a device to control a TV etc. from a distance",
+        "exampleEn": "Can you pass me the remote?",
+        "exampleTr": "Kumandayı bana uzatır mısın?"
+      },
+      {
+        "tr": "uzak, düşük (ihtimal)",
+        "en": "very small or slight (chance)",
+        "exampleEn": "There's only a remote chance of rain today.",
+        "exampleTr": "Bugün yağmur ihtimali çok düşük."
+      }
+    ]
+  },
+  {
+    "id": "w_rent",
+    "headword": "rent",
+    "extraMeanings": [
+      {
+        "tr": "kiralamak, kiraya vermek (fiil)",
+        "en": "to pay to use something, or to let someone use it for money",
+        "exampleEn": "We rented a car for the weekend.",
+        "exampleTr": "Hafta sonu için bir araba kiraladık."
+      }
+    ]
+  },
+  {
+    "id": "w_repair",
+    "headword": "repair",
+    "extraMeanings": [
+      {
+        "tr": "tamir etmek, onarmak (fiil)",
+        "en": "to fix something that is broken or damaged",
+        "exampleEn": "He repaired the broken window.",
+        "exampleTr": "Kırık pencereyi tamir etti."
+      }
+    ]
+  },
+  {
+    "id": "w_reply",
+    "headword": "reply",
+    "extraMeanings": [
+      {
+        "tr": "cevap vermek, yanıtlamak (fiil)",
+        "en": "to answer someone",
+        "exampleEn": "She replied to my email at once.",
+        "exampleTr": "E-postama hemen cevap verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_report",
+    "headword": "report",
+    "extraMeanings": [
+      {
+        "tr": "bildirmek, haber vermek, ihbar etmek (fiil)",
+        "en": "to tell someone about something, or inform the authorities",
+        "exampleEn": "She reported the accident to the police.",
+        "exampleTr": "Kazayı polise bildirdi."
+      },
+      {
+        "tr": "(işe/birine) bağlı olmak, hesap vermek",
+        "en": "to be managed by someone at work",
+        "exampleEn": "Three people report to me at the office.",
+        "exampleTr": "Ofiste üç kişi bana bağlı çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_request",
+    "headword": "request",
+    "extraMeanings": [
+      {
+        "tr": "rica etmek, talep etmek (fiil)",
+        "en": "to ask for something politely or formally",
+        "exampleEn": "The teacher requested silence.",
+        "exampleTr": "Öğretmen sessizlik rica etti."
+      }
+    ]
+  },
+  {
+    "id": "w_research",
+    "headword": "research",
+    "extraMeanings": [
+      {
+        "tr": "araştırmak (fiil)",
+        "en": "to study something in detail",
+        "exampleEn": "She is researching the history of the town.",
+        "exampleTr": "Kasabanın tarihini araştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_return",
+    "headword": "return",
+    "extraMeanings": [
+      {
+        "tr": "geri dönmek, geri gelmek (fiil)",
+        "en": "to come or go back to a place",
+        "exampleEn": "They returned home after the trip.",
+        "exampleTr": "Geziden sonra eve döndüler."
+      },
+      {
+        "tr": "geri vermek, iade etmek (fiil)",
+        "en": "to give something back",
+        "exampleEn": "Please return the book to the library.",
+        "exampleTr": "Lütfen kitabı kütüphaneye geri verin."
+      }
+    ]
+  },
+  {
+    "id": "w_ring",
+    "headword": "ring",
+    "extraMeanings": [
+      {
+        "tr": "(zil/telefon) çalmak, telefonla aramak (fiil)",
+        "en": "to make a bell sound; to phone someone",
+        "exampleEn": "The phone rang three times.",
+        "exampleTr": "Telefon üç kez çaldı."
+      },
+      {
+        "tr": "halka, çember, ring",
+        "en": "a circle or a circular area",
+        "exampleEn": "The children stood in a ring around the teacher.",
+        "exampleTr": "Çocuklar öğretmenin etrafında bir halka oluşturdu."
+      }
+    ]
+  },
+  {
+    "id": "w_rob",
+    "headword": "rob",
+    "extraMeanings": [
+      {
+        "tr": "mahrum bırakmak, elinden almak",
+        "en": "to take something away from someone unfairly",
+        "exampleEn": "The injury robbed him of his chance to compete.",
+        "exampleTr": "Sakatlık, onu yarışma şansından mahrum etti."
+      }
+    ]
+  },
+  {
+    "id": "w_rock",
+    "headword": "rock",
+    "extraMeanings": [
+      {
+        "tr": "rock müzik",
+        "en": "a type of loud popular music with a strong beat",
+        "exampleEn": "He loves listening to rock all day.",
+        "exampleTr": "Bütün gün rock dinlemeyi çok sever."
+      },
+      {
+        "tr": "sallamak, sallanmak (fiil)",
+        "en": "to move gently back and forth",
+        "exampleEn": "She rocked the baby to sleep.",
+        "exampleTr": "Bebeği sallayarak uyuttu."
+      }
+    ]
+  },
+  {
+    "id": "w_roll",
+    "headword": "roll",
+    "extraMeanings": [
+      {
+        "tr": "yuvarlanmak, yuvarlamak (fiil)",
+        "en": "to move by turning over and over",
+        "exampleEn": "The ball rolled down the hill.",
+        "exampleTr": "Top tepeden aşağı yuvarlandı."
+      },
+      {
+        "tr": "küçük ekmek, sandviç ekmeği",
+        "en": "a small round loaf of bread",
+        "exampleEn": "I had a cheese roll for lunch.",
+        "exampleTr": "Öğle yemeğinde peynirli sandviç ekmeği yedim."
+      }
+    ]
+  },
+  {
+    "id": "w_root",
+    "headword": "root",
+    "extraMeanings": [
+      {
+        "tr": "kök, temel neden, kaynak",
+        "en": "the basic cause or origin of something",
+        "exampleEn": "Money problems were the root of the argument.",
+        "exampleTr": "Para sorunları tartışmanın kökeniydi."
+      }
+    ]
+  },
+  {
+    "id": "w_rush",
+    "headword": "rush",
+    "extraMeanings": [
+      {
+        "tr": "acele etmek, koşuşturmak, hızla gitmek (fiil)",
+        "en": "to move or do something quickly",
+        "exampleEn": "She rushed to catch the bus.",
+        "exampleTr": "Otobüse yetişmek için koşturdu."
+      }
+    ]
+  },
+  {
+    "id": "w_safe",
+    "headword": "safe",
+    "extraMeanings": [
+      {
+        "tr": "kasa (para/değerli eşya için)",
+        "en": "a strong box for keeping valuable things",
+        "exampleEn": "He kept the jewels in a safe.",
+        "exampleTr": "Mücevherleri bir kasada saklıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_sample",
+    "headword": "sample",
+    "extraMeanings": [
+      {
+        "tr": "tatmak, denemek, örneklemek (fiil)",
+        "en": "to try a small amount of something",
+        "exampleEn": "We sampled the local cheese at the market.",
+        "exampleTr": "Pazarda yerel peyniri tattık."
+      }
+    ]
+  },
+  {
+    "id": "w_scale",
+    "headword": "scale",
+    "extraMeanings": [
+      {
+        "tr": "terazi, tartı",
+        "en": "a device for weighing things",
+        "exampleEn": "She weighed the flour on the kitchen scale.",
+        "exampleTr": "Unu mutfak terazisinde tarttı."
+      },
+      {
+        "tr": "büyüklük, boyut, kapsam",
+        "en": "the size or extent of something",
+        "exampleEn": "The scale of the disaster was enormous.",
+        "exampleTr": "Felaketin boyutu çok büyüktü."
+      }
+    ]
+  },
+  {
+    "id": "w_scene",
+    "headword": "scene",
+    "extraMeanings": [
+      {
+        "tr": "olay yeri",
+        "en": "the place where something happened",
+        "exampleEn": "Police arrived at the scene of the accident.",
+        "exampleTr": "Polis kaza yerine geldi."
+      },
+      {
+        "tr": "olay çıkarma, rezalet",
+        "en": "a loud public display of emotion",
+        "exampleEn": "Please don't make a scene in the restaurant.",
+        "exampleTr": "Lütfen restoranda olay çıkarma."
+      }
+    ]
+  },
+  {
+    "id": "w_royal",
+    "headword": "royal",
+    "extraMeanings": [
+      {
+        "tr": "muhteşem, görkemli",
+        "en": "very great or impressive",
+        "exampleEn": "They gave us a royal welcome.",
+        "exampleTr": "Bize görkemli bir karşılama yaptılar."
+      }
+    ]
+  }
+]

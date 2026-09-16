@@ -1,0 +1,110 @@
+[
+  {
+    "id": "w_deploy",
+    "headword": "deploy",
+    "extraMeanings": [
+      {
+        "tr": "(askeri birlik/silah) konuşlandırmak, mevzilendirmek",
+        "en": "to move soldiers or military equipment into position ready for action",
+        "exampleEn": "The general decided to deploy troops along the border.",
+        "exampleTr": "General, sınır boyunca birlikleri konuşlandırmaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_dispatch",
+    "headword": "dispatch",
+    "extraMeanings": [
+      {
+        "tr": "halletmek, çabucak bitirmek (bir işi)",
+        "en": "to deal with a task or problem quickly and efficiently",
+        "exampleEn": "She dispatched the remaining paperwork in less than an hour.",
+        "exampleTr": "Kalan evrak işini bir saatten kısa sürede halletti."
+      }
+    ]
+  },
+  {
+    "id": "w_drape",
+    "headword": "drape",
+    "extraMeanings": [
+      {
+        "tr": "(vücudunu/kolunu) yaslamak, salıvermek",
+        "en": "to let a part of the body rest loosely on something",
+        "exampleEn": "He draped his arm over the back of the chair.",
+        "exampleTr": "Kolunu sandalyenin arkasına yasladı."
+      }
+    ]
+  },
+  {
+    "id": "w_dwell",
+    "headword": "dwell",
+    "extraMeanings": [
+      {
+        "tr": "üzerinde durmak, takılıp kalmak (dwell on)",
+        "en": "to keep thinking or talking about something, especially something unpleasant",
+        "exampleEn": "There's no point in dwelling on your past mistakes.",
+        "exampleTr": "Geçmişteki hatalarının üzerinde durmanın bir anlamı yok."
+      }
+    ]
+  },
+  {
+    "id": "w_elevate",
+    "headword": "elevate",
+    "extraMeanings": [
+      {
+        "tr": "(seviyesini/miktarını) yükseltmek, artırmak",
+        "en": "to increase the level or amount of something",
+        "exampleEn": "Too much salt can elevate your blood pressure.",
+        "exampleTr": "Aşırı tuz tansiyonunu yükseltebilir."
+      }
+    ]
+  },
+  {
+    "id": "w_ensemble",
+    "headword": "ensemble",
+    "extraMeanings": [
+      {
+        "tr": "kıyafet takımı, kombin (birbirini tamamlayan giysiler)",
+        "en": "a set of clothes that are worn together to create a particular look",
+        "exampleEn": "She wore a stylish ensemble of a blazer, scarf and boots.",
+        "exampleTr": "Blazer, atkı ve botlardan oluşan şık bir kombin giymişti."
+      }
+    ]
+  },
+  {
+    "id": "w_entity",
+    "headword": "entity",
+    "extraMeanings": [
+      {
+        "tr": "tüzel kişilik, hukuki varlık",
+        "en": "an organization that has a legal identity separate from its members",
+        "exampleEn": "The company is registered as a separate legal entity.",
+        "exampleTr": "Şirket ayrı bir tüzel kişilik olarak kayıtlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_epoch",
+    "headword": "epoch",
+    "extraMeanings": [
+      {
+        "tr": "(jeoloji) devir, jeolojik zaman dilimi",
+        "en": "a division of geological time, a subdivision of a period",
+        "exampleEn": "Dinosaurs disappeared long before the current epoch.",
+        "exampleTr": "Dinozorlar, içinde bulunduğumuz jeolojik devirden çok önce yok oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_diplomacy",
+    "headword": "diplomacy",
+    "extraMeanings": [
+      {
+        "tr": "(devletlerarası) diplomasi, dış ilişkiler yönetimi",
+        "en": "the management of relationships between countries by their governments",
+        "exampleEn": "The crisis was resolved through skillful diplomacy rather than force.",
+        "exampleTr": "Kriz, güç yerine ustaca yürütülen diplomasi ile çözüldü."
+      }
+    ]
+  }
+]

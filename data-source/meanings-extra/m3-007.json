@@ -1,0 +1,302 @@
+[
+  {
+    "id": "w_account",
+    "headword": "account",
+    "extraMeanings": [
+      {
+        "tr": "anlatım, açıklama, rapor",
+        "en": "a written or spoken description of an event",
+        "exampleEn": "She gave a detailed account of what happened during the accident.",
+        "exampleTr": "Kaza sırasında olanları ayrıntılı bir şekilde anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w_act",
+    "headword": "act",
+    "extraMeanings": [
+      {
+        "tr": "perde (tiyatroda oyunun bölümü)",
+        "en": "one of the main divisions of a play or opera",
+        "exampleEn": "The hero dies at the end of the second act.",
+        "exampleTr": "Kahraman ikinci perdenin sonunda ölür."
+      },
+      {
+        "tr": "davranmak, hareket etmek; rol yapmak (fiil)",
+        "en": "to do something; to perform in a play or film",
+        "exampleEn": "You need to act quickly before it is too late.",
+        "exampleTr": "Çok geç olmadan hızlı hareket etmen gerek."
+      }
+    ]
+  },
+  {
+    "id": "w_air",
+    "headword": "air",
+    "extraMeanings": [
+      {
+        "tr": "yayınlamak (radyo/TV'de) (fiil)",
+        "en": "to broadcast a program on television or radio",
+        "exampleEn": "The show will air on national television next week.",
+        "exampleTr": "Program gelecek hafta ulusal televizyonda yayınlanacak."
+      }
+    ]
+  },
+  {
+    "id": "w_alarm",
+    "headword": "alarm",
+    "extraMeanings": [
+      {
+        "tr": "endişe, telaş, korku",
+        "en": "a feeling of fear or worry",
+        "exampleEn": "There is no cause for alarm; everything is under control.",
+        "exampleTr": "Endişelenmeye gerek yok; her şey kontrol altında."
+      }
+    ]
+  },
+  {
+    "id": "w_appear",
+    "headword": "appear",
+    "extraMeanings": [
+      {
+        "tr": "gibi görünmek, öyle gelmek",
+        "en": "to seem to be something",
+        "exampleEn": "She appears to be very tired today.",
+        "exampleTr": "Bugün çok yorgun görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w_apply",
+    "headword": "apply",
+    "extraMeanings": [
+      {
+        "tr": "geçerli olmak, ilgili olmak",
+        "en": "to be relevant to a particular person or situation",
+        "exampleEn": "This rule does not apply to children under five.",
+        "exampleTr": "Bu kural beş yaşından küçük çocuklar için geçerli değildir."
+      },
+      {
+        "tr": "sürmek, uygulamak (krem/boya vb.)",
+        "en": "to spread a substance on a surface",
+        "exampleEn": "Apply the cream gently to the affected area.",
+        "exampleTr": "Kremi etkilenen bölgeye nazikçe sürün."
+      }
+    ]
+  },
+  {
+    "id": "w_area",
+    "headword": "area",
+    "extraMeanings": [
+      {
+        "tr": "alan (bir konu veya faaliyet alanı)",
+        "en": "a particular subject or type of activity",
+        "exampleEn": "She is an expert in the area of child psychology.",
+        "exampleTr": "O, çocuk psikolojisi alanında uzmandır."
+      }
+    ]
+  },
+  {
+    "id": "w_attack",
+    "headword": "attack",
+    "extraMeanings": [
+      {
+        "tr": "kriz, nöbet (kalp krizi vb.)",
+        "en": "a sudden short period of illness",
+        "exampleEn": "He had a heart attack while he was jogging.",
+        "exampleTr": "Koşu yaparken kalp krizi geçirdi."
+      },
+      {
+        "tr": "eleştiri, sözlü saldırı",
+        "en": "strong criticism of someone or something",
+        "exampleEn": "The newspaper launched a fierce attack on the government.",
+        "exampleTr": "Gazete hükümete sert bir eleştiri yöneltti."
+      }
+    ]
+  },
+  {
+    "id": "w_attempt",
+    "headword": "attempt",
+    "extraMeanings": [
+      {
+        "tr": "denemek, girişmek, teşebbüs etmek (fiil)",
+        "en": "to try to do something",
+        "exampleEn": "He attempted to climb the mountain alone.",
+        "exampleTr": "Dağa tek başına tırmanmaya çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_attention",
+    "headword": "attention",
+    "extraMeanings": [
+      {
+        "tr": "ilgi, alaka, itina",
+        "en": "special care or notice given to someone or something",
+        "exampleEn": "This delicate plant needs a lot of attention.",
+        "exampleTr": "Bu narin bitki çok ilgi ister."
+      }
+    ]
+  },
+  {
+    "id": "w_author",
+    "headword": "author",
+    "extraMeanings": [
+      {
+        "tr": "yazarı olmak, kaleme almak (fiil)",
+        "en": "to write a book, article or document",
+        "exampleEn": "She authored several books on ancient history.",
+        "exampleTr": "Antik tarih üzerine birkaç kitap yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w_average",
+    "headword": "average",
+    "extraMeanings": [
+      {
+        "tr": "sıradan, vasat, orta halli",
+        "en": "ordinary and not special in any way",
+        "exampleEn": "He is just an average student with average grades.",
+        "exampleTr": "O, orta karne notları olan sıradan bir öğrencidir."
+      }
+    ]
+  },
+  {
+    "id": "w_award",
+    "headword": "award",
+    "extraMeanings": [
+      {
+        "tr": "ödül vermek, tevdi etmek (fiil)",
+        "en": "to officially give someone a prize or money",
+        "exampleEn": "She was awarded a scholarship for her excellent results.",
+        "exampleTr": "Mükemmel sonuçları için ona burs verildi."
+      }
+    ]
+  },
+  {
+    "id": "w_back",
+    "headword": "back",
+    "extraMeanings": [
+      {
+        "tr": "geri, geriye (zarf)",
+        "en": "in or to the place or condition someone was before",
+        "exampleEn": "Please put the book back on the shelf.",
+        "exampleTr": "Lütfen kitabı rafa geri koy."
+      },
+      {
+        "tr": "sırt, arka (isim)",
+        "en": "the part of the body from the neck to the bottom of the spine",
+        "exampleEn": "He hurt his back while lifting the box.",
+        "exampleTr": "Kutuyu kaldırırken sırtını incitti."
+      }
+    ]
+  },
+  {
+    "id": "w_background",
+    "headword": "background",
+    "extraMeanings": [
+      {
+        "tr": "geçmiş, özgeçmiş (kişinin eğitim/aile durumu)",
+        "en": "a person's education, family and experience",
+        "exampleEn": "She comes from a working-class background.",
+        "exampleTr": "İşçi sınıfı bir aileden geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_base",
+    "headword": "base",
+    "extraMeanings": [
+      {
+        "tr": "üs (askeri veya faaliyet merkezi)",
+        "en": "a center from which activities are organized",
+        "exampleEn": "The soldiers returned to the military base at night.",
+        "exampleTr": "Askerler gece askeri üsse döndü."
+      },
+      {
+        "tr": "dayandırmak, temellendirmek (fiil)",
+        "en": "to use something as the foundation for something else",
+        "exampleEn": "The film is based on a true story.",
+        "exampleTr": "Film gerçek bir hikayeye dayanmaktadır."
+      }
+    ]
+  },
+  {
+    "id": "w_basket",
+    "headword": "basket",
+    "extraMeanings": [
+      {
+        "tr": "pota, basket (basketbolda)",
+        "en": "a net used as a goal in basketball; a point scored",
+        "exampleEn": "He scored the winning basket in the last second.",
+        "exampleTr": "Son saniyede kazandıran basketi attı."
+      }
+    ]
+  },
+  {
+    "id": "w_bench",
+    "headword": "bench",
+    "extraMeanings": [
+      {
+        "tr": "yedek kulübesi (sporda)",
+        "en": "the seats where players wait when not playing",
+        "exampleEn": "The coach kept the injured player on the bench.",
+        "exampleTr": "Antrenör sakatlanan oyuncuyu yedek kulübesinde tuttu."
+      }
+    ]
+  },
+  {
+    "id": "w_bill",
+    "headword": "bill",
+    "extraMeanings": [
+      {
+        "tr": "banknot, kağıt para (ABD)",
+        "en": "a piece of paper money",
+        "exampleEn": "She paid with a twenty-dollar bill.",
+        "exampleTr": "Yirmi dolarlık banknotla ödedi."
+      },
+      {
+        "tr": "yasa tasarısı, kanun teklifi",
+        "en": "a written proposal for a new law",
+        "exampleEn": "Parliament passed the new bill last week.",
+        "exampleTr": "Meclis geçen hafta yeni yasa tasarısını kabul etti."
+      }
+    ]
+  },
+  {
+    "id": "w_bit",
+    "headword": "bit",
+    "extraMeanings": [
+      {
+        "tr": "biraz, birazcık (a bit)",
+        "en": "a little; to a small degree",
+        "exampleEn": "I am a bit tired after the long walk.",
+        "exampleTr": "Uzun yürüyüşten sonra biraz yorgunum."
+      }
+    ]
+  },
+  {
+    "id": "w_bite",
+    "headword": "bite",
+    "extraMeanings": [
+      {
+        "tr": "ısırmak (fiil)",
+        "en": "to cut into something with your teeth",
+        "exampleEn": "Be careful, that dog might bite you.",
+        "exampleTr": "Dikkatli ol, o köpek seni ısırabilir."
+      }
+    ]
+  },
+  {
+    "id": "w_bloom",
+    "headword": "bloom",
+    "extraMeanings": [
+      {
+        "tr": "çiçek açmak (fiil)",
+        "en": "to produce flowers; to open",
+        "exampleEn": "The roses bloom in early summer.",
+        "exampleTr": "Güller yaz başında çiçek açar."
+      }
+    ]
+  }
+]

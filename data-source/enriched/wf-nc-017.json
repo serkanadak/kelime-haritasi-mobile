@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "w_haphazard",
+    "headword": "haphazard",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhæpˈhæzəd/",
+    "meanings": [
+      {
+        "tr": "gelişigüzel, rastgele, plansız",
+        "en": "lacking any obvious principle of organization; done without careful planning",
+        "exampleEn": "The books were piled on the shelf in a haphazard way.",
+        "exampleTr": "Kitaplar rafa gelişigüzel bir şekilde yığılmıştı."
+      }
+    ],
+    "synonyms": [
+      "random",
+      "disorganized",
+      "chaotic"
+    ],
+    "antonyms": [
+      "systematic",
+      "organized",
+      "methodical"
+    ]
+  },
+  {
+    "id": "w_harden",
+    "headword": "harden",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɑːdən/",
+    "meanings": [
+      {
+        "tr": "sertleşmek, katılaşmak; sertleştirmek",
+        "en": "to become hard or solid, or to make something hard",
+        "exampleEn": "Wait for the concrete to harden before you walk on it.",
+        "exampleTr": "Üzerinde yürümeden önce betonun sertleşmesini bekleyin."
+      },
+      {
+        "tr": "katılaşmak, duygusuzlaşmak",
+        "en": "to become or make someone less sympathetic or more determined",
+        "exampleEn": "Years of conflict had hardened his attitude.",
+        "exampleTr": "Yıllarca süren çatışma tavrını katılaştırmıştı."
+      }
+    ],
+    "synonyms": [
+      "solidify",
+      "set",
+      "stiffen"
+    ],
+    "antonyms": [
+      "soften",
+      "melt"
+    ]
+  },
+  {
+    "id": "w_haughtiness",
+    "headword": "haughtiness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɔːtinəs/",
+    "meanings": [
+      {
+        "tr": "kibir, küstahlık, tepeden bakma",
+        "en": "the quality of being arrogant and unfriendly because you think you are better than others",
+        "exampleEn": "Her haughtiness offended everyone at the meeting.",
+        "exampleTr": "Kibri toplantıdaki herkesi rahatsız etti."
+      }
+    ],
+    "synonyms": [
+      "arrogance",
+      "disdain",
+      "superciliousness"
+    ],
+    "antonyms": [
+      "humility",
+      "modesty"
+    ]
+  },
+  {
+    "id": "w_have_to",
+    "headword": "have to",
+    "pos": "verb",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhæv tə/",
+    "meanings": [
+      {
+        "tr": "-mek zorunda olmak, mecbur olmak",
+        "en": "used to say that something is necessary or must be done",
+        "exampleEn": "I have to finish this report before Friday.",
+        "exampleTr": "Bu raporu Cuma'dan önce bitirmek zorundayım."
+      }
+    ],
+    "synonyms": [
+      "must",
+      "need to"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_he",
+    "headword": "he",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hiː/",
+    "meanings": [
+      {
+        "tr": "o (erkek için)",
+        "en": "used to refer to a man, boy, or male animal mentioned earlier",
+        "exampleEn": "My brother called; he wants to see you.",
+        "exampleTr": "Kardeşim aradı; seni görmek istiyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "she"
+    ]
+  },
+  {
+    "id": "w_head_teacher",
+    "headword": "head teacher",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhed ˈtiːtʃə/",
+    "meanings": [
+      {
+        "tr": "okul müdürü, baş öğretmen",
+        "en": "the teacher in charge of a school (British English)",
+        "exampleEn": "The head teacher addressed the students at assembly.",
+        "exampleTr": "Okul müdürü toplantıda öğrencilere hitap etti."
+      }
+    ],
+    "synonyms": [
+      "principal",
+      "headmaster"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_headset",
+    "headword": "headset",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhedset/",
+    "meanings": [
+      {
+        "tr": "kulaklık (mikrofonlu)",
+        "en": "a pair of headphones with a microphone attached, worn on the head",
+        "exampleEn": "The call center staff each wear a headset.",
+        "exampleTr": "Çağrı merkezi çalışanlarının her biri mikrofonlu kulaklık takar."
+      }
+    ],
+    "synonyms": [
+      "headphones",
+      "earpiece"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_heady",
+    "headword": "heady",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhedi/",
+    "meanings": [
+      {
+        "tr": "sarhoş edici, baş döndürücü, coşkulu",
+        "en": "having a strong effect on your senses or emotions; exciting",
+        "exampleEn": "Those were the heady days of the early internet boom.",
+        "exampleTr": "O günler internetin ilk patlamasının baş döndürücü günleriydi."
+      }
+    ],
+    "synonyms": [
+      "intoxicating",
+      "exhilarating",
+      "exciting"
+    ],
+    "antonyms": [
+      "dull",
+      "sobering"
+    ]
+  },
+  {
+    "id": "w_health_services",
+    "headword": "health services",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhelθ ˌsɜːvɪsɪz/",
+    "meanings": [
+      {
+        "tr": "sağlık hizmetleri",
+        "en": "the organizations and facilities that provide medical care to a population",
+        "exampleEn": "The government increased spending on health services this year.",
+        "exampleTr": "Hükümet bu yıl sağlık hizmetlerine yapılan harcamayı artırdı."
+      }
+    ],
+    "synonyms": [
+      "healthcare",
+      "medical services"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_hearten",
+    "headword": "hearten",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɑːtən/",
+    "meanings": [
+      {
+        "tr": "cesaretlendirmek, yüreklendirmek, umutlandırmak",
+        "en": "to encourage someone and make them feel more hopeful",
+        "exampleEn": "The support from readers helped to hearten the discouraged author.",
+        "exampleTr": "Okurlardan gelen destek yılgın yazarı yüreklendirdi."
+      }
+    ],
+    "synonyms": [
+      "encourage",
+      "cheer",
+      "reassure"
+    ],
+    "antonyms": [
+      "dishearten",
+      "discourage"
+    ]
+  },
+  {
+    "id": "w_heartened",
+    "headword": "heartened",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɑːtənd/",
+    "meanings": [
+      {
+        "tr": "cesaretlenmiş, umutlanmış, moralize olmuş",
+        "en": "feeling happier and more hopeful about something",
+        "exampleEn": "We were heartened by the encouraging test results.",
+        "exampleTr": "Cesaret verici test sonuçları bizi umutlandırdı."
+      }
+    ],
+    "synonyms": [
+      "encouraged",
+      "uplifted",
+      "reassured"
+    ],
+    "antonyms": [
+      "disheartened",
+      "discouraged"
+    ]
+  },
+  {
+    "id": "w_heartening",
+    "headword": "heartening",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɑːtənɪŋ/",
+    "meanings": [
+      {
+        "tr": "iç açıcı, cesaret verici, umut verici",
+        "en": "making you feel happier and more hopeful",
+        "exampleEn": "It is heartening to see so many volunteers help out.",
+        "exampleTr": "Bu kadar çok gönüllünün yardım etmesini görmek iç açıcı."
+      }
+    ],
+    "synonyms": [
+      "encouraging",
+      "uplifting",
+      "reassuring"
+    ],
+    "antonyms": [
+      "disheartening",
+      "discouraging"
+    ]
+  },
+  {
+    "id": "w_heartrending",
+    "headword": "heartrending",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɑːtrendɪŋ/",
+    "meanings": [
+      {
+        "tr": "yürek parçalayıcı, içler acısı",
+        "en": "causing great sadness or sympathy",
+        "exampleEn": "The refugees told heartrending stories of loss.",
+        "exampleTr": "Mülteciler yürek parçalayıcı kayıp hikayeleri anlattı."
+      }
+    ],
+    "synonyms": [
+      "heartbreaking",
+      "poignant",
+      "tragic"
+    ],
+    "antonyms": [
+      "heartwarming",
+      "cheerful"
+    ]
+  },
+  {
+    "id": "w_hectic",
+    "headword": "hectic",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhektɪk/",
+    "meanings": [
+      {
+        "tr": "telaşlı, yoğun, koşuşturmalı",
+        "en": "full of activity, and very busy or fast",
+        "exampleEn": "I've had a hectic week with back-to-back meetings.",
+        "exampleTr": "Arka arkaya toplantılarla çok yoğun bir hafta geçirdim."
+      }
+    ],
+    "synonyms": [
+      "busy",
+      "frantic",
+      "frenetic"
+    ],
+    "antonyms": [
+      "calm",
+      "relaxed",
+      "leisurely"
+    ]
+  },
+  {
+    "id": "w_heeded",
+    "headword": "heeded",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhiːdɪd/",
+    "meanings": [
+      {
+        "tr": "dikkate aldı, kulak verdi (heed'in geçmiş hali)",
+        "en": "paid attention to advice or a warning (past tense of heed)",
+        "exampleEn": "If they had heeded the warnings, the accident could have been avoided.",
+        "exampleTr": "Uyarıları dikkate almış olsalardı, kaza önlenebilirdi."
+      }
+    ],
+    "synonyms": [
+      "noted",
+      "observed",
+      "obeyed"
+    ],
+    "antonyms": [
+      "ignored",
+      "disregarded"
+    ]
+  },
+  {
+    "id": "w_heedless",
+    "headword": "heedless",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhiːdləs/",
+    "meanings": [
+      {
+        "tr": "aldırmaz, umursamaz, dikkate almayan",
+        "en": "not paying attention to something, especially advice or a warning",
+        "exampleEn": "He rushed ahead, heedless of the danger.",
+        "exampleTr": "Tehlikeye aldırmadan öne atıldı."
+      }
+    ],
+    "synonyms": [
+      "careless",
+      "reckless",
+      "oblivious"
+    ],
+    "antonyms": [
+      "heedful",
+      "attentive",
+      "careful"
+    ]
+  },
+  {
+    "id": "w_heftiness",
+    "headword": "heftiness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈheftinəs/",
+    "meanings": [
+      {
+        "tr": "ağırlık, iri yapılılık, hantallık",
+        "en": "the quality of being large, heavy, or substantial",
+        "exampleEn": "The heftiness of the toolbox made it hard to carry.",
+        "exampleTr": "Alet kutusunun ağırlığı taşınmasını zorlaştırdı."
+      }
+    ],
+    "synonyms": [
+      "heaviness",
+      "bulkiness",
+      "weight"
+    ],
+    "antonyms": [
+      "lightness"
+    ]
+  },
+  {
+    "id": "w_heighten",
+    "headword": "heighten",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhaɪtən/",
+    "meanings": [
+      {
+        "tr": "artırmak, yoğunlaştırmak, şiddetlendirmek",
+        "en": "to increase or make something increase in strength or degree",
+        "exampleEn": "The music helped to heighten the tension in the film.",
+        "exampleTr": "Müzik filmdeki gerilimi artırmaya yardımcı oldu."
+      }
+    ],
+    "synonyms": [
+      "intensify",
+      "increase",
+      "amplify"
+    ],
+    "antonyms": [
+      "reduce",
+      "lessen",
+      "diminish"
+    ]
+  },
+  {
+    "id": "w_heir",
+    "headword": "heir",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/eə/",
+    "meanings": [
+      {
+        "tr": "mirasçı, varis",
+        "en": "a person who will legally receive money, property, or a title when someone dies",
+        "exampleEn": "He is the sole heir to the family fortune.",
+        "exampleTr": "Aile servetinin tek mirasçısı odur."
+      }
+    ],
+    "synonyms": [
+      "successor",
+      "inheritor",
+      "beneficiary"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_help_out",
+    "headword": "help out",
+    "pos": "verb",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhelp ˈaʊt/",
+    "meanings": [
+      {
+        "tr": "yardım etmek, elden geldiğince destek olmak",
+        "en": "to help someone, especially by giving money or doing work",
+        "exampleEn": "My neighbors always help out when I'm busy.",
+        "exampleTr": "Meşgul olduğumda komşularım hep yardım eder."
+      }
+    ],
+    "synonyms": [
+      "assist",
+      "support",
+      "pitch in"
+    ],
+    "antonyms": [
+      "hinder"
+    ]
+  },
+  {
+    "id": "w_helpfulness",
+    "headword": "helpfulness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhelpfəlnəs/",
+    "meanings": [
+      {
+        "tr": "yardımseverlik, faydalılık",
+        "en": "the quality of being willing to help, or of being useful",
+        "exampleEn": "The staff were praised for their helpfulness and patience.",
+        "exampleTr": "Personel yardımseverliği ve sabrı nedeniyle övüldü."
+      }
+    ],
+    "synonyms": [
+      "usefulness",
+      "supportiveness",
+      "kindness"
+    ],
+    "antonyms": [
+      "unhelpfulness"
+    ]
+  },
+  {
+    "id": "w_hemorrhage",
+    "headword": "hemorrhage",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhemərɪdʒ/",
+    "meanings": [
+      {
+        "tr": "kanama, iç kanama",
+        "en": "a large flow of blood, especially inside the body",
+        "exampleEn": "She suffered a brain hemorrhage and was rushed to hospital.",
+        "exampleTr": "Beyin kanaması geçirdi ve aceleyle hastaneye kaldırıldı."
+      },
+      {
+        "tr": "büyük kayıp, hızlı tükeniş (kaynak, para)",
+        "en": "a serious loss of something valuable, such as money or people",
+        "exampleEn": "The company is trying to stop the hemorrhage of skilled workers.",
+        "exampleTr": "Şirket, nitelikli çalışanların hızla kaybını durdurmaya çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "bleeding",
+      "drain",
+      "loss"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_her",
+    "headword": "her",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɜː/",
+    "meanings": [
+      {
+        "tr": "onu, ona (kadın için); onun",
+        "en": "used to refer to a woman or girl as the object, or to show possession",
+        "exampleEn": "I saw her at the station and gave her the book.",
+        "exampleTr": "Onu istasyonda gördüm ve ona kitabı verdim."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "him",
+      "his"
+    ]
+  },
+  {
+    "id": "w_heroism",
+    "headword": "heroism",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈherəʊɪzəm/",
+    "meanings": [
+      {
+        "tr": "kahramanlık, yiğitlik",
+        "en": "very great courage, especially in a dangerous situation",
+        "exampleEn": "The firefighters were honored for their heroism.",
+        "exampleTr": "İtfaiyeciler kahramanlıkları nedeniyle onurlandırıldı."
+      }
+    ],
+    "synonyms": [
+      "bravery",
+      "courage",
+      "valor"
+    ],
+    "antonyms": [
+      "cowardice"
+    ]
+  },
+  {
+    "id": "w_hers",
+    "headword": "hers",
+    "pos": "pron",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɜːz/",
+    "meanings": [
+      {
+        "tr": "onunki (kadın için)",
+        "en": "used to refer to something belonging to a woman or girl mentioned before",
+        "exampleEn": "This coat is mine and that one is hers.",
+        "exampleTr": "Bu palto benim, şu onunki."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "his"
+    ]
+  },
+  {
+    "id": "w_herself",
+    "headword": "herself",
+    "pos": "pron",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɜːˈself/",
+    "meanings": [
+      {
+        "tr": "kendisi, kendini (kadın için)",
+        "en": "the reflexive form of 'she', used when a woman is both subject and object",
+        "exampleEn": "She taught herself to play the guitar.",
+        "exampleTr": "Gitar çalmayı kendi kendine öğretti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "himself"
+    ]
+  },
+  {
+    "id": "w_hey",
+    "headword": "hey",
+    "pos": "interjection",
+    "level": "A1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/heɪ/",
+    "meanings": [
+      {
+        "tr": "hey, baksana (dikkat çekmek ya da selamlaşmak için)",
+        "en": "used to get attention or to show surprise, interest, or greeting",
+        "exampleEn": "Hey, wait for me!",
+        "exampleTr": "Hey, beni bekle!"
+      }
+    ],
+    "synonyms": [
+      "hi",
+      "hello"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_hideousness",
+    "headword": "hideousness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɪdiəsnəs/",
+    "meanings": [
+      {
+        "tr": "çirkinlik, iğrençlik, korkunçluk",
+        "en": "the quality of being extremely ugly or unpleasant",
+        "exampleEn": "The hideousness of the crime shocked the whole town.",
+        "exampleTr": "Suçun iğrençliği bütün kasabayı sarstı."
+      }
+    ],
+    "synonyms": [
+      "ugliness",
+      "repulsiveness",
+      "monstrosity"
+    ],
+    "antonyms": [
+      "beauty",
+      "loveliness"
+    ]
+  },
+  {
+    "id": "w_high_point",
+    "headword": "high point",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhaɪ ˈpɔɪnt/",
+    "meanings": [
+      {
+        "tr": "doruk nokta, en güzel an, zirve",
+        "en": "the best, most enjoyable, or most important part of something",
+        "exampleEn": "Winning the award was the high point of her career.",
+        "exampleTr": "Ödülü kazanmak kariyerinin doruk noktasıydı."
+      }
+    ],
+    "synonyms": [
+      "highlight",
+      "peak",
+      "climax"
+    ],
+    "antonyms": [
+      "low point",
+      "nadir"
+    ]
+  },
+  {
+    "id": "w_high_end",
+    "headword": "high-end",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhaɪ ˈend/",
+    "meanings": [
+      {
+        "tr": "lüks, üst segment, pahalı ve kaliteli",
+        "en": "expensive and of high quality",
+        "exampleEn": "They sell high-end furniture to luxury hotels.",
+        "exampleTr": "Lüks otellere üst segment mobilya satıyorlar."
+      }
+    ],
+    "synonyms": [
+      "luxury",
+      "premium",
+      "upmarket"
+    ],
+    "antonyms": [
+      "low-end",
+      "budget"
+    ]
+  },
+  {
+    "id": "w_high_flyer",
+    "headword": "high-flyer",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhaɪ ˈflaɪə/",
+    "meanings": [
+      {
+        "tr": "başarılı ve hırslı kişi, parlak kariyer sahibi",
+        "en": "a person who is very successful or is likely to be very successful, especially in business",
+        "exampleEn": "She was a high-flyer who became a director at thirty.",
+        "exampleTr": "Otuz yaşında direktör olan başarılı, hırslı biriydi."
+      }
+    ],
+    "synonyms": [
+      "achiever",
+      "go-getter",
+      "success"
+    ],
+    "antonyms": [
+      "underachiever"
+    ]
+  },
+  {
+    "id": "w_high_paid",
+    "headword": "high-paid",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhaɪ ˈpeɪd/",
+    "meanings": [
+      {
+        "tr": "yüksek maaşlı, iyi kazançlı",
+        "en": "earning or providing a large amount of money",
+        "exampleEn": "He left his high-paid job to start a charity.",
+        "exampleTr": "Bir hayır kurumu kurmak için yüksek maaşlı işini bıraktı."
+      }
+    ],
+    "synonyms": [
+      "well-paid",
+      "lucrative"
+    ],
+    "antonyms": [
+      "low-paid",
+      "underpaid"
+    ]
+  },
+  {
+    "id": "w_hillock",
+    "headword": "hillock",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɪlək/",
+    "meanings": [
+      {
+        "tr": "tepecik, küçük tepe",
+        "en": "a small hill or mound",
+        "exampleEn": "The sheep grazed on a grassy hillock.",
+        "exampleTr": "Koyunlar çimenli bir tepecikte otluyordu."
+      }
+    ],
+    "synonyms": [
+      "mound",
+      "knoll",
+      "hummock"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_him",
+    "headword": "him",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɪm/",
+    "meanings": [
+      {
+        "tr": "onu, ona (erkek için)",
+        "en": "used as the object to refer to a man, boy, or male animal",
+        "exampleEn": "I told him the good news yesterday.",
+        "exampleTr": "Dün ona güzel haberi söyledim."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "her"
+    ]
+  },
+  {
+    "id": "w_himself",
+    "headword": "himself",
+    "pos": "pron",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɪmˈself/",
+    "meanings": [
+      {
+        "tr": "kendisi, kendini (erkek için)",
+        "en": "the reflexive form of 'he', used when a man is both subject and object",
+        "exampleEn": "He hurt himself while playing football.",
+        "exampleTr": "Futbol oynarken kendini incitti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "herself"
+    ]
+  },
+  {
+    "id": "w_hint_at",
+    "headword": "hint at",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɪnt æt/",
+    "meanings": [
+      {
+        "tr": "ima etmek, üstü kapalı belirtmek",
+        "en": "to suggest something indirectly without saying it openly",
+        "exampleEn": "She hinted at the possibility of resigning.",
+        "exampleTr": "İstifa etme olasılığını ima etti."
+      }
+    ],
+    "synonyms": [
+      "imply",
+      "suggest",
+      "allude to"
+    ],
+    "antonyms": [
+      "state",
+      "declare"
+    ]
+  },
+  {
+    "id": "w_hip_hop",
+    "headword": "hip-hop",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɪp hɒp/",
+    "meanings": [
+      {
+        "tr": "hip-hop (müzik ve kültür türü)",
+        "en": "a style of popular music and culture featuring rap over a strong beat",
+        "exampleEn": "He grew up listening to hip-hop in the 1990s.",
+        "exampleTr": "1990'larda hip-hop dinleyerek büyüdü."
+      }
+    ],
+    "synonyms": [
+      "rap"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_his",
+    "headword": "his",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɪz/",
+    "meanings": [
+      {
+        "tr": "onun (erkek için); onunki",
+        "en": "belonging to or connected with a man, boy, or male animal already mentioned",
+        "exampleEn": "He parked his car in front of the house.",
+        "exampleTr": "Arabasını evin önüne park etti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "her",
+      "hers"
+    ]
+  },
+  {
+    "id": "w_hiss",
+    "headword": "hiss",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/hɪs/",
+    "meanings": [
+      {
+        "tr": "tıslamak, ıslık gibi ses çıkarmak",
+        "en": "to make a long 's' sound, especially to show anger or disapproval",
+        "exampleEn": "The snake hissed as we came closer.",
+        "exampleTr": "Yaklaştıkça yılan tısladı."
+      },
+      {
+        "tr": "tıslama, ıslık sesi",
+        "en": "a long 's' sound",
+        "exampleEn": "There was a hiss of steam from the pipe.",
+        "exampleTr": "Borudan bir buhar tıslaması geldi."
+      }
+    ],
+    "synonyms": [
+      "fizz",
+      "sizzle",
+      "whistle"
+    ],
+    "antonyms": [
+      "cheer"
+    ]
+  },
+  {
+    "id": "w_hobbling",
+    "headword": "hobbling",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɒblɪŋ/",
+    "meanings": [
+      {
+        "tr": "topallayarak yürüme, aksama (hobble'ın -ing hali)",
+        "en": "walking with difficulty, especially because of pain in the legs or feet",
+        "exampleEn": "He was hobbling around on crutches after the injury.",
+        "exampleTr": "Sakatlıktan sonra koltuk değnekleriyle topallayarak dolaşıyordu."
+      }
+    ],
+    "synonyms": [
+      "limping",
+      "staggering"
+    ],
+    "antonyms": [
+      "striding"
+    ]
+  },
+  {
+    "id": "w_hobbyist",
+    "headword": "hobbyist",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɒbiɪst/",
+    "meanings": [
+      {
+        "tr": "hobi olarak bir şeyle uğraşan kişi, amatör meraklı",
+        "en": "a person who does an activity for pleasure in their free time",
+        "exampleEn": "The forum is full of model-train hobbyists.",
+        "exampleTr": "Forum, maket tren hobisiyle uğraşanlarla dolu."
+      }
+    ],
+    "synonyms": [
+      "enthusiast",
+      "amateur",
+      "aficionado"
+    ],
+    "antonyms": [
+      "professional"
+    ]
+  },
+  {
+    "id": "w_hoe",
+    "headword": "hoe",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/həʊ/",
+    "meanings": [
+      {
+        "tr": "çapa (bahçe aleti)",
+        "en": "a garden tool with a long handle and a flat blade, used for breaking up soil and removing weeds",
+        "exampleEn": "She used a hoe to clear the weeds from the vegetable patch.",
+        "exampleTr": "Sebze tarhındaki yabani otları temizlemek için çapa kullandı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_hold_back",
+    "headword": "hold back",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhəʊld ˈbæk/",
+    "meanings": [
+      {
+        "tr": "tutmak, engellemek, geri durmak",
+        "en": "to stop yourself or someone from doing something, or to prevent progress",
+        "exampleEn": "She could hardly hold back her tears.",
+        "exampleTr": "Gözyaşlarını zor tuttu."
+      },
+      {
+        "tr": "saklamak, esirgemek (bilgi vb.)",
+        "en": "to keep something, such as information, secret",
+        "exampleEn": "I felt he was holding back the truth.",
+        "exampleTr": "Gerçeği sakladığını hissettim."
+      }
+    ],
+    "synonyms": [
+      "restrain",
+      "withhold",
+      "suppress"
+    ],
+    "antonyms": [
+      "release",
+      "encourage"
+    ]
+  },
+  {
+    "id": "w_holding_company",
+    "headword": "holding company",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhəʊldɪŋ ˌkʌmpəni/",
+    "meanings": [
+      {
+        "tr": "holding şirketi, ana şirket",
+        "en": "a company that owns a controlling share in one or more other companies",
+        "exampleEn": "The bank is owned by a large holding company.",
+        "exampleTr": "Banka, büyük bir holding şirketinin sahipliğindedir."
+      }
+    ],
+    "synonyms": [
+      "parent company"
+    ],
+    "antonyms": [
+      "subsidiary"
+    ]
+  },
+  {
+    "id": "w_holiday_company",
+    "headword": "holiday company",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈhɒlədeɪ ˌkʌmpəni/",
+    "meanings": [
+      {
+        "tr": "tatil şirketi, tur/tatil düzenleyen firma",
+        "en": "a company that organizes and sells holidays and package trips",
+        "exampleEn": "We booked our trip through a well-known holiday company.",
+        "exampleTr": "Gezimizi tanınmış bir tatil şirketi aracılığıyla ayarttık."
+      }
+    ],
+    "synonyms": [
+      "tour operator",
+      "travel company"
+    ],
+    "antonyms": []
+  }
+]

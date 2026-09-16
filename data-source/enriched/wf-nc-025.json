@@ -1,0 +1,1188 @@
+[
+  {
+    "id": "w_meaty",
+    "headword": "meaty",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmiːti/",
+    "meanings": [
+      {
+        "tr": "etli, et dolu",
+        "en": "containing a lot of meat",
+        "exampleEn": "This is a rich, meaty stew.",
+        "exampleTr": "Bu, zengin ve etli bir yahni."
+      },
+      {
+        "tr": "doyurucu, içeriği zengin (konu, kitap vb.)",
+        "en": "having a lot of interesting or important content",
+        "exampleEn": "The report raises some meaty issues worth discussing.",
+        "exampleTr": "Rapor, tartışmaya değer bazı doyurucu konular ortaya koyuyor."
+      }
+    ],
+    "synonyms": [
+      "substantial",
+      "fleshy"
+    ],
+    "antonyms": [
+      "thin",
+      "trivial"
+    ]
+  },
+  {
+    "id": "w_medical_centre",
+    "headword": "medical centre",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmedɪkl ˌsentə/",
+    "meanings": [
+      {
+        "tr": "sağlık merkezi, poliklinik",
+        "en": "a building where people can get medical treatment or advice",
+        "exampleEn": "She works as a nurse at the local medical centre.",
+        "exampleTr": "Yerel sağlık merkezinde hemşire olarak çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "clinic",
+      "health centre"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_meek",
+    "headword": "meek",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/miːk/",
+    "meanings": [
+      {
+        "tr": "uysal, yumuşak başlı, boyun eğen",
+        "en": "quiet, gentle, and unwilling to argue or express your opinions",
+        "exampleEn": "He was too meek to complain about the poor service.",
+        "exampleTr": "Kötü hizmet hakkında şikayet edemeyecek kadar uysaldı."
+      }
+    ],
+    "synonyms": [
+      "submissive",
+      "docile",
+      "timid"
+    ],
+    "antonyms": [
+      "assertive",
+      "bold"
+    ]
+  },
+  {
+    "id": "w_meekly",
+    "headword": "meekly",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmiːkli/",
+    "meanings": [
+      {
+        "tr": "uysalca, boyun eğerek",
+        "en": "in a quiet, gentle, and submissive way",
+        "exampleEn": "She meekly accepted the criticism without a word.",
+        "exampleTr": "Eleştiriyi tek kelime etmeden uysalca kabul etti."
+      }
+    ],
+    "synonyms": [
+      "submissively",
+      "obediently"
+    ],
+    "antonyms": [
+      "defiantly"
+    ]
+  },
+  {
+    "id": "w_meekness",
+    "headword": "meekness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmiːknəs/",
+    "meanings": [
+      {
+        "tr": "uysallık, boyun eğme, yumuşak başlılık",
+        "en": "the quality of being quiet, gentle, and submissive",
+        "exampleEn": "His meekness meant he rarely stood up for himself.",
+        "exampleTr": "Uysallığı, kendini nadiren savunduğu anlamına geliyordu."
+      }
+    ],
+    "synonyms": [
+      "submissiveness",
+      "humility"
+    ],
+    "antonyms": [
+      "assertiveness"
+    ]
+  },
+  {
+    "id": "w_megalopolis",
+    "headword": "megalopolis",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmeɡəˈlɒpəlɪs/",
+    "meanings": [
+      {
+        "tr": "devkent, çok büyük şehir kümesi",
+        "en": "a very large, densely populated city or urban area",
+        "exampleEn": "Tokyo is part of one of the largest megalopolis regions in the world.",
+        "exampleTr": "Tokyo, dünyanın en büyük devkent bölgelerinden birinin parçasıdır."
+      }
+    ],
+    "synonyms": [
+      "metropolis",
+      "conurbation"
+    ],
+    "antonyms": [
+      "village"
+    ]
+  },
+  {
+    "id": "w_memoir",
+    "headword": "memoir",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmemwɑː/",
+    "meanings": [
+      {
+        "tr": "anı kitabı, hatırat",
+        "en": "a book or account written from personal knowledge about one's own life",
+        "exampleEn": "The former president published his memoir last year.",
+        "exampleTr": "Eski başkan anı kitabını geçen yıl yayımladı."
+      }
+    ],
+    "synonyms": [
+      "autobiography",
+      "reminiscence"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_merciless",
+    "headword": "merciless",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɜːsɪləs/",
+    "meanings": [
+      {
+        "tr": "acımasız, merhametsiz",
+        "en": "showing no kindness or forgiveness",
+        "exampleEn": "The critics were merciless in their reviews of the film.",
+        "exampleTr": "Eleştirmenler filmle ilgili değerlendirmelerinde acımasızdı."
+      }
+    ],
+    "synonyms": [
+      "ruthless",
+      "cruel",
+      "relentless"
+    ],
+    "antonyms": [
+      "merciful",
+      "compassionate"
+    ]
+  },
+  {
+    "id": "w_mercilessness",
+    "headword": "mercilessness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɜːsɪləsnəs/",
+    "meanings": [
+      {
+        "tr": "acımasızlık, merhametsizlik",
+        "en": "the quality of showing no mercy or forgiveness",
+        "exampleEn": "The mercilessness of the regime shocked observers.",
+        "exampleTr": "Rejimin acımasızlığı gözlemcileri şok etti."
+      }
+    ],
+    "synonyms": [
+      "ruthlessness",
+      "cruelty"
+    ],
+    "antonyms": [
+      "mercy",
+      "compassion"
+    ]
+  },
+  {
+    "id": "w_meritorious",
+    "headword": "meritorious",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmerɪˈtɔːriəs/",
+    "meanings": [
+      {
+        "tr": "takdire değer, övgüye layık",
+        "en": "deserving reward or praise",
+        "exampleEn": "She received an award for her meritorious service to the community.",
+        "exampleTr": "Topluma yaptığı takdire değer hizmet için bir ödül aldı."
+      }
+    ],
+    "synonyms": [
+      "praiseworthy",
+      "commendable",
+      "deserving"
+    ],
+    "antonyms": [
+      "unworthy"
+    ]
+  },
+  {
+    "id": "w_merrymaking",
+    "headword": "merrymaking",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmerimeɪkɪŋ/",
+    "meanings": [
+      {
+        "tr": "eğlence, cümbüş, şenlik",
+        "en": "fun and enjoyment, especially with singing, dancing, and drinking",
+        "exampleEn": "The festival was a night of music and merrymaking.",
+        "exampleTr": "Festival, müzik ve eğlence dolu bir geceydi."
+      }
+    ],
+    "synonyms": [
+      "revelry",
+      "festivity",
+      "celebration"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mesmerizing",
+    "headword": "mesmerizing",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmezməraɪzɪŋ/",
+    "meanings": [
+      {
+        "tr": "büyüleyici, hipnotize edici",
+        "en": "holding your attention completely, as if by magic",
+        "exampleEn": "The dancer gave a mesmerizing performance.",
+        "exampleTr": "Dansçı büyüleyici bir performans sergiledi."
+      }
+    ],
+    "synonyms": [
+      "captivating",
+      "spellbinding",
+      "enthralling"
+    ],
+    "antonyms": [
+      "boring"
+    ]
+  },
+  {
+    "id": "w_metric_ton",
+    "headword": "metric ton",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmetrɪk ˈtʌn/",
+    "meanings": [
+      {
+        "tr": "metrik ton (1000 kilogram)",
+        "en": "a unit of weight equal to 1,000 kilograms",
+        "exampleEn": "The factory produces thousands of metric tons of steel each year.",
+        "exampleTr": "Fabrika her yıl binlerce metrik ton çelik üretiyor."
+      }
+    ],
+    "synonyms": [
+      "tonne"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_might",
+    "headword": "might",
+    "pos": "modal verb",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/maɪt/",
+    "meanings": [
+      {
+        "tr": "-ebilir, olabilir (olasılık)",
+        "en": "used to say that something is possible",
+        "exampleEn": "It might rain later, so take an umbrella.",
+        "exampleTr": "Sonra yağmur yağabilir, bu yüzden bir şemsiye al."
+      },
+      {
+        "tr": "güç, kuvvet",
+        "en": "great power or strength",
+        "exampleEn": "She pushed the door with all her might.",
+        "exampleTr": "Kapıyı tüm gücüyle itti."
+      }
+    ],
+    "synonyms": [
+      "may",
+      "strength",
+      "power"
+    ],
+    "antonyms": [
+      "weakness"
+    ]
+  },
+  {
+    "id": "w_mildness",
+    "headword": "mildness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmaɪldnəs/",
+    "meanings": [
+      {
+        "tr": "yumuşaklık, hafiflik, ılımlılık",
+        "en": "the quality of being gentle, not severe, or not strong",
+        "exampleEn": "The mildness of the winter surprised everyone.",
+        "exampleTr": "Kışın ılımlılığı herkesi şaşırttı."
+      }
+    ],
+    "synonyms": [
+      "gentleness",
+      "moderation"
+    ],
+    "antonyms": [
+      "severity",
+      "harshness"
+    ]
+  },
+  {
+    "id": "w_militant",
+    "headword": "militant",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɪlɪtənt/",
+    "meanings": [
+      {
+        "tr": "militan, mücadeleci, saldırgan (görüş/eylem)",
+        "en": "using or willing to use strong or violent action to support a cause",
+        "exampleEn": "He is a militant supporter of animal rights.",
+        "exampleTr": "Hayvan haklarının militan bir destekçisidir."
+      },
+      {
+        "tr": "militan, silahlı eylemci (kişi)",
+        "en": "a person who uses aggressive or violent methods for a cause",
+        "exampleEn": "The militants seized control of the government building.",
+        "exampleTr": "Militanlar hükümet binasının kontrolünü ele geçirdi."
+      }
+    ],
+    "synonyms": [
+      "aggressive",
+      "radical",
+      "combative"
+    ],
+    "antonyms": [
+      "peaceful",
+      "moderate"
+    ]
+  },
+  {
+    "id": "w_military_aircraft",
+    "headword": "military aircraft",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɪlɪtri ˈeəkrɑːft/",
+    "meanings": [
+      {
+        "tr": "askeri uçak",
+        "en": "an aircraft used by the armed forces",
+        "exampleEn": "The military aircraft flew low over the city during the parade.",
+        "exampleTr": "Askeri uçak geçit töreni sırasında şehrin üzerinden alçaktan uçtu."
+      }
+    ],
+    "synonyms": [
+      "warplane"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_million",
+    "headword": "million",
+    "pos": "noun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɪljən/",
+    "meanings": [
+      {
+        "tr": "milyon (1.000.000)",
+        "en": "the number 1,000,000",
+        "exampleEn": "The city has a population of over two million people.",
+        "exampleTr": "Şehrin iki milyondan fazla nüfusu var."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_mince",
+    "headword": "mince",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/mɪns/",
+    "meanings": [
+      {
+        "tr": "kıymak, ince ince doğramak (et vb.)",
+        "en": "to cut food, especially meat, into very small pieces",
+        "exampleEn": "Mince the garlic finely before adding it to the sauce.",
+        "exampleTr": "Sarımsağı sosa eklemeden önce ince ince kıyın."
+      },
+      {
+        "tr": "kıyma (et)",
+        "en": "meat that has been cut into very small pieces",
+        "exampleEn": "She bought a pound of beef mince for the pasta.",
+        "exampleTr": "Makarna için yarım kilo dana kıyma aldı."
+      }
+    ],
+    "synonyms": [
+      "grind",
+      "chop"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_minimisation",
+    "headword": "minimisation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪnɪmaɪˈzeɪʃn/",
+    "meanings": [
+      {
+        "tr": "en aza indirme, asgariye indirme",
+        "en": "the process of reducing something to the smallest possible amount or degree",
+        "exampleEn": "Risk minimisation is a key goal for the company.",
+        "exampleTr": "Riski en aza indirme, şirket için önemli bir hedeftir."
+      }
+    ],
+    "synonyms": [
+      "reduction"
+    ],
+    "antonyms": [
+      "maximisation"
+    ]
+  },
+  {
+    "id": "w_minus",
+    "headword": "minus",
+    "pos": "prep",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmaɪnəs/",
+    "meanings": [
+      {
+        "tr": "eksi, çıkarma",
+        "en": "used to show that one number is being subtracted from another",
+        "exampleEn": "Ten minus four equals six.",
+        "exampleTr": "On eksi dört, altı eder."
+      },
+      {
+        "tr": "eksi (sıfırın altı, sıcaklık)",
+        "en": "below zero",
+        "exampleEn": "The temperature dropped to minus five last night.",
+        "exampleTr": "Sıcaklık dün gece eksi beşe düştü."
+      }
+    ],
+    "synonyms": [
+      "less"
+    ],
+    "antonyms": [
+      "plus"
+    ]
+  },
+  {
+    "id": "w_mire",
+    "headword": "mire",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmaɪə/",
+    "meanings": [
+      {
+        "tr": "bataklık, çamur; içinden çıkılmaz zor durum",
+        "en": "an area of deep mud or a difficult situation hard to escape from",
+        "exampleEn": "The company sank deeper into a mire of debt.",
+        "exampleTr": "Şirket, borç batağına daha da gömüldü."
+      },
+      {
+        "tr": "batırmak, çamura saplamak; zor duruma sokmak",
+        "en": "to cause to become stuck or involved in a difficult situation",
+        "exampleEn": "The project was mired in delays for months.",
+        "exampleTr": "Proje aylarca gecikmelerle çıkmaza saplandı."
+      }
+    ],
+    "synonyms": [
+      "bog",
+      "swamp",
+      "quagmire"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_misalign",
+    "headword": "misalign",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsəˈlaɪn/",
+    "meanings": [
+      {
+        "tr": "yanlış hizalamak, hatalı ayarlamak",
+        "en": "to put something in the wrong position relative to something else",
+        "exampleEn": "If you misalign the wheels, the car will pull to one side.",
+        "exampleTr": "Tekerlekleri yanlış hizalarsan, araba bir tarafa çeker."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "align"
+    ]
+  },
+  {
+    "id": "w_misconduct",
+    "headword": "misconduct",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈkɒndʌkt/",
+    "meanings": [
+      {
+        "tr": "görevi kötüye kullanma, uygunsuz davranış",
+        "en": "unacceptable or improper behaviour, especially by a professional",
+        "exampleEn": "The doctor was suspended for professional misconduct.",
+        "exampleTr": "Doktor mesleki görevi kötüye kullanmaktan dolayı açığa alındı."
+      }
+    ],
+    "synonyms": [
+      "wrongdoing",
+      "malpractice"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_misconstrue",
+    "headword": "misconstrue",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪskənˈstruː/",
+    "meanings": [
+      {
+        "tr": "yanlış yorumlamak, yanlış anlamak",
+        "en": "to understand something incorrectly",
+        "exampleEn": "Please don't misconstrue my comments as criticism.",
+        "exampleTr": "Lütfen sözlerimi eleştiri olarak yanlış yorumlama."
+      }
+    ],
+    "synonyms": [
+      "misinterpret",
+      "misunderstand"
+    ],
+    "antonyms": [
+      "understand"
+    ]
+  },
+  {
+    "id": "w_miserably",
+    "headword": "miserably",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɪzrəbli/",
+    "meanings": [
+      {
+        "tr": "perişan bir şekilde, sefil halde",
+        "en": "in a very unhappy way",
+        "exampleEn": "He sat alone, staring miserably at the floor.",
+        "exampleTr": "Yerlere perişan bir şekilde bakarak yalnız oturdu."
+      },
+      {
+        "tr": "berbat şekilde, tamamen (başarısızlık)",
+        "en": "very badly or completely",
+        "exampleEn": "The plan failed miserably.",
+        "exampleTr": "Plan berbat şekilde başarısız oldu."
+      }
+    ],
+    "synonyms": [
+      "wretchedly",
+      "dismally"
+    ],
+    "antonyms": [
+      "happily"
+    ]
+  },
+  {
+    "id": "w_miserliness",
+    "headword": "miserliness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmaɪzəlinəs/",
+    "meanings": [
+      {
+        "tr": "cimrilik, pintilik",
+        "en": "the quality of being unwilling to spend money",
+        "exampleEn": "His miserliness meant he never bought gifts for anyone.",
+        "exampleTr": "Cimriliği yüzünden hiç kimseye hediye almazdı."
+      }
+    ],
+    "synonyms": [
+      "stinginess",
+      "meanness"
+    ],
+    "antonyms": [
+      "generosity"
+    ]
+  },
+  {
+    "id": "w_misgivings",
+    "headword": "misgivings",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/mɪsˈɡɪvɪŋz/",
+    "meanings": [
+      {
+        "tr": "kuşkular, endişeler, tereddütler",
+        "en": "feelings of doubt or worry about a future event",
+        "exampleEn": "She had serious misgivings about signing the contract.",
+        "exampleTr": "Sözleşmeyi imzalamak konusunda ciddi kuşkuları vardı."
+      }
+    ],
+    "synonyms": [
+      "doubts",
+      "reservations",
+      "qualms"
+    ],
+    "antonyms": [
+      "confidence"
+    ]
+  },
+  {
+    "id": "w_misgovern",
+    "headword": "misgovern",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈɡʌvn/",
+    "meanings": [
+      {
+        "tr": "kötü yönetmek",
+        "en": "to rule or manage a country or organization badly",
+        "exampleEn": "The people accused their leaders of misgoverning the country.",
+        "exampleTr": "Halk, liderlerini ülkeyi kötü yönetmekle suçladı."
+      }
+    ],
+    "synonyms": [
+      "mismanage"
+    ],
+    "antonyms": [
+      "govern"
+    ]
+  },
+  {
+    "id": "w_mishandle",
+    "headword": "mishandle",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈhændl/",
+    "meanings": [
+      {
+        "tr": "yanlış yönetmek, kötü idare etmek",
+        "en": "to deal with a situation badly or carelessly",
+        "exampleEn": "The manager mishandled the complaint and lost the customer.",
+        "exampleTr": "Müdür şikayeti kötü idare etti ve müşteriyi kaybetti."
+      },
+      {
+        "tr": "dikkatsizce tutmak, hor kullanmak",
+        "en": "to handle something roughly or carelessly",
+        "exampleEn": "The parcel was mishandled during shipping and arrived broken.",
+        "exampleTr": "Paket nakliye sırasında hor kullanıldı ve kırık geldi."
+      }
+    ],
+    "synonyms": [
+      "mismanage",
+      "bungle"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mishandling",
+    "headword": "mishandling",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈhændlɪŋ/",
+    "meanings": [
+      {
+        "tr": "yanlış idare, kötü yönetim",
+        "en": "the act of dealing with something badly or carelessly",
+        "exampleEn": "The report criticized the government's mishandling of the crisis.",
+        "exampleTr": "Rapor, hükümetin krizi kötü yönetmesini eleştirdi."
+      }
+    ],
+    "synonyms": [
+      "mismanagement"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mislay",
+    "headword": "mislay",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈleɪ/",
+    "meanings": [
+      {
+        "tr": "bir yere koyup unutmak, yerini şaşırmak",
+        "en": "to lose something temporarily by forgetting where you put it",
+        "exampleEn": "I seem to have mislaid my keys again.",
+        "exampleTr": "Anahtarlarımı yine bir yere koyup unutmuşum galiba."
+      }
+    ],
+    "synonyms": [
+      "misplace",
+      "lose"
+    ],
+    "antonyms": [
+      "find"
+    ]
+  },
+  {
+    "id": "w_mismatched",
+    "headword": "mismatched",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈmætʃt/",
+    "meanings": [
+      {
+        "tr": "uyumsuz, birbirine uymayan",
+        "en": "not matching or not suitable for each other",
+        "exampleEn": "He was wearing mismatched socks.",
+        "exampleTr": "Birbirine uymayan çoraplar giymişti."
+      }
+    ],
+    "synonyms": [
+      "incompatible",
+      "ill-matched"
+    ],
+    "antonyms": [
+      "matched",
+      "compatible"
+    ]
+  },
+  {
+    "id": "w_misrule",
+    "headword": "misrule",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈruːl/",
+    "meanings": [
+      {
+        "tr": "kötü yönetim, kötü idare",
+        "en": "unfair or bad government of a country",
+        "exampleEn": "Years of misrule left the country in poverty.",
+        "exampleTr": "Yıllarca süren kötü yönetim ülkeyi yoksulluğa sürükledi."
+      }
+    ],
+    "synonyms": [
+      "misgovernment",
+      "tyranny"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_miss_the_mark",
+    "headword": "miss the mark",
+    "pos": "idiom",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪs ðə ˈmɑːk/",
+    "meanings": [
+      {
+        "tr": "hedefi tutturamamak, amacına ulaşamamak, isabet ettirememek",
+        "en": "to fail to achieve the intended result or effect",
+        "exampleEn": "The advertising campaign missed the mark with younger customers.",
+        "exampleTr": "Reklam kampanyası genç müşterilerde hedefi tutturamadı."
+      }
+    ],
+    "synonyms": [
+      "fall short",
+      "fail"
+    ],
+    "antonyms": [
+      "hit the mark",
+      "succeed"
+    ]
+  },
+  {
+    "id": "w_misstatement",
+    "headword": "misstatement",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪsˈsteɪtmənt/",
+    "meanings": [
+      {
+        "tr": "yanlış beyan, hatalı ifade",
+        "en": "a statement that is not true or not accurate",
+        "exampleEn": "The audit revealed a serious misstatement in the accounts.",
+        "exampleTr": "Denetim, hesaplarda ciddi bir yanlış beyanı ortaya çıkardı."
+      }
+    ],
+    "synonyms": [
+      "misrepresentation",
+      "inaccuracy"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mistakenly",
+    "headword": "mistakenly",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/mɪˈsteɪkənli/",
+    "meanings": [
+      {
+        "tr": "yanlışlıkla, hatalı olarak",
+        "en": "in a way that is wrong or based on a mistake",
+        "exampleEn": "She mistakenly believed the meeting was on Friday.",
+        "exampleTr": "Toplantının cuma günü olduğunu yanlışlıkla sanıyordu."
+      }
+    ],
+    "synonyms": [
+      "wrongly",
+      "erroneously"
+    ],
+    "antonyms": [
+      "correctly"
+    ]
+  },
+  {
+    "id": "w_mix_up",
+    "headword": "mix up",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɪks ˈʌp/",
+    "meanings": [
+      {
+        "tr": "karıştırmak, birbirine karıştırmak",
+        "en": "to confuse two or more things or people",
+        "exampleEn": "I always mix up the twins because they look so alike.",
+        "exampleTr": "İkizleri her zaman karıştırıyorum çünkü çok benziyorlar."
+      }
+    ],
+    "synonyms": [
+      "confuse",
+      "muddle"
+    ],
+    "antonyms": [
+      "distinguish"
+    ]
+  },
+  {
+    "id": "w_moan",
+    "headword": "moan",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/məʊn/",
+    "meanings": [
+      {
+        "tr": "inlemek, sızlanmak (acı/ağrı)",
+        "en": "to make a long, low sound expressing pain or unhappiness",
+        "exampleEn": "He moaned in pain as the doctor examined his leg.",
+        "exampleTr": "Doktor bacağını muayene ederken acıyla inledi."
+      },
+      {
+        "tr": "yakınmak, dırdır etmek, şikayet etmek",
+        "en": "to complain about something in an annoying way",
+        "exampleEn": "She's always moaning about the weather.",
+        "exampleTr": "Sürekli hava durumundan yakınıyor."
+      }
+    ],
+    "synonyms": [
+      "groan",
+      "complain",
+      "grumble"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mock_up",
+    "headword": "mock-up",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɒk ʌp/",
+    "meanings": [
+      {
+        "tr": "maket, taslak model, prototip görsel",
+        "en": "a full-size model or realistic preview of something, used for testing or showing a design",
+        "exampleEn": "The designer showed us a mock-up of the new website.",
+        "exampleTr": "Tasarımcı bize yeni web sitesinin bir taslağını gösterdi."
+      }
+    ],
+    "synonyms": [
+      "model",
+      "prototype",
+      "dummy"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_modulation",
+    "headword": "modulation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɒdjuˈleɪʃn/",
+    "meanings": [
+      {
+        "tr": "ayarlama, tonlama, modülasyon (ses/sinyal)",
+        "en": "the act of adjusting or varying the strength, tone, or pitch of something such as sound or a signal",
+        "exampleEn": "The modulation of her voice kept the audience engaged.",
+        "exampleTr": "Sesindeki tonlama, dinleyicilerin ilgisini canlı tuttu."
+      }
+    ],
+    "synonyms": [
+      "variation",
+      "adjustment"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_molestation",
+    "headword": "molestation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌməʊleˈsteɪʃn/",
+    "meanings": [
+      {
+        "tr": "cinsel taciz, sarkıntılık",
+        "en": "the act of touching or attacking someone in a sexual and illegal way",
+        "exampleEn": "He was convicted of the molestation of a minor.",
+        "exampleTr": "Bir çocuğa cinsel tacizden mahkûm edildi."
+      }
+    ],
+    "synonyms": [
+      "abuse",
+      "assault"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_molten_rock",
+    "headword": "molten rock",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌməʊltən ˈrɒk/",
+    "meanings": [
+      {
+        "tr": "erimiş kaya, magma",
+        "en": "rock that has become liquid because of extreme heat",
+        "exampleEn": "Molten rock poured out of the volcano during the eruption.",
+        "exampleTr": "Patlama sırasında yanardağdan erimiş kaya aktı."
+      }
+    ],
+    "synonyms": [
+      "magma",
+      "lava"
+    ],
+    "antonyms": []
+  }
+]

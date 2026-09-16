@@ -1,0 +1,434 @@
+[
+  {
+    "id": "w_grant",
+    "headword": "grant",
+    "extraMeanings": [
+      {
+        "tr": "vermek, tanımak (bir hak/izin vb.)",
+        "en": "to officially give or allow someone something",
+        "exampleEn": "The committee granted her permission to leave early.",
+        "exampleTr": "Komite ona erken ayrılma izni verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_grave",
+    "headword": "grave",
+    "extraMeanings": [
+      {
+        "tr": "ciddi, vahim (sıfat)",
+        "en": "very serious and worrying",
+        "exampleEn": "The doctors said his condition was grave.",
+        "exampleTr": "Doktorlar durumunun vahim olduğunu söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w_gravity",
+    "headword": "gravity",
+    "extraMeanings": [
+      {
+        "tr": "ciddiyet, vahamet",
+        "en": "the seriousness or importance of something",
+        "exampleEn": "He did not seem to understand the gravity of the situation.",
+        "exampleTr": "Durumun ciddiyetini anlamış gibi görünmüyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_grill",
+    "headword": "grill",
+    "extraMeanings": [
+      {
+        "tr": "ızgarada pişirmek (fiil)",
+        "en": "to cook food on a grill",
+        "exampleEn": "We grilled some chicken and vegetables for dinner.",
+        "exampleTr": "Akşam yemeği için biraz tavuk ve sebze ızgara yaptık."
+      },
+      {
+        "tr": "sıkıştırmak, sorguya çekmek",
+        "en": "to question someone closely and persistently",
+        "exampleEn": "The reporters grilled the minister about the scandal.",
+        "exampleTr": "Muhabirler bakanı skandal hakkında sıkıştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_groom",
+    "headword": "groom",
+    "extraMeanings": [
+      {
+        "tr": "tımar etmek, bakımını yapmak (hayvan)",
+        "en": "to clean and care for an animal's coat",
+        "exampleEn": "She grooms her horse every morning.",
+        "exampleTr": "Her sabah atını tımar eder."
+      },
+      {
+        "tr": "yetiştirmek, hazırlamak (bir rol için)",
+        "en": "to prepare someone for a particular job or position",
+        "exampleEn": "He was being groomed to take over the company.",
+        "exampleTr": "Şirketi devralmak için yetiştiriliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_guarantee",
+    "headword": "guarantee",
+    "extraMeanings": [
+      {
+        "tr": "garanti etmek, güvence vermek (fiil)",
+        "en": "to promise that something will happen or be done",
+        "exampleEn": "I can guarantee that you will love this book.",
+        "exampleTr": "Bu kitabı seveceğinize garanti veririm."
+      }
+    ]
+  },
+  {
+    "id": "w_guess",
+    "headword": "guess",
+    "extraMeanings": [
+      {
+        "tr": "tahmin etmek (fiil)",
+        "en": "to give an answer without being sure it is correct",
+        "exampleEn": "Can you guess how old I am?",
+        "exampleTr": "Kaç yaşında olduğumu tahmin edebilir misin?"
+      }
+    ]
+  },
+  {
+    "id": "w_guide",
+    "headword": "guide",
+    "extraMeanings": [
+      {
+        "tr": "yol göstermek, rehberlik etmek (fiil)",
+        "en": "to lead or show someone the way",
+        "exampleEn": "She guided us through the old part of the city.",
+        "exampleTr": "Bizi şehrin eski kısmında gezdirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_hammer",
+    "headword": "hammer",
+    "extraMeanings": [
+      {
+        "tr": "çekiçle vurmak, çakmak (fiil)",
+        "en": "to hit something with a hammer",
+        "exampleEn": "He hammered the nail into the wall.",
+        "exampleTr": "Çiviyi duvara çaktı."
+      }
+    ]
+  },
+  {
+    "id": "w_half",
+    "headword": "half",
+    "extraMeanings": [
+      {
+        "tr": "yarım, buçuk (isim/belirteç)",
+        "en": "one of two equal parts of something",
+        "exampleEn": "She gave me half of her sandwich.",
+        "exampleTr": "Sandviçinin yarısını bana verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_harbor",
+    "headword": "harbor",
+    "extraMeanings": [
+      {
+        "tr": "barındırmak, içinde taşımak (fiil)",
+        "en": "to keep a feeling or thought in your mind for a long time",
+        "exampleEn": "She still harbors resentment toward her old boss.",
+        "exampleTr": "Eski patronuna hâlâ kızgınlık besliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_harbour",
+    "headword": "harbour",
+    "extraMeanings": [
+      {
+        "tr": "barındırmak, içinde taşımak (fiil)",
+        "en": "to keep a feeling or thought in your mind for a long time",
+        "exampleEn": "He harboured a secret hope of becoming an actor.",
+        "exampleTr": "Aktör olma gizli bir umudu içinde taşıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_harness",
+    "headword": "harness",
+    "extraMeanings": [
+      {
+        "tr": "yararlanmak, kullanmak (bir gücü/kaynağı)",
+        "en": "to control and use the force or power of something",
+        "exampleEn": "Scientists are looking for ways to harness solar energy.",
+        "exampleTr": "Bilim insanları güneş enerjisinden yararlanmanın yollarını arıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_hatch",
+    "headword": "hatch",
+    "extraMeanings": [
+      {
+        "tr": "yumurtadan çıkmak, kuluçkadan çıkarmak (fiil)",
+        "en": "to come out of an egg, or to cause a young bird to do so",
+        "exampleEn": "The chicks hatched early in the morning.",
+        "exampleTr": "Civcivler sabahın erken saatinde yumurtadan çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_haunt",
+    "headword": "haunt",
+    "extraMeanings": [
+      {
+        "tr": "musallat olmak, rahat vermemek (hayalet/anı)",
+        "en": "to keep returning to someone's mind in a troubling way; (of a ghost) to visit a place",
+        "exampleEn": "The memory of the accident still haunts her.",
+        "exampleTr": "Kaza anısı hâlâ onu rahat bırakmıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_hazard",
+    "headword": "hazard",
+    "extraMeanings": [
+      {
+        "tr": "tehlikeye atmak; (tahmin) yürütmek (fiil)",
+        "en": "to risk saying something that may be wrong",
+        "exampleEn": "I'd hazard a guess that she is about forty.",
+        "exampleTr": "Kırk yaşlarında olduğunu tahmin etme cesaretini gösterirdim."
+      }
+    ]
+  },
+  {
+    "id": "w_heading",
+    "headword": "heading",
+    "extraMeanings": [
+      {
+        "tr": "yönelme, gidiş yönü",
+        "en": "the direction in which someone or something is moving",
+        "exampleEn": "The ship changed its heading to avoid the storm.",
+        "exampleTr": "Gemi fırtınadan kaçınmak için rotasını değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_highlight",
+    "headword": "highlight",
+    "extraMeanings": [
+      {
+        "tr": "en önemli/heyecanlı an (isim)",
+        "en": "the best or most exciting part of something",
+        "exampleEn": "Meeting the president was the highlight of the trip.",
+        "exampleTr": "Cumhurbaşkanıyla tanışmak gezinin en unutulmaz anıydı."
+      }
+    ]
+  },
+  {
+    "id": "w_hit",
+    "headword": "hit",
+    "extraMeanings": [
+      {
+        "tr": "vurmak, çarpmak (fiil)",
+        "en": "to strike someone or something with force",
+        "exampleEn": "The car hit a tree and stopped.",
+        "exampleTr": "Araba bir ağaca çarpıp durdu."
+      }
+    ]
+  },
+  {
+    "id": "w_hip",
+    "headword": "hip",
+    "extraMeanings": [
+      {
+        "tr": "modaya uygun, havalı (sıfat)",
+        "en": "very fashionable and up to date",
+        "exampleEn": "They opened a hip new café downtown.",
+        "exampleTr": "Şehir merkezinde havalı, yeni bir kafe açtılar."
+      }
+    ]
+  },
+  {
+    "id": "w_historic",
+    "headword": "historic",
+    "extraMeanings": [
+      {
+        "tr": "tarihî öneme sahip, çığır açan",
+        "en": "important in history; likely to be remembered",
+        "exampleEn": "The signing of the treaty was a historic moment.",
+        "exampleTr": "Anlaşmanın imzalanması tarihî bir andı."
+      }
+    ]
+  },
+  {
+    "id": "w_horn",
+    "headword": "horn",
+    "extraMeanings": [
+      {
+        "tr": "korna (araç)",
+        "en": "a device in a vehicle used to make a warning sound",
+        "exampleEn": "The driver honked the horn angrily.",
+        "exampleTr": "Sürücü öfkeyle kornaya bastı."
+      }
+    ]
+  },
+  {
+    "id": "w_hop",
+    "headword": "hop",
+    "extraMeanings": [
+      {
+        "tr": "sıçramak, zıplamak (fiil)",
+        "en": "to jump on one foot or move in short jumps",
+        "exampleEn": "The rabbit hopped across the garden.",
+        "exampleTr": "Tavşan bahçenin öbür ucuna zıplayarak gitti."
+      }
+    ]
+  },
+  {
+    "id": "w_hum",
+    "headword": "hum",
+    "extraMeanings": [
+      {
+        "tr": "uğultu, vızıltı, mırıltı (isim)",
+        "en": "a low continuous sound",
+        "exampleEn": "You could hear the hum of the machines from outside.",
+        "exampleTr": "Makinelerin uğultusu dışarıdan duyuluyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_hunt",
+    "headword": "hunt",
+    "extraMeanings": [
+      {
+        "tr": "avlamak; aramak (fiil)",
+        "en": "to chase and kill animals, or to search for something",
+        "exampleEn": "They hunt for bargains at the market every weekend.",
+        "exampleTr": "Her hafta sonu pazarda ucuz mal ararlar."
+      }
+    ]
+  },
+  {
+    "id": "w_hurt",
+    "headword": "hurt",
+    "extraMeanings": [
+      {
+        "tr": "acıtmak, incitmek; canı yanmak (fiil)",
+        "en": "to cause pain or injury to someone",
+        "exampleEn": "My back hurts after sitting all day.",
+        "exampleTr": "Bütün gün oturmaktan sırtım ağrıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_hunger",
+    "headword": "hunger",
+    "extraMeanings": [
+      {
+        "tr": "özlem, güçlü arzu",
+        "en": "a strong desire or need for something",
+        "exampleEn": "She has a hunger for success.",
+        "exampleTr": "Başarıya karşı büyük bir açlığı var."
+      }
+    ]
+  },
+  {
+    "id": "w_heal",
+    "headword": "heal",
+    "extraMeanings": [
+      {
+        "tr": "(ilişkiyi/kırgınlığı) onarmak, düzeltmek",
+        "en": "to make a problem or bad feeling end",
+        "exampleEn": "Time helped to heal the rift between them.",
+        "exampleTr": "Zaman, aralarındaki kırgınlığı onarmaya yardım etti."
+      }
+    ]
+  },
+  {
+    "id": "w_hesitate",
+    "headword": "hesitate",
+    "extraMeanings": [
+      {
+        "tr": "çekinmek, sakınmak",
+        "en": "to be unwilling to do something because of doubt",
+        "exampleEn": "Don't hesitate to call me if you need help.",
+        "exampleTr": "Yardıma ihtiyacın olursa beni aramaktan çekinme."
+      }
+    ]
+  },
+  {
+    "id": "w_heel",
+    "headword": "heel",
+    "extraMeanings": [
+      {
+        "tr": "topuk (ayakkabı)",
+        "en": "the raised part on the bottom back of a shoe",
+        "exampleEn": "She wore shoes with very high heels.",
+        "exampleTr": "Çok yüksek topuklu ayakkabılar giymişti."
+      }
+    ]
+  },
+  {
+    "id": "w_illuminate",
+    "headword": "illuminate",
+    "extraMeanings": [
+      {
+        "tr": "aydınlatmak, açıklığa kavuşturmak (bir konuyu)",
+        "en": "to make something clearer or easier to understand",
+        "exampleEn": "The professor's example helped to illuminate the theory.",
+        "exampleTr": "Profesörün örneği teoriyi anlaşılır kılmaya yardımcı oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_imitate",
+    "headword": "imitate",
+    "extraMeanings": [
+      {
+        "tr": "örnek almak, benzemeye çalışmak",
+        "en": "to copy someone's behaviour because you admire them",
+        "exampleEn": "Children often imitate their parents.",
+        "exampleTr": "Çocuklar genellikle ebeveynlerini örnek alır."
+      }
+    ]
+  },
+  {
+    "id": "w_hearing",
+    "headword": "hearing",
+    "extraMeanings": [
+      {
+        "tr": "duruşma, dinleme (mahkeme/resmî)",
+        "en": "an official meeting where facts are presented and a decision is made",
+        "exampleEn": "The court hearing is scheduled for next Monday.",
+        "exampleTr": "Mahkeme duruşması gelecek pazartesi olarak planlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_household",
+    "headword": "household",
+    "extraMeanings": [
+      {
+        "tr": "ev ile ilgili, evsel (sıfat)",
+        "en": "relating to a home and the people in it",
+        "exampleEn": "Household chores can take up a lot of time.",
+        "exampleTr": "Ev işleri çok zaman alabilir."
+      }
+    ]
+  },
+  {
+    "id": "w_impair",
+    "headword": "impair",
+    "extraMeanings": [
+      {
+        "tr": "(yeteneği/sağlığı) olumsuz etkilemek",
+        "en": "to weaken or damage an ability or quality",
+        "exampleEn": "Alcohol can seriously impair your judgment.",
+        "exampleTr": "Alkol muhakeme yeteneğini ciddi şekilde bozabilir."
+      }
+    ]
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "w_insult",
+    "headword": "insult",
+    "extraMeanings": [
+      {
+        "tr": "hakaret etmek, aşağılamak",
+        "en": "to say or do something offensive to someone",
+        "exampleEn": "He insulted her by calling her lazy in front of everyone.",
+        "exampleTr": "Herkesin önünde ona tembel diyerek onu aşağıladı."
+      }
+    ]
+  },
+  {
+    "id": "w_intake",
+    "headword": "intake",
+    "extraMeanings": [
+      {
+        "tr": "(hava/su) giriş açıklığı, emme deliği",
+        "en": "an opening through which air or liquid enters a machine or engine",
+        "exampleEn": "The engine's air intake was blocked by leaves.",
+        "exampleTr": "Motorun hava girişi yapraklarla tıkanmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_intent",
+    "headword": "intent",
+    "extraMeanings": [
+      {
+        "tr": "niyet, maksat, kasıt",
+        "en": "the intention to do something (noun)",
+        "exampleEn": "She was charged with wounding with intent to kill.",
+        "exampleTr": "Öldürme kastıyla yaralamaktan suçlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_interchange",
+    "headword": "interchange",
+    "extraMeanings": [
+      {
+        "tr": "yer değiştirmek, birbirinin yerine kullanmak",
+        "en": "to exchange things, or to put one thing in the place of another",
+        "exampleEn": "You can interchange the two batteries without any problem.",
+        "exampleTr": "İki pili sorunsuzca birbirinin yerine kullanabilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w_interpret",
+    "headword": "interpret",
+    "extraMeanings": [
+      {
+        "tr": "(müziği/rolü) yorumlamak, icra etmek",
+        "en": "to perform a piece of music or a role in your own way",
+        "exampleEn": "The pianist interpreted the sonata with great emotion.",
+        "exampleTr": "Piyanist sonatı büyük bir duyguyla yorumladı."
+      }
+    ]
+  },
+  {
+    "id": "w_intimate",
+    "headword": "intimate",
+    "extraMeanings": [
+      {
+        "tr": "ima etmek, üstü kapalı belirtmek",
+        "en": "to suggest or make something known indirectly (verb)",
+        "exampleEn": "He intimated that he might resign if things did not change.",
+        "exampleTr": "İşler değişmezse istifa edebileceğini ima etti."
+      }
+    ]
+  },
+  {
+    "id": "w_invalid",
+    "headword": "invalid",
+    "extraMeanings": [
+      {
+        "tr": "hasta, sakat, malul kimse (isim)",
+        "en": "a person who is ill or disabled and needs care (noun, stress on first syllable)",
+        "exampleEn": "After the accident she was left an invalid for the rest of her life.",
+        "exampleTr": "Kazadan sonra hayatının geri kalanında hasta/sakat kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_intense",
+    "headword": "intensely",
+    "extraMeanings": [
+      {
+        "tr": "ciddi ve derin duygularla, tutkulu biçimde",
+        "en": "in a very serious and deeply emotional way",
+        "exampleEn": "He looked at her intensely, as if trying to read her thoughts.",
+        "exampleTr": "Sanki düşüncelerini okumaya çalışırcasına ona tutkuyla/derin bir yoğunlukla baktı."
+      }
+    ]
+  },
+  {
+    "id": "w_jab",
+    "headword": "jab",
+    "extraMeanings": [
+      {
+        "tr": "iğne, aşı (İngiliz İngilizcesi, gayri resmi)",
+        "en": "an injection or vaccination (British informal)",
+        "exampleEn": "I got my flu jab at the clinic yesterday.",
+        "exampleTr": "Dün klinikte grip aşımı oldum."
+      }
+    ]
+  },
+  {
+    "id": "w_jerk",
+    "headword": "jerk",
+    "extraMeanings": [
+      {
+        "tr": "ahmak, salak, pislik (kişi)",
+        "en": "a stupid or unpleasant person (informal noun)",
+        "exampleEn": "He was such a jerk to leave without paying his share.",
+        "exampleTr": "Payını ödemeden gitmesiyle tam bir pislikti."
+      }
+    ]
+  },
+  {
+    "id": "w_keen",
+    "headword": "keen",
+    "extraMeanings": [
+      {
+        "tr": "keskin, güçlü (algı/zeka için)",
+        "en": "very good, quick, or well developed (of senses or mind)",
+        "exampleEn": "Dogs have a keen sense of smell.",
+        "exampleTr": "Köpeklerin keskin bir koku alma duyusu vardır."
+      }
+    ]
+  },
+  {
+    "id": "w_keeper",
+    "headword": "keeper",
+    "extraMeanings": [
+      {
+        "tr": "kaleci (futbolda, gayri resmi)",
+        "en": "a goalkeeper in football (informal)",
+        "exampleEn": "The keeper made a brilliant save in the last minute.",
+        "exampleTr": "Kaleci son dakikada muhteşem bir kurtarış yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_label",
+    "headword": "label",
+    "extraMeanings": [
+      {
+        "tr": "etiketlemek; damgalamak, nitelendirmek",
+        "en": "to attach a label to, or to describe someone in a particular way",
+        "exampleEn": "The media unfairly labelled him a troublemaker.",
+        "exampleTr": "Medya haksız yere onu bela çıkaran biri olarak damgaladı."
+      },
+      {
+        "tr": "plak/müzik şirketi",
+        "en": "a company that produces and sells recorded music",
+        "exampleEn": "The band signed with a major record label.",
+        "exampleTr": "Grup büyük bir plak şirketiyle anlaşma imzaladı."
+      }
+    ]
+  },
+  {
+    "id": "w_lag",
+    "headword": "lag",
+    "extraMeanings": [
+      {
+        "tr": "gecikme, gerilik (isim)",
+        "en": "a delay between two events (noun)",
+        "exampleEn": "There is often a time lag between infection and symptoms.",
+        "exampleTr": "Enfeksiyon ile belirtiler arasında genellikle bir zaman gecikmesi vardır."
+      }
+    ]
+  },
+  {
+    "id": "w_lame",
+    "headword": "lame",
+    "extraMeanings": [
+      {
+        "tr": "yetersiz, ikna edici olmayan, zayıf (bahane vb.)",
+        "en": "weak and unconvincing (of an excuse, argument or joke)",
+        "exampleEn": "He gave a lame excuse for being late again.",
+        "exampleTr": "Yine geç kalması için zayıf/inandırıcı olmayan bir bahane uydurdu."
+      }
+    ]
+  },
+  {
+    "id": "w_lap",
+    "headword": "lap",
+    "extraMeanings": [
+      {
+        "tr": "tur (yarış pistinde bir tam devir)",
+        "en": "one complete circuit of a racetrack",
+        "exampleEn": "He overtook two cars on the final lap.",
+        "exampleTr": "Son turda iki arabayı geçti."
+      }
+    ]
+  },
+  {
+    "id": "w_lark",
+    "headword": "lark",
+    "extraMeanings": [
+      {
+        "tr": "eğlence, cümbüş, muziplik (gayri resmi)",
+        "en": "something done for fun or amusement (informal)",
+        "exampleEn": "We climbed the wall just for a lark.",
+        "exampleTr": "Duvara sırf eğlence olsun diye tırmandık."
+      }
+    ]
+  },
+  {
+    "id": "w_lash",
+    "headword": "lash",
+    "extraMeanings": [
+      {
+        "tr": "kamçılamak, şiddetle vurmak; (rüzgar/yağmur) çarpmak",
+        "en": "to hit hard, or to beat against something violently (verb)",
+        "exampleEn": "The waves lashed against the rocks during the storm.",
+        "exampleTr": "Fırtına sırasında dalgalar kayalara şiddetle çarptı."
+      }
+    ]
+  },
+  {
+    "id": "w_latch",
+    "headword": "latch",
+    "extraMeanings": [
+      {
+        "tr": "mandalla kapatmak, sürgülemek (fiil)",
+        "en": "to fasten or close something with a latch (verb)",
+        "exampleEn": "She latched the gate behind her.",
+        "exampleTr": "Arkasından kapıyı mandalla kapattı."
+      }
+    ]
+  },
+  {
+    "id": "w_leak",
+    "headword": "leak",
+    "extraMeanings": [
+      {
+        "tr": "sızmak, sızdırmak; (bilgiyi) sızdırmak",
+        "en": "to let liquid or gas escape, or to give secret information to the public (verb)",
+        "exampleEn": "Someone leaked the report to the press before it was official.",
+        "exampleTr": "Biri rapor resmi olmadan önce onu basına sızdırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_leap",
+    "headword": "leap",
+    "extraMeanings": [
+      {
+        "tr": "sıçramak, atlamak (fiil)",
+        "en": "to jump high or a long distance (verb)",
+        "exampleEn": "The cat leaped onto the table.",
+        "exampleTr": "Kedi masanın üstüne sıçradı."
+      }
+    ]
+  },
+  {
+    "id": "w_lease",
+    "headword": "lease",
+    "extraMeanings": [
+      {
+        "tr": "kiralamak, kiraya vermek (fiil)",
+        "en": "to rent property or equipment under a lease (verb)",
+        "exampleEn": "They leased the office space for five years.",
+        "exampleTr": "Ofis alanını beş yıllığına kiraladılar."
+      }
+    ]
+  },
+  {
+    "id": "w_jog",
+    "headword": "jog",
+    "extraMeanings": [
+      {
+        "tr": "hafif tempoda koşmak (fiil)",
+        "en": "to run slowly and steadily for exercise (verb)",
+        "exampleEn": "She jogs in the park every morning.",
+        "exampleTr": "Her sabah parkta hafif tempoda koşar."
+      },
+      {
+        "tr": "(hafızayı) canlandırmak, dürtmek",
+        "en": "to make someone remember something (jog someone's memory)",
+        "exampleEn": "This old photo might jog your memory.",
+        "exampleTr": "Bu eski fotoğraf hafızanı canlandırabilir."
+      }
+    ]
+  },
+  {
+    "id": "w_knot",
+    "headword": "knot",
+    "extraMeanings": [
+      {
+        "tr": "deniz mili/saat (hız birimi)",
+        "en": "a unit of speed used by ships and aircraft",
+        "exampleEn": "The ship was travelling at twenty knots.",
+        "exampleTr": "Gemi yirmi deniz mili/saat hızla ilerliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_later",
+    "headword": "later",
+    "extraMeanings": [
+      {
+        "tr": "sonra, daha sonra (zarf)",
+        "en": "at a time after now or after a particular time (adverb)",
+        "exampleEn": "I will call you later this evening.",
+        "exampleTr": "Sana bu akşam daha sonra telefon ederim."
+      }
+    ]
+  },
+  {
+    "id": "w_lastly",
+    "headword": "lastly",
+    "extraMeanings": [
+      {
+        "tr": "son olarak, nihayet (bir dizinin sonu)",
+        "en": "used to introduce the final point in a list",
+        "exampleEn": "Lastly, I would like to thank my family for their support.",
+        "exampleTr": "Son olarak, desteklerinden dolayı aileme teşekkür etmek isterim."
+      }
+    ]
+  },
+  {
+    "id": "w_ledge",
+    "headword": "ledge",
+    "extraMeanings": [
+      {
+        "tr": "(pencere) denizlik, pervaz",
+        "en": "a narrow horizontal surface sticking out from a wall, especially under a window",
+        "exampleEn": "She placed the flowerpot on the window ledge.",
+        "exampleTr": "Saksıyı pencere denizliğine koydu."
+      }
+    ]
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "id": "w_bulk",
+    "headword": "bulk",
+    "extraMeanings": [
+      {
+        "tr": "çoğunluğu, büyük kısmı",
+        "en": "the main or greater part of something",
+        "exampleEn": "The bulk of the work has already been completed.",
+        "exampleTr": "İşin büyük kısmı zaten tamamlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_bull",
+    "headword": "bull",
+    "extraMeanings": [
+      {
+        "tr": "(erkek fil, balina gibi) erkek hayvan",
+        "en": "the male of certain large animals such as elephants or whales",
+        "exampleEn": "A bull elephant charged towards the safari jeep.",
+        "exampleTr": "Erkek bir fil safari cipine doğru hücum etti."
+      }
+    ]
+  },
+  {
+    "id": "w_bump",
+    "headword": "bump",
+    "extraMeanings": [
+      {
+        "tr": "tümsek, çıkıntı, şişlik (isim)",
+        "en": "a raised or swollen area on a surface or the body",
+        "exampleEn": "She had a large bump on her head after the fall.",
+        "exampleTr": "Düşmeden sonra kafasında büyük bir şişlik vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_bunch",
+    "headword": "bunch",
+    "extraMeanings": [
+      {
+        "tr": "bir sürü, bir yığın (miktar)",
+        "en": "a large amount or number of something",
+        "exampleEn": "I have a whole bunch of things to do today.",
+        "exampleTr": "Bugün yapacak bir sürü işim var."
+      }
+    ]
+  },
+  {
+    "id": "w_bundle",
+    "headword": "bundle",
+    "extraMeanings": [
+      {
+        "tr": "paket, bohça haline getirmek; tıkıştırmak (fiil)",
+        "en": "to push or carry something roughly and quickly",
+        "exampleEn": "They bundled the children into the car and drove off.",
+        "exampleTr": "Çocukları arabaya tıkıştırıp yola koyuldular."
+      }
+    ]
+  },
+  {
+    "id": "w_burden",
+    "headword": "burden",
+    "extraMeanings": [
+      {
+        "tr": "yük olmak, sıkıntı vermek (fiil)",
+        "en": "to cause someone worry, hard work, or responsibility",
+        "exampleEn": "I don't want to burden you with my problems.",
+        "exampleTr": "Sizi sorunlarımla rahatsız etmek istemem."
+      }
+    ]
+  },
+  {
+    "id": "w_burst",
+    "headword": "burst",
+    "extraMeanings": [
+      {
+        "tr": "ani patlama, ani artış (isim)",
+        "en": "a sudden short period of an activity or feeling",
+        "exampleEn": "There was a sudden burst of applause from the audience.",
+        "exampleTr": "Seyircilerden ani bir alkış patlaması yükseldi."
+      },
+      {
+        "tr": "aniden dalmak, birden girmek",
+        "en": "to move or appear somewhere suddenly and forcefully",
+        "exampleEn": "She burst into the room without knocking.",
+        "exampleTr": "Kapıyı çalmadan aniden odaya daldı."
+      }
+    ]
+  },
+  {
+    "id": "w_butcher",
+    "headword": "butcher",
+    "extraMeanings": [
+      {
+        "tr": "katletmek, vahşice öldürmek (fiil)",
+        "en": "to kill people or animals in a cruel way",
+        "exampleEn": "Thousands of civilians were butchered during the war.",
+        "exampleTr": "Savaş sırasında binlerce sivil vahşice katledildi."
+      }
+    ]
+  },
+  {
+    "id": "w_cabin",
+    "headword": "cabin",
+    "extraMeanings": [
+      {
+        "tr": "kabin (uçakta yolcu bölümü)",
+        "en": "the enclosed passenger area of an aircraft",
+        "exampleEn": "The flight attendant walked through the cabin before takeoff.",
+        "exampleTr": "Kabin görevlisi kalkıştan önce kabinde yürüdü."
+      }
+    ]
+  },
+  {
+    "id": "w_calf",
+    "headword": "calf",
+    "extraMeanings": [
+      {
+        "tr": "baldır, incik (bacağın arka alt kısmı)",
+        "en": "the back part of the leg below the knee",
+        "exampleEn": "He pulled a muscle in his calf while running.",
+        "exampleTr": "Koşarken baldırındaki bir kası incitti."
+      }
+    ]
+  },
+  {
+    "id": "w_calm",
+    "headword": "calm",
+    "extraMeanings": [
+      {
+        "tr": "sakinleştirmek, yatıştırmak (fiil)",
+        "en": "to make someone stop feeling upset or excited",
+        "exampleEn": "She spoke softly to calm the frightened child.",
+        "exampleTr": "Korkmuş çocuğu sakinleştirmek için yumuşak bir sesle konuştu."
+      },
+      {
+        "tr": "sükunet, dinginlik (isim)",
+        "en": "a peaceful, quiet state",
+        "exampleEn": "There was a strange calm before the storm.",
+        "exampleTr": "Fırtınadan önce tuhaf bir sükunet vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_cancer",
+    "headword": "cancer",
+    "extraMeanings": [
+      {
+        "tr": "Yengeç burcu (Cancer)",
+        "en": "the fourth sign of the zodiac, the Crab",
+        "exampleEn": "My sister is a Cancer, born in early July.",
+        "exampleTr": "Kız kardeşim Yengeç burcu, temmuz başında doğdu."
+      }
+    ]
+  },
+  {
+    "id": "w_capture",
+    "headword": "capture",
+    "extraMeanings": [
+      {
+        "tr": "yakalamak, ele geçirmek (fiil)",
+        "en": "to catch a person or animal and hold them prisoner",
+        "exampleEn": "The soldiers captured the enemy base at dawn.",
+        "exampleTr": "Askerler şafakta düşman üssünü ele geçirdi."
+      },
+      {
+        "tr": "(anı, görüntüyü) yansıtmak, kaydetmek",
+        "en": "to record or express something accurately in words or pictures",
+        "exampleEn": "The photograph perfectly captured the joy of the moment.",
+        "exampleTr": "Fotoğraf o anın sevincini mükemmel bir şekilde yansıttı."
+      }
+    ]
+  },
+  {
+    "id": "w_career",
+    "headword": "career",
+    "extraMeanings": [
+      {
+        "tr": "hızla ve kontrolsüzce ilerlemek (fiil)",
+        "en": "to move fast and in an uncontrolled way",
+        "exampleEn": "The car careered off the road and into a ditch.",
+        "exampleTr": "Araba yoldan çıkıp bir hendeğe savruldu."
+      }
+    ]
+  },
+  {
+    "id": "w_carriage",
+    "headword": "carriage",
+    "extraMeanings": [
+      {
+        "tr": "(mal) taşıma, nakliye ücreti",
+        "en": "the cost or act of transporting goods",
+        "exampleEn": "The price includes carriage of the goods to your door.",
+        "exampleTr": "Fiyata malların kapınıza kadar nakliyesi dahildir."
+      }
+    ]
+  },
+  {
+    "id": "w_carrier",
+    "headword": "carrier",
+    "extraMeanings": [
+      {
+        "tr": "taşıyıcı şirket, havayolu/nakliye firması",
+        "en": "a company that transports goods or passengers",
+        "exampleEn": "The airline is one of the largest carriers in Europe.",
+        "exampleTr": "Havayolu, Avrupa'nın en büyük taşıyıcı firmalarından biridir."
+      },
+      {
+        "tr": "(hastalık) taşıyıcı, portör",
+        "en": "a person or animal that passes a disease to others without being ill",
+        "exampleEn": "Some people are carriers of the virus without any symptoms.",
+        "exampleTr": "Bazı insanlar hiç belirti göstermeden virüsün taşıyıcısıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_casual",
+    "headword": "casual",
+    "extraMeanings": [
+      {
+        "tr": "kayıtsız, umursamaz, ilgisiz",
+        "en": "showing little interest, care, or emotion",
+        "exampleEn": "He gave a casual shrug as if he didn't care.",
+        "exampleTr": "Umursamıyormuş gibi kayıtsızca omuz silkti."
+      },
+      {
+        "tr": "geçici, arızi (iş, çalışma)",
+        "en": "not regular or permanent, especially work",
+        "exampleEn": "She found casual work picking fruit over the summer.",
+        "exampleTr": "Yaz boyunca meyve toplayarak geçici bir iş buldu."
+      }
+    ]
+  },
+  {
+    "id": "w_cell",
+    "headword": "cell",
+    "extraMeanings": [
+      {
+        "tr": "hücre, koğuş (hapishane)",
+        "en": "a small room where a prisoner is kept",
+        "exampleEn": "The prisoner spent ten years in a tiny cell.",
+        "exampleTr": "Mahkum on yılını küçücük bir hücrede geçirdi."
+      },
+      {
+        "tr": "pil, batarya",
+        "en": "a device that produces electricity, as in a battery",
+        "exampleEn": "The solar cell converts sunlight into electricity.",
+        "exampleTr": "Güneş pili, güneş ışığını elektriğe dönüştürür."
+      }
+    ]
+  },
+  {
+    "id": "w_channel",
+    "headword": "channel",
+    "extraMeanings": [
+      {
+        "tr": "televizyon/radyo kanalı",
+        "en": "a television or radio station",
+        "exampleEn": "Can you switch to another channel? This show is boring.",
+        "exampleTr": "Başka bir kanala geçebilir misin? Bu program sıkıcı."
+      },
+      {
+        "tr": "yol, kanal (iletişim/dağıtım yöntemi)",
+        "en": "a way or method of communicating or achieving something",
+        "exampleEn": "You should report the problem through the proper channels.",
+        "exampleTr": "Sorunu uygun kanallardan bildirmelisin."
+      }
+    ]
+  },
+  {
+    "id": "w_charge",
+    "headword": "charge",
+    "extraMeanings": [
+      {
+        "tr": "suçlama, itham (isim)",
+        "en": "a formal accusation of a crime",
+        "exampleEn": "He was arrested on a charge of theft.",
+        "exampleTr": "Hırsızlık suçlamasıyla tutuklandı."
+      },
+      {
+        "tr": "sorumluluk, yetki, gözetim",
+        "en": "responsibility or control over something",
+        "exampleEn": "She is in charge of the whole department.",
+        "exampleTr": "Tüm bölümün sorumluluğu ondadır."
+      }
+    ]
+  },
+  {
+    "id": "w_charm",
+    "headword": "charm",
+    "extraMeanings": [
+      {
+        "tr": "muska, uğurlu nesne, tılsım",
+        "en": "an object worn to bring good luck",
+        "exampleEn": "She wore a lucky charm around her neck.",
+        "exampleTr": "Boynunda uğurlu bir muska takıyordu."
+      },
+      {
+        "tr": "büyülemek, cezbetmek (fiil)",
+        "en": "to attract or please someone greatly",
+        "exampleEn": "He charmed everyone at the party with his stories.",
+        "exampleTr": "Partide herkesi hikayeleriyle büyüledi."
+      }
+    ]
+  },
+  {
+    "id": "w_chase",
+    "headword": "chase",
+    "extraMeanings": [
+      {
+        "tr": "kovalamak, peşine düşmek (fiil)",
+        "en": "to run after someone or something to catch them",
+        "exampleEn": "The dog chased the cat up the tree.",
+        "exampleTr": "Köpek kediyi kovalayarak ağaca çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w_chat",
+    "headword": "chat",
+    "extraMeanings": [
+      {
+        "tr": "sohbet etmek, çene çalmak (fiil)",
+        "en": "to talk in a friendly, informal way",
+        "exampleEn": "We chatted for hours about our old school days.",
+        "exampleTr": "Eski okul günlerimiz hakkında saatlerce sohbet ettik."
+      }
+    ]
+  },
+  {
+    "id": "w_checkout",
+    "headword": "checkout",
+    "extraMeanings": [
+      {
+        "tr": "otelden çıkış (işlemi), çıkış saati",
+        "en": "the act or time of leaving a hotel at the end of a stay",
+        "exampleEn": "Checkout is at 11 a.m., so please pack your bags.",
+        "exampleTr": "Otelden çıkış saati 11.00, o yüzden lütfen valizlerinizi hazırlayın."
+      }
+    ]
+  },
+  {
+    "id": "w_chief",
+    "headword": "chief",
+    "extraMeanings": [
+      {
+        "tr": "şef, reis, lider (isim)",
+        "en": "the leader or head of a group or organization",
+        "exampleEn": "The police chief held a press conference.",
+        "exampleTr": "Polis şefi bir basın toplantısı düzenledi."
+      }
+    ]
+  },
+  {
+    "id": "w_chill",
+    "headword": "chill",
+    "extraMeanings": [
+      {
+        "tr": "soğutmak, buzdolabında bekletmek (fiil)",
+        "en": "to make something cold, especially food or drink",
+        "exampleEn": "Chill the wine for a couple of hours before serving.",
+        "exampleTr": "Şarabı servis etmeden önce birkaç saat soğut."
+      },
+      {
+        "tr": "ürperti, soğukluk, üşüme (isim)",
+        "en": "a feeling of coldness",
+        "exampleEn": "A sudden chill went through the room.",
+        "exampleTr": "Odayı ansızın bir soğukluk kapladı."
+      }
+    ]
+  },
+  {
+    "id": "w_choke",
+    "headword": "choke",
+    "extraMeanings": [
+      {
+        "tr": "boğmak, nefesini kesmek (fiil)",
+        "en": "to prevent someone from breathing by squeezing the throat",
+        "exampleEn": "The thick smoke almost choked us.",
+        "exampleTr": "Yoğun duman neredeyse bizi boğuyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_chorus",
+    "headword": "chorus",
+    "extraMeanings": [
+      {
+        "tr": "hep bir ağızdan söylenen söz, ortak tepki",
+        "en": "something expressed by many people at the same time",
+        "exampleEn": "Her decision was met with a chorus of protest.",
+        "exampleTr": "Kararı, hep bir ağızdan yükselen protestolarla karşılandı."
+      }
+    ]
+  },
+  {
+    "id": "w_civil",
+    "headword": "civil",
+    "extraMeanings": [
+      {
+        "tr": "nazik, kibar, medeni (davranış)",
+        "en": "polite in a formal way, but not warm or friendly",
+        "exampleEn": "They managed to remain civil despite their disagreement.",
+        "exampleTr": "Anlaşmazlıklarına rağmen nazik kalmayı başardılar."
+      },
+      {
+        "tr": "hukuki, medeni hukukla ilgili (ceza değil)",
+        "en": "relating to private legal matters rather than criminal ones",
+        "exampleEn": "She decided to take civil action against the company.",
+        "exampleTr": "Şirkete karşı hukuki dava açmaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_claim",
+    "headword": "claim",
+    "extraMeanings": [
+      {
+        "tr": "iddia etmek, ileri sürmek (fiil)",
+        "en": "to say something is true without proof",
+        "exampleEn": "He claims that he saw a ghost in the old house.",
+        "exampleTr": "Eski evde bir hayalet gördüğünü iddia ediyor."
+      },
+      {
+        "tr": "talep etmek, hak iddia etmek (fiil)",
+        "en": "to ask for something because you have a right to it",
+        "exampleEn": "You can claim a refund if the product is faulty.",
+        "exampleTr": "Ürün kusurluysa para iadesi talep edebilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w_click",
+    "headword": "click",
+    "extraMeanings": [
+      {
+        "tr": "tıklamak (fare ile); tık sesi çıkarmak (fiil)",
+        "en": "to press a button on a computer mouse or make a short sharp sound",
+        "exampleEn": "Click the icon to open the program.",
+        "exampleTr": "Programı açmak için simgeye tıkla."
+      },
+      {
+        "tr": "birden anlaşılmak, kafaya dank etmek",
+        "en": "to suddenly become clear or understood",
+        "exampleEn": "Suddenly everything clicked and I understood the problem.",
+        "exampleTr": "Birdenbire her şey kafama dank etti ve sorunu anladım."
+      }
+    ]
+  },
+  {
+    "id": "w_clip",
+    "headword": "clip",
+    "extraMeanings": [
+      {
+        "tr": "klips, ataç, toka (isim)",
+        "en": "a small object used to hold things together",
+        "exampleEn": "She fastened the papers together with a clip.",
+        "exampleTr": "Kağıtları bir ataçla birbirine tutturdu."
+      },
+      {
+        "tr": "kırpmak, kesmek (fiil)",
+        "en": "to cut something with scissors or a similar tool",
+        "exampleEn": "He clipped the hedge into a neat shape.",
+        "exampleTr": "Çalıyı düzgün bir şekle sokmak için kırptı."
+      }
+    ]
+  },
+  {
+    "id": "w_collar",
+    "headword": "collar",
+    "extraMeanings": [
+      {
+        "tr": "tasma (hayvan için)",
+        "en": "a band put around an animal's neck",
+        "exampleEn": "The dog's name was written on its collar.",
+        "exampleTr": "Köpeğin adı tasmasında yazılıydı."
+      }
+    ]
+  },
+  {
+    "id": "w_colony",
+    "headword": "colony",
+    "extraMeanings": [
+      {
+        "tr": "koloni (aynı türden canlı topluluğu)",
+        "en": "a group of the same animals or plants living together",
+        "exampleEn": "A colony of ants had built a nest under the tree.",
+        "exampleTr": "Bir karınca kolonisi ağacın altında yuva kurmuştu."
+      }
+    ]
+  }
+]

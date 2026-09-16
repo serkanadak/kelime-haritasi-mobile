@@ -1,0 +1,500 @@
+[
+  {
+    "id": "w_bid",
+    "headword": "bid",
+    "extraMeanings": [
+      {
+        "tr": "girişim, çaba, teşebbüs",
+        "en": "an attempt to achieve or obtain something",
+        "exampleEn": "She made a bid for the presidency.",
+        "exampleTr": "Başkanlık için bir girişimde bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w_bind",
+    "headword": "bind",
+    "extraMeanings": [
+      {
+        "tr": "zorunlu kılmak, bağlayıcı olmak",
+        "en": "to force someone to keep a promise or obey a rule",
+        "exampleEn": "The contract binds both parties to the agreement.",
+        "exampleTr": "Sözleşme her iki tarafı da anlaşmaya bağlar."
+      }
+    ]
+  },
+  {
+    "id": "w_blade",
+    "headword": "blade",
+    "extraMeanings": [
+      {
+        "tr": "çim/ot yaprağı",
+        "en": "a single flat, thin leaf of grass",
+        "exampleEn": "A blade of grass poked through the snow.",
+        "exampleTr": "Karın arasından bir ot yaprağı fırladı."
+      }
+    ]
+  },
+  {
+    "id": "w_blast",
+    "headword": "blast",
+    "extraMeanings": [
+      {
+        "tr": "çok eğlenceli zaman, harika deneyim",
+        "en": "a very enjoyable experience",
+        "exampleEn": "We had a blast at the party last night.",
+        "exampleTr": "Dün geceki partide çok eğlendik."
+      }
+    ]
+  },
+  {
+    "id": "w_blaze",
+    "headword": "blaze",
+    "extraMeanings": [
+      {
+        "tr": "parlak ışık/renk gösterisi",
+        "en": "a very bright display of light or colour",
+        "exampleEn": "The garden was a blaze of colour in spring.",
+        "exampleTr": "Bahçe ilkbaharda bir renk cümbüşüydü."
+      }
+    ]
+  },
+  {
+    "id": "w_blend",
+    "headword": "blend",
+    "extraMeanings": [
+      {
+        "tr": "karıştırmak, harmanlamak (fiil)",
+        "en": "to mix two or more things together",
+        "exampleEn": "Blend the eggs and sugar until smooth.",
+        "exampleTr": "Yumurta ve şekeri pürüzsüz olana kadar karıştırın."
+      },
+      {
+        "tr": "uyum sağlamak, kaynaşmak",
+        "en": "to combine or fit in well together",
+        "exampleEn": "The new building blends in with its surroundings.",
+        "exampleTr": "Yeni bina çevresiyle uyum sağlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_blink",
+    "headword": "blink",
+    "extraMeanings": [
+      {
+        "tr": "yanıp sönmek (ışık)",
+        "en": "(of a light) to flash on and off",
+        "exampleEn": "The cursor blinked on the screen.",
+        "exampleTr": "İmleç ekranda yanıp söndü."
+      }
+    ]
+  },
+  {
+    "id": "w_blockbuster",
+    "headword": "blockbuster",
+    "extraMeanings": [
+      {
+        "tr": "çok satan/çok başarılı ürün (kitap vb.)",
+        "en": "a very successful book or product",
+        "exampleEn": "Her latest novel became a blockbuster.",
+        "exampleTr": "Son romanı çok satan bir esere dönüştü."
+      }
+    ]
+  },
+  {
+    "id": "w_bloody",
+    "headword": "bloody",
+    "extraMeanings": [
+      {
+        "tr": "kahrolası, Allah'ın belası (İng. argo, pekiştirme)",
+        "en": "(British informal) used to emphasize anger or annoyance",
+        "exampleEn": "Turn off that bloody music!",
+        "exampleTr": "Kapat şu kahrolası müziği!"
+      }
+    ]
+  },
+  {
+    "id": "w_blossom",
+    "headword": "blossom",
+    "extraMeanings": [
+      {
+        "tr": "çiçek açmak; gelişip serpilmek (fiil)",
+        "en": "to develop or flourish, or to produce flowers",
+        "exampleEn": "Their friendship blossomed into love.",
+        "exampleTr": "Arkadaşlıkları aşka dönüşüp serpildi."
+      }
+    ]
+  },
+  {
+    "id": "w_blunt",
+    "headword": "blunt",
+    "extraMeanings": [
+      {
+        "tr": "kör, keskin olmayan (bıçak vb.)",
+        "en": "not sharp; having a dull edge or point",
+        "exampleEn": "The knife was too blunt to cut the bread.",
+        "exampleTr": "Bıçak ekmeği kesemeyecek kadar kördü."
+      }
+    ]
+  },
+  {
+    "id": "w_blur",
+    "headword": "blur",
+    "extraMeanings": [
+      {
+        "tr": "bulanık şey, belli belirsiz görüntü/anı (isim)",
+        "en": "something you cannot see or remember clearly",
+        "exampleEn": "The whole evening was just a blur.",
+        "exampleTr": "Bütün akşam belli belirsiz bir anı olarak kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_bolt",
+    "headword": "bolt",
+    "extraMeanings": [
+      {
+        "tr": "fırlamak, kaçmak (fiil)",
+        "en": "to run away suddenly and quickly",
+        "exampleEn": "The horse bolted when it heard the noise.",
+        "exampleTr": "At gürültüyü duyunca fırlayıp kaçtı."
+      },
+      {
+        "tr": "yıldırım, şimşek",
+        "en": "a flash of lightning",
+        "exampleEn": "A bolt of lightning struck the tree.",
+        "exampleTr": "Bir şimşek ağaca çarptı."
+      }
+    ]
+  },
+  {
+    "id": "w_bond",
+    "headword": "bond",
+    "extraMeanings": [
+      {
+        "tr": "bağ, gönül bağı (kişiler arası)",
+        "en": "a close connection between people",
+        "exampleEn": "There is a strong bond between the sisters.",
+        "exampleTr": "Kardeşler arasında güçlü bir bağ var."
+      },
+      {
+        "tr": "bağ kurmak, yakınlaşmak (fiil)",
+        "en": "to develop a close relationship",
+        "exampleEn": "The team bonded during the trip.",
+        "exampleTr": "Ekip gezi sırasında kaynaştı."
+      }
+    ]
+  },
+  {
+    "id": "w_boom",
+    "headword": "boom",
+    "extraMeanings": [
+      {
+        "tr": "gürleme, gümbürtü (ses)",
+        "en": "a deep, loud sound",
+        "exampleEn": "We heard the boom of the cannon.",
+        "exampleTr": "Topun gümbürtüsünü duyduk."
+      }
+    ]
+  },
+  {
+    "id": "w_boost",
+    "headword": "boost",
+    "extraMeanings": [
+      {
+        "tr": "artırmak, yükseltmek, güçlendirmek (fiil)",
+        "en": "to increase or improve something",
+        "exampleEn": "The new advert boosted our sales.",
+        "exampleTr": "Yeni reklam satışlarımızı artırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_booth",
+    "headword": "booth",
+    "extraMeanings": [
+      {
+        "tr": "kabinli oturma yeri (restoranda)",
+        "en": "a partly enclosed seating area in a restaurant",
+        "exampleEn": "We sat in a corner booth at the diner.",
+        "exampleTr": "Lokantada köşedeki kabinli masaya oturduk."
+      }
+    ]
+  },
+  {
+    "id": "w_bounce",
+    "headword": "bounce",
+    "extraMeanings": [
+      {
+        "tr": "sıçramak, sekmek, zıplamak (fiil)",
+        "en": "to move up or away after hitting a surface",
+        "exampleEn": "The ball bounced off the wall.",
+        "exampleTr": "Top duvardan sekti."
+      },
+      {
+        "tr": "karşılıksız çıkmak (çek)",
+        "en": "(of a cheque) to be returned by a bank as worthless",
+        "exampleEn": "His cheque bounced because the account was empty.",
+        "exampleTr": "Hesap boş olduğu için çeki karşılıksız çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_bracket",
+    "headword": "bracket",
+    "extraMeanings": [
+      {
+        "tr": "parantez içine almak, gruplandırmak (fiil)",
+        "en": "to put in the same group or category",
+        "exampleEn": "The two authors are often bracketed together.",
+        "exampleTr": "İki yazar sıklıkla bir arada gruplandırılır."
+      }
+    ]
+  },
+  {
+    "id": "w_brag",
+    "headword": "brag",
+    "extraMeanings": [
+      {
+        "tr": "övünmek, böbürlenmek (fiil)",
+        "en": "to talk too proudly about what you have done",
+        "exampleEn": "He's always bragging about his new car.",
+        "exampleTr": "Sürekli yeni arabasıyla övünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w_breed",
+    "headword": "breed",
+    "extraMeanings": [
+      {
+        "tr": "üremek; üretmek, yetiştirmek (fiil)",
+        "en": "to produce young; to raise animals or plants",
+        "exampleEn": "Rabbits breed very quickly.",
+        "exampleTr": "Tavşanlar çok hızlı ürer."
+      },
+      {
+        "tr": "yol açmak, doğurmak (mecazi)",
+        "en": "to cause something to develop",
+        "exampleEn": "Poverty breeds crime.",
+        "exampleTr": "Yoksulluk suça yol açar."
+      }
+    ]
+  },
+  {
+    "id": "w_brief",
+    "headword": "brief",
+    "extraMeanings": [
+      {
+        "tr": "kısa, kısa süreli (sıfat)",
+        "en": "lasting only a short time; short",
+        "exampleEn": "She made a brief visit to the office.",
+        "exampleTr": "Ofise kısa bir ziyaret yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_broker",
+    "headword": "broker",
+    "extraMeanings": [
+      {
+        "tr": "aracılık ederek sağlamak (anlaşma vb.)",
+        "en": "to arrange a deal or agreement between others",
+        "exampleEn": "The UN helped broker a peace deal.",
+        "exampleTr": "BM bir barış anlaşmasının sağlanmasına aracılık etti."
+      }
+    ]
+  },
+  {
+    "id": "w_brow",
+    "headword": "brow",
+    "extraMeanings": [
+      {
+        "tr": "tepe, yamaç zirvesi",
+        "en": "the top part of a hill or slope",
+        "exampleEn": "They reached the brow of the hill.",
+        "exampleTr": "Tepenin zirvesine ulaştılar."
+      }
+    ]
+  },
+  {
+    "id": "w_browse",
+    "headword": "browse",
+    "extraMeanings": [
+      {
+        "tr": "internette gezinmek, web'de dolaşmak",
+        "en": "to look at information on the internet",
+        "exampleEn": "I was browsing the web for cheap flights.",
+        "exampleTr": "Ucuz uçuşlar için internette geziniyordum."
+      }
+    ]
+  },
+  {
+    "id": "w_bruise",
+    "headword": "bruise",
+    "extraMeanings": [
+      {
+        "tr": "morartmak, berelemek; incitmek (fiil)",
+        "en": "to cause a bruise; to hurt someone's feelings",
+        "exampleEn": "She bruised her knee when she fell.",
+        "exampleTr": "Düşünce dizini berelendi."
+      }
+    ]
+  },
+  {
+    "id": "w_buck",
+    "headword": "buck",
+    "extraMeanings": [
+      {
+        "tr": "şaha kalkmak (at); karşı koymak, direnmek (fiil)",
+        "en": "(of a horse) to jump with the back arched; to resist",
+        "exampleEn": "The horse bucked and threw its rider.",
+        "exampleTr": "At şaha kalkıp binicisini attı."
+      }
+    ]
+  },
+  {
+    "id": "w_bud",
+    "headword": "bud",
+    "extraMeanings": [
+      {
+        "tr": "ahbap, dostum, kardeşim (hitap)",
+        "en": "(informal) a friend; used to address someone",
+        "exampleEn": "Hey bud, can you help me out?",
+        "exampleTr": "Hey dostum, bana yardım eder misin?"
+      }
+    ]
+  },
+  {
+    "id": "w_bulge",
+    "headword": "bulge",
+    "extraMeanings": [
+      {
+        "tr": "şişmek, kabarmak, çıkıntı yapmak (fiil)",
+        "en": "to swell out or stick out",
+        "exampleEn": "His pockets were bulging with sweets.",
+        "exampleTr": "Cepleri şekerlerle şişmişti."
+      }
+    ]
+  },
+  {
+    "id": "w_bully",
+    "headword": "bully",
+    "extraMeanings": [
+      {
+        "tr": "zorba, kabadayı (isim)",
+        "en": "a person who frightens or hurts weaker people",
+        "exampleEn": "The school is dealing with a bully in class.",
+        "exampleTr": "Okul sınıftaki bir zorbayla ilgileniyor."
+      }
+    ]
+  },
+  {
+    "id": "w_bum",
+    "headword": "bum",
+    "extraMeanings": [
+      {
+        "tr": "beleşe otlanmak, dilenmek (fiil, argo)",
+        "en": "(informal) to get something free by asking",
+        "exampleEn": "Can I bum a cigarette off you?",
+        "exampleTr": "Senden bir sigara otlanabilir miyim?"
+      }
+    ]
+  },
+  {
+    "id": "w_buzz",
+    "headword": "buzz",
+    "extraMeanings": [
+      {
+        "tr": "vızıldamak, uğuldamak (fiil)",
+        "en": "to make a low continuous humming sound",
+        "exampleEn": "A bee was buzzing around the flowers.",
+        "exampleTr": "Bir arı çiçeklerin etrafında vızıldıyordu."
+      },
+      {
+        "tr": "telefonla aramak, zili çalmak (fiil, gayrıresmi)",
+        "en": "(informal) to call someone or ring a doorbell",
+        "exampleEn": "I'll buzz you when I arrive.",
+        "exampleTr": "Vardığımda seni ararım."
+      }
+    ]
+  },
+  {
+    "id": "w_cabinet",
+    "headword": "cabinet",
+    "extraMeanings": [
+      {
+        "tr": "vitrin dolabı, camlı dolap",
+        "en": "a piece of furniture with shelves for displaying things",
+        "exampleEn": "She kept her medals in a glass cabinet.",
+        "exampleTr": "Madalyalarını camlı bir dolapta tutuyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_cable",
+    "headword": "cable",
+    "extraMeanings": [
+      {
+        "tr": "kablolu televizyon",
+        "en": "a system of broadcasting TV through cables",
+        "exampleEn": "We watch a lot of movies on cable.",
+        "exampleTr": "Kablolu televizyonda çok film izliyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w_campaign",
+    "headword": "campaign",
+    "extraMeanings": [
+      {
+        "tr": "askeri harekat, sefer",
+        "en": "a series of military operations",
+        "exampleEn": "The general planned a long campaign.",
+        "exampleTr": "General uzun bir askeri harekat planladı."
+      },
+      {
+        "tr": "kampanya yürütmek, mücadele etmek (fiil)",
+        "en": "to work in an organized way toward a goal",
+        "exampleEn": "They campaigned for equal rights.",
+        "exampleTr": "Eşit haklar için mücadele ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_cane",
+    "headword": "cane",
+    "extraMeanings": [
+      {
+        "tr": "kamışla dövmek, sopa cezası vermek (fiil)",
+        "en": "to hit someone with a stick as punishment",
+        "exampleEn": "In the past, teachers could cane pupils.",
+        "exampleTr": "Geçmişte öğretmenler öğrencileri sopayla dövebilirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_captive",
+    "headword": "captive",
+    "extraMeanings": [
+      {
+        "tr": "esir, tutsak (sıfat); kaçamayan (izleyici vb.)",
+        "en": "held prisoner; unable to leave",
+        "exampleEn": "The soldiers were taken captive.",
+        "exampleTr": "Askerler esir alındı."
+      }
+    ]
+  },
+  {
+    "id": "w_caption",
+    "headword": "caption",
+    "extraMeanings": [
+      {
+        "tr": "başlık, altyazı yazmak (fiil)",
+        "en": "to add a title or explanation to a picture",
+        "exampleEn": "The photo was captioned with a funny line.",
+        "exampleTr": "Fotoğrafın altına komik bir cümle yazılmıştı."
+      }
+    ]
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "w_cerebral",
+    "headword": "cerebral",
+    "extraMeanings": [
+      {
+        "tr": "entelektüel, akla dayalı (duygudan çok)",
+        "en": "intellectual rather than emotional; requiring careful thought",
+        "exampleEn": "His films are too cerebral for a mainstream audience.",
+        "exampleTr": "Filmleri geniş kitleler için fazla entelektüeldir."
+      }
+    ]
+  },
+  {
+    "id": "w_cipher",
+    "headword": "cipher",
+    "extraMeanings": [
+      {
+        "tr": "sıfır (rakam)",
+        "en": "the number or symbol zero",
+        "exampleEn": "In the old accounting book, a cipher marked an empty column.",
+        "exampleTr": "Eski muhasebe defterinde bir sıfır, boş sütunu işaretliyordu."
+      },
+      {
+        "tr": "önemsiz kişi, hiç kimse, silik kişi",
+        "en": "a person or thing of no importance or influence",
+        "exampleEn": "Without real power, the mayor was merely a cipher.",
+        "exampleTr": "Gerçek gücü olmayan belediye başkanı, önemsiz bir figürden ibaretti."
+      }
+    ]
+  },
+  {
+    "id": "w_discord",
+    "headword": "discord",
+    "extraMeanings": [
+      {
+        "tr": "akort bozukluğu, uyumsuz ses (müzikte)",
+        "en": "a combination of musical notes that sounds harsh or unpleasant",
+        "exampleEn": "The piece ends on a jarring discord that unsettles the listener.",
+        "exampleTr": "Eser, dinleyiciyi tedirgin eden rahatsız edici bir akort bozukluğuyla biter."
+      }
+    ]
+  },
+  {
+    "id": "w_discourse",
+    "headword": "discourse",
+    "extraMeanings": [
+      {
+        "tr": "söylev vermek, uzun uzun konuşmak (fiil)",
+        "en": "to speak or write at length about a subject",
+        "exampleEn": "He would discourse for hours on the history of jazz.",
+        "exampleTr": "Caz tarihi üzerine saatlerce söylev verirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_disquiet",
+    "headword": "disquiet",
+    "extraMeanings": [
+      {
+        "tr": "huzursuz etmek, tedirgin etmek (fiil)",
+        "en": "to make someone feel worried or uneasy",
+        "exampleEn": "The strange noises in the attic disquieted the whole family.",
+        "exampleTr": "Tavan arasındaki tuhaf sesler bütün aileyi tedirgin etti."
+      }
+    ]
+  },
+  {
+    "id": "w_deluge",
+    "headword": "deluge",
+    "extraMeanings": [
+      {
+        "tr": "yığın, sağanak (mektup, istek vb. sel gibi gelen şey)",
+        "en": "a large number of things arriving at the same time",
+        "exampleEn": "The office received a deluge of complaints after the announcement.",
+        "exampleTr": "Duyurunun ardından ofise bir yığın şikâyet geldi."
+      },
+      {
+        "tr": "sel/yağmura boğmak; üzerine yığmak (fiil)",
+        "en": "to flood, or to overwhelm with a large quantity",
+        "exampleEn": "They were deluged with job applications within hours.",
+        "exampleTr": "Saatler içinde iş başvurularına boğuldular."
+      }
+    ]
+  },
+  {
+    "id": "w_profane",
+    "headword": "profane",
+    "extraMeanings": [
+      {
+        "tr": "kutsala saygısızlık etmek, kirletmek (fiil)",
+        "en": "to treat something sacred with disrespect",
+        "exampleEn": "The vandals profaned the temple by scrawling graffiti on its walls.",
+        "exampleTr": "Vandallar duvarlara yazı karalayarak tapınağa saygısızlık ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_divest",
+    "headword": "divest",
+    "extraMeanings": [
+      {
+        "tr": "soymak, çıkarmak (giysi vb.); yoksun bırakmak",
+        "en": "to remove clothing, or to take something away from someone",
+        "exampleEn": "He divested himself of his coat before entering the warm room.",
+        "exampleTr": "Sıcak odaya girmeden önce paltosunu çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w_elliptical",
+    "headword": "elliptical",
+    "extraMeanings": [
+      {
+        "tr": "kapalı, üstü kapalı, dolaylı (anlatım)",
+        "en": "using few words and often difficult to understand; indirect",
+        "exampleEn": "Her elliptical answers left everyone more confused than before.",
+        "exampleTr": "Üstü kapalı yanıtları herkesi eskisinden daha çok şaşırttı."
+      }
+    ]
+  },
+  {
+    "id": "w_embargo",
+    "headword": "embargo",
+    "extraMeanings": [
+      {
+        "tr": "yayın yasağı, ambargo (haberin belirli bir tarihe kadar yayınlanmaması)",
+        "en": "an official ban on publishing information before a set time",
+        "exampleEn": "The report is under embargo until Monday morning.",
+        "exampleTr": "Rapor pazartesi sabahına kadar yayın yasağı altında."
+      }
+    ]
+  },
+  {
+    "id": "w_inter",
+    "headword": "inter",
+    "extraMeanings": [
+      {
+        "tr": "arasında, karşılıklı (ön ek olarak)",
+        "en": "a prefix meaning between or among",
+        "exampleEn": "The word 'international' uses the prefix inter- to mean 'between nations'.",
+        "exampleTr": "'International' kelimesi 'uluslararası' anlamında inter- ön ekini kullanır."
+      }
+    ]
+  },
+  {
+    "id": "w_repertory",
+    "headword": "repertory",
+    "extraMeanings": [
+      {
+        "tr": "repertuar tiyatrosu (aynı topluluğun dönüşümlü oyunlar sahnelediği tiyatro)",
+        "en": "a theatre company that performs several plays in rotation",
+        "exampleEn": "She spent two years acting in a small repertory in the north of England.",
+        "exampleTr": "İngiltere'nin kuzeyindeki küçük bir repertuar tiyatrosunda iki yıl oyunculuk yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_husbandry",
+    "headword": "husbandry",
+    "extraMeanings": [
+      {
+        "tr": "tutumlu yönetim, idareli kullanma (kaynakların)",
+        "en": "careful and economical management of resources",
+        "exampleEn": "Good husbandry of public funds kept the town out of debt.",
+        "exampleTr": "Kamu kaynaklarının tutumlu yönetimi kasabayı borçtan uzak tuttu."
+      }
+    ]
+  },
+  {
+    "id": "w_eminence",
+    "headword": "eminence",
+    "extraMeanings": [
+      {
+        "tr": "tepe, yüksek yer, tümsek (edebî)",
+        "en": "a piece of rising or high ground",
+        "exampleEn": "The castle stood on a grassy eminence above the river.",
+        "exampleTr": "Şato, nehrin üzerindeki çimenli bir tepede yükseliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_liquidate",
+    "headword": "liquidate",
+    "extraMeanings": [
+      {
+        "tr": "ortadan kaldırmak, öldürmek (özellikle siyasi nedenlerle)",
+        "en": "to kill someone, especially for political reasons",
+        "exampleEn": "The regime liquidated anyone suspected of dissent.",
+        "exampleTr": "Rejim, muhalif olduğundan şüphelenilen herkesi ortadan kaldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_raze",
+    "headword": "raze",
+    "extraMeanings": [
+      {
+        "tr": "(genellikle 'raze to the ground' olarak) tamamen yok etmek",
+        "en": "to completely destroy a building or town, usually to the ground",
+        "exampleEn": "The invading army razed the village to the ground.",
+        "exampleTr": "İstilacı ordu köyü yerle bir etti."
+      }
+    ]
+  },
+  {
+    "id": "w_incendiary",
+    "headword": "incendiary",
+    "extraMeanings": [
+      {
+        "tr": "yangın bombası, kundakçı; kışkırtıcı kimse (isim)",
+        "en": "a bomb designed to start a fire, or a person who stirs up trouble",
+        "exampleEn": "The warehouse was destroyed by an incendiary dropped during the raid.",
+        "exampleTr": "Depo, baskın sırasında atılan bir yangın bombasıyla yok edildi."
+      }
+    ]
+  },
+  {
+    "id": "w_insurgent",
+    "headword": "insurgent",
+    "extraMeanings": [
+      {
+        "tr": "isyancı, ayaklanan (sıfat)",
+        "en": "rising in active revolt; rebellious",
+        "exampleEn": "Insurgent forces seized control of the border town.",
+        "exampleTr": "İsyancı güçler sınır kasabasının kontrolünü ele geçirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_conveyance",
+    "headword": "conveyance",
+    "extraMeanings": [
+      {
+        "tr": "mülkiyet devri; tapu devir işlemi (hukuk)",
+        "en": "the legal transfer of property from one owner to another",
+        "exampleEn": "The conveyance of the house took several weeks to complete.",
+        "exampleTr": "Evin mülkiyet devri tamamlanması birkaç hafta sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_constancy",
+    "headword": "constancy",
+    "extraMeanings": [
+      {
+        "tr": "sadakat, vefa (bir kişiye/inanca bağlılık)",
+        "en": "faithfulness and loyalty to a person or belief",
+        "exampleEn": "Her constancy to her old friends never wavered.",
+        "exampleTr": "Eski dostlarına olan sadakati hiç sarsılmadı."
+      }
+    ]
+  },
+  {
+    "id": "w_repulsion",
+    "headword": "repulsion",
+    "extraMeanings": [
+      {
+        "tr": "itme kuvveti (fizik)",
+        "en": "the force by which objects tend to push each other away",
+        "exampleEn": "Like magnetic poles show repulsion when brought close together.",
+        "exampleTr": "Aynı manyetik kutuplar birbirine yaklaştırıldığında itme gösterir."
+      }
+    ]
+  }
+]

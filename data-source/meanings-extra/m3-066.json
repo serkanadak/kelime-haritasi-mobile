@@ -1,0 +1,176 @@
+[
+  {
+    "id": "w_pipeline",
+    "headword": "pipeline",
+    "extraMeanings": [
+      {
+        "tr": "boru hattı, petrol/gaz nakil hattı",
+        "en": "a long pipe used to carry oil, gas, or water over a long distance",
+        "exampleEn": "The new pipeline will transport natural gas across three countries.",
+        "exampleTr": "Yeni boru hattı doğal gazı üç ülke boyunca taşıyacak."
+      }
+    ]
+  },
+  {
+    "id": "w_plea",
+    "headword": "plea",
+    "extraMeanings": [
+      {
+        "tr": "(sanığın) suçu kabul veya reddi (hukuk)",
+        "en": "a statement made by someone in a law court saying whether they are guilty or not",
+        "exampleEn": "The defendant entered a plea of not guilty.",
+        "exampleTr": "Sanık suçsuz olduğuna dair savunma yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_poise",
+    "headword": "poise",
+    "extraMeanings": [
+      {
+        "tr": "(bir konumda) askıda/dengede durmak (fiil)",
+        "en": "to be balanced or held in a position ready to move",
+        "exampleEn": "The cat poised itself to leap onto the wall.",
+        "exampleTr": "Kedi duvarın üstüne sıçramak için hazır bir şekilde bekledi."
+      }
+    ]
+  },
+  {
+    "id": "w_render",
+    "headword": "render",
+    "extraMeanings": [
+      {
+        "tr": "(hizmet, yardım) sunmak, vermek",
+        "en": "to provide or give a service, help, or duty",
+        "exampleEn": "She was thanked for the services she had rendered to the community.",
+        "exampleTr": "Topluma sunduğu hizmetler için kendisine teşekkür edildi."
+      },
+      {
+        "tr": "(bir dilden) çevirmek; (sanat) yorumlamak/icra etmek",
+        "en": "to express or perform something in a particular way, or to translate it",
+        "exampleEn": "The poem was beautifully rendered into English by the translator.",
+        "exampleTr": "Şiir çevirmen tarafından İngilizceye güzelce çevrildi."
+      }
+    ]
+  },
+  {
+    "id": "w_repel",
+    "headword": "repel",
+    "extraMeanings": [
+      {
+        "tr": "(fizik) itmek, birbirini itmek",
+        "en": "to force something away or apart, as with magnetic or electric forces",
+        "exampleEn": "Two magnets with the same poles repel each other.",
+        "exampleTr": "Aynı kutuplara sahip iki mıknatıs birbirini iter."
+      }
+    ]
+  },
+  {
+    "id": "w_sanction",
+    "headword": "sanction",
+    "extraMeanings": [
+      {
+        "tr": "resmi izin, onay",
+        "en": "official permission or approval for an action",
+        "exampleEn": "The project went ahead without the sanction of the local council.",
+        "exampleTr": "Proje yerel meclisin onayı olmadan devam etti."
+      },
+      {
+        "tr": "onaylamak, izin vermek (fiil)",
+        "en": "to give official permission or approval for something",
+        "exampleEn": "The government refused to sanction the construction of the dam.",
+        "exampleTr": "Hükümet barajın inşasına izin vermeyi reddetti."
+      }
+    ]
+  },
+  {
+    "id": "w_scoop",
+    "headword": "scoop",
+    "extraMeanings": [
+      {
+        "tr": "kepçe, kürek (dondurma vb. için)",
+        "en": "a tool like a deep spoon used for serving food such as ice cream",
+        "exampleEn": "She used a scoop to serve the ice cream into bowls.",
+        "exampleTr": "Dondurmayı kaselere koymak için bir kepçe kullandı."
+      },
+      {
+        "tr": "kepçeyle almak, kaşıklamak (fiil)",
+        "en": "to pick something up or remove it with a scoop or a scooping movement",
+        "exampleEn": "He scooped the flour into the bowl with his hands.",
+        "exampleTr": "Unu elleriyle kaseye doldurdu."
+      }
+    ]
+  },
+  {
+    "id": "w_scorn",
+    "headword": "scorn",
+    "extraMeanings": [
+      {
+        "tr": "küçümsemek, hor görmek (fiil)",
+        "en": "to show that you think something or someone is worthless or ridiculous",
+        "exampleEn": "She scorned his offer of help, saying she could manage alone.",
+        "exampleTr": "Yalnız başa çıkabileceğini söyleyerek onun yardım teklifini küçümsedi."
+      }
+    ]
+  },
+  {
+    "id": "w_salvage",
+    "headword": "salvage",
+    "extraMeanings": [
+      {
+        "tr": "kurtarma işlemi; kurtarılan mal (isim)",
+        "en": "the act of saving goods or property, or the things that are saved",
+        "exampleEn": "The salvage of the sunken ship took several months.",
+        "exampleTr": "Batık geminin kurtarılması birkaç ay sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_quiver",
+    "headword": "quiver",
+    "extraMeanings": [
+      {
+        "tr": "ok kılıfı, sadak",
+        "en": "a container for carrying arrows",
+        "exampleEn": "The archer pulled an arrow from his quiver.",
+        "exampleTr": "Okçu sadağından bir ok çekip çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w_reek",
+    "headword": "reek",
+    "extraMeanings": [
+      {
+        "tr": "(bir şeyi) açıkça çağrıştırmak, izlerini taşımak",
+        "en": "to strongly suggest something unpleasant",
+        "exampleEn": "The whole deal reeks of corruption.",
+        "exampleTr": "Bütün bu anlaşma yolsuzluk kokuyor."
+      }
+    ]
+  },
+  {
+    "id": "w_realm",
+    "headword": "realm",
+    "extraMeanings": [
+      {
+        "tr": "olasılık/ihtimal alanı, çerçeve",
+        "en": "an area of possibility or a general area of activity",
+        "exampleEn": "A cure for the disease is now within the realm of possibility.",
+        "exampleTr": "Hastalığın tedavisi artık ihtimaller dahilinde."
+      }
+    ]
+  },
+  {
+    "id": "w_rugged",
+    "headword": "rugged",
+    "extraMeanings": [
+      {
+        "tr": "(erkek yüzü için) sert ve çekici hatlara sahip",
+        "en": "(of a man's face) having strong, attractive features",
+        "exampleEn": "His rugged good looks made him popular with the audience.",
+        "exampleTr": "Sert ve çekici görünüşü onu izleyiciler arasında popüler yaptı."
+      }
+    ]
+  }
+]

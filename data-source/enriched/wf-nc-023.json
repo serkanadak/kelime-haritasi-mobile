@@ -1,0 +1,1266 @@
+[
+  {
+    "id": "w_least_favourite",
+    "headword": "least favourite",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/liːst ˈfeɪvərɪt/",
+    "meanings": [
+      {
+        "tr": "en sevilmeyen, en az beğenilen",
+        "en": "the one that you like the least among a group",
+        "exampleEn": "Maths was always my least favourite subject at school.",
+        "exampleTr": "Matematik okulda her zaman en sevmediğim dersti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "favourite"
+    ]
+  },
+  {
+    "id": "w_leave_out",
+    "headword": "leave out",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/liːv aʊt/",
+    "meanings": [
+      {
+        "tr": "dışarıda bırakmak, atlamak, dahil etmemek",
+        "en": "to not include someone or something",
+        "exampleEn": "You can leave out the last question if you run out of time.",
+        "exampleTr": "Zaman yetmezse son soruyu atlayabilirsin."
+      }
+    ],
+    "synonyms": [
+      "omit",
+      "exclude",
+      "skip"
+    ],
+    "antonyms": [
+      "include",
+      "add"
+    ]
+  },
+  {
+    "id": "w_legal_proceedings",
+    "headword": "legal proceedings",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈliːɡəl prəˈsiːdɪŋz/",
+    "meanings": [
+      {
+        "tr": "yasal işlemler, dava süreci",
+        "en": "the process of using a court of law to settle a dispute",
+        "exampleEn": "The company started legal proceedings against its former director.",
+        "exampleTr": "Şirket eski müdürüne karşı yasal işlem başlattı."
+      }
+    ],
+    "synonyms": [
+      "lawsuit",
+      "litigation"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_legitimacy",
+    "headword": "legitimacy",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/lɪˈdʒɪtɪməsi/",
+    "meanings": [
+      {
+        "tr": "meşruiyet, yasallık",
+        "en": "the quality of being reasonable, acceptable, or lawful",
+        "exampleEn": "Many people questioned the legitimacy of the new government.",
+        "exampleTr": "Birçok kişi yeni hükümetin meşruiyetini sorguladı."
+      }
+    ],
+    "synonyms": [
+      "validity",
+      "lawfulness"
+    ],
+    "antonyms": [
+      "illegitimacy"
+    ]
+  },
+  {
+    "id": "w_leisure_activity",
+    "headword": "leisure activity",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈleʒə ækˈtɪvəti/",
+    "meanings": [
+      {
+        "tr": "boş zaman etkinliği",
+        "en": "something you do for enjoyment in your free time",
+        "exampleEn": "Reading and gardening are her favourite leisure activities.",
+        "exampleTr": "Okumak ve bahçeyle uğraşmak onun en sevdiği boş zaman etkinlikleridir."
+      }
+    ],
+    "synonyms": [
+      "pastime",
+      "hobby"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_lengthiness",
+    "headword": "lengthiness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈleŋθinəs/",
+    "meanings": [
+      {
+        "tr": "uzunluk, fazla uzun oluş",
+        "en": "the quality of being too long, especially in time or words",
+        "exampleEn": "The lengthiness of the report made it hard to read.",
+        "exampleTr": "Raporun aşırı uzunluğu onu okumayı zorlaştırdı."
+      }
+    ],
+    "synonyms": [
+      "long-windedness"
+    ],
+    "antonyms": [
+      "brevity",
+      "conciseness"
+    ]
+  },
+  {
+    "id": "w_leniency",
+    "headword": "leniency",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈliːniənsi/",
+    "meanings": [
+      {
+        "tr": "hoşgörü, yumuşaklık, müsamaha",
+        "en": "the quality of being kind or not strict in punishing someone",
+        "exampleEn": "The judge showed leniency because it was the boy's first offence.",
+        "exampleTr": "Yargıç çocuğun ilk suçu olduğu için hoşgörü gösterdi."
+      }
+    ],
+    "synonyms": [
+      "clemency",
+      "mercy",
+      "tolerance"
+    ],
+    "antonyms": [
+      "severity",
+      "harshness"
+    ]
+  },
+  {
+    "id": "w_lessee",
+    "headword": "lessee",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/leˈsiː/",
+    "meanings": [
+      {
+        "tr": "kiracı, kira sözleşmesiyle kiralayan kişi",
+        "en": "a person who holds the lease of a property; a tenant",
+        "exampleEn": "The lessee is responsible for any damage to the apartment.",
+        "exampleTr": "Kiracı, dairedeki herhangi bir hasardan sorumludur."
+      }
+    ],
+    "synonyms": [
+      "tenant",
+      "leaseholder"
+    ],
+    "antonyms": [
+      "lessor",
+      "landlord"
+    ]
+  },
+  {
+    "id": "w_lesser",
+    "headword": "lesser",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlesə/",
+    "meanings": [
+      {
+        "tr": "daha az, daha küçük, ikincil",
+        "en": "not as great in size, amount, or importance",
+        "exampleEn": "They chose the lesser of two evils.",
+        "exampleTr": "İki kötü seçenekten daha az kötü olanını seçtiler."
+      }
+    ],
+    "synonyms": [
+      "smaller",
+      "minor",
+      "inferior"
+    ],
+    "antonyms": [
+      "greater",
+      "major"
+    ]
+  },
+  {
+    "id": "w_lest",
+    "headword": "lest",
+    "pos": "conj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/lest/",
+    "meanings": [
+      {
+        "tr": "-mesin diye, olmasın diye, korkusuyla",
+        "en": "in order to prevent something bad from happening",
+        "exampleEn": "She spoke quietly lest she wake the baby.",
+        "exampleTr": "Bebeği uyandırmasın diye alçak sesle konuştu."
+      }
+    ],
+    "synonyms": [
+      "in case",
+      "for fear that"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_let_slip",
+    "headword": "let slip",
+    "pos": "phrase",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/let slɪp/",
+    "meanings": [
+      {
+        "tr": "ağzından kaçırmak, istemeden söylemek",
+        "en": "to accidentally reveal a secret or piece of information",
+        "exampleEn": "He let slip that they were planning a surprise party.",
+        "exampleTr": "Bir sürpriz parti planladıklarını ağzından kaçırdı."
+      }
+    ],
+    "synonyms": [
+      "blurt out",
+      "reveal",
+      "divulge"
+    ],
+    "antonyms": [
+      "conceal",
+      "withhold"
+    ]
+  },
+  {
+    "id": "w_lethargic",
+    "headword": "lethargic",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ləˈθɑːdʒɪk/",
+    "meanings": [
+      {
+        "tr": "halsiz, uyuşuk, bitkin",
+        "en": "feeling tired and without energy or enthusiasm",
+        "exampleEn": "The hot weather made everyone feel lethargic.",
+        "exampleTr": "Sıcak hava herkesi halsiz hissettirdi."
+      }
+    ],
+    "synonyms": [
+      "sluggish",
+      "listless",
+      "drowsy"
+    ],
+    "antonyms": [
+      "energetic",
+      "lively"
+    ]
+  },
+  {
+    "id": "w_lethargically",
+    "headword": "lethargically",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ləˈθɑːdʒɪkli/",
+    "meanings": [
+      {
+        "tr": "halsizce, uyuşuk bir şekilde",
+        "en": "in a tired way that shows no energy",
+        "exampleEn": "He moved lethargically around the kitchen after the long night shift.",
+        "exampleTr": "Uzun gece vardiyasından sonra mutfakta halsizce dolandı."
+      }
+    ],
+    "synonyms": [
+      "sluggishly",
+      "listlessly"
+    ],
+    "antonyms": [
+      "energetically"
+    ]
+  },
+  {
+    "id": "w_level_headed",
+    "headword": "level-headed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌlevəlˈhedɪd/",
+    "meanings": [
+      {
+        "tr": "sakin, mantıklı, soğukkanlı",
+        "en": "calm and sensible, especially in a difficult situation",
+        "exampleEn": "We need a level-headed person to lead the team through the crisis.",
+        "exampleTr": "Ekibi krizden geçirecek soğukkanlı bir insana ihtiyacımız var."
+      }
+    ],
+    "synonyms": [
+      "sensible",
+      "calm",
+      "composed"
+    ],
+    "antonyms": [
+      "hot-headed",
+      "rash"
+    ]
+  },
+  {
+    "id": "w_levity",
+    "headword": "levity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlevəti/",
+    "meanings": [
+      {
+        "tr": "ciddiyetsizlik, şakacılık, hafiflik",
+        "en": "humour or lack of seriousness, especially at an inappropriate time",
+        "exampleEn": "A moment of levity helped ease the tension in the room.",
+        "exampleTr": "Bir anlık şakacılık odadaki gerginliği hafifletti."
+      }
+    ],
+    "synonyms": [
+      "frivolity",
+      "humour"
+    ],
+    "antonyms": [
+      "seriousness",
+      "gravity"
+    ]
+  },
+  {
+    "id": "w_liable",
+    "headword": "liable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlaɪəbəl/",
+    "meanings": [
+      {
+        "tr": "sorumlu, yasal olarak yükümlü",
+        "en": "legally responsible for something",
+        "exampleEn": "The driver was held liable for the damage to the car.",
+        "exampleTr": "Sürücü, arabadaki hasardan sorumlu tutuldu."
+      },
+      {
+        "tr": "eğilimli, olası, yatkın",
+        "en": "likely to do or experience something, usually unpleasant",
+        "exampleEn": "Roads are liable to freeze overnight in winter.",
+        "exampleTr": "Yollar kışın gece boyunca donmaya eğilimlidir."
+      }
+    ],
+    "synonyms": [
+      "responsible",
+      "accountable",
+      "prone"
+    ],
+    "antonyms": [
+      "exempt",
+      "immune"
+    ]
+  },
+  {
+    "id": "w_liberalize",
+    "headword": "liberalize",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪbərəlaɪz/",
+    "meanings": [
+      {
+        "tr": "serbestleştirmek, liberalleştirmek",
+        "en": "to make laws, systems, or attitudes less strict",
+        "exampleEn": "The government decided to liberalize trade with neighbouring countries.",
+        "exampleTr": "Hükümet komşu ülkelerle ticareti serbestleştirmeye karar verdi."
+      }
+    ],
+    "synonyms": [
+      "deregulate",
+      "relax",
+      "loosen"
+    ],
+    "antonyms": [
+      "restrict",
+      "tighten"
+    ]
+  },
+  {
+    "id": "w_liberator",
+    "headword": "liberator",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪbəreɪtə/",
+    "meanings": [
+      {
+        "tr": "kurtarıcı, özgürleştiren kişi",
+        "en": "a person who sets others free from control or oppression",
+        "exampleEn": "The troops were welcomed as liberators by the local people.",
+        "exampleTr": "Birlikler yerel halk tarafından kurtarıcı olarak karşılandı."
+      }
+    ],
+    "synonyms": [
+      "rescuer",
+      "emancipator",
+      "saviour"
+    ],
+    "antonyms": [
+      "oppressor",
+      "captor"
+    ]
+  },
+  {
+    "id": "w_licit",
+    "headword": "licit",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪsɪt/",
+    "meanings": [
+      {
+        "tr": "yasal, meşru, izin verilen",
+        "en": "allowed by law",
+        "exampleEn": "The company deals only in licit goods.",
+        "exampleTr": "Şirket yalnızca yasal mallarla iş yapar."
+      }
+    ],
+    "synonyms": [
+      "legal",
+      "lawful",
+      "legitimate"
+    ],
+    "antonyms": [
+      "illicit",
+      "illegal"
+    ]
+  },
+  {
+    "id": "w_lieutenant",
+    "headword": "lieutenant",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/lefˈtenənt/",
+    "meanings": [
+      {
+        "tr": "teğmen; yardımcı, muavin",
+        "en": "a military or police officer of middle rank, or a chief assistant",
+        "exampleEn": "The lieutenant ordered his men to hold their position.",
+        "exampleTr": "Teğmen adamlarına mevzilerini korumalarını emretti."
+      }
+    ],
+    "synonyms": [
+      "officer",
+      "deputy"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_life_expectancy",
+    "headword": "life expectancy",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/laɪf ɪkˈspektənsi/",
+    "meanings": [
+      {
+        "tr": "yaşam beklentisi, ortalama ömür",
+        "en": "the number of years a person or thing is likely to live or last",
+        "exampleEn": "Life expectancy has risen sharply over the past century.",
+        "exampleTr": "Yaşam beklentisi geçen yüzyılda keskin bir şekilde arttı."
+      }
+    ],
+    "synonyms": [
+      "lifespan"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_like_less",
+    "headword": "like less",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/laɪk les/",
+    "meanings": [
+      {
+        "tr": "daha az sevmek, daha az beğenmek",
+        "en": "to enjoy or approve of something to a smaller degree",
+        "exampleEn": "I like this song, but I like it less than the last one.",
+        "exampleTr": "Bu şarkıyı seviyorum ama öncekinden daha az seviyorum."
+      }
+    ],
+    "synonyms": [
+      "prefer less"
+    ],
+    "antonyms": [
+      "like more",
+      "prefer"
+    ]
+  },
+  {
+    "id": "w_likeable",
+    "headword": "likeable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlaɪkəbəl/",
+    "meanings": [
+      {
+        "tr": "sevimli, sevilesi, cana yakın",
+        "en": "pleasant and easy to like",
+        "exampleEn": "The new manager is friendly and very likeable.",
+        "exampleTr": "Yeni müdür arkadaş canlısı ve çok sevimli biri."
+      }
+    ],
+    "synonyms": [
+      "pleasant",
+      "charming",
+      "amiable"
+    ],
+    "antonyms": [
+      "unlikeable",
+      "unpleasant"
+    ]
+  },
+  {
+    "id": "w_limber",
+    "headword": "limber",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪmbə/",
+    "meanings": [
+      {
+        "tr": "esnek, kıvrak, hareketli",
+        "en": "able to bend and move easily and gracefully",
+        "exampleEn": "Dancers need to stay limber to avoid injuries.",
+        "exampleTr": "Dansçılar sakatlanmamak için esnek kalmalıdır."
+      },
+      {
+        "tr": "(up) ısınmak, kasları esnetmek",
+        "en": "to prepare your muscles for exercise by stretching",
+        "exampleEn": "The athletes limber up before every race.",
+        "exampleTr": "Sporcular her yarıştan önce ısınma hareketleri yapar."
+      }
+    ],
+    "synonyms": [
+      "supple",
+      "flexible",
+      "agile"
+    ],
+    "antonyms": [
+      "stiff",
+      "rigid"
+    ]
+  },
+  {
+    "id": "w_limitless",
+    "headword": "limitless",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪmɪtləs/",
+    "meanings": [
+      {
+        "tr": "sınırsız, sonsuz",
+        "en": "without an end or limit",
+        "exampleEn": "She seems to have limitless energy for her work.",
+        "exampleTr": "İşi için sınırsız enerjiye sahip görünüyor."
+      }
+    ],
+    "synonyms": [
+      "boundless",
+      "infinite",
+      "unlimited"
+    ],
+    "antonyms": [
+      "limited",
+      "finite"
+    ]
+  },
+  {
+    "id": "w_limitlessness",
+    "headword": "limitlessness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪmɪtləsnəs/",
+    "meanings": [
+      {
+        "tr": "sınırsızlık, sonsuzluk",
+        "en": "the state of having no limits or end",
+        "exampleEn": "The novel explores the limitlessness of human imagination.",
+        "exampleTr": "Roman, insan hayal gücünün sınırsızlığını inceliyor."
+      }
+    ],
+    "synonyms": [
+      "boundlessness",
+      "infinity"
+    ],
+    "antonyms": [
+      "finiteness"
+    ]
+  },
+  {
+    "id": "w_line_up",
+    "headword": "line up",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/laɪn ʌp/",
+    "meanings": [
+      {
+        "tr": "sıraya girmek, dizilmek",
+        "en": "to form or arrange people or things in a row",
+        "exampleEn": "The children lined up outside the classroom.",
+        "exampleTr": "Çocuklar sınıfın önünde sıraya girdi."
+      },
+      {
+        "tr": "ayarlamak, hazır etmek, organize etmek",
+        "en": "to arrange for something to happen or be available",
+        "exampleEn": "We've lined up several speakers for the conference.",
+        "exampleTr": "Konferans için birkaç konuşmacı ayarladık."
+      }
+    ],
+    "synonyms": [
+      "queue",
+      "arrange",
+      "organize"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_listened_to",
+    "headword": "listened to",
+    "pos": "verb",
+    "level": "A1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪsənd tuː/",
+    "meanings": [
+      {
+        "tr": "dinledi, kulak verdi (listen to fiilinin geçmiş hali)",
+        "en": "past tense of 'listen to'; gave attention to a sound or person",
+        "exampleEn": "We listened to music all evening.",
+        "exampleTr": "Bütün akşam müzik dinledik."
+      }
+    ],
+    "synonyms": [
+      "heard",
+      "attended to"
+    ],
+    "antonyms": [
+      "ignored"
+    ]
+  },
+  {
+    "id": "w_listlessly",
+    "headword": "listlessly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪstləsli/",
+    "meanings": [
+      {
+        "tr": "isteksizce, halsizce, gönülsüzce",
+        "en": "in a way that shows no energy or enthusiasm",
+        "exampleEn": "She stared listlessly out of the window all afternoon.",
+        "exampleTr": "Bütün öğleden sonra pencereden isteksizce dışarı baktı."
+      }
+    ],
+    "synonyms": [
+      "lethargically",
+      "apathetically"
+    ],
+    "antonyms": [
+      "energetically",
+      "enthusiastically"
+    ]
+  },
+  {
+    "id": "w_litigate",
+    "headword": "litigate",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɪtɪɡeɪt/",
+    "meanings": [
+      {
+        "tr": "dava açmak, mahkemeye başvurmak",
+        "en": "to take a dispute to a court of law",
+        "exampleEn": "The two companies chose to litigate rather than settle out of court.",
+        "exampleTr": "İki şirket, mahkeme dışında anlaşmak yerine dava açmayı seçti."
+      }
+    ],
+    "synonyms": [
+      "sue",
+      "prosecute"
+    ],
+    "antonyms": [
+      "settle"
+    ]
+  },
+  {
+    "id": "w_liveliness",
+    "headword": "liveliness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlaɪvlinəs/",
+    "meanings": [
+      {
+        "tr": "canlılık, hareketlilik, neşe",
+        "en": "the quality of being full of energy and enthusiasm",
+        "exampleEn": "The liveliness of the market attracts many tourists.",
+        "exampleTr": "Pazarın canlılığı birçok turisti cezbediyor."
+      }
+    ],
+    "synonyms": [
+      "vitality",
+      "energy",
+      "vivacity"
+    ],
+    "antonyms": [
+      "dullness",
+      "lethargy"
+    ]
+  },
+  {
+    "id": "w_loft",
+    "headword": "loft",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/lɒft/",
+    "meanings": [
+      {
+        "tr": "çatı katı, tavan arası",
+        "en": "a room or space directly under the roof of a house, often used for storage",
+        "exampleEn": "We keep our old furniture up in the loft.",
+        "exampleTr": "Eski mobilyalarımızı çatı katında saklıyoruz."
+      }
+    ],
+    "synonyms": [
+      "attic",
+      "garret"
+    ],
+    "antonyms": [
+      "basement",
+      "cellar"
+    ]
+  },
+  {
+    "id": "w_logician",
+    "headword": "logician",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ləˈdʒɪʃən/",
+    "meanings": [
+      {
+        "tr": "mantıkçı, mantık uzmanı",
+        "en": "a person who studies or is skilled in logic",
+        "exampleEn": "As a logician, she could spot the flaw in any argument.",
+        "exampleTr": "Bir mantıkçı olarak, herhangi bir argümandaki hatayı fark edebilirdi."
+      }
+    ],
+    "synonyms": [
+      "reasoner"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_long_shot",
+    "headword": "long shot",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɒŋ ʃɒt/",
+    "meanings": [
+      {
+        "tr": "zayıf ihtimal, uzak olasılık, riskli girişim",
+        "en": "something that has only a small chance of succeeding",
+        "exampleEn": "Applying for that job is a long shot, but it's worth a try.",
+        "exampleTr": "O işe başvurmak zayıf bir ihtimal ama denemeye değer."
+      }
+    ],
+    "synonyms": [
+      "outside chance",
+      "gamble"
+    ],
+    "antonyms": [
+      "sure thing",
+      "certainty"
+    ]
+  },
+  {
+    "id": "w_longevity",
+    "headword": "longevity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/lɒnˈdʒevəti/",
+    "meanings": [
+      {
+        "tr": "uzun ömürlülük, uzun süre dayanma",
+        "en": "long life or long duration",
+        "exampleEn": "A healthy diet is often linked to longevity.",
+        "exampleTr": "Sağlıklı bir beslenme genellikle uzun ömürlülükle ilişkilendirilir."
+      }
+    ],
+    "synonyms": [
+      "durability",
+      "long life"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_look_after",
+    "headword": "look after",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/lʊk ˈɑːftə/",
+    "meanings": [
+      {
+        "tr": "bakmak, ilgilenmek, göz kulak olmak",
+        "en": "to take care of someone or something",
+        "exampleEn": "Could you look after my dog while I'm away?",
+        "exampleTr": "Ben yokken köpeğime bakabilir misin?"
+      }
+    ],
+    "synonyms": [
+      "care for",
+      "take care of",
+      "mind"
+    ],
+    "antonyms": [
+      "neglect",
+      "abandon"
+    ]
+  },
+  {
+    "id": "w_looming",
+    "headword": "looming",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈluːmɪŋ/",
+    "meanings": [
+      {
+        "tr": "yaklaşan, tehdit oluşturan, baş gösteren",
+        "en": "(of something bad) about to happen and worrying",
+        "exampleEn": "With the deadline looming, the team worked through the night.",
+        "exampleTr": "Son teslim tarihi yaklaşırken ekip gece boyunca çalıştı."
+      }
+    ],
+    "synonyms": [
+      "impending",
+      "approaching",
+      "imminent"
+    ],
+    "antonyms": [
+      "distant",
+      "remote"
+    ]
+  },
+  {
+    "id": "w_lopsided",
+    "headword": "lopsided",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌlɒpˈsaɪdɪd/",
+    "meanings": [
+      {
+        "tr": "bir tarafa yatık, dengesiz, eğri",
+        "en": "with one side lower or larger than the other; unbalanced",
+        "exampleEn": "He gave a lopsided smile and shrugged.",
+        "exampleTr": "Bir tarafa yatık bir gülümseme verdi ve omuz silkti."
+      }
+    ],
+    "synonyms": [
+      "uneven",
+      "asymmetrical",
+      "unbalanced"
+    ],
+    "antonyms": [
+      "even",
+      "balanced",
+      "symmetrical"
+    ]
+  },
+  {
+    "id": "w_lots_of",
+    "headword": "lots of",
+    "pos": "det",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈlɒts əv/",
+    "meanings": [
+      {
+        "tr": "birçok, pek çok, bir sürü",
+        "en": "a large number or amount of something",
+        "exampleEn": "There were lots of people at the concert.",
+        "exampleTr": "Konserde bir sürü insan vardı."
+      }
+    ],
+    "synonyms": [
+      "plenty of",
+      "many",
+      "a lot of"
+    ],
+    "antonyms": [
+      "few",
+      "little"
+    ]
+  },
+  {
+    "id": "w_low_grade",
+    "headword": "low-grade",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌləʊ ˈɡreɪd/",
+    "meanings": [
+      {
+        "tr": "düşük kaliteli, kalitesiz",
+        "en": "of low quality or a low level",
+        "exampleEn": "The factory was fined for using low-grade materials.",
+        "exampleTr": "Fabrika düşük kaliteli malzeme kullandığı için para cezasına çarptırıldı."
+      }
+    ],
+    "synonyms": [
+      "inferior",
+      "poor-quality",
+      "second-rate"
+    ],
+    "antonyms": [
+      "high-grade",
+      "premium"
+    ]
+  },
+  {
+    "id": "w_low_rise",
+    "headword": "low-rise",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌləʊ ˈraɪz/",
+    "meanings": [
+      {
+        "tr": "az katlı (bina)",
+        "en": "(of a building) having few storeys",
+        "exampleEn": "They live in a quiet low-rise apartment block.",
+        "exampleTr": "Sessiz, az katlı bir apartmanda yaşıyorlar."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "high-rise"
+    ]
+  },
+  {
+    "id": "w_lower_class",
+    "headword": "lower class",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌləʊə ˈklɑːs/",
+    "meanings": [
+      {
+        "tr": "alt sınıf, alt tabaka",
+        "en": "the social group with the lowest status and least money",
+        "exampleEn": "The reforms were designed to help families from the lower class.",
+        "exampleTr": "Reformlar alt sınıftan ailelere yardım etmek için tasarlandı."
+      }
+    ],
+    "synonyms": [
+      "working class"
+    ],
+    "antonyms": [
+      "upper class"
+    ]
+  },
+  {
+    "id": "w_lower_ranking",
+    "headword": "lower-ranking",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌləʊə ˈræŋkɪŋ/",
+    "meanings": [
+      {
+        "tr": "daha alt rütbeli, daha düşük kademeli",
+        "en": "having a lower position or rank in an organization",
+        "exampleEn": "The decision was made by senior staff, not lower-ranking employees.",
+        "exampleTr": "Karar, daha düşük kademeli çalışanlar tarafından değil, üst düzey personel tarafından verildi."
+      }
+    ],
+    "synonyms": [
+      "junior",
+      "subordinate"
+    ],
+    "antonyms": [
+      "higher-ranking",
+      "senior"
+    ]
+  },
+  {
+    "id": "w_lowliness",
+    "headword": "lowliness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈləʊlinəs/",
+    "meanings": [
+      {
+        "tr": "mütevazılık, alçakgönüllülük; düşük konum",
+        "en": "the state of being humble or of low rank or importance",
+        "exampleEn": "Despite the lowliness of his origins, he rose to become a leader.",
+        "exampleTr": "Mütevazı kökenine rağmen yükselip bir lider oldu."
+      }
+    ],
+    "synonyms": [
+      "humbleness",
+      "humility"
+    ],
+    "antonyms": [
+      "grandeur",
+      "loftiness"
+    ]
+  },
+  {
+    "id": "w_lucid",
+    "headword": "lucid",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈluːsɪd/",
+    "meanings": [
+      {
+        "tr": "açık, anlaşılır, berrak",
+        "en": "clear and easy to understand",
+        "exampleEn": "She gave a lucid explanation of the new policy.",
+        "exampleTr": "Yeni politikayı açık ve anlaşılır bir şekilde açıkladı."
+      },
+      {
+        "tr": "aklı başında, zihni açık",
+        "en": "able to think clearly, especially during illness",
+        "exampleEn": "The patient had a few lucid moments before falling asleep.",
+        "exampleTr": "Hasta uykuya dalmadan önce birkaç ayık, zihni açık an geçirdi."
+      }
+    ],
+    "synonyms": [
+      "clear",
+      "coherent",
+      "intelligible"
+    ],
+    "antonyms": [
+      "confusing",
+      "unclear",
+      "muddled"
+    ]
+  }
+]

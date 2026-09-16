@@ -1,0 +1,440 @@
+[
+  {
+    "id": "w_meter",
+    "headword": "meter",
+    "extraMeanings": [
+      {
+        "tr": "sayaç (elektrik, su, gaz vb.)",
+        "en": "a device that measures the amount of something used",
+        "exampleEn": "The electricity meter shows we used a lot of power this month.",
+        "exampleTr": "Elektrik sayacı bu ay çok fazla enerji kullandığımızı gösteriyor."
+      }
+    ]
+  },
+  {
+    "id": "w_mobile",
+    "headword": "mobile",
+    "extraMeanings": [
+      {
+        "tr": "cep telefonu",
+        "en": "a mobile phone",
+        "exampleEn": "I left my mobile at home and felt lost all day.",
+        "exampleTr": "Cep telefonumu evde unuttum ve bütün gün kayıp gibi hissettim."
+      }
+    ]
+  },
+  {
+    "id": "w_mood",
+    "headword": "mood",
+    "extraMeanings": [
+      {
+        "tr": "canı isteme, istek, heves",
+        "en": "the feeling of wanting to do something",
+        "exampleEn": "I'm not in the mood to go out tonight.",
+        "exampleTr": "Bu gece dışarı çıkacak havada değilim."
+      }
+    ]
+  },
+  {
+    "id": "w_most",
+    "headword": "most",
+    "extraMeanings": [
+      {
+        "tr": "çoğu, çoğunluk",
+        "en": "the majority of; nearly all",
+        "exampleEn": "Most of my friends live in the city.",
+        "exampleTr": "Arkadaşlarımın çoğu şehirde yaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_native",
+    "headword": "native",
+    "extraMeanings": [
+      {
+        "tr": "bir yerli, o yörenin insanı (isim)",
+        "en": "a person born in a particular place",
+        "exampleEn": "She is a native of Spain and grew up in Madrid.",
+        "exampleTr": "O İspanya doğumludur ve Madrid'de büyümüştür."
+      }
+    ]
+  },
+  {
+    "id": "w_nature",
+    "headword": "nature",
+    "extraMeanings": [
+      {
+        "tr": "huy, mizaç, doğa (karakter)",
+        "en": "the basic character or qualities of a person or thing",
+        "exampleEn": "It's not in her nature to be unkind.",
+        "exampleTr": "Kaba olmak onun mizacında yoktur."
+      }
+    ]
+  },
+  {
+    "id": "w_next",
+    "headword": "next",
+    "extraMeanings": [
+      {
+        "tr": "gelecek, bir sonraki, ertesi (sıfat)",
+        "en": "coming immediately after in time or order",
+        "exampleEn": "We are meeting next week to discuss the plan.",
+        "exampleTr": "Planı görüşmek için gelecek hafta buluşuyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w_normal",
+    "headword": "normal",
+    "extraMeanings": [
+      {
+        "tr": "normal durum, olağan hal (isim)",
+        "en": "the usual or expected state of things",
+        "exampleEn": "After the holidays, life returned to normal.",
+        "exampleTr": "Tatillerden sonra hayat normale döndü."
+      }
+    ]
+  },
+  {
+    "id": "w_north",
+    "headword": "north",
+    "extraMeanings": [
+      {
+        "tr": "kuzey (yön/bölge, isim)",
+        "en": "the direction or region that is to your left when facing the sunrise",
+        "exampleEn": "They travelled to the north of the country for the winter.",
+        "exampleTr": "Kış için ülkenin kuzeyine seyahat ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_notice",
+    "headword": "notice",
+    "extraMeanings": [
+      {
+        "tr": "fark etmek, farkına varmak (fiil)",
+        "en": "to become aware of something",
+        "exampleEn": "Did you notice that she cut her hair?",
+        "exampleTr": "Saçını kestiğini fark ettin mi?"
+      }
+    ]
+  },
+  {
+    "id": "w_novel",
+    "headword": "novel",
+    "extraMeanings": [
+      {
+        "tr": "yeni ve alışılmadık, özgün (sıfat)",
+        "en": "new and unusual, not known before",
+        "exampleEn": "They came up with a novel way of solving the problem.",
+        "exampleTr": "Sorunu çözmek için yeni ve alışılmadık bir yol buldular."
+      }
+    ]
+  },
+  {
+    "id": "w_offer",
+    "headword": "offer",
+    "extraMeanings": [
+      {
+        "tr": "teklif etmek, sunmak, önermek (fiil)",
+        "en": "to say you are willing to give or do something",
+        "exampleEn": "They offered me a job at the new company.",
+        "exampleTr": "Yeni şirkette bana bir iş teklif ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_official",
+    "headword": "official",
+    "extraMeanings": [
+      {
+        "tr": "yetkili, memur, görevli (isim)",
+        "en": "a person who holds a position of authority",
+        "exampleEn": "A government official announced the new rules.",
+        "exampleTr": "Bir hükümet yetkilisi yeni kuralları açıkladı."
+      }
+    ]
+  },
+  {
+    "id": "w_oil",
+    "headword": "oil",
+    "extraMeanings": [
+      {
+        "tr": "yağlamak (fiil)",
+        "en": "to put oil on or into something",
+        "exampleEn": "You should oil the door to stop it squeaking.",
+        "exampleTr": "Gıcırdamayı önlemek için kapıyı yağlamalısın."
+      }
+    ]
+  },
+  {
+    "id": "w_on",
+    "headword": "on",
+    "extraMeanings": [
+      {
+        "tr": "üzerinde, üstünde (edat)",
+        "en": "touching and supported by a surface",
+        "exampleEn": "The book is on the table.",
+        "exampleTr": "Kitap masanın üstünde."
+      }
+    ]
+  },
+  {
+    "id": "w_operate",
+    "headword": "operate",
+    "extraMeanings": [
+      {
+        "tr": "ameliyat etmek (fiil)",
+        "en": "to cut into someone's body to treat an illness",
+        "exampleEn": "The doctors had to operate on his heart.",
+        "exampleTr": "Doktorlar kalbini ameliyat etmek zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_oppose",
+    "headword": "oppose",
+    "extraMeanings": [
+      {
+        "tr": "karşısında olmak, rakip olmak (rekabet)",
+        "en": "to compete against someone in a contest or game",
+        "exampleEn": "He will oppose the champion in the final match.",
+        "exampleTr": "Final maçında şampiyonun karşısına çıkacak."
+      }
+    ]
+  },
+  {
+    "id": "w_opposite",
+    "headword": "opposite",
+    "extraMeanings": [
+      {
+        "tr": "karşısında, tam karşıda (edat/zarf)",
+        "en": "in a position facing something across from it",
+        "exampleEn": "The bakery is opposite the bank.",
+        "exampleTr": "Fırın bankanın tam karşısında."
+      },
+      {
+        "tr": "zıt anlamlı kelime, karşıt (isim)",
+        "en": "a person or thing that is completely different",
+        "exampleEn": "Hot is the opposite of cold.",
+        "exampleTr": "Sıcak, soğuğun zıddıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_original",
+    "headword": "original",
+    "extraMeanings": [
+      {
+        "tr": "asıl nüsha, orijinal (isim)",
+        "en": "the first form of something, not a copy",
+        "exampleEn": "This is a copy; the original is in the museum.",
+        "exampleTr": "Bu bir kopya; aslı müzede."
+      }
+    ]
+  },
+  {
+    "id": "w_pack",
+    "headword": "pack",
+    "extraMeanings": [
+      {
+        "tr": "(bavul/eşya) toplamak, yerleştirmek (fiil)",
+        "en": "to put things into a bag or case for a journey",
+        "exampleEn": "I need to pack my suitcase before the trip.",
+        "exampleTr": "Yolculuktan önce bavulumu toplamam gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_pass",
+    "headword": "pass",
+    "extraMeanings": [
+      {
+        "tr": "geçmek, geçip gitmek (fiil)",
+        "en": "to move past or through something",
+        "exampleEn": "We passed a beautiful lake on the way home.",
+        "exampleTr": "Eve dönerken güzel bir gölün yanından geçtik."
+      },
+      {
+        "tr": "(sınavı) geçmek, başarmak (fiil)",
+        "en": "to succeed in an exam or test",
+        "exampleEn": "She studied hard and passed all her exams.",
+        "exampleTr": "Çok çalıştı ve bütün sınavlarını geçti."
+      }
+    ]
+  },
+  {
+    "id": "w_pan",
+    "headword": "pan",
+    "extraMeanings": [
+      {
+        "tr": "tencere",
+        "en": "a metal container used for cooking food",
+        "exampleEn": "She boiled the pasta in a large pan.",
+        "exampleTr": "Makarnayı büyük bir tencerede haşladı."
+      }
+    ]
+  },
+  {
+    "id": "w_panic",
+    "headword": "panic",
+    "extraMeanings": [
+      {
+        "tr": "paniklemek, telaşlanmak (fiil)",
+        "en": "to suddenly feel very frightened or worried",
+        "exampleEn": "Don't panic, everything will be fine.",
+        "exampleTr": "Paniklemeyin, her şey yoluna girecek."
+      }
+    ]
+  },
+  {
+    "id": "w_part",
+    "headword": "part",
+    "extraMeanings": [
+      {
+        "tr": "rol (tiyatro/film)",
+        "en": "a character played by an actor",
+        "exampleEn": "She played the part of the queen in the play.",
+        "exampleTr": "Oyunda kraliçe rolünü oynadı."
+      },
+      {
+        "tr": "ayrılmak, ayırmak (fiil)",
+        "en": "to separate or move apart",
+        "exampleEn": "They parted at the station and said goodbye.",
+        "exampleTr": "İstasyonda ayrıldılar ve vedalaştılar."
+      }
+    ]
+  },
+  {
+    "id": "w_pepper",
+    "headword": "pepper",
+    "extraMeanings": [
+      {
+        "tr": "biber (sebze, kırmızı/yeşil)",
+        "en": "a hollow red, green, or yellow vegetable",
+        "exampleEn": "I added some red pepper to the salad.",
+        "exampleTr": "Salataya biraz kırmızı biber ekledim."
+      }
+    ]
+  },
+  {
+    "id": "w_perfect",
+    "headword": "perfect",
+    "extraMeanings": [
+      {
+        "tr": "tam, tastamam, kesin (sıfat)",
+        "en": "complete or total",
+        "exampleEn": "He is a perfect stranger to me.",
+        "exampleTr": "O benim için bütünüyle bir yabancı."
+      }
+    ]
+  },
+  {
+    "id": "w_perform",
+    "headword": "perform",
+    "extraMeanings": [
+      {
+        "tr": "başarı göstermek, iş görmek (fiil)",
+        "en": "to work or function in a particular way",
+        "exampleEn": "The new car performs very well on the motorway.",
+        "exampleTr": "Yeni araba otoyolda çok iyi performans gösteriyor."
+      }
+    ]
+  },
+  {
+    "id": "w_pile",
+    "headword": "pile",
+    "extraMeanings": [
+      {
+        "tr": "yığmak, üst üste koymak (fiil)",
+        "en": "to put things on top of each other in a heap",
+        "exampleEn": "She piled the books on the desk.",
+        "exampleTr": "Kitapları masanın üzerine yığdı."
+      }
+    ]
+  },
+  {
+    "id": "w_pity",
+    "headword": "pity",
+    "extraMeanings": [
+      {
+        "tr": "acımak, üzülmek (fiil)",
+        "en": "to feel sorry for someone",
+        "exampleEn": "I pity anyone who has to work in this heat.",
+        "exampleTr": "Bu sıcakta çalışmak zorunda olan herkese acıyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_plant",
+    "headword": "plant",
+    "extraMeanings": [
+      {
+        "tr": "ekmek, dikmek (fiil)",
+        "en": "to put seeds or plants in the ground to grow",
+        "exampleEn": "We planted tomatoes in the garden this spring.",
+        "exampleTr": "Bu ilkbahar bahçeye domates ektik."
+      },
+      {
+        "tr": "fabrika, tesis (isim)",
+        "en": "a factory or building where an industrial process happens",
+        "exampleEn": "He works at a car plant near the city.",
+        "exampleTr": "Şehrin yakınındaki bir araba fabrikasında çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_plastic",
+    "headword": "plastic",
+    "extraMeanings": [
+      {
+        "tr": "plastik (madde, isim)",
+        "en": "a light artificial material that can be shaped",
+        "exampleEn": "This toy is made of cheap plastic.",
+        "exampleTr": "Bu oyuncak ucuz plastikten yapılmış."
+      }
+    ]
+  },
+  {
+    "id": "w_plate",
+    "headword": "plate",
+    "extraMeanings": [
+      {
+        "tr": "levha, plaka (metal/cam)",
+        "en": "a flat, thin piece of metal or other hard material",
+        "exampleEn": "The ship was built from steel plates.",
+        "exampleTr": "Gemi çelik levhalardan yapıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_pass",
+    "headword": "pass",
+    "extraMeanings": [
+      {
+        "tr": "uzatmak, vermek (fiil)",
+        "en": "to give something to someone by hand",
+        "exampleEn": "Could you pass me the salt, please?",
+        "exampleTr": "Tuzu bana uzatır mısın, lütfen?"
+      }
+    ]
+  },
+  {
+    "id": "w_over",
+    "headword": "over",
+    "extraMeanings": [
+      {
+        "tr": "üzerinde, üstünde (edat)",
+        "en": "above or covering something",
+        "exampleEn": "A lamp hung over the table.",
+        "exampleTr": "Masanın üzerinde bir lamba asılıydı."
+      },
+      {
+        "tr": "-den fazla, aşkın (edat)",
+        "en": "more than a particular number or amount",
+        "exampleEn": "Over a hundred people came to the party.",
+        "exampleTr": "Partiye yüzden fazla insan geldi."
+      }
+    ]
+  }
+]

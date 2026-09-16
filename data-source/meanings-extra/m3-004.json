@@ -1,0 +1,596 @@
+[
+  {
+    "id": "w_left",
+    "headword": "left",
+    "extraMeanings": [
+      {
+        "tr": "kalan, geriye kalan (leave fiilinin geçmiş hali)",
+        "en": "remaining; past tense of 'leave'",
+        "exampleEn": "There is only one cookie left in the box.",
+        "exampleTr": "Kutuda sadece bir kurabiye kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_light",
+    "headword": "light",
+    "extraMeanings": [
+      {
+        "tr": "hafif (ağır olmayan)",
+        "en": "not heavy",
+        "exampleEn": "This bag is very light, I can carry it easily.",
+        "exampleTr": "Bu çanta çok hafif, onu kolayca taşıyabilirim."
+      },
+      {
+        "tr": "yakmak, tutuşturmak (fiil)",
+        "en": "to make something start burning",
+        "exampleEn": "She used a match to light the candle.",
+        "exampleTr": "Mumu yakmak için bir kibrit kullandı."
+      }
+    ]
+  },
+  {
+    "id": "w_like",
+    "headword": "like",
+    "extraMeanings": [
+      {
+        "tr": "gibi, benzer (edat)",
+        "en": "similar to; in the same way as",
+        "exampleEn": "She looks just like her mother.",
+        "exampleTr": "Tıpkı annesine benziyor."
+      }
+    ]
+  },
+  {
+    "id": "w_line",
+    "headword": "line",
+    "extraMeanings": [
+      {
+        "tr": "sıra, kuyruk",
+        "en": "a row of people waiting",
+        "exampleEn": "We waited in a long line to buy tickets.",
+        "exampleTr": "Bilet almak için uzun bir sırada bekledik."
+      }
+    ]
+  },
+  {
+    "id": "w_list",
+    "headword": "list",
+    "extraMeanings": [
+      {
+        "tr": "listelemek, sıralamak (fiil)",
+        "en": "to write things one after another",
+        "exampleEn": "Please list all the items you need.",
+        "exampleTr": "Lütfen ihtiyacın olan tüm eşyaları listele."
+      }
+    ]
+  },
+  {
+    "id": "w_little",
+    "headword": "little",
+    "extraMeanings": [
+      {
+        "tr": "biraz (a little)",
+        "en": "a small amount",
+        "exampleEn": "Can I have a little water, please?",
+        "exampleTr": "Biraz su alabilir miyim, lütfen?"
+      }
+    ]
+  },
+  {
+    "id": "w_long",
+    "headword": "long",
+    "extraMeanings": [
+      {
+        "tr": "uzun (süre olarak)",
+        "en": "lasting a great amount of time",
+        "exampleEn": "We waited for a long time at the station.",
+        "exampleTr": "İstasyonda uzun süre bekledik."
+      },
+      {
+        "tr": "özlemek, can atmak (long for)",
+        "en": "to want something very much",
+        "exampleEn": "She longed to see her family again.",
+        "exampleTr": "Ailesini yeniden görmeyi özlüyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_look",
+    "headword": "look",
+    "extraMeanings": [
+      {
+        "tr": "bakmak (fiil)",
+        "en": "to turn your eyes toward something",
+        "exampleEn": "Look at that beautiful sunset!",
+        "exampleTr": "Şu güzel gün batımına bak!"
+      },
+      {
+        "tr": "görünmek (gibi görünmek)",
+        "en": "to seem or appear",
+        "exampleEn": "You look tired today.",
+        "exampleTr": "Bugün yorgun görünüyorsun."
+      }
+    ]
+  },
+  {
+    "id": "w_lot",
+    "headword": "lot",
+    "extraMeanings": [
+      {
+        "tr": "arsa, parsel",
+        "en": "a piece of land",
+        "exampleEn": "They bought an empty lot to build a house.",
+        "exampleTr": "Ev yapmak için boş bir arsa aldılar."
+      }
+    ]
+  },
+  {
+    "id": "w_love",
+    "headword": "love",
+    "extraMeanings": [
+      {
+        "tr": "aşk, sevgi (isim)",
+        "en": "a strong feeling of affection",
+        "exampleEn": "Their love for each other grew stronger every day.",
+        "exampleTr": "Birbirlerine olan aşkları her gün daha da güçlendi."
+      },
+      {
+        "tr": "sıfır (tenis skoru)",
+        "en": "zero score in tennis",
+        "exampleEn": "The score was forty-love in the first game.",
+        "exampleTr": "İlk oyunda skor kırk-sıfırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_mail",
+    "headword": "mail",
+    "extraMeanings": [
+      {
+        "tr": "postalamak, göndermek (fiil)",
+        "en": "to send by post",
+        "exampleEn": "I will mail the letter tomorrow morning.",
+        "exampleTr": "Mektubu yarın sabah postalayacağım."
+      }
+    ]
+  },
+  {
+    "id": "w_match",
+    "headword": "match",
+    "extraMeanings": [
+      {
+        "tr": "kibrit",
+        "en": "a small stick for making fire",
+        "exampleEn": "He struck a match to light the fire.",
+        "exampleTr": "Ateşi yakmak için bir kibrit çaktı."
+      },
+      {
+        "tr": "uymak, eşleşmek (fiil)",
+        "en": "to be similar or suitable together",
+        "exampleEn": "Your shoes match your dress perfectly.",
+        "exampleTr": "Ayakkabıların elbisene mükemmel uyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w_matter",
+    "headword": "matter",
+    "extraMeanings": [
+      {
+        "tr": "önemli olmak, fark etmek (fiil)",
+        "en": "to be important",
+        "exampleEn": "It doesn't matter if we are a little late.",
+        "exampleTr": "Biraz geç kalmamız önemli değil."
+      }
+    ]
+  },
+  {
+    "id": "w_mean",
+    "headword": "mind",
+    "extraMeanings": [
+      {
+        "tr": "aldırmak, umursamak (fiil)",
+        "en": "to be bothered by something",
+        "exampleEn": "Do you mind if I open the window?",
+        "exampleTr": "Pencereyi açmamın sakıncası var mı?"
+      }
+    ]
+  },
+  {
+    "id": "w_minute",
+    "headword": "minute",
+    "extraMeanings": [
+      {
+        "tr": "an, kısa süre",
+        "en": "a very short time",
+        "exampleEn": "Wait a minute, I'll be right back.",
+        "exampleTr": "Bir dakika bekle, hemen dönerim."
+      }
+    ]
+  },
+  {
+    "id": "w_mind",
+    "headword": "mind",
+    "extraMeanings": [
+      {
+        "tr": "aldırmak, umursamak (fiil)",
+        "en": "to be bothered or annoyed by something",
+        "exampleEn": "Do you mind if I sit here?",
+        "exampleTr": "Buraya oturmamın sakıncası var mı?"
+      }
+    ]
+  },
+  {
+    "id": "w_mouse",
+    "headword": "mouse",
+    "extraMeanings": [
+      {
+        "tr": "fare (bilgisayar)",
+        "en": "a device to control a computer",
+        "exampleEn": "Click the button using the mouse.",
+        "exampleTr": "Fareyi kullanarak düğmeye tıkla."
+      }
+    ]
+  },
+  {
+    "id": "w_move",
+    "headword": "move",
+    "extraMeanings": [
+      {
+        "tr": "hareket etmek, kımıldamak (fiil)",
+        "en": "to change position",
+        "exampleEn": "Don't move, the photo is not ready yet.",
+        "exampleTr": "Kımıldama, fotoğraf henüz hazır değil."
+      },
+      {
+        "tr": "taşınmak (ev değiştirmek)",
+        "en": "to go to live in a different place",
+        "exampleEn": "They moved to a new city last year.",
+        "exampleTr": "Geçen yıl yeni bir şehre taşındılar."
+      }
+    ]
+  },
+  {
+    "id": "w_need",
+    "headword": "need",
+    "extraMeanings": [
+      {
+        "tr": "ihtiyaç duymak, gereksinmek (fiil)",
+        "en": "to require something",
+        "exampleEn": "I need some help with my homework.",
+        "exampleTr": "Ödevimde biraz yardıma ihtiyacım var."
+      }
+    ]
+  },
+  {
+    "id": "w_note",
+    "headword": "note",
+    "extraMeanings": [
+      {
+        "tr": "not almak, dikkat etmek (fiil)",
+        "en": "to write down or notice something",
+        "exampleEn": "Please note the date of the meeting.",
+        "exampleTr": "Lütfen toplantının tarihini not al."
+      },
+      {
+        "tr": "nota (müzik)",
+        "en": "a single musical sound",
+        "exampleEn": "She sang every note perfectly.",
+        "exampleTr": "Her notayı mükemmel söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w_off",
+    "headword": "off",
+    "extraMeanings": [
+      {
+        "tr": "uzağa, ayrılarak (from a place)",
+        "en": "away from a place or position",
+        "exampleEn": "He drove off without saying goodbye.",
+        "exampleTr": "Vedalaşmadan arabayla uzaklaştı."
+      }
+    ]
+  },
+  {
+    "id": "w_old",
+    "headword": "old",
+    "extraMeanings": [
+      {
+        "tr": "yaşında (bir yaşı olan)",
+        "en": "having a particular age",
+        "exampleEn": "My daughter is five years old.",
+        "exampleTr": "Kızım beş yaşında."
+      }
+    ]
+  },
+  {
+    "id": "w_once",
+    "headword": "once",
+    "extraMeanings": [
+      {
+        "tr": "bir zamanlar, eskiden",
+        "en": "at some time in the past",
+        "exampleEn": "This castle was once home to a king.",
+        "exampleTr": "Bu kale bir zamanlar bir kralın eviydi."
+      }
+    ]
+  },
+  {
+    "id": "w_open",
+    "headword": "open",
+    "extraMeanings": [
+      {
+        "tr": "açmak (fiil)",
+        "en": "to make something no longer closed",
+        "exampleEn": "Please open the door for me.",
+        "exampleTr": "Lütfen benim için kapıyı aç."
+      }
+    ]
+  },
+  {
+    "id": "w_order",
+    "headword": "order",
+    "extraMeanings": [
+      {
+        "tr": "sipariş vermek, emretmek (fiil)",
+        "en": "to ask for something or command",
+        "exampleEn": "I would like to order a coffee, please.",
+        "exampleTr": "Bir kahve sipariş etmek istiyorum, lütfen."
+      }
+    ]
+  },
+  {
+    "id": "w_own",
+    "headword": "own",
+    "extraMeanings": [
+      {
+        "tr": "sahip olmak (fiil)",
+        "en": "to have or possess something",
+        "exampleEn": "They own a small house near the sea.",
+        "exampleTr": "Deniz kenarında küçük bir eve sahipler."
+      }
+    ]
+  },
+  {
+    "id": "w_page",
+    "headword": "page",
+    "extraMeanings": [
+      {
+        "tr": "sayfa (internet/web)",
+        "en": "a web page or screen of information",
+        "exampleEn": "Visit our home page for more details.",
+        "exampleTr": "Daha fazla ayrıntı için ana sayfamızı ziyaret edin."
+      }
+    ]
+  },
+  {
+    "id": "w_paint",
+    "headword": "paint",
+    "extraMeanings": [
+      {
+        "tr": "boyamak (fiil)",
+        "en": "to cover with paint or make a picture",
+        "exampleEn": "They will paint the walls white.",
+        "exampleTr": "Duvarları beyaza boyayacaklar."
+      }
+    ]
+  },
+  {
+    "id": "w_pair",
+    "headword": "pair",
+    "extraMeanings": [
+      {
+        "tr": "ikili, çift (iki kişi)",
+        "en": "two people who do something together",
+        "exampleEn": "Work in pairs to finish the task.",
+        "exampleTr": "Görevi bitirmek için ikili çalışın."
+      }
+    ]
+  },
+  {
+    "id": "w_park",
+    "headword": "park",
+    "extraMeanings": [
+      {
+        "tr": "park etmek (araç) (fiil)",
+        "en": "to leave a vehicle in a place",
+        "exampleEn": "You can park your car in front of the house.",
+        "exampleTr": "Arabanı evin önüne park edebilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w_party",
+    "headword": "party",
+    "extraMeanings": [
+      {
+        "tr": "parti (siyasi)",
+        "en": "a political organization",
+        "exampleEn": "She joined a new political party.",
+        "exampleTr": "Yeni bir siyasi partiye katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_pay",
+    "headword": "pay",
+    "extraMeanings": [
+      {
+        "tr": "ödemek (fiil)",
+        "en": "to give money for something",
+        "exampleEn": "I will pay for the tickets.",
+        "exampleTr": "Biletlerin parasını ben ödeyeceğim."
+      }
+    ]
+  },
+  {
+    "id": "w_pen",
+    "headword": "pen",
+    "extraMeanings": [
+      {
+        "tr": "ağıl, çit içi alan",
+        "en": "a small area for animals",
+        "exampleEn": "The farmer kept the sheep in a pen.",
+        "exampleTr": "Çiftçi koyunları bir ağılda tuttu."
+      }
+    ]
+  },
+  {
+    "id": "w_period",
+    "headword": "period",
+    "extraMeanings": [
+      {
+        "tr": "nokta (noktalama işareti)",
+        "en": "the punctuation mark '.'",
+        "exampleEn": "Put a period at the end of the sentence.",
+        "exampleTr": "Cümlenin sonuna bir nokta koy."
+      },
+      {
+        "tr": "ders saati",
+        "en": "a division of the school day",
+        "exampleEn": "We have math in the first period.",
+        "exampleTr": "İlk ders saatinde matematiğimiz var."
+      }
+    ]
+  },
+  {
+    "id": "w_pet",
+    "headword": "pet",
+    "extraMeanings": [
+      {
+        "tr": "okşamak, sevmek (fiil)",
+        "en": "to touch an animal gently",
+        "exampleEn": "The child likes to pet the cat.",
+        "exampleTr": "Çocuk kediyi sevmeyi seviyor."
+      }
+    ]
+  },
+  {
+    "id": "w_photo",
+    "headword": "photo",
+    "extraMeanings": [
+      {
+        "tr": "fotoğraf çekmek (take a photo)",
+        "en": "to make a photograph",
+        "exampleEn": "Let's take a photo together.",
+        "exampleTr": "Birlikte bir fotoğraf çekelim."
+      }
+    ]
+  },
+  {
+    "id": "w_picture",
+    "headword": "picture",
+    "extraMeanings": [
+      {
+        "tr": "hayal etmek, gözünde canlandırmak (fiil)",
+        "en": "to imagine something",
+        "exampleEn": "Picture a house by the sea.",
+        "exampleTr": "Deniz kenarında bir ev hayal et."
+      }
+    ]
+  },
+  {
+    "id": "w_place",
+    "headword": "place",
+    "extraMeanings": [
+      {
+        "tr": "koymak, yerleştirmek (fiil)",
+        "en": "to put something somewhere",
+        "exampleEn": "Place the book on the table.",
+        "exampleTr": "Kitabı masanın üstüne koy."
+      }
+    ]
+  },
+  {
+    "id": "w_plan",
+    "headword": "plan",
+    "extraMeanings": [
+      {
+        "tr": "planlamak, tasarlamak (fiil)",
+        "en": "to decide or arrange something in advance",
+        "exampleEn": "We plan to visit Paris next summer.",
+        "exampleTr": "Gelecek yaz Paris'i ziyaret etmeyi planlıyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w_plane",
+    "headword": "plane",
+    "extraMeanings": [
+      {
+        "tr": "düzlem (matematik/geometri)",
+        "en": "a flat surface",
+        "exampleEn": "A line lies on a flat plane.",
+        "exampleTr": "Bir doğru düz bir düzlem üzerinde bulunur."
+      }
+    ]
+  },
+  {
+    "id": "w_letter",
+    "headword": "letter",
+    "extraMeanings": [
+      {
+        "tr": "harf (alfabe)",
+        "en": "a symbol of the alphabet",
+        "exampleEn": "The word 'cat' has three letters.",
+        "exampleTr": "'Cat' kelimesi üç harften oluşur."
+      }
+    ]
+  },
+  {
+    "id": "w_orange",
+    "headword": "orange",
+    "extraMeanings": [
+      {
+        "tr": "portakal (meyve)",
+        "en": "a round citrus fruit",
+        "exampleEn": "I eat an orange every morning.",
+        "exampleTr": "Her sabah bir portakal yerim."
+      }
+    ]
+  },
+  {
+    "id": "w_paper",
+    "headword": "paper",
+    "extraMeanings": [
+      {
+        "tr": "gazete",
+        "en": "a newspaper",
+        "exampleEn": "He reads the paper every morning.",
+        "exampleTr": "Her sabah gazeteyi okur."
+      },
+      {
+        "tr": "makale, ödev, sınav kağıdı",
+        "en": "a piece of academic writing or exam",
+        "exampleEn": "She wrote a paper about the environment.",
+        "exampleTr": "Çevre hakkında bir makale yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w_light",
+    "headword": "light",
+    "extraMeanings": [
+      {
+        "tr": "açık (renk)",
+        "en": "pale in color",
+        "exampleEn": "She wore a light blue dress.",
+        "exampleTr": "Açık mavi bir elbise giymişti."
+      }
+    ]
+  },
+  {
+    "id": "w_milk",
+    "headword": "milk",
+    "extraMeanings": [
+      {
+        "tr": "süt sağmak (fiil)",
+        "en": "to take milk from an animal",
+        "exampleEn": "The farmer milks the cows every morning.",
+        "exampleTr": "Çiftçi her sabah inekleri sağar."
+      }
+    ]
+  }
+]

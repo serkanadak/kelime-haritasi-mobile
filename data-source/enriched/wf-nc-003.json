@@ -1,0 +1,1253 @@
+[
+  {
+    "id": "w_carries_out",
+    "headword": "carries out",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkæriz aʊt/",
+    "meanings": [
+      {
+        "tr": "yerine getirir, gerçekleştirir, uygular",
+        "en": "performs or completes a task, duty, or plan",
+        "exampleEn": "She carries out all the safety checks before the machine is used.",
+        "exampleTr": "Makine kullanılmadan önce tüm güvenlik kontrollerini o yapar."
+      }
+    ],
+    "synonyms": [
+      "performs",
+      "executes",
+      "conducts",
+      "completes"
+    ],
+    "antonyms": [
+      "neglects",
+      "abandons"
+    ]
+  },
+  {
+    "id": "w_cash_register",
+    "headword": "cash register",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkæʃ ˌredʒɪstər/",
+    "meanings": [
+      {
+        "tr": "yazar kasa",
+        "en": "a machine in a shop that records sales and holds money",
+        "exampleEn": "The cashier counted the money in the cash register at closing time.",
+        "exampleTr": "Kasiyer kapanış saatinde yazar kasadaki parayı saydı."
+      }
+    ],
+    "synonyms": [
+      "till",
+      "checkout"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_cashbox",
+    "headword": "cashbox",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkæʃbɒks/",
+    "meanings": [
+      {
+        "tr": "para kutusu, kasa",
+        "en": "a small locked box for keeping money",
+        "exampleEn": "He kept the day's takings in a metal cashbox under the counter.",
+        "exampleTr": "Günün gelirini tezgahın altındaki metal para kutusunda tutuyordu."
+      }
+    ],
+    "synonyms": [
+      "moneybox",
+      "till"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_catch_off_guard",
+    "headword": "catch off guard",
+    "pos": "idiom",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "idiom",
+    "source": "synant+claude",
+    "pronunciation": "/kætʃ ɒf ɡɑːrd/",
+    "meanings": [
+      {
+        "tr": "gafil avlamak, hazırlıksız yakalamak",
+        "en": "to surprise someone when they are not prepared",
+        "exampleEn": "The sudden question caught her off guard and she didn't know what to say.",
+        "exampleTr": "Ani soru onu gafil avladı ve ne diyeceğini bilemedi."
+      }
+    ],
+    "synonyms": [
+      "surprise",
+      "blindside",
+      "take aback"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_catch_up",
+    "headword": "catch-up",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkætʃ ʌp/",
+    "meanings": [
+      {
+        "tr": "telafi, açığı kapatma; hasret giderme sohbeti",
+        "en": "an act of doing something you missed, or reaching the same level as others",
+        "exampleEn": "After being ill, she had a lot of catch-up to do with her studies.",
+        "exampleTr": "Hastalandıktan sonra dersleriyle ilgili kapatması gereken çok açık vardı."
+      }
+    ],
+    "synonyms": [
+      "update",
+      "recap"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_caught",
+    "headword": "caught",
+    "pos": "verb",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kɔːt/",
+    "meanings": [
+      {
+        "tr": "yakaladı, tuttu (catch fiilinin geçmiş hali)",
+        "en": "past tense and past participle of catch; grabbed or captured",
+        "exampleEn": "He caught the ball just before it hit the ground.",
+        "exampleTr": "Top yere düşmeden hemen önce onu yakaladı."
+      },
+      {
+        "tr": "(hastalığa) yakalandı",
+        "en": "became ill with a disease",
+        "exampleEn": "She caught a cold after walking in the rain.",
+        "exampleTr": "Yağmurda yürüdükten sonra soğuk algınlığına yakalandı."
+      }
+    ],
+    "synonyms": [
+      "grabbed",
+      "seized",
+      "captured"
+    ],
+    "antonyms": [
+      "released",
+      "dropped",
+      "missed"
+    ]
+  },
+  {
+    "id": "w_cave_in",
+    "headword": "cave in",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/keɪv ɪn/",
+    "meanings": [
+      {
+        "tr": "çökmek, göçmek",
+        "en": "to fall down or inward suddenly",
+        "exampleEn": "The roof of the old tunnel began to cave in during the storm.",
+        "exampleTr": "Eski tünelin tavanı fırtına sırasında çökmeye başladı."
+      },
+      {
+        "tr": "pes etmek, boyun eğmek",
+        "en": "to finally agree to something after resisting",
+        "exampleEn": "After hours of pressure, the manager caved in to their demands.",
+        "exampleTr": "Saatlerce süren baskının ardından müdür taleplerine boyun eğdi."
+      }
+    ],
+    "synonyms": [
+      "collapse",
+      "give way",
+      "yield"
+    ],
+    "antonyms": [
+      "resist",
+      "hold firm"
+    ]
+  },
+  {
+    "id": "w_ceasefire",
+    "headword": "ceasefire",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsiːsfaɪər/",
+    "meanings": [
+      {
+        "tr": "ateşkes",
+        "en": "an agreement to stop fighting for a period of time",
+        "exampleEn": "Both sides agreed to a ceasefire after months of conflict.",
+        "exampleTr": "İki taraf aylarca süren çatışmanın ardından ateşkes üzerinde anlaştı."
+      }
+    ],
+    "synonyms": [
+      "truce",
+      "armistice"
+    ],
+    "antonyms": [
+      "hostilities",
+      "warfare"
+    ]
+  },
+  {
+    "id": "w_ceaseless",
+    "headword": "ceaseless",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsiːsləs/",
+    "meanings": [
+      {
+        "tr": "bitmek bilmeyen, aralıksız",
+        "en": "continuing without stopping",
+        "exampleEn": "The ceaseless noise from the traffic kept her awake all night.",
+        "exampleTr": "Trafikten gelen aralıksız gürültü bütün gece onu uyutmadı."
+      }
+    ],
+    "synonyms": [
+      "endless",
+      "incessant",
+      "constant"
+    ],
+    "antonyms": [
+      "intermittent",
+      "occasional"
+    ]
+  },
+  {
+    "id": "w_cede",
+    "headword": "cede",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/siːd/",
+    "meanings": [
+      {
+        "tr": "terk etmek, devretmek, bırakmak",
+        "en": "to give up power, land, or rights, usually formally",
+        "exampleEn": "The defeated country was forced to cede several regions to its neighbour.",
+        "exampleTr": "Yenilen ülke, birkaç bölgeyi komşusuna bırakmak zorunda kaldı."
+      }
+    ],
+    "synonyms": [
+      "surrender",
+      "yield",
+      "relinquish"
+    ],
+    "antonyms": [
+      "retain",
+      "keep"
+    ]
+  },
+  {
+    "id": "w_central_computer",
+    "headword": "central computer",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsentrəl kəmˈpjuːtər/",
+    "meanings": [
+      {
+        "tr": "merkezi bilgisayar",
+        "en": "a main computer that controls or stores data for a whole system",
+        "exampleEn": "All the store's sales data is sent to the central computer overnight.",
+        "exampleTr": "Mağazanın tüm satış verileri gece boyunca merkezi bilgisayara gönderilir."
+      }
+    ],
+    "synonyms": [
+      "mainframe",
+      "server"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_central_storyline",
+    "headword": "central storyline",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsentrəl ˈstɔːrilaɪn/",
+    "meanings": [
+      {
+        "tr": "ana hikaye örgüsü, merkezi olay örgüsü",
+        "en": "the main plot around which a story is built",
+        "exampleEn": "The central storyline follows a young girl searching for her lost brother.",
+        "exampleTr": "Ana hikaye örgüsü, kayıp kardeşini arayan genç bir kızı takip eder."
+      }
+    ],
+    "synonyms": [
+      "main plot",
+      "primary narrative"
+    ],
+    "antonyms": [
+      "subplot"
+    ]
+  },
+  {
+    "id": "w_centre",
+    "headword": "centre",
+    "pos": "noun",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsentər/",
+    "meanings": [
+      {
+        "tr": "merkez, orta",
+        "en": "the middle point or part of something",
+        "exampleEn": "There is a large fountain in the centre of the square.",
+        "exampleTr": "Meydanın merkezinde büyük bir çeşme var."
+      },
+      {
+        "tr": "(faaliyet) merkez, tesis",
+        "en": "a place used for a particular activity or service",
+        "exampleEn": "They opened a new sports centre near the school.",
+        "exampleTr": "Okulun yakınında yeni bir spor merkezi açtılar."
+      }
+    ],
+    "synonyms": [
+      "middle",
+      "core",
+      "hub"
+    ],
+    "antonyms": [
+      "edge",
+      "periphery",
+      "outskirts"
+    ]
+  },
+  {
+    "id": "w_cessation",
+    "headword": "cessation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/seˈseɪʃən/",
+    "meanings": [
+      {
+        "tr": "durma, kesilme, son verme",
+        "en": "the stopping of something, especially formally",
+        "exampleEn": "The treaty called for an immediate cessation of all military action.",
+        "exampleTr": "Antlaşma, tüm askeri harekatın derhal durdurulmasını öngörüyordu."
+      }
+    ],
+    "synonyms": [
+      "stopping",
+      "halt",
+      "termination"
+    ],
+    "antonyms": [
+      "continuation",
+      "resumption"
+    ]
+  },
+  {
+    "id": "w_cetacean",
+    "headword": "cetacean",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sɪˈteɪʃən/",
+    "meanings": [
+      {
+        "tr": "deniz memelisi (balina, yunus, domuzbalığı türü)",
+        "en": "a marine mammal such as a whale, dolphin, or porpoise",
+        "exampleEn": "The dolphin is a cetacean that lives in oceans all over the world.",
+        "exampleTr": "Yunus, dünyanın her yerindeki okyanuslarda yaşayan bir deniz memelisidir."
+      }
+    ],
+    "synonyms": [
+      "whale",
+      "dolphin"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_chance_upon",
+    "headword": "chance upon",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/tʃæns əˈpɒn/",
+    "meanings": [
+      {
+        "tr": "rastlamak, tesadüfen bulmak",
+        "en": "to find or meet something or someone by chance",
+        "exampleEn": "I chanced upon an old friend while walking through the market.",
+        "exampleTr": "Pazarda dolaşırken eski bir arkadaşıma tesadüfen rastladım."
+      }
+    ],
+    "synonyms": [
+      "stumble upon",
+      "come across",
+      "happen upon"
+    ],
+    "antonyms": [
+      "seek",
+      "search for"
+    ]
+  },
+  {
+    "id": "w_characterization",
+    "headword": "characterization",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkærɪktəraɪˈzeɪʃən/",
+    "meanings": [
+      {
+        "tr": "karakter oluşturma, karakterizasyon",
+        "en": "the way a writer creates and describes characters in a story",
+        "exampleEn": "The novel is praised for its rich characterization of the main figures.",
+        "exampleTr": "Roman, ana figürlerinin zengin karakterizasyonu nedeniyle övülüyor."
+      },
+      {
+        "tr": "nitelendirme, tanımlama",
+        "en": "a description of the qualities of someone or something",
+        "exampleEn": "His characterization of the plan as risky upset the board.",
+        "exampleTr": "Planı riskli olarak nitelendirmesi yönetim kurulunu rahatsız etti."
+      }
+    ],
+    "synonyms": [
+      "portrayal",
+      "depiction",
+      "description"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_chasm",
+    "headword": "chasm",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkæzəm/",
+    "meanings": [
+      {
+        "tr": "uçurum, derin yarık",
+        "en": "a very deep crack or opening in the ground",
+        "exampleEn": "The climbers carefully crossed a narrow bridge over the chasm.",
+        "exampleTr": "Dağcılar, uçurumun üzerindeki dar köprüden dikkatlice geçtiler."
+      },
+      {
+        "tr": "derin ayrılık, uçurum (mecazi)",
+        "en": "a large difference between two groups or ideas",
+        "exampleEn": "There is a growing chasm between the rich and the poor.",
+        "exampleTr": "Zenginlerle yoksullar arasında giderek büyüyen bir uçurum var."
+      }
+    ],
+    "synonyms": [
+      "abyss",
+      "gulf",
+      "gap"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_cheapskate",
+    "headword": "cheapskate",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "slang",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʃiːpskeɪt/",
+    "meanings": [
+      {
+        "tr": "cimri, eli sıkı kimse",
+        "en": "someone who dislikes spending money, in an unpleasant way",
+        "exampleEn": "Don't be such a cheapskate and buy her a proper birthday present.",
+        "exampleTr": "O kadar cimri olma da ona doğru düzgün bir doğum günü hediyesi al."
+      }
+    ],
+    "synonyms": [
+      "miser",
+      "tightwad",
+      "skinflint"
+    ],
+    "antonyms": [
+      "spendthrift",
+      "big spender"
+    ]
+  },
+  {
+    "id": "w_check_out",
+    "headword": "check-out",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʃek aʊt/",
+    "meanings": [
+      {
+        "tr": "otelden çıkış (işlemi); ödeme noktası",
+        "en": "the act of leaving a hotel, or the place where you pay in a shop",
+        "exampleEn": "Please leave your room key at the front desk before check-out.",
+        "exampleTr": "Lütfen otelden çıkış öncesi oda anahtarınızı resepsiyona bırakın."
+      }
+    ],
+    "synonyms": [
+      "checkout",
+      "till"
+    ],
+    "antonyms": [
+      "check-in"
+    ]
+  },
+  {
+    "id": "w_checker",
+    "headword": "checker",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʃekər/",
+    "meanings": [
+      {
+        "tr": "kontrol eden kişi/araç, denetleyici",
+        "en": "a person or device that checks or verifies something",
+        "exampleEn": "The spell checker underlined every word that was misspelled.",
+        "exampleTr": "Yazım denetleyicisi yanlış yazılan her kelimenin altını çizdi."
+      }
+    ],
+    "synonyms": [
+      "inspector",
+      "examiner",
+      "verifier"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_chic",
+    "headword": "chic",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʃiːk/",
+    "meanings": [
+      {
+        "tr": "şık, zarif, modaya uygun",
+        "en": "elegant and fashionable in style",
+        "exampleEn": "She wore a chic black dress to the evening reception.",
+        "exampleTr": "Akşam resepsiyonuna şık bir siyah elbise giydi."
+      }
+    ],
+    "synonyms": [
+      "stylish",
+      "elegant",
+      "fashionable"
+    ],
+    "antonyms": [
+      "dowdy",
+      "unfashionable"
+    ]
+  },
+  {
+    "id": "w_childcare",
+    "headword": "childcare",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʃaɪldkeər/",
+    "meanings": [
+      {
+        "tr": "çocuk bakımı",
+        "en": "the care of children, especially while parents are at work",
+        "exampleEn": "Good childcare can be expensive for working parents.",
+        "exampleTr": "İyi çocuk bakımı, çalışan ebeveynler için pahalı olabilir."
+      }
+    ],
+    "synonyms": [
+      "daycare",
+      "childminding"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_chilli",
+    "headword": "chilli",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʃɪli/",
+    "meanings": [
+      {
+        "tr": "acı biber",
+        "en": "a small hot-tasting pepper used in cooking",
+        "exampleEn": "He added a fresh chilli to make the curry spicier.",
+        "exampleTr": "Köriyi daha acı yapmak için taze bir acı biber ekledi."
+      }
+    ],
+    "synonyms": [
+      "chili",
+      "pepper"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_choppy",
+    "headword": "choppy",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʃɒpi/",
+    "meanings": [
+      {
+        "tr": "dalgalı, çalkantılı (deniz)",
+        "en": "having many small rough waves",
+        "exampleEn": "The sea was too choppy for the small boats to go out.",
+        "exampleTr": "Deniz, küçük teknelerin açılması için fazla dalgalıydı."
+      },
+      {
+        "tr": "kesik kesik, akıcı olmayan",
+        "en": "not smooth or flowing; jerky",
+        "exampleEn": "His writing style is choppy, with many very short sentences.",
+        "exampleTr": "Yazı stili, birçok çok kısa cümleyle kesik kesiktir."
+      }
+    ],
+    "synonyms": [
+      "rough",
+      "turbulent"
+    ],
+    "antonyms": [
+      "calm",
+      "smooth"
+    ]
+  },
+  {
+    "id": "w_chosen",
+    "headword": "chosen",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʃəʊzən/",
+    "meanings": [
+      {
+        "tr": "seçilmiş, seçilen",
+        "en": "selected as the best or preferred option",
+        "exampleEn": "She finally started work in her chosen career.",
+        "exampleTr": "Nihayet seçtiği kariyerde çalışmaya başladı."
+      }
+    ],
+    "synonyms": [
+      "selected",
+      "preferred",
+      "picked"
+    ],
+    "antonyms": [
+      "rejected"
+    ]
+  },
+  {
+    "id": "w_chubby",
+    "headword": "chubby",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʃʌbi/",
+    "meanings": [
+      {
+        "tr": "tombul, dolgun",
+        "en": "slightly fat in a pleasant way",
+        "exampleEn": "The baby had chubby little cheeks that everyone wanted to pinch.",
+        "exampleTr": "Bebeğin, herkesin çimdiklemek istediği tombul yanakları vardı."
+      }
+    ],
+    "synonyms": [
+      "plump",
+      "tubby",
+      "rotund"
+    ],
+    "antonyms": [
+      "skinny",
+      "slim",
+      "thin"
+    ]
+  },
+  {
+    "id": "w_cinch",
+    "headword": "cinch",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "slang",
+    "source": "synant+claude",
+    "pronunciation": "/sɪntʃ/",
+    "meanings": [
+      {
+        "tr": "çok kolay iş, çocuk oyuncağı",
+        "en": "something that is very easy to do",
+        "exampleEn": "With the right tools, fixing the tap was a cinch.",
+        "exampleTr": "Doğru aletlerle musluğu tamir etmek çok kolaydı."
+      }
+    ],
+    "synonyms": [
+      "breeze",
+      "piece of cake",
+      "doddle"
+    ],
+    "antonyms": [
+      "challenge",
+      "struggle"
+    ]
+  },
+  {
+    "id": "w_circuit_breaker",
+    "headword": "circuit breaker",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɜːkɪt ˌbreɪkər/",
+    "meanings": [
+      {
+        "tr": "devre kesici, sigorta",
+        "en": "a device that stops the flow of electricity when it is unsafe",
+        "exampleEn": "The circuit breaker tripped when too many appliances were switched on.",
+        "exampleTr": "Çok fazla cihaz açıldığında devre kesici attı."
+      }
+    ],
+    "synonyms": [
+      "breaker",
+      "trip switch"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_citadel",
+    "headword": "citadel",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪtədel/",
+    "meanings": [
+      {
+        "tr": "kale, hisar, iç kale",
+        "en": "a strong castle that protects a city",
+        "exampleEn": "The ancient citadel stood on a hill above the old town.",
+        "exampleTr": "Antik kale, eski şehrin üzerindeki bir tepede duruyordu."
+      }
+    ],
+    "synonyms": [
+      "fortress",
+      "stronghold",
+      "fort"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_city_centre",
+    "headword": "city centre",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɪti ˌsentər/",
+    "meanings": [
+      {
+        "tr": "şehir merkezi",
+        "en": "the central part of a city where most shops and offices are",
+        "exampleEn": "We took a bus to the city centre to do some shopping.",
+        "exampleTr": "Biraz alışveriş yapmak için şehir merkezine otobüsle gittik."
+      }
+    ],
+    "synonyms": [
+      "downtown",
+      "town centre"
+    ],
+    "antonyms": [
+      "suburbs",
+      "outskirts"
+    ]
+  },
+  {
+    "id": "w_civil_liberties",
+    "headword": "civil liberties",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsɪvəl ˈlɪbətiz/",
+    "meanings": [
+      {
+        "tr": "medeni özgürlükler, temel hak ve özgürlükler",
+        "en": "the freedoms that citizens have, such as free speech, protected by law",
+        "exampleEn": "The new law was criticized for restricting civil liberties.",
+        "exampleTr": "Yeni yasa, medeni özgürlükleri kısıtladığı için eleştirildi."
+      }
+    ],
+    "synonyms": [
+      "freedoms",
+      "rights"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_clamor",
+    "headword": "clamor",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈklæmər/",
+    "meanings": [
+      {
+        "tr": "gürültü, patırtı; yaygara",
+        "en": "a loud noise made by many people or a loud demand",
+        "exampleEn": "There was a clamor of voices as the crowd demanded answers.",
+        "exampleTr": "Kalabalık cevap isterken bir ses gürültüsü koptu."
+      },
+      {
+        "tr": "gürültüyle talep etmek",
+        "en": "to demand something loudly and insistently",
+        "exampleEn": "Reporters clamored for a statement from the minister.",
+        "exampleTr": "Muhabirler bakandan bir açıklama için yaygara kopardı."
+      }
+    ],
+    "synonyms": [
+      "uproar",
+      "outcry",
+      "din"
+    ],
+    "antonyms": [
+      "silence",
+      "quiet"
+    ]
+  },
+  {
+    "id": "w_clandestinely",
+    "headword": "clandestinely",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/klænˈdestɪnli/",
+    "meanings": [
+      {
+        "tr": "gizlice, el altından",
+        "en": "in a secret way, especially because something is not allowed",
+        "exampleEn": "The documents were clandestinely passed to a foreign agent.",
+        "exampleTr": "Belgeler gizlice bir yabancı ajana verildi."
+      }
+    ],
+    "synonyms": [
+      "secretly",
+      "covertly",
+      "surreptitiously"
+    ],
+    "antonyms": [
+      "openly",
+      "publicly"
+    ]
+  },
+  {
+    "id": "w_clank",
+    "headword": "clank",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/klæŋk/",
+    "meanings": [
+      {
+        "tr": "şangırdamak, tıngırdamak (metalik ses)",
+        "en": "to make a loud, dull metallic sound",
+        "exampleEn": "The heavy chains clanked as the drawbridge was lowered.",
+        "exampleTr": "Asma köprü indirilirken ağır zincirler şangırdadı."
+      }
+    ],
+    "synonyms": [
+      "clang",
+      "clatter"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_clear_language",
+    "headword": "clear language",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/klɪər ˈlæŋɡwɪdʒ/",
+    "meanings": [
+      {
+        "tr": "anlaşılır dil, açık ifade",
+        "en": "language that is easy to understand",
+        "exampleEn": "The instructions were written in clear language so everyone could follow them.",
+        "exampleTr": "Talimatlar, herkesin takip edebilmesi için anlaşılır bir dille yazılmıştı."
+      }
+    ],
+    "synonyms": [
+      "plain language",
+      "simple language"
+    ],
+    "antonyms": [
+      "jargon"
+    ]
+  },
+  {
+    "id": "w_clear_headed",
+    "headword": "clear-headed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌklɪərˈhedɪd/",
+    "meanings": [
+      {
+        "tr": "aklı başında, sağduyulu, berrak düşünen",
+        "en": "able to think clearly and sensibly",
+        "exampleEn": "She stayed clear-headed and calm during the emergency.",
+        "exampleTr": "Acil durum boyunca aklı başında ve sakin kaldı."
+      }
+    ],
+    "synonyms": [
+      "level-headed",
+      "rational",
+      "lucid"
+    ],
+    "antonyms": [
+      "confused",
+      "muddled"
+    ]
+  },
+  {
+    "id": "w_clearance",
+    "headword": "clearance",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈklɪərəns/",
+    "meanings": [
+      {
+        "tr": "izin, onay",
+        "en": "official permission for something to happen",
+        "exampleEn": "The pilot waited for clearance from the control tower before taking off.",
+        "exampleTr": "Pilot kalkıştan önce kuleden izin gelmesini bekledi."
+      },
+      {
+        "tr": "tasfiye satışı; boşaltma",
+        "en": "the sale of goods at low prices to get rid of them",
+        "exampleEn": "I bought this coat at half price in the clearance sale.",
+        "exampleTr": "Bu paltoyu tasfiye satışında yarı fiyatına aldım."
+      }
+    ],
+    "synonyms": [
+      "permission",
+      "authorization",
+      "approval"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_clearheaded",
+    "headword": "clearheaded",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌklɪərˈhedɪd/",
+    "meanings": [
+      {
+        "tr": "aklı başında, berrak düşünen",
+        "en": "able to think clearly and make good decisions",
+        "exampleEn": "You need to be clearheaded to make such an important choice.",
+        "exampleTr": "Böylesine önemli bir seçim yapmak için aklının başında olması gerekir."
+      }
+    ],
+    "synonyms": [
+      "level-headed",
+      "lucid",
+      "rational"
+    ],
+    "antonyms": [
+      "confused",
+      "muddled"
+    ]
+  },
+  {
+    "id": "w_cleaver",
+    "headword": "cleaver",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkliːvər/",
+    "meanings": [
+      {
+        "tr": "satır (kasap bıçağı)",
+        "en": "a heavy knife with a wide blade used to cut meat",
+        "exampleEn": "The butcher split the bone with a single blow of his cleaver.",
+        "exampleTr": "Kasap, satırının tek darbesiyle kemiği ikiye ayırdı."
+      }
+    ],
+    "synonyms": [
+      "chopper"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_clich",
+    "headword": "cliché",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkliːʃeɪ/",
+    "meanings": [
+      {
+        "tr": "klişe, basmakalıp söz",
+        "en": "a phrase or idea used so often that it is no longer interesting",
+        "exampleEn": "\"Only time will tell\" is a tired old cliché.",
+        "exampleTr": "\"Zaman gösterecek\" yıpranmış eski bir klişedir."
+      }
+    ],
+    "synonyms": [
+      "platitude",
+      "stereotype",
+      "banality"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_clipped",
+    "headword": "clipped",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/klɪpt/",
+    "meanings": [
+      {
+        "tr": "kesik, keskin ve kısa (konuşma tarzı)",
+        "en": "spoken in short, quick sounds, often sounding cold",
+        "exampleEn": "She answered in a clipped voice that showed she was annoyed.",
+        "exampleTr": "Rahatsız olduğunu gösteren kesik bir sesle cevap verdi."
+      }
+    ],
+    "synonyms": [
+      "curt",
+      "terse",
+      "abrupt"
+    ],
+    "antonyms": [
+      "drawn-out"
+    ]
+  },
+  {
+    "id": "w_close_down",
+    "headword": "close down",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/kləʊz daʊn/",
+    "meanings": [
+      {
+        "tr": "kapanmak, kapatmak (kalıcı olarak)",
+        "en": "to stop operating permanently, or to make a business stop",
+        "exampleEn": "The factory had to close down after losing its main customer.",
+        "exampleTr": "Fabrika, ana müşterisini kaybettikten sonra kapanmak zorunda kaldı."
+      }
+    ],
+    "synonyms": [
+      "shut down",
+      "close",
+      "fold"
+    ],
+    "antonyms": [
+      "open",
+      "launch"
+    ]
+  },
+  {
+    "id": "w_closed_minded",
+    "headword": "closed-minded",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌkləʊzdˈmaɪndɪd/",
+    "meanings": [
+      {
+        "tr": "dar görüşlü, yeni fikirlere kapalı",
+        "en": "unwilling to consider new ideas or opinions",
+        "exampleEn": "He was too closed-minded to accept that he might be wrong.",
+        "exampleTr": "Yanılıyor olabileceğini kabul edemeyecek kadar dar görüşlüydü."
+      }
+    ],
+    "synonyms": [
+      "narrow-minded",
+      "intolerant",
+      "bigoted"
+    ],
+    "antonyms": [
+      "open-minded",
+      "tolerant"
+    ]
+  }
+]

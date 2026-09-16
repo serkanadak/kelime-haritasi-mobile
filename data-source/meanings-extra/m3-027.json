@@ -1,0 +1,404 @@
+[
+  {
+    "id": "w_overcome",
+    "headword": "overcome",
+    "extraMeanings": [
+      {
+        "tr": "(duygu/durum) sarıp etkisi altına almak, çökertmek",
+        "en": "to affect someone very strongly, especially with emotion",
+        "exampleEn": "She was overcome with grief when she heard the news.",
+        "exampleTr": "Haberi duyduğunda kederden yıkıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_overnight",
+    "headword": "overnight",
+    "extraMeanings": [
+      {
+        "tr": "bir anda, çok kısa sürede (aniden)",
+        "en": "suddenly, in a very short time",
+        "exampleEn": "The song became a hit overnight.",
+        "exampleTr": "Şarkı bir anda hit oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_overtime",
+    "headword": "overtime",
+    "extraMeanings": [
+      {
+        "tr": "uzatma (spor müsabakasında)",
+        "en": "extra time added to a game when the score is tied",
+        "exampleEn": "The game went into overtime after a last-minute goal.",
+        "exampleTr": "Son dakika golüyle maç uzatmaya gitti."
+      }
+    ]
+  },
+  {
+    "id": "w_owe",
+    "headword": "owe",
+    "extraMeanings": [
+      {
+        "tr": "minnettar olmak, (bir şeyi birine) borçlu olmak (sayesinde sahip olmak)",
+        "en": "to feel that you should do something for someone because they helped you",
+        "exampleEn": "I owe my success to my parents.",
+        "exampleTr": "Başarımı ailem sayesinde elde ettim / başarımı aileme borçluyum."
+      }
+    ]
+  },
+  {
+    "id": "w_pace",
+    "headword": "pace",
+    "extraMeanings": [
+      {
+        "tr": "volta atmak, bir aşağı bir yukarı yürümek (fiil)",
+        "en": "to walk back and forth, especially because you are worried",
+        "exampleEn": "He paced up and down the room, waiting for the phone to ring.",
+        "exampleTr": "Telefonun çalmasını bekleyerek odada bir aşağı bir yukarı volta attı."
+      }
+    ]
+  },
+  {
+    "id": "w_palm",
+    "headword": "palm",
+    "extraMeanings": [
+      {
+        "tr": "palmiye, hurma ağacı",
+        "en": "a tropical tree with large leaves and no branches",
+        "exampleEn": "We relaxed under the palm trees on the beach.",
+        "exampleTr": "Plajda palmiye ağaçlarının altında dinlendik."
+      }
+    ]
+  },
+  {
+    "id": "w_parallel",
+    "headword": "parallel",
+    "extraMeanings": [
+      {
+        "tr": "benzerlik, paralellik (isim)",
+        "en": "a similarity between two things",
+        "exampleEn": "There are interesting parallels between the two events.",
+        "exampleTr": "İki olay arasında ilginç benzerlikler var."
+      }
+    ]
+  },
+  {
+    "id": "w_partial",
+    "headword": "partial",
+    "extraMeanings": [
+      {
+        "tr": "taraflı, yan tutan; (to ile) düşkün",
+        "en": "favoring one side; having a strong liking for something",
+        "exampleEn": "A good judge must not be partial to either side.",
+        "exampleTr": "İyi bir hakim taraflardan hiçbirine taraflı olmamalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_passion",
+    "headword": "passion",
+    "extraMeanings": [
+      {
+        "tr": "büyük ilgi, çok sevilen şey/uğraş",
+        "en": "something you feel very enthusiastic about",
+        "exampleEn": "Cooking is her greatest passion.",
+        "exampleTr": "Yemek pişirmek onun en büyük tutkusudur."
+      }
+    ]
+  },
+  {
+    "id": "w_past",
+    "headword": "past",
+    "extraMeanings": [
+      {
+        "tr": "geçmiş (zaman) (isim)",
+        "en": "the time before the present",
+        "exampleEn": "We should learn from the past.",
+        "exampleTr": "Geçmişten ders almalıyız."
+      },
+      {
+        "tr": "öte, ötesine; geçerek (edat)",
+        "en": "beyond in position or time; up to and further than",
+        "exampleEn": "The bus went past the station without stopping.",
+        "exampleTr": "Otobüs durmadan istasyonun önünden geçip gitti."
+      }
+    ]
+  },
+  {
+    "id": "w_patient",
+    "headword": "patient",
+    "extraMeanings": [
+      {
+        "tr": "hasta (isim)",
+        "en": "a person who is receiving medical treatment",
+        "exampleEn": "The doctor examined the patient carefully.",
+        "exampleTr": "Doktor hastayı dikkatlice muayene etti."
+      }
+    ]
+  },
+  {
+    "id": "w_pattern",
+    "headword": "pattern",
+    "extraMeanings": [
+      {
+        "tr": "kalıp, patron (kesim şablonu)",
+        "en": "a shape used as a guide for making something, e.g. clothes",
+        "exampleEn": "She used a paper pattern to cut out the dress.",
+        "exampleTr": "Elbiseyi kesmek için kağıt bir kalıp kullandı."
+      }
+    ]
+  },
+  {
+    "id": "w_pause",
+    "headword": "pause",
+    "extraMeanings": [
+      {
+        "tr": "duraklamak, ara vermek (fiil)",
+        "en": "to stop doing something for a short time",
+        "exampleEn": "She paused for a moment before answering.",
+        "exampleTr": "Cevap vermeden önce bir an duraksadı."
+      }
+    ]
+  },
+  {
+    "id": "w_peek",
+    "headword": "peek",
+    "extraMeanings": [
+      {
+        "tr": "gizlice bakış, göz atma (isim)",
+        "en": "a quick look at something",
+        "exampleEn": "She took a peek at the presents under the tree.",
+        "exampleTr": "Ağacın altındaki hediyelere gizlice bir göz attı."
+      }
+    ]
+  },
+  {
+    "id": "w_pick",
+    "headword": "pick",
+    "extraMeanings": [
+      {
+        "tr": "seçmek (fiil)",
+        "en": "to choose someone or something",
+        "exampleEn": "Please pick a card from the deck.",
+        "exampleTr": "Lütfen desteden bir kart seç."
+      },
+      {
+        "tr": "(çiçek/meyve) toplamak, koparmak (fiil)",
+        "en": "to remove a flower or fruit from a plant",
+        "exampleEn": "We picked apples in the orchard.",
+        "exampleTr": "Bahçede elma topladık."
+      }
+    ]
+  },
+  {
+    "id": "w_pinch",
+    "headword": "pinch",
+    "extraMeanings": [
+      {
+        "tr": "tutam (bir tutam tuz vb.) (isim)",
+        "en": "a small amount of something you can hold between finger and thumb",
+        "exampleEn": "Add a pinch of salt to the soup.",
+        "exampleTr": "Çorbaya bir tutam tuz ekle."
+      }
+    ]
+  },
+  {
+    "id": "w_pipe",
+    "headword": "pipe",
+    "extraMeanings": [
+      {
+        "tr": "pipo",
+        "en": "a tube with a small bowl at one end for smoking tobacco",
+        "exampleEn": "The old man smoked a pipe by the fire.",
+        "exampleTr": "Yaşlı adam şöminenin yanında pipo içiyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_pit",
+    "headword": "pit",
+    "extraMeanings": [
+      {
+        "tr": "çekirdek (meyve çekirdeği)",
+        "en": "the hard seed in the middle of some fruits",
+        "exampleEn": "Be careful of the pit when you eat the cherry.",
+        "exampleTr": "Kirazı yerken çekirdeğine dikkat et."
+      }
+    ]
+  },
+  {
+    "id": "w_plain",
+    "headword": "plain",
+    "extraMeanings": [
+      {
+        "tr": "açık, apaçık, belli",
+        "en": "easy to understand or see; clear",
+        "exampleEn": "It's plain that she is unhappy.",
+        "exampleTr": "Mutsuz olduğu apaçık ortada."
+      },
+      {
+        "tr": "ova, düzlük (isim)",
+        "en": "a large area of flat land",
+        "exampleEn": "Herds of animals roam across the plains.",
+        "exampleTr": "Hayvan sürüleri ovalarda dolaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_plug",
+    "headword": "plug",
+    "extraMeanings": [
+      {
+        "tr": "tıkaç, tapa (lavabo/küvet tıpası)",
+        "en": "a round object used to block the hole in a sink or bath",
+        "exampleEn": "She pulled out the plug and let the water drain.",
+        "exampleTr": "Tıpayı çekti ve suyun boşalmasını sağladı."
+      },
+      {
+        "tr": "fişe takmak, prize takmak; tıkamak (fiil)",
+        "en": "to connect to electricity, or to fill/block a hole",
+        "exampleEn": "Plug the charger into the wall socket.",
+        "exampleTr": "Şarj aletini duvardaki prize tak."
+      }
+    ]
+  },
+  {
+    "id": "w_poll",
+    "headword": "poll",
+    "extraMeanings": [
+      {
+        "tr": "anket yapmak, oy toplamak (fiil)",
+        "en": "to ask people questions to find out their opinions",
+        "exampleEn": "Researchers polled 1,000 voters before the election.",
+        "exampleTr": "Araştırmacılar seçimden önce 1.000 seçmene anket yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_pole",
+    "headword": "pole",
+    "extraMeanings": [
+      {
+        "tr": "kutup (Kuzey/Güney Kutbu)",
+        "en": "one of the two points at the top and bottom of the Earth",
+        "exampleEn": "Explorers reached the North Pole after a long journey.",
+        "exampleTr": "Kaşifler uzun bir yolculuğun ardından Kuzey Kutbu'na ulaştı."
+      }
+    ]
+  },
+  {
+    "id": "w_port",
+    "headword": "port",
+    "extraMeanings": [
+      {
+        "tr": "port, bağlantı noktası (bilgisayar)",
+        "en": "a socket on a computer or device for connecting equipment",
+        "exampleEn": "Plug the cable into the USB port.",
+        "exampleTr": "Kabloyu USB portuna tak."
+      }
+    ]
+  },
+  {
+    "id": "w_porter",
+    "headword": "porter",
+    "extraMeanings": [
+      {
+        "tr": "kapıcı, resepsiyon görevlisi (bina/otel girişinde)",
+        "en": "a person who is in charge of the entrance of a hotel or building",
+        "exampleEn": "The porter greeted us as we entered the hotel.",
+        "exampleTr": "Otele girerken kapı görevlisi bizi karşıladı."
+      }
+    ]
+  },
+  {
+    "id": "w_positive",
+    "headword": "positive",
+    "extraMeanings": [
+      {
+        "tr": "emin, kesin",
+        "en": "completely sure about something",
+        "exampleEn": "Are you positive that you locked the door?",
+        "exampleTr": "Kapıyı kilitlediğinden emin misin?"
+      },
+      {
+        "tr": "pozitif (test sonucu)",
+        "en": "showing that a substance or condition is present in a test",
+        "exampleEn": "Her test came back positive.",
+        "exampleTr": "Testi pozitif çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_pot",
+    "headword": "pot",
+    "extraMeanings": [
+      {
+        "tr": "saksı",
+        "en": "a container for growing plants",
+        "exampleEn": "She planted the flowers in a large pot.",
+        "exampleTr": "Çiçekleri büyük bir saksıya dikti."
+      }
+    ]
+  },
+  {
+    "id": "w_pound",
+    "headword": "pound",
+    "extraMeanings": [
+      {
+        "tr": "küt küt atmak, güm güm vurmak (fiil)",
+        "en": "to hit something hard many times, or (of the heart) to beat strongly",
+        "exampleEn": "My heart was pounding as I opened the letter.",
+        "exampleTr": "Mektubu açarken kalbim küt küt atıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_powder",
+    "headword": "powder",
+    "extraMeanings": [
+      {
+        "tr": "kar tozu, taze pudra kar",
+        "en": "soft fresh snow",
+        "exampleEn": "The skiers loved the fresh powder on the mountain.",
+        "exampleTr": "Kayakçılar dağdaki taze kar tozunu çok sevdi."
+      }
+    ]
+  },
+  {
+    "id": "w_practical",
+    "headword": "practical",
+    "extraMeanings": [
+      {
+        "tr": "uygulamalı, pratiğe dayalı (teorik olmayan)",
+        "en": "relating to real experience and action rather than theory",
+        "exampleEn": "The course includes both theory and practical work.",
+        "exampleTr": "Ders hem teori hem de uygulamalı çalışma içeriyor."
+      }
+    ]
+  },
+  {
+    "id": "w_permit",
+    "headword": "permit",
+    "extraMeanings": [
+      {
+        "tr": "izin belgesi, ruhsat (isim)",
+        "en": "an official document that allows you to do something",
+        "exampleEn": "You need a permit to park here.",
+        "exampleTr": "Buraya park etmek için bir izin belgesine ihtiyacın var."
+      }
+    ]
+  },
+  {
+    "id": "w_prejudice",
+    "headword": "prejudice",
+    "extraMeanings": [
+      {
+        "tr": "önyargıya sürüklemek, olumsuz etkilemek (fiil)",
+        "en": "to influence someone unfairly so they have an unreasonable opinion",
+        "exampleEn": "The negative reports may prejudice the jury against him.",
+        "exampleTr": "Olumsuz haberler jüriyi ona karşı önyargıya sürükleyebilir."
+      }
+    ]
+  }
+]

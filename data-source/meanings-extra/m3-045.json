@@ -1,0 +1,188 @@
+[
+  {
+    "id": "w_imperative",
+    "headword": "imperative",
+    "extraMeanings": [
+      {
+        "tr": "çok önemli, kaçınılmaz, şart",
+        "en": "extremely important or necessary",
+        "exampleEn": "It is imperative that we act quickly before the situation gets worse.",
+        "exampleTr": "Durum daha kötüye gitmeden hızlı hareket etmemiz şarttır."
+      }
+    ]
+  },
+  {
+    "id": "w_implement",
+    "headword": "implement",
+    "extraMeanings": [
+      {
+        "tr": "alet, araç, gereç",
+        "en": "a tool or instrument used for a particular task",
+        "exampleEn": "The farmer kept his gardening implements in the old shed.",
+        "exampleTr": "Çiftçi bahçe aletlerini eski kulübede saklardı."
+      }
+    ]
+  },
+  {
+    "id": "w_impose",
+    "headword": "impose",
+    "extraMeanings": [
+      {
+        "tr": "külfet olmak, rahatsızlık vermek, yük olmak",
+        "en": "to unfairly force someone to do something or take advantage of them",
+        "exampleEn": "I don't want to impose on you, but could I stay for one more night?",
+        "exampleTr": "Sana yük olmak istemiyorum ama bir gece daha kalabilir miyim?"
+      }
+    ]
+  },
+  {
+    "id": "w_impressionist",
+    "headword": "impressionist",
+    "extraMeanings": [
+      {
+        "tr": "taklit sanatçısı, ünlüleri taklit eden komedyen",
+        "en": "an entertainer who imitates the voices and behavior of famous people",
+        "exampleEn": "The impressionist did a hilarious version of the president's speech.",
+        "exampleTr": "Taklit sanatçısı başkanın konuşmasının çok komik bir versiyonunu yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_incline",
+    "headword": "incline",
+    "extraMeanings": [
+      {
+        "tr": "eğilimli olmak, meyletmek, yönelmek",
+        "en": "to feel or make someone feel willing to do something",
+        "exampleEn": "I'm inclined to agree with you on this matter.",
+        "exampleTr": "Bu konuda sana katılma eğilimindeyim."
+      }
+    ]
+  },
+  {
+    "id": "w_index",
+    "headword": "index",
+    "extraMeanings": [
+      {
+        "tr": "endeks (borsa/ekonomik gösterge)",
+        "en": "a system of numbers used to compare values or measure economic change",
+        "exampleEn": "The stock market index fell sharply after the announcement.",
+        "exampleTr": "Borsa endeksi açıklamadan sonra keskin bir şekilde düştü."
+      }
+    ]
+  },
+  {
+    "id": "w_induction",
+    "headword": "induction",
+    "extraMeanings": [
+      {
+        "tr": "tümevarım (mantık yöntemi)",
+        "en": "the process of reaching a general conclusion from particular facts",
+        "exampleEn": "Scientists often use induction to form theories from repeated observations.",
+        "exampleTr": "Bilim insanları tekrarlanan gözlemlerden teori oluşturmak için sık sık tümevarımı kullanır."
+      }
+    ]
+  },
+  {
+    "id": "w_inferior",
+    "headword": "inferior",
+    "extraMeanings": [
+      {
+        "tr": "ast, alt kademedeki kişi",
+        "en": "someone who has a lower position or rank than another",
+        "exampleEn": "A good manager treats his inferiors with respect.",
+        "exampleTr": "İyi bir yönetici astlarına saygıyla davranır."
+      }
+    ]
+  },
+  {
+    "id": "w_inflate",
+    "headword": "inflate",
+    "extraMeanings": [
+      {
+        "tr": "abartmak, olduğundan büyük göstermek",
+        "en": "to make something seem larger or more important than it really is",
+        "exampleEn": "He tends to inflate his own achievements when talking to strangers.",
+        "exampleTr": "Yabancılarla konuşurken kendi başarılarını abartma eğilimindedir."
+      }
+    ]
+  },
+  {
+    "id": "w_initiative",
+    "headword": "initiative",
+    "extraMeanings": [
+      {
+        "tr": "inisiyatif; harekete geçme yeteneği ve isteği",
+        "en": "the ability to act and make decisions on your own without being told",
+        "exampleEn": "She showed great initiative by solving the problem before anyone asked.",
+        "exampleTr": "Kimse istemeden sorunu çözerek büyük inisiyatif gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w_inherit",
+    "headword": "inherit",
+    "extraMeanings": [
+      {
+        "tr": "(bir sorunu/durumu) devralmak",
+        "en": "to receive a situation or problem from a previous person or period",
+        "exampleEn": "The new government inherited a huge national debt.",
+        "exampleTr": "Yeni hükümet büyük bir ulusal borç devraldı."
+      }
+    ]
+  },
+  {
+    "id": "w_initial",
+    "headword": "initial",
+    "extraMeanings": [
+      {
+        "tr": "baş harf (isim/soyadının ilk harfi)",
+        "en": "the first letter of a person's name",
+        "exampleEn": "Please sign your initials at the bottom of each page.",
+        "exampleTr": "Lütfen her sayfanın altına baş harflerinizi atın."
+      }
+    ]
+  },
+  {
+    "id": "w_impulse",
+    "headword": "impulse",
+    "extraMeanings": [
+      {
+        "tr": "(elektrik/sinir) uyarı, itki, darbe",
+        "en": "a short signal or wave of energy passing along a nerve or wire",
+        "exampleEn": "Nerve cells carry electrical impulses to the brain.",
+        "exampleTr": "Sinir hücreleri beyne elektriksel uyarılar taşır."
+      }
+    ]
+  },
+  {
+    "id": "w_inside",
+    "headword": "inside",
+    "extraMeanings": [
+      {
+        "tr": "iç kısım, iç taraf",
+        "en": "the inner part or surface of something",
+        "exampleEn": "The inside of the box was lined with soft velvet.",
+        "exampleTr": "Kutunun içi yumuşak kadifeyle kaplıydı."
+      },
+      {
+        "tr": "içeride, içeri (zarf)",
+        "en": "in or into a building or enclosed space",
+        "exampleEn": "It started to rain, so we went inside.",
+        "exampleTr": "Yağmur başladı, biz de içeri girdik."
+      }
+    ]
+  },
+  {
+    "id": "w_infect",
+    "headword": "infect",
+    "extraMeanings": [
+      {
+        "tr": "(duygu/coşku) bulaştırmak, yaymak",
+        "en": "to spread a feeling or attitude to other people",
+        "exampleEn": "Her enthusiasm quickly infected the whole team.",
+        "exampleTr": "Onun coşkusu tüm takıma hızla bulaştı."
+      }
+    ]
+  }
+]

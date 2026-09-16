@@ -1,0 +1,350 @@
+[
+  {
+    "id": "w_throat",
+    "headword": "throat",
+    "extraMeanings": [
+      {
+        "tr": "dar geçit, boğaz (bir şeyin daralan kısmı)",
+        "en": "a narrow passage or opening resembling a throat",
+        "exampleEn": "The ship entered the narrow throat of the harbour.",
+        "exampleTr": "Gemi limanın dar boğazından içeri girdi."
+      }
+    ]
+  },
+  {
+    "id": "w_throb",
+    "headword": "throb",
+    "extraMeanings": [
+      {
+        "tr": "zonklama, atış, çarpıntı (isim)",
+        "en": "a strong, regular beat or pulse",
+        "exampleEn": "She felt a dull throb in her injured knee.",
+        "exampleTr": "Yaralı dizinde hafif bir zonklama hissetti."
+      }
+    ]
+  },
+  {
+    "id": "w_thrust",
+    "headword": "thrust",
+    "extraMeanings": [
+      {
+        "tr": "itiş gücü, itki (isim; motor/roket)",
+        "en": "the force that pushes an engine or vehicle forward",
+        "exampleEn": "The rocket's engines produced enormous thrust at liftoff.",
+        "exampleTr": "Roketin motorları kalkışta muazzam bir itki üretti."
+      },
+      {
+        "tr": "ana fikir, öz, esas amaç",
+        "en": "the main point or essential meaning of something",
+        "exampleEn": "The main thrust of his argument was that costs must be cut.",
+        "exampleTr": "Argümanının ana fikri maliyetlerin düşürülmesi gerektiğiydi."
+      }
+    ]
+  },
+  {
+    "id": "w_tickle",
+    "headword": "tickle",
+    "extraMeanings": [
+      {
+        "tr": "gıdıklanma hissi, karıncalanma (isim)",
+        "en": "a tickling or itchy sensation",
+        "exampleEn": "I have a tickle in my throat that makes me cough.",
+        "exampleTr": "Boğazımda öksürmeme neden olan bir gıdıklanma var."
+      },
+      {
+        "tr": "hoşuna gitmek, keyiflendirmek, güldürmek",
+        "en": "to amuse or please someone",
+        "exampleEn": "The joke really tickled the whole audience.",
+        "exampleTr": "Şaka bütün seyircinin çok hoşuna gitti."
+      }
+    ]
+  },
+  {
+    "id": "w_tint",
+    "headword": "tint",
+    "extraMeanings": [
+      {
+        "tr": "hafifçe renklendirmek, renk vermek (fiil)",
+        "en": "to give something a slight colour",
+        "exampleEn": "She tinted her hair a light shade of red.",
+        "exampleTr": "Saçını açık bir kırmızı tonuna boyadı."
+      }
+    ]
+  },
+  {
+    "id": "w_toll",
+    "headword": "toll",
+    "extraMeanings": [
+      {
+        "tr": "(can) kaybı, zarar, kurban sayısı",
+        "en": "the amount of damage, deaths, or suffering caused",
+        "exampleEn": "The earthquake's death toll rose to over a thousand.",
+        "exampleTr": "Depremin ölü sayısı bini aştı."
+      },
+      {
+        "tr": "(çan) çalmak, ağır ağır çalmak (fiil)",
+        "en": "to ring a bell slowly and repeatedly",
+        "exampleEn": "The church bells tolled to mark the funeral.",
+        "exampleTr": "Cenaze için kilise çanları ağır ağır çaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_torch",
+    "headword": "torch",
+    "extraMeanings": [
+      {
+        "tr": "ateşe vermek, yakmak (fiil)",
+        "en": "to set fire to something deliberately",
+        "exampleEn": "Vandals torched the abandoned car overnight.",
+        "exampleTr": "Vandallar terk edilmiş arabayı gece ateşe verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_torture",
+    "headword": "torture",
+    "extraMeanings": [
+      {
+        "tr": "işkence; büyük acı, eziyet (isim)",
+        "en": "great physical or mental suffering",
+        "exampleEn": "Waiting for the exam results was pure torture.",
+        "exampleTr": "Sınav sonuçlarını beklemek tam bir işkenceydi."
+      }
+    ]
+  },
+  {
+    "id": "w_tough",
+    "headword": "tough",
+    "extraMeanings": [
+      {
+        "tr": "sert, katı, çiğnemesi zor (yiyecek)",
+        "en": "difficult to cut or chew (of food)",
+        "exampleEn": "The steak was so tough that I could barely eat it.",
+        "exampleTr": "Biftek o kadar sertti ki zar zor yiyebildim."
+      },
+      {
+        "tr": "acımasız, tavizsiz, sıkı (kişi/tutum)",
+        "en": "strict and not easily influenced or defeated",
+        "exampleEn": "The government promised to get tough on crime.",
+        "exampleTr": "Hükümet suçla mücadelede sert olacağına söz verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_trademark",
+    "headword": "trademark",
+    "extraMeanings": [
+      {
+        "tr": "ayırt edici özellik, alâmet-i farika",
+        "en": "a distinctive feature typical of a particular person",
+        "exampleEn": "His trademark grin appeared as he walked on stage.",
+        "exampleTr": "Sahneye çıkarken o alâmet-i farika gülümsemesi belirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_trainer",
+    "headword": "trainer",
+    "extraMeanings": [
+      {
+        "tr": "spor ayakkabısı (İng.)",
+        "en": "a soft shoe worn for sports (British English)",
+        "exampleEn": "She bought a new pair of trainers for the gym.",
+        "exampleTr": "Spor salonu için yeni bir çift spor ayakkabı aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_transfer",
+    "headword": "transfer",
+    "extraMeanings": [
+      {
+        "tr": "aktarmak, nakletmek, transfer etmek (fiil)",
+        "en": "to move someone or something from one place to another",
+        "exampleEn": "They transferred the patient to a larger hospital.",
+        "exampleTr": "Hastayı daha büyük bir hastaneye naklettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_transit",
+    "headword": "transit",
+    "extraMeanings": [
+      {
+        "tr": "toplu taşıma (ABD)",
+        "en": "the system of public transport (American English)",
+        "exampleEn": "The city invested heavily in its public transit network.",
+        "exampleTr": "Şehir toplu taşıma ağına büyük yatırım yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_transmission",
+    "headword": "transmission",
+    "extraMeanings": [
+      {
+        "tr": "şanzıman, vites kutusu (araç)",
+        "en": "the part of a vehicle that transfers power to the wheels",
+        "exampleEn": "The mechanic said the car's transmission needed replacing.",
+        "exampleTr": "Tamirci arabanın şanzımanının değişmesi gerektiğini söyledi."
+      },
+      {
+        "tr": "yayın, program (radyo/TV)",
+        "en": "a broadcast on radio or television",
+        "exampleEn": "The live transmission was interrupted by a technical fault.",
+        "exampleTr": "Canlı yayın teknik bir arıza yüzünden kesildi."
+      }
+    ]
+  },
+  {
+    "id": "w_tray",
+    "headword": "tray",
+    "extraMeanings": [
+      {
+        "tr": "(masaüstü) evrak kutusu, dosya sepeti",
+        "en": "a flat container on a desk for holding documents",
+        "exampleEn": "Put the finished forms in the out tray on my desk.",
+        "exampleTr": "Biten formları masamdaki giden evrak kutusuna koy."
+      }
+    ]
+  },
+  {
+    "id": "w_tread",
+    "headword": "tread",
+    "extraMeanings": [
+      {
+        "tr": "diş, tırtıl (lastik/ayakkabı tabanı deseni)",
+        "en": "the pattern of raised lines on a tyre or shoe sole",
+        "exampleEn": "The tyres were worn and had almost no tread left.",
+        "exampleTr": "Lastikler aşınmıştı ve neredeyse hiç dişi kalmamıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_trial",
+    "headword": "trial",
+    "extraMeanings": [
+      {
+        "tr": "sıkıntı, dert, zorluk (genellikle çoğul)",
+        "en": "a difficult or troublesome experience",
+        "exampleEn": "She wrote about the trials of raising four children alone.",
+        "exampleTr": "Dört çocuğu tek başına büyütmenin sıkıntılarını yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w_tribute",
+    "headword": "tribute",
+    "extraMeanings": [
+      {
+        "tr": "kanıt, göstergesi (bir şeyin başarısının)",
+        "en": "something showing the good qualities or success of a person or thing",
+        "exampleEn": "The team's victory was a tribute to years of hard training.",
+        "exampleTr": "Takımın zaferi yıllarca süren sıkı antrenmanın bir göstergesiydi."
+      }
+    ]
+  },
+  {
+    "id": "w_trolley",
+    "headword": "trolley",
+    "extraMeanings": [
+      {
+        "tr": "tramvay (ABD); troleybüs",
+        "en": "a streetcar or vehicle that runs on rails or overhead wires",
+        "exampleEn": "We took the trolley downtown to see the parade.",
+        "exampleTr": "Geçit törenini izlemek için tramvayla şehir merkezine gittik."
+      }
+    ]
+  },
+  {
+    "id": "w_troop",
+    "headword": "troop",
+    "extraMeanings": [
+      {
+        "tr": "askerler, ordu birlikleri (çoğul: troops)",
+        "en": "soldiers, especially in large numbers",
+        "exampleEn": "Thousands of troops were sent to the border.",
+        "exampleTr": "Sınıra binlerce asker gönderildi."
+      },
+      {
+        "tr": "sürü halinde/grupça yürümek (fiil)",
+        "en": "to walk somewhere together as a group",
+        "exampleEn": "The children trooped into the classroom after lunch.",
+        "exampleTr": "Çocuklar öğle yemeğinden sonra sınıfa grup halinde girdi."
+      }
+    ]
+  },
+  {
+    "id": "w_trunk",
+    "headword": "trunk",
+    "extraMeanings": [
+      {
+        "tr": "gövde, beden (insan vücudu)",
+        "en": "the main part of the human body, without the head and limbs",
+        "exampleEn": "The exercise strengthens the muscles of the trunk.",
+        "exampleTr": "Bu egzersiz gövde kaslarını güçlendirir."
+      }
+    ]
+  },
+  {
+    "id": "w_trust",
+    "headword": "trust",
+    "extraMeanings": [
+      {
+        "tr": "güvenmek, itimat etmek (fiil)",
+        "en": "to believe that someone is reliable or honest",
+        "exampleEn": "I trust her completely with the money.",
+        "exampleTr": "Para konusunda ona tamamen güveniyorum."
+      },
+      {
+        "tr": "vakıf, tröst; yediemin fonu",
+        "en": "a legal arrangement for managing money or property",
+        "exampleEn": "The money was placed in a trust for the children.",
+        "exampleTr": "Para çocuklar için bir vakfa yatırıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_tug",
+    "headword": "tug",
+    "extraMeanings": [
+      {
+        "tr": "çekmek, asılmak (fiil)",
+        "en": "to pull something suddenly and hard",
+        "exampleEn": "The little boy tugged at his mother's sleeve.",
+        "exampleTr": "Küçük çocuk annesinin koluna asıldı."
+      },
+      {
+        "tr": "römorkör (gemi)",
+        "en": "a small powerful boat that pulls larger ships",
+        "exampleEn": "A tug guided the huge tanker into the harbour.",
+        "exampleTr": "Bir römorkör dev tankeri limana yönlendirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_ultimate",
+    "headword": "ultimate",
+    "extraMeanings": [
+      {
+        "tr": "temel, esas, asıl (neden/kaynak)",
+        "en": "most basic or fundamental",
+        "exampleEn": "The ultimate cause of the disease is still unknown.",
+        "exampleTr": "Hastalığın asıl nedeni hâlâ bilinmiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_torch",
+    "headword": "torch",
+    "extraMeanings": [
+      {
+        "tr": "ateşe vermek, kundaklamak (fiil)",
+        "en": "to set fire to something deliberately",
+        "exampleEn": "The rioters torched several parked cars.",
+        "exampleTr": "İsyancılar park halindeki birkaç arabayı ateşe verdi."
+      }
+    ]
+  }
+]

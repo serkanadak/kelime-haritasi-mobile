@@ -1,0 +1,374 @@
+[
+  {
+    "id": "w_grumble",
+    "headword": "grumble",
+    "extraMeanings": [
+      {
+        "tr": "guruldamak (mide)",
+        "en": "to make a low continuous sound",
+        "exampleEn": "My stomach was grumbling because I hadn't eaten all day.",
+        "exampleTr": "Bütün gün yemek yemediğim için midem guruldıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_gulf",
+    "headword": "gulf",
+    "extraMeanings": [
+      {
+        "tr": "uçurum, derin fark (mecazi)",
+        "en": "a large difference between people or groups",
+        "exampleEn": "There is a widening gulf between the rich and the poor.",
+        "exampleTr": "Zenginlerle yoksullar arasında giderek büyüyen bir uçurum var."
+      }
+    ]
+  },
+  {
+    "id": "w_gulp",
+    "headword": "gulp",
+    "extraMeanings": [
+      {
+        "tr": "yutkunma (korku/heyecandan)",
+        "en": "a sudden swallow caused by fear or surprise",
+        "exampleEn": "She gave a nervous gulp before stepping onto the stage.",
+        "exampleTr": "Sahneye çıkmadan önce gergin bir şekilde yutkundu."
+      }
+    ]
+  },
+  {
+    "id": "w_hail",
+    "headword": "hail",
+    "extraMeanings": [
+      {
+        "tr": "dolu yağmak; dolu",
+        "en": "frozen rain / to fall as frozen rain",
+        "exampleEn": "It began to hail as we drove through the mountains.",
+        "exampleTr": "Dağlardan geçerken dolu yağmaya başladı."
+      },
+      {
+        "tr": "-den gelmek, memleketi olmak (from)",
+        "en": "to come from a particular place",
+        "exampleEn": "The famous author hails from a small town in Ireland.",
+        "exampleTr": "Ünlü yazar İrlanda'da küçük bir kasabadan gelmektedir."
+      }
+    ]
+  },
+  {
+    "id": "w_halt",
+    "headword": "halt",
+    "extraMeanings": [
+      {
+        "tr": "duraklama, durak, mola",
+        "en": "a stop or pause",
+        "exampleEn": "The train came to a sudden halt at the station.",
+        "exampleTr": "Tren istasyonda ani bir duraklamayla durdu."
+      }
+    ]
+  },
+  {
+    "id": "w_handicap",
+    "headword": "handicap",
+    "extraMeanings": [
+      {
+        "tr": "(spor) handikap, avantaj puanı",
+        "en": "an advantage given in a sport to make competition fairer",
+        "exampleEn": "He plays golf off a handicap of ten.",
+        "exampleTr": "On handikapla golf oynuyor."
+      }
+    ]
+  },
+  {
+    "id": "w_hang",
+    "headword": "hang",
+    "extraMeanings": [
+      {
+        "tr": "asmak, sarkmak (fiil)",
+        "en": "to fasten something so it is supported from above",
+        "exampleEn": "Please hang your coat on the hook by the door.",
+        "exampleTr": "Lütfen paltonu kapının yanındaki askıya as."
+      }
+    ]
+  },
+  {
+    "id": "w_hardness",
+    "headword": "hardness",
+    "extraMeanings": [
+      {
+        "tr": "güçlük, zorluk",
+        "en": "the quality of being difficult to do or understand",
+        "exampleEn": "The hardness of the exam surprised even the best students.",
+        "exampleTr": "Sınavın zorluğu en iyi öğrencileri bile şaşırttı."
+      }
+    ]
+  },
+  {
+    "id": "w_harm",
+    "headword": "harm",
+    "extraMeanings": [
+      {
+        "tr": "zarar vermek, incitmek (fiil)",
+        "en": "to cause damage or injury to someone or something",
+        "exampleEn": "Smoking can seriously harm your health.",
+        "exampleTr": "Sigara içmek sağlığınıza ciddi şekilde zarar verebilir."
+      }
+    ]
+  },
+  {
+    "id": "w_haul",
+    "headword": "haul",
+    "extraMeanings": [
+      {
+        "tr": "(çalınan/ele geçirilen) mal, av, vurgun",
+        "en": "a large amount of stolen or illegal goods that has been seized",
+        "exampleEn": "Police seized a huge haul of drugs at the border.",
+        "exampleTr": "Polis sınırda büyük bir uyuşturucu partisine el koydu."
+      }
+    ]
+  },
+  {
+    "id": "w_hay",
+    "headword": "hay",
+    "extraMeanings": [
+      {
+        "tr": "fırsattan yararlanmak (make hay)",
+        "en": "to make good use of an opportunity while it lasts",
+        "exampleEn": "The team made hay while their main rivals were injured.",
+        "exampleTr": "Takım, başlıca rakipleri sakatken fırsattan yararlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_haze",
+    "headword": "haze",
+    "extraMeanings": [
+      {
+        "tr": "zihin bulanıklığı, sersemlik",
+        "en": "a state of mental confusion",
+        "exampleEn": "For the first few days after the operation she was in a haze.",
+        "exampleTr": "Ameliyattan sonraki ilk birkaç gün zihni bulanıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_hazy",
+    "headword": "hazy",
+    "extraMeanings": [
+      {
+        "tr": "(hatıra/fikir) belirsiz, bulanık",
+        "en": "not clear in the mind; vague",
+        "exampleEn": "My memory of that night is rather hazy.",
+        "exampleTr": "O geceye dair hatıralarım oldukça bulanık."
+      }
+    ]
+  },
+  {
+    "id": "w_heap",
+    "headword": "heap",
+    "extraMeanings": [
+      {
+        "tr": "yığmak, doldurmak (fiil)",
+        "en": "to put things in a large untidy pile",
+        "exampleEn": "She heaped food onto his plate.",
+        "exampleTr": "Tabağına bir sürü yemek yığdı."
+      },
+      {
+        "tr": "bir sürü, yığınla (heaps)",
+        "en": "a large amount of something",
+        "exampleEn": "We have heaps of time before the train leaves.",
+        "exampleTr": "Tren kalkmadan önce bir sürü vaktimiz var."
+      }
+    ]
+  },
+  {
+    "id": "w_hell",
+    "headword": "hell",
+    "extraMeanings": [
+      {
+        "tr": "çok zor/kötü durum, işkence gibi durum",
+        "en": "a very unpleasant or difficult experience",
+        "exampleEn": "The last few months at work have been hell.",
+        "exampleTr": "İşteki son birkaç ay tam bir cehennemdi."
+      }
+    ]
+  },
+  {
+    "id": "w_herb",
+    "headword": "herb",
+    "extraMeanings": [
+      {
+        "tr": "(mutfakta) yeşillik, aromatik ot",
+        "en": "a plant used to add flavour to food",
+        "exampleEn": "She sprinkled fresh herbs over the pasta.",
+        "exampleTr": "Makarnanın üzerine taze yeşillikler serpti."
+      }
+    ]
+  },
+  {
+    "id": "w_hint",
+    "headword": "hint",
+    "extraMeanings": [
+      {
+        "tr": "az miktar, eser, hafif iz",
+        "en": "a very small amount of something",
+        "exampleEn": "There was a hint of garlic in the sauce.",
+        "exampleTr": "Sosta hafif bir sarımsak tadı vardı."
+      },
+      {
+        "tr": "ipucu vermek, ima etmek (fiil)",
+        "en": "to suggest something indirectly",
+        "exampleEn": "She hinted that she might resign.",
+        "exampleTr": "İstifa edebileceğini ima etti."
+      }
+    ]
+  },
+  {
+    "id": "w_hollow",
+    "headword": "hollow",
+    "extraMeanings": [
+      {
+        "tr": "içi boş, anlamsız, sahte (mecazi)",
+        "en": "without real value or sincerity",
+        "exampleEn": "Their promises turned out to be hollow.",
+        "exampleTr": "Vaatlerinin içi boş çıktı."
+      },
+      {
+        "tr": "çukur, oyuk (isim)",
+        "en": "a hole or empty space in something",
+        "exampleEn": "The rabbit hid in a hollow beneath the tree.",
+        "exampleTr": "Tavşan ağacın altındaki bir oyuğa saklandı."
+      }
+    ]
+  },
+  {
+    "id": "w_hood",
+    "headword": "hood",
+    "extraMeanings": [
+      {
+        "tr": "(mahalle) semt, mahalle (argo)",
+        "en": "the neighbourhood where someone lives (informal)",
+        "exampleEn": "He grew up in a tough hood on the east side.",
+        "exampleTr": "Doğu yakasında zorlu bir mahallede büyüdü."
+      }
+    ]
+  },
+  {
+    "id": "w_hook",
+    "headword": "hook",
+    "extraMeanings": [
+      {
+        "tr": "kancaya takmak, tutturmak (fiil)",
+        "en": "to fasten or catch something with a hook",
+        "exampleEn": "He hooked the fish and reeled it in.",
+        "exampleTr": "Balığı oltaya taktı ve makarayı sararak çekti."
+      },
+      {
+        "tr": "(müzikte) akılda kalan nakarat, çengel",
+        "en": "a catchy part of a song",
+        "exampleEn": "The song has a great hook that stays in your head.",
+        "exampleTr": "Şarkının aklından çıkmayan harika bir nakaratı var."
+      }
+    ]
+  },
+  {
+    "id": "w_hound",
+    "headword": "hound",
+    "extraMeanings": [
+      {
+        "tr": "peşini bırakmamak, rahat vermemek (fiil)",
+        "en": "to chase or harass someone continually",
+        "exampleEn": "The reporters hounded her for weeks after the scandal.",
+        "exampleTr": "Muhabirler skandaldan sonra haftalarca peşini bırakmadı."
+      }
+    ]
+  },
+  {
+    "id": "w_hush",
+    "headword": "hush",
+    "extraMeanings": [
+      {
+        "tr": "sessizlik, sükût (isim)",
+        "en": "a period of silence",
+        "exampleEn": "A hush fell over the crowd as the singer walked on.",
+        "exampleTr": "Şarkıcı sahneye çıkınca kalabalığı bir sessizlik kapladı."
+      }
+    ]
+  },
+  {
+    "id": "w_hybrid",
+    "headword": "hybrid",
+    "extraMeanings": [
+      {
+        "tr": "melez, karışım, hibrit (isim)",
+        "en": "something made by combining two different things",
+        "exampleEn": "This car is a hybrid that runs on both petrol and electricity.",
+        "exampleTr": "Bu araba hem benzinle hem elektrikle çalışan bir hibrittir."
+      }
+    ]
+  },
+  {
+    "id": "w_icon",
+    "headword": "icon",
+    "extraMeanings": [
+      {
+        "tr": "efsane, simge kişi, ikon",
+        "en": "a famous person regarded as a symbol",
+        "exampleEn": "She became a fashion icon in the 1960s.",
+        "exampleTr": "1960'larda bir moda ikonu oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_icy",
+    "headword": "icy",
+    "extraMeanings": [
+      {
+        "tr": "buz gibi soğuk, düşmanca (tavır)",
+        "en": "very unfriendly or hostile",
+        "exampleEn": "She gave me an icy stare and left the room.",
+        "exampleTr": "Bana buz gibi bir bakış attı ve odadan çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_identify",
+    "headword": "identify",
+    "extraMeanings": [
+      {
+        "tr": "kendini özdeşleştirmek, bağ kurmak (with)",
+        "en": "to feel that you understand and share someone's feelings",
+        "exampleEn": "Many readers identify with the novel's main character.",
+        "exampleTr": "Birçok okur romanın ana karakteriyle özdeşleşiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_idle",
+    "headword": "idle",
+    "extraMeanings": [
+      {
+        "tr": "(makine) boşta çalışmak, rölantide dönmek (fiil)",
+        "en": "(of an engine) to run slowly while not in gear",
+        "exampleEn": "He left the car idling outside the shop.",
+        "exampleTr": "Arabayı dükkânın önünde rölantide bıraktı."
+      },
+      {
+        "tr": "boş, asılsız, temelsiz (söz)",
+        "en": "without purpose or good reason",
+        "exampleEn": "These are just idle threats; he won't do anything.",
+        "exampleTr": "Bunlar sadece boş tehditler; hiçbir şey yapmayacak."
+      }
+    ]
+  },
+  {
+    "id": "w_idiot",
+    "headword": "idiot",
+    "extraMeanings": [
+      {
+        "tr": "(sevgiyle) aptal, ahmak, salak",
+        "en": "a foolish person (said affectionately)",
+        "exampleEn": "You idiot, you forgot to lock the door again!",
+        "exampleTr": "Seni salak, kapıyı yine kilitlemeyi unutmuşsun!"
+      }
+    ]
+  }
+]

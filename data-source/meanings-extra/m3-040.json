@@ -1,0 +1,434 @@
+[
+  {
+    "id": "w_desktop",
+    "headword": "desktop",
+    "extraMeanings": [
+      {
+        "tr": "masaüstü bilgisayarı (dizüstü olmayan)",
+        "en": "a computer designed to be used on a desk, not portable",
+        "exampleEn": "She prefers working on a desktop rather than a laptop.",
+        "exampleTr": "Dizüstü yerine bir masaüstü bilgisayarda çalışmayı tercih ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_detached",
+    "headword": "detached",
+    "extraMeanings": [
+      {
+        "tr": "müstakil (bitişik olmayan, tek başına duran ev)",
+        "en": "of a house, not joined to another building",
+        "exampleEn": "They bought a detached house with a large garden.",
+        "exampleTr": "Büyük bahçeli müstakil bir ev satın aldılar."
+      }
+    ]
+  },
+  {
+    "id": "w_detachment",
+    "headword": "detachment",
+    "extraMeanings": [
+      {
+        "tr": "müfreze (askeri birlik)",
+        "en": "a group of soldiers sent away on a special task",
+        "exampleEn": "A small detachment was sent to guard the bridge.",
+        "exampleTr": "Köprüyü korumak için küçük bir müfreze gönderildi."
+      }
+    ]
+  },
+  {
+    "id": "w_discipline",
+    "headword": "discipline",
+    "extraMeanings": [
+      {
+        "tr": "bilim dalı, disiplin (akademik alan)",
+        "en": "a subject or area of academic study",
+        "exampleEn": "Economics is a discipline that combines maths and social science.",
+        "exampleTr": "Ekonomi, matematik ile sosyal bilimi birleştiren bir bilim dalıdır."
+      },
+      {
+        "tr": "cezalandırmak, disipline etmek (fiil)",
+        "en": "to punish someone in order to keep control",
+        "exampleEn": "The teacher had to discipline the students for their behavior.",
+        "exampleTr": "Öğretmen, davranışları yüzünden öğrencileri cezalandırmak zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_discharge",
+    "headword": "discharge",
+    "extraMeanings": [
+      {
+        "tr": "taburcu etmek, salıvermek (fiil)",
+        "en": "to officially allow someone to leave (hospital, army, etc.)",
+        "exampleEn": "The patient was discharged from the hospital after a week.",
+        "exampleTr": "Hasta bir hafta sonra hastaneden taburcu edildi."
+      }
+    ]
+  },
+  {
+    "id": "w_disgrace",
+    "headword": "disgrace",
+    "extraMeanings": [
+      {
+        "tr": "gözden düşürmek, utanç kaynağı olmak (fiil)",
+        "en": "to bring shame on someone or something",
+        "exampleEn": "He disgraced his family with his dishonest actions.",
+        "exampleTr": "Dürüst olmayan davranışlarıyla ailesini gözden düşürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_disguise",
+    "headword": "disguise",
+    "extraMeanings": [
+      {
+        "tr": "gizlemek, saklamak; kılık değiştirmek (fiil)",
+        "en": "to hide something or change appearance to avoid recognition",
+        "exampleEn": "She could not disguise her disappointment at the news.",
+        "exampleTr": "Haber karşısındaki hayal kırıklığını gizleyemedi."
+      }
+    ]
+  },
+  {
+    "id": "w_disorder",
+    "headword": "disorder",
+    "extraMeanings": [
+      {
+        "tr": "kargaşa, karışıklık, düzensizlik (toplumsal)",
+        "en": "a situation of confusion and lack of control, unrest",
+        "exampleEn": "The riot caused widespread disorder in the city.",
+        "exampleTr": "Ayaklanma şehirde yaygın bir kargaşaya yol açtı."
+      }
+    ]
+  },
+  {
+    "id": "w_disposal",
+    "headword": "disposal",
+    "extraMeanings": [
+      {
+        "tr": "emre amade olma, tasarrufunda olma (at someone's disposal)",
+        "en": "being available for someone to use as they wish",
+        "exampleEn": "A car and driver were put at his disposal during the visit.",
+        "exampleTr": "Ziyaret boyunca bir araba ve şoför onun emrine amade edildi."
+      }
+    ]
+  },
+  {
+    "id": "w_dispute",
+    "headword": "dispute",
+    "extraMeanings": [
+      {
+        "tr": "itiraz etmek, tartışmak, karşı çıkmak (fiil)",
+        "en": "to argue about or question the truth of something",
+        "exampleEn": "Nobody disputed the fact that she was the best candidate.",
+        "exampleTr": "Onun en iyi aday olduğu gerçeğine kimse itiraz etmedi."
+      }
+    ]
+  },
+  {
+    "id": "w_disregard",
+    "headword": "disregard",
+    "extraMeanings": [
+      {
+        "tr": "dikkate almamak, görmezden gelmek (fiil)",
+        "en": "to ignore or pay no attention to something",
+        "exampleEn": "He disregarded my advice and did it his own way.",
+        "exampleTr": "Tavsiyemi dikkate almayıp kendi bildiğince yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_disrespect",
+    "headword": "disrespect",
+    "extraMeanings": [
+      {
+        "tr": "saygısızlık etmek, saygı göstermemek (fiil)",
+        "en": "to treat someone without respect",
+        "exampleEn": "Don't disrespect your elders like that.",
+        "exampleTr": "Büyüklerine öyle saygısızlık etme."
+      }
+    ]
+  },
+  {
+    "id": "w_distrust",
+    "headword": "distrust",
+    "extraMeanings": [
+      {
+        "tr": "güvenmemek, kuşku duymak (fiil)",
+        "en": "to have no trust in someone or something",
+        "exampleEn": "She distrusted him from the moment they met.",
+        "exampleTr": "Tanıştıkları andan itibaren ona güvenmedi."
+      }
+    ]
+  },
+  {
+    "id": "w_diversion",
+    "headword": "diversion",
+    "extraMeanings": [
+      {
+        "tr": "geçici alternatif yol, tali yol (trafikte)",
+        "en": "a route used when the usual road is closed",
+        "exampleEn": "There was a diversion because of roadworks ahead.",
+        "exampleTr": "İleride yol çalışması olduğu için tali bir yol vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_divert",
+    "headword": "divert",
+    "extraMeanings": [
+      {
+        "tr": "dikkatini başka yöne çekmek, oyalamak (fiil)",
+        "en": "to take attention away from something",
+        "exampleEn": "He told a joke to divert attention from his mistake.",
+        "exampleTr": "Hatasından dikkati başka yöne çekmek için bir şaka yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_division",
+    "headword": "division",
+    "extraMeanings": [
+      {
+        "tr": "ayrılık, anlaşmazlık, bölünmüşlük",
+        "en": "a disagreement or difference between groups of people",
+        "exampleEn": "There were deep divisions within the party over the issue.",
+        "exampleTr": "Konu hakkında parti içinde derin ayrılıklar vardı."
+      },
+      {
+        "tr": "tümen (büyük askeri birlik); (sporda) lig, kategori",
+        "en": "a large military unit; a competition category in sport",
+        "exampleEn": "The team was promoted to the first division.",
+        "exampleTr": "Takım birinci lige yükseldi."
+      }
+    ]
+  },
+  {
+    "id": "w_divorce",
+    "headword": "divorce",
+    "extraMeanings": [
+      {
+        "tr": "boşanmak (fiil)",
+        "en": "to legally end a marriage",
+        "exampleEn": "They divorced after ten years of marriage.",
+        "exampleTr": "On yıllık evliliğin ardından boşandılar."
+      }
+    ]
+  },
+  {
+    "id": "w_dock",
+    "headword": "dock",
+    "extraMeanings": [
+      {
+        "tr": "(gemi) yanaşmak, rıhtıma yanaşmak (fiil)",
+        "en": "to bring a ship into a dock or harbor",
+        "exampleEn": "The ship docked at the port early in the morning.",
+        "exampleTr": "Gemi sabahın erken saatlerinde limana yanaştı."
+      },
+      {
+        "tr": "sanık kürsüsü (mahkemede)",
+        "en": "the place in a court where the accused person stands",
+        "exampleEn": "The defendant stood silently in the dock.",
+        "exampleTr": "Sanık, sanık kürsüsünde sessizce durdu."
+      }
+    ]
+  },
+  {
+    "id": "w_dodge",
+    "headword": "dodge",
+    "extraMeanings": [
+      {
+        "tr": "kaçamak yapmak, kaytarmak, atlatmak (sorumluluk/soru)",
+        "en": "to avoid a duty, question, or responsibility",
+        "exampleEn": "The politician dodged the reporter's question.",
+        "exampleTr": "Politikacı muhabirin sorusunu geçiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_domestic",
+    "headword": "domestic",
+    "extraMeanings": [
+      {
+        "tr": "ev işlerini seven, ev hayatına düşkün (kişi)",
+        "en": "enjoying home life and household activities",
+        "exampleEn": "He's very domestic and loves cooking for the family.",
+        "exampleTr": "Çok ev hayatına düşkündür ve aile için yemek yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w_dominate",
+    "headword": "dominate",
+    "extraMeanings": [
+      {
+        "tr": "(bir yere) tepeden bakmak, hakim konumda olmak (coğrafi)",
+        "en": "to be the most noticeable feature in a place, tower over",
+        "exampleEn": "The cathedral dominates the city skyline.",
+        "exampleTr": "Katedral, şehrin siluetine tepeden bakar."
+      }
+    ]
+  },
+  {
+    "id": "w_doom",
+    "headword": "doom",
+    "extraMeanings": [
+      {
+        "tr": "mahkum etmek (kötü bir sona), yazgılamak (fiil)",
+        "en": "to make certain someone will fail or suffer",
+        "exampleEn": "The plan was doomed to failure from the start.",
+        "exampleTr": "Plan en baştan başarısızlığa mahkumdu."
+      }
+    ]
+  },
+  {
+    "id": "w_dose",
+    "headword": "dose",
+    "extraMeanings": [
+      {
+        "tr": "miktar, ölçü (mecazi; bir tutam, biraz)",
+        "en": "an amount of something, especially unpleasant",
+        "exampleEn": "He needs a dose of common sense.",
+        "exampleTr": "Ona biraz sağduyu lazım."
+      }
+    ]
+  },
+  {
+    "id": "w_dove",
+    "headword": "dove",
+    "extraMeanings": [
+      {
+        "tr": "barış yanlısı, uzlaşmacı (siyasette; şahin karşıtı)",
+        "en": "a person who favors peace and negotiation over conflict",
+        "exampleEn": "The doves in the government argued against military action.",
+        "exampleTr": "Hükümetteki barış yanlıları askeri harekata karşı çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_download",
+    "headword": "download",
+    "extraMeanings": [
+      {
+        "tr": "indirmek, yüklemek (fiil)",
+        "en": "to copy data from the internet onto a device",
+        "exampleEn": "You can download the app for free.",
+        "exampleTr": "Uygulamayı ücretsiz indirebilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w_draft",
+    "headword": "draft",
+    "extraMeanings": [
+      {
+        "tr": "cereyan, hava akımı (odaya giren soğuk hava)",
+        "en": "a current of cool air in a room",
+        "exampleEn": "Close the window; there's a cold draft coming in.",
+        "exampleTr": "Pencereyi kapat; içeri soğuk bir cereyan geliyor."
+      },
+      {
+        "tr": "askere alma, celp (zorunlu askerlik)",
+        "en": "the system of ordering people to join the armed forces",
+        "exampleEn": "He was called up in the draft during the war.",
+        "exampleTr": "Savaş sırasında askere celp edildi."
+      }
+    ]
+  },
+  {
+    "id": "w_drain",
+    "headword": "drain",
+    "extraMeanings": [
+      {
+        "tr": "suyunu boşaltmak, akıtmak; tüketmek (fiil)",
+        "en": "to remove liquid; to use up strength or resources",
+        "exampleEn": "Drain the pasta before adding the sauce.",
+        "exampleTr": "Sos eklemeden önce makarnanın suyunu süz."
+      }
+    ]
+  },
+  {
+    "id": "w_dread",
+    "headword": "dread",
+    "extraMeanings": [
+      {
+        "tr": "korku, dehşet, endişe (isim)",
+        "en": "a strong feeling of fear about something in the future",
+        "exampleEn": "She was filled with dread as the exam approached.",
+        "exampleTr": "Sınav yaklaştıkça içini bir korku kapladı."
+      }
+    ]
+  },
+  {
+    "id": "w_dim",
+    "headword": "dim",
+    "extraMeanings": [
+      {
+        "tr": "kısmak, karartmak; sönükleşmek (fiil)",
+        "en": "to make or become less bright",
+        "exampleEn": "They dimmed the lights before the movie started.",
+        "exampleTr": "Film başlamadan önce ışıkları kıstılar."
+      },
+      {
+        "tr": "kalın kafalı, aptal (konuşma dili)",
+        "en": "not intelligent, slow to understand",
+        "exampleEn": "He's a bit dim and never gets the joke.",
+        "exampleTr": "Biraz kalın kafalıdır, şakayı hiç anlamaz."
+      }
+    ]
+  },
+  {
+    "id": "w_dip",
+    "headword": "dip",
+    "extraMeanings": [
+      {
+        "tr": "düşüş, azalma (isim)",
+        "en": "a small or temporary fall in amount or level",
+        "exampleEn": "There was a dip in sales during the summer.",
+        "exampleTr": "Yaz boyunca satışlarda bir düşüş oldu."
+      },
+      {
+        "tr": "(sos türü) meze sosu, batırılacak sos (isim)",
+        "en": "a thick sauce for dipping food into",
+        "exampleEn": "She served chips with a garlic dip.",
+        "exampleTr": "Cipsleri sarımsaklı bir sosla ikram etti."
+      }
+    ]
+  },
+  {
+    "id": "w_dignify",
+    "headword": "dignify",
+    "extraMeanings": [
+      {
+        "tr": "(hak etmediği bir şeye) değer/önem atfetmek, ciddiye almak",
+        "en": "to make something seem more important than it is",
+        "exampleEn": "I won't dignify that accusation with a response.",
+        "exampleTr": "O suçlamayı yanıt vererek ciddiye almayacağım."
+      }
+    ]
+  },
+  {
+    "id": "w_detect",
+    "headword": "detect",
+    "extraMeanings": [
+      {
+        "tr": "(ses/ifade/duygu) sezmek, hissetmek",
+        "en": "to notice something, especially a feeling or quality",
+        "exampleEn": "I detected a note of sadness in her voice.",
+        "exampleTr": "Sesinde bir hüzün tonu sezdim."
+      }
+    ]
+  },
+  {
+    "id": "w_diploma",
+    "headword": "diploma",
+    "extraMeanings": [
+      {
+        "tr": "(kısa süreli, üniversite altı) meslek/kurs sertifikası, ön lisans belgesi",
+        "en": "a qualification from a course of study, often below degree level",
+        "exampleEn": "She earned a diploma in graphic design.",
+        "exampleTr": "Grafik tasarımı alanında bir sertifika programını bitirdi."
+      }
+    ]
+  }
+]

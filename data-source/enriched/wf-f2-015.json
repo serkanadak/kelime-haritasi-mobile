@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "w_impurity",
+    "headword": "impurity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪmˈpjʊərəti/",
+    "meanings": [
+      {
+        "tr": "safsızlık, katışıklık",
+        "en": "a substance that is present in small amounts in another substance, making it dirty or of a lower quality",
+        "exampleEn": "The filter removes any impurity from the drinking water.",
+        "exampleTr": "Filtre içme suyundaki her türlü safsızlığı temizler."
+      }
+    ],
+    "synonyms": [
+      "contamination",
+      "pollutant"
+    ],
+    "antonyms": [
+      "purity"
+    ]
+  },
+  {
+    "id": "w_dubiously",
+    "headword": "dubiously",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdjuːbiəsli/",
+    "meanings": [
+      {
+        "tr": "kuşkuyla, şüpheyle",
+        "en": "in a way that shows doubt or uncertainty",
+        "exampleEn": "She looked at the offer dubiously before saying no.",
+        "exampleTr": "Teklife hayır demeden önce kuşkuyla baktı."
+      }
+    ],
+    "synonyms": [
+      "doubtfully",
+      "skeptically"
+    ],
+    "antonyms": [
+      "confidently"
+    ]
+  },
+  {
+    "id": "w_inquiringly",
+    "headword": "inquiringly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈkwaɪərɪŋli/",
+    "meanings": [
+      {
+        "tr": "soran bir şekilde, merakla",
+        "en": "in a way that shows you want to know something",
+        "exampleEn": "He raised his eyebrows inquiringly, waiting for an answer.",
+        "exampleTr": "Bir cevap bekleyerek kaşlarını soran bir şekilde kaldırdı."
+      }
+    ],
+    "synonyms": [
+      "questioningly",
+      "curiously"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_quizzically",
+    "headword": "quizzically",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkwɪzɪkli/",
+    "meanings": [
+      {
+        "tr": "şaşkınlık ve merakla, sorgularcasına",
+        "en": "in a way that shows you are puzzled or mildly amused",
+        "exampleEn": "She tilted her head and looked at me quizzically.",
+        "exampleTr": "Başını yana eğdi ve bana sorgularcasına baktı."
+      }
+    ],
+    "synonyms": [
+      "questioningly",
+      "curiously"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_cavilling",
+    "headword": "cavilling",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkævəlɪŋ/",
+    "meanings": [
+      {
+        "tr": "kılı kırk yararak itiraz etme, önemsiz şeyleri eleştirme",
+        "en": "making unnecessary complaints about small, unimportant details",
+        "exampleEn": "Stop cavilling about the minor faults and look at the whole plan.",
+        "exampleTr": "Küçük kusurları eleştirmeyi bırak da planın bütününe bak."
+      }
+    ],
+    "synonyms": [
+      "quibbling",
+      "nitpicking"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_swiftness",
+    "headword": "swiftness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈswɪftnəs/",
+    "meanings": [
+      {
+        "tr": "hız, çabukluk",
+        "en": "the quality of being fast or quick",
+        "exampleEn": "The swiftness of the rescue saved many lives.",
+        "exampleTr": "Kurtarmanın çabukluğu birçok hayatı kurtardı."
+      }
+    ],
+    "synonyms": [
+      "speed",
+      "rapidity",
+      "quickness"
+    ],
+    "antonyms": [
+      "slowness"
+    ]
+  },
+  {
+    "id": "w_arbitrariness",
+    "headword": "arbitrariness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɑːbɪtrərinəs/",
+    "meanings": [
+      {
+        "tr": "keyfilik, rastgelelik",
+        "en": "the quality of being based on chance or personal whim rather than reason",
+        "exampleEn": "People complained about the arbitrariness of the new rules.",
+        "exampleTr": "İnsanlar yeni kuralların keyfiliğinden şikayet etti."
+      }
+    ],
+    "synonyms": [
+      "randomness",
+      "capriciousness"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_hastiness",
+    "headword": "hastiness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈheɪstinəs/",
+    "meanings": [
+      {
+        "tr": "acelecilik, düşünmeden davranma",
+        "en": "the quality of doing something too quickly and without enough thought",
+        "exampleEn": "He later regretted the hastiness of his decision.",
+        "exampleTr": "Sonradan kararının aceleciliğinden pişman oldu."
+      }
+    ],
+    "synonyms": [
+      "rashness",
+      "impatience"
+    ],
+    "antonyms": [
+      "caution"
+    ]
+  },
+  {
+    "id": "w_irrationality",
+    "headword": "irrationality",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˌræʃəˈnæləti/",
+    "meanings": [
+      {
+        "tr": "mantıksızlık, akıl dışılık",
+        "en": "the quality of not being based on clear thought or reason",
+        "exampleEn": "The irrationality of his fear was obvious to everyone.",
+        "exampleTr": "Korkusunun mantıksızlığı herkes için apaçıktı."
+      }
+    ],
+    "synonyms": [
+      "illogicality",
+      "unreasonableness"
+    ],
+    "antonyms": [
+      "rationality",
+      "logic"
+    ]
+  },
+  {
+    "id": "w_fulfilment",
+    "headword": "fulfilment",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fʊlˈfɪlmənt/",
+    "meanings": [
+      {
+        "tr": "tatmin, doyum, kendini gerçekleştirme",
+        "en": "a feeling of satisfaction from doing or achieving something",
+        "exampleEn": "She finds great fulfilment in her work as a teacher.",
+        "exampleTr": "Öğretmen olarak işinde büyük bir tatmin buluyor."
+      },
+      {
+        "tr": "yerine getirme, gerçekleştirme",
+        "en": "the act of achieving or completing something that was hoped for or promised",
+        "exampleEn": "The trip was the fulfilment of a lifelong dream.",
+        "exampleTr": "Bu gezi ömür boyu süren bir hayalin gerçekleşmesiydi."
+      }
+    ],
+    "synonyms": [
+      "satisfaction",
+      "achievement"
+    ],
+    "antonyms": [
+      "dissatisfaction"
+    ]
+  },
+  {
+    "id": "w_understood",
+    "headword": "understood",
+    "pos": "verb",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌndəˈstʊd/",
+    "meanings": [
+      {
+        "tr": "anladı, kavradı (understand fiilinin geçmiş hali)",
+        "en": "past tense and past participle of 'understand'; grasped the meaning of something",
+        "exampleEn": "I understood the instructions after reading them twice.",
+        "exampleTr": "Talimatları iki kez okuduktan sonra anladım."
+      },
+      {
+        "tr": "anlaşılan, üzerinde uzlaşılan",
+        "en": "agreed on or accepted by everyone without being said directly",
+        "exampleEn": "It was understood that everyone would share the cost.",
+        "exampleTr": "Herkesin masrafı paylaşacağı zımnen anlaşılmıştı."
+      }
+    ],
+    "synonyms": [
+      "comprehended",
+      "grasped"
+    ],
+    "antonyms": [
+      "misunderstood"
+    ]
+  },
+  {
+    "id": "w_recognised",
+    "headword": "recognised",
+    "pos": "verb",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈrekəɡnaɪzd/",
+    "meanings": [
+      {
+        "tr": "tanıdı, fark etti (recognise fiilinin geçmiş hali)",
+        "en": "past tense of 'recognise'; identified someone or something known before",
+        "exampleEn": "I recognised her voice as soon as she spoke.",
+        "exampleTr": "Konuşur konuşmaz sesini tanıdım."
+      },
+      {
+        "tr": "resmen kabul edilmiş, tanınan",
+        "en": "officially accepted or approved as valid or important",
+        "exampleEn": "It is a recognised qualification in many countries.",
+        "exampleTr": "Birçok ülkede tanınan bir yeterliliktir."
+      }
+    ],
+    "synonyms": [
+      "identified",
+      "acknowledged"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_resurfacing",
+    "headword": "resurfacing",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈsɜːfɪsɪŋ/",
+    "meanings": [
+      {
+        "tr": "yeniden ortaya çıkma, tekrar yüzeye çıkma",
+        "en": "appearing again after being hidden or forgotten for a time",
+        "exampleEn": "Old rumours are resurfacing after the scandal.",
+        "exampleTr": "Skandalın ardından eski söylentiler yeniden ortaya çıkıyor."
+      },
+      {
+        "tr": "yol/yüzey kaplamasını yenileme",
+        "en": "putting a new surface on a road or other area",
+        "exampleEn": "The council is resurfacing the main road next week.",
+        "exampleTr": "Belediye önümüzdeki hafta ana yolun kaplamasını yeniliyor."
+      }
+    ],
+    "synonyms": [
+      "reappearing",
+      "re-emerging"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_reevaluate",
+    "headword": "reevaluate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːɪˈvæljueɪt/",
+    "meanings": [
+      {
+        "tr": "yeniden değerlendirmek, gözden geçirmek",
+        "en": "to think about something again in order to decide if you should change your opinion or plan",
+        "exampleEn": "We need to reevaluate our strategy after these poor results.",
+        "exampleTr": "Bu kötü sonuçların ardından stratejimizi yeniden değerlendirmemiz gerekiyor."
+      }
+    ],
+    "synonyms": [
+      "reassess",
+      "reconsider"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_reset",
+    "headword": "reset",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈset/",
+    "meanings": [
+      {
+        "tr": "sıfırlamak, yeniden ayarlamak",
+        "en": "to set something again or return a device to its original state",
+        "exampleEn": "You can reset your password by clicking this link.",
+        "exampleTr": "Bu bağlantıya tıklayarak şifrenizi sıfırlayabilirsiniz."
+      },
+      {
+        "tr": "sıfırlama, yeniden başlatma",
+        "en": "an act of setting something again to its starting state",
+        "exampleEn": "The relationship needed a complete reset after the argument.",
+        "exampleTr": "Bu ilişkinin tartışmadan sonra tam bir sıfırlamaya ihtiyacı vardı."
+      }
+    ],
+    "synonyms": [
+      "restart",
+      "reboot"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_disavow",
+    "headword": "disavow",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɪsəˈvaʊ/",
+    "meanings": [
+      {
+        "tr": "reddetmek, inkar etmek, sorumluluğunu kabul etmemek",
+        "en": "to say that you know nothing about something or that you are not responsible for it",
+        "exampleEn": "The party moved quickly to disavow the extremist comments.",
+        "exampleTr": "Parti aşırılıkçı yorumları reddetmek için hızla harekete geçti."
+      }
+    ],
+    "synonyms": [
+      "deny",
+      "repudiate",
+      "disown"
+    ],
+    "antonyms": [
+      "acknowledge",
+      "affirm"
+    ]
+  },
+  {
+    "id": "w_affirm",
+    "headword": "affirm",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈfɜːm/",
+    "meanings": [
+      {
+        "tr": "doğrulamak, onaylamak, kesinlikle belirtmek",
+        "en": "to state firmly and publicly that something is true",
+        "exampleEn": "The minister affirmed the government's commitment to the plan.",
+        "exampleTr": "Bakan hükümetin plana bağlılığını doğruladı."
+      }
+    ],
+    "synonyms": [
+      "confirm",
+      "assert",
+      "declare"
+    ],
+    "antonyms": [
+      "deny",
+      "disavow"
+    ]
+  },
+  {
+    "id": "w_summarise",
+    "headword": "summarise",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsʌməraɪz/",
+    "meanings": [
+      {
+        "tr": "özetlemek",
+        "en": "to give the main points of something in a short and clear way",
+        "exampleEn": "Could you summarise the report in a few sentences?",
+        "exampleTr": "Raporu birkaç cümleyle özetleyebilir misin?"
+      }
+    ],
+    "synonyms": [
+      "outline",
+      "recap"
+    ],
+    "antonyms": [
+      "elaborate"
+    ]
+  },
+  {
+    "id": "w_restate",
+    "headword": "restate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈsteɪt/",
+    "meanings": [
+      {
+        "tr": "yeniden ifade etmek, tekrar belirtmek",
+        "en": "to say something again or in a different way, often more clearly",
+        "exampleEn": "Let me restate my main point so it is clear.",
+        "exampleTr": "Ana fikrimi net olması için yeniden ifade edeyim."
+      }
+    ],
+    "synonyms": [
+      "reiterate",
+      "reaffirm"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_amenable",
+    "headword": "amenable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈmiːnəbl/",
+    "meanings": [
+      {
+        "tr": "uysal, ikna edilebilir, yatkın",
+        "en": "willing to accept or be influenced by something; easy to persuade",
+        "exampleEn": "She was amenable to changing the meeting time.",
+        "exampleTr": "Toplantı saatini değiştirmeye yatkındı."
+      }
+    ],
+    "synonyms": [
+      "cooperative",
+      "agreeable",
+      "receptive"
+    ],
+    "antonyms": [
+      "unreceptive",
+      "resistant"
+    ]
+  },
+  {
+    "id": "w_unreceptive",
+    "headword": "unreceptive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnrɪˈseptɪv/",
+    "meanings": [
+      {
+        "tr": "kapalı, açık olmayan, ilgisiz",
+        "en": "not willing to listen to or accept new ideas or suggestions",
+        "exampleEn": "The board was unreceptive to the risky proposal.",
+        "exampleTr": "Yönetim kurulu riskli teklife kapalıydı."
+      }
+    ],
+    "synonyms": [
+      "resistant",
+      "closed-minded"
+    ],
+    "antonyms": [
+      "receptive",
+      "amenable"
+    ]
+  },
+  {
+    "id": "w_refuel",
+    "headword": "refuel",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːˈfjuːəl/",
+    "meanings": [
+      {
+        "tr": "yakıt ikmali yapmak, yeniden yakıt almak",
+        "en": "to fill a vehicle or aircraft with more fuel",
+        "exampleEn": "The plane stopped in Dubai to refuel.",
+        "exampleTr": "Uçak yakıt ikmali yapmak için Dubai'de durdu."
+      }
+    ],
+    "synonyms": [
+      "refill"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_two_way",
+    "headword": "two-way",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌtuːˈweɪ/",
+    "meanings": [
+      {
+        "tr": "çift yönlü, karşılıklı",
+        "en": "involving two people or groups who both take part or communicate equally",
+        "exampleEn": "Good communication is a two-way process.",
+        "exampleTr": "İyi iletişim çift yönlü bir süreçtir."
+      }
+    ],
+    "synonyms": [
+      "mutual",
+      "reciprocal"
+    ],
+    "antonyms": [
+      "one-way"
+    ]
+  },
+  {
+    "id": "w_unilateral",
+    "headword": "unilateral",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌjuːnɪˈlætrəl/",
+    "meanings": [
+      {
+        "tr": "tek taraflı",
+        "en": "done or decided by only one group or country without the agreement of others",
+        "exampleEn": "The country made a unilateral decision to withdraw from the treaty.",
+        "exampleTr": "Ülke anlaşmadan çekilmek için tek taraflı bir karar aldı."
+      }
+    ],
+    "synonyms": [
+      "one-sided"
+    ],
+    "antonyms": [
+      "bilateral",
+      "multilateral"
+    ]
+  },
+  {
+    "id": "w_recurrent",
+    "headword": "recurrent",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈkʌrənt/",
+    "meanings": [
+      {
+        "tr": "tekrarlayan, yinelenen",
+        "en": "happening again and again, often over a long period",
+        "exampleEn": "He suffers from recurrent back pain.",
+        "exampleTr": "Tekrarlayan sırt ağrısından muzdarip."
+      }
+    ],
+    "synonyms": [
+      "recurring",
+      "repeated",
+      "periodic"
+    ],
+    "antonyms": [
+      "one-off"
+    ]
+  },
+  {
+    "id": "w_one_off",
+    "headword": "one-off",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌwʌnˈɒf/",
+    "meanings": [
+      {
+        "tr": "tek seferlik, bir defaya mahsus",
+        "en": "happening or made only once, not as part of a regular series",
+        "exampleEn": "This is a one-off payment, not a monthly charge.",
+        "exampleTr": "Bu aylık bir ücret değil, tek seferlik bir ödeme."
+      }
+    ],
+    "synonyms": [
+      "single",
+      "unique"
+    ],
+    "antonyms": [
+      "recurrent",
+      "recurring"
+    ]
+  },
+  {
+    "id": "w_re",
+    "headword": "re",
+    "pos": "prep",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/riː/",
+    "meanings": [
+      {
+        "tr": "...ile ilgili, ...konusunda, hakkında (özellikle iş yazışmalarında)",
+        "en": "about or concerning; used especially at the start of a business letter or email to give the subject",
+        "exampleEn": "Re: your invoice dated 5 March.",
+        "exampleTr": "Konu: 5 Mart tarihli faturanız."
+      }
+    ],
+    "synonyms": [
+      "regarding",
+      "concerning",
+      "about"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_retrogressive",
+    "headword": "retrogressive",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌretrəˈɡresɪv/",
+    "meanings": [
+      {
+        "tr": "gerici, geriye götüren, geriletici",
+        "en": "returning to a worse or less advanced condition than before",
+        "exampleEn": "Critics called the new law a retrogressive step for women's rights.",
+        "exampleTr": "Eleştirmenler yeni yasayı kadın hakları için geriletici bir adım olarak nitelendirdi."
+      }
+    ],
+    "synonyms": [
+      "regressive",
+      "backward"
+    ],
+    "antonyms": [
+      "progressive"
+    ]
+  },
+  {
+    "id": "w_recurrence",
+    "headword": "recurrence",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈkʌrəns/",
+    "meanings": [
+      {
+        "tr": "tekrarlama, yineleme, nüksetme",
+        "en": "the fact of happening again, or of returning after a period of absence",
+        "exampleEn": "Doctors are watching for any recurrence of the disease.",
+        "exampleTr": "Doktorlar hastalığın herhangi bir nüksetmesine karşı tetikte."
+      }
+    ],
+    "synonyms": [
+      "repetition",
+      "return",
+      "relapse"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_deterioration",
+    "headword": "deterioration",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˌtɪəriəˈreɪʃn/",
+    "meanings": [
+      {
+        "tr": "kötüleşme, bozulma, gerileme",
+        "en": "the process of becoming worse in quality or condition",
+        "exampleEn": "The doctors noticed a rapid deterioration in his health.",
+        "exampleTr": "Doktorlar sağlığında hızlı bir kötüleşme fark etti."
+      }
+    ],
+    "synonyms": [
+      "decline",
+      "worsening",
+      "degradation"
+    ],
+    "antonyms": [
+      "improvement"
+    ]
+  },
+  {
+    "id": "w_unremittingly",
+    "headword": "unremittingly",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnrɪˈmɪtɪŋli/",
+    "meanings": [
+      {
+        "tr": "aralıksız olarak, hiç durmadan",
+        "en": "in a way that continues without stopping or becoming less intense",
+        "exampleEn": "She worked unremittingly to finish the project on time.",
+        "exampleTr": "Projeyi zamanında bitirmek için aralıksız çalıştı."
+      }
+    ],
+    "synonyms": [
+      "relentlessly",
+      "incessantly",
+      "ceaselessly"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tirelessly",
+    "headword": "tirelessly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtaɪələsli/",
+    "meanings": [
+      {
+        "tr": "yorulmadan, bıkmadan",
+        "en": "with great effort over a long time, without becoming tired or giving up",
+        "exampleEn": "Volunteers worked tirelessly to help the flood victims.",
+        "exampleTr": "Gönüllüler sel mağdurlarına yardım etmek için yorulmadan çalıştı."
+      }
+    ],
+    "synonyms": [
+      "indefatigably",
+      "relentlessly"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_dependably",
+    "headword": "dependably",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈpendəbli/",
+    "meanings": [
+      {
+        "tr": "güvenilir bir şekilde, sürekli olarak",
+        "en": "in a way that can be trusted or relied on to happen or work",
+        "exampleEn": "The old car still starts dependably every morning.",
+        "exampleTr": "Eski araba her sabah hala güvenilir bir şekilde çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "reliably",
+      "consistently"
+    ],
+    "antonyms": [
+      "unreliably"
+    ]
+  },
+  {
+    "id": "w_unreliably",
+    "headword": "unreliably",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnrɪˈlaɪəbli/",
+    "meanings": [
+      {
+        "tr": "güvenilmez bir şekilde, düzensizce",
+        "en": "in a way that cannot be trusted or relied on to work correctly",
+        "exampleEn": "The internet connection works unreliably in this area.",
+        "exampleTr": "İnternet bağlantısı bu bölgede güvenilmez bir şekilde çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "inconsistently"
+    ],
+    "antonyms": [
+      "dependably",
+      "reliably"
+    ]
+  },
+  {
+    "id": "w_renunciation",
+    "headword": "renunciation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˌnʌnsiˈeɪʃn/",
+    "meanings": [
+      {
+        "tr": "vazgeçme, feragat, terk etme",
+        "en": "the formal act of giving up a right, belief, or possession",
+        "exampleEn": "His renunciation of the throne shocked the nation.",
+        "exampleTr": "Tahttan feragat etmesi ulusu şok etti."
+      }
+    ],
+    "synonyms": [
+      "rejection",
+      "abandonment",
+      "relinquishment"
+    ],
+    "antonyms": [
+      "acceptance"
+    ]
+  },
+  {
+    "id": "w_savor",
+    "headword": "savor",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈseɪvər/",
+    "meanings": [
+      {
+        "tr": "tadını çıkarmak, keyifle tatmak",
+        "en": "to enjoy food, drink, or an experience slowly and fully",
+        "exampleEn": "She sat back to savor the last piece of chocolate.",
+        "exampleTr": "Son çikolata parçasının tadını çıkarmak için arkasına yaslandı."
+      }
+    ],
+    "synonyms": [
+      "relish",
+      "enjoy",
+      "appreciate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_recreate",
+    "headword": "recreate",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌriːkriˈeɪt/",
+    "meanings": [
+      {
+        "tr": "yeniden yaratmak, yeniden oluşturmak",
+        "en": "to make something exist or happen again, or to produce a copy of it",
+        "exampleEn": "The film tries to recreate life in ancient Rome.",
+        "exampleTr": "Film, antik Roma'daki yaşamı yeniden yaratmaya çalışıyor."
+      }
+    ],
+    "synonyms": [
+      "reconstruct",
+      "reproduce",
+      "reenact"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fixable",
+    "headword": "fixable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɪksəbl/",
+    "meanings": [
+      {
+        "tr": "tamir edilebilir, düzeltilebilir",
+        "en": "able to be repaired or put right",
+        "exampleEn": "Don't worry, this problem is easily fixable.",
+        "exampleTr": "Merak etme, bu sorun kolayca düzeltilebilir."
+      }
+    ],
+    "synonyms": [
+      "repairable",
+      "correctable",
+      "solvable"
+    ],
+    "antonyms": [
+      "irreparable",
+      "irremediable"
+    ]
+  },
+  {
+    "id": "w_correctable",
+    "headword": "correctable",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kəˈrektəbl/",
+    "meanings": [
+      {
+        "tr": "düzeltilebilir, giderilebilir",
+        "en": "able to be corrected or put right",
+        "exampleEn": "Most of these errors are correctable with a little practice.",
+        "exampleTr": "Bu hataların çoğu biraz pratikle düzeltilebilir."
+      }
+    ],
+    "synonyms": [
+      "fixable",
+      "rectifiable"
+    ],
+    "antonyms": [
+      "irremediable"
+    ]
+  },
+  {
+    "id": "w_irremediable",
+    "headword": "irremediable",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪrɪˈmiːdiəbl/",
+    "meanings": [
+      {
+        "tr": "çaresi olmayan, düzeltilemez, telafisi imkansız",
+        "en": "impossible to correct, cure, or put right",
+        "exampleEn": "The damage to his reputation was irremediable.",
+        "exampleTr": "İtibarına verilen zarar telafisi imkansızdı."
+      }
+    ],
+    "synonyms": [
+      "irreparable",
+      "incurable",
+      "hopeless"
+    ],
+    "antonyms": [
+      "fixable",
+      "correctable"
+    ]
+  },
+  {
+    "id": "w_redolent",
+    "headword": "redolent",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈredələnt/",
+    "meanings": [
+      {
+        "tr": "anımsatan, çağrıştıran",
+        "en": "strongly reminding you of something",
+        "exampleEn": "The old street was redolent of a bygone age.",
+        "exampleTr": "Eski sokak geçmiş bir çağı çağrıştırıyordu."
+      },
+      {
+        "tr": "kokusuyla dolu, kokan",
+        "en": "having a strong smell of something",
+        "exampleEn": "The kitchen was redolent of fresh coffee.",
+        "exampleTr": "Mutfak taze kahve kokusuyla doluydu."
+      }
+    ],
+    "synonyms": [
+      "evocative",
+      "reminiscent",
+      "suggestive"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_repentant",
+    "headword": "repentant",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈpentənt/",
+    "meanings": [
+      {
+        "tr": "pişman, tövbekar",
+        "en": "feeling or showing that you are sorry for something wrong you have done",
+        "exampleEn": "He seemed genuinely repentant for the trouble he had caused.",
+        "exampleTr": "Sebep olduğu sıkıntı için gerçekten pişman görünüyordu."
+      }
+    ],
+    "synonyms": [
+      "remorseful",
+      "contrite",
+      "penitent"
+    ],
+    "antonyms": [
+      "remorseless",
+      "unrepentant"
+    ]
+  },
+  {
+    "id": "w_contrite",
+    "headword": "contrite",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈtraɪt/",
+    "meanings": [
+      {
+        "tr": "pişman, mahcup, vicdan azabı çeken",
+        "en": "feeling very sorry and guilty for having done something wrong",
+        "exampleEn": "She gave a contrite apology for her rude behaviour.",
+        "exampleTr": "Kaba davranışı için pişman bir özür diledi."
+      }
+    ],
+    "synonyms": [
+      "remorseful",
+      "repentant",
+      "penitent"
+    ],
+    "antonyms": [
+      "remorseless",
+      "unrepentant"
+    ]
+  },
+  {
+    "id": "w_remorseless",
+    "headword": "remorseless",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈmɔːsləs/",
+    "meanings": [
+      {
+        "tr": "acımasız, merhametsiz, vicdansız",
+        "en": "cruel and showing no pity or regret",
+        "exampleEn": "The soldiers were remorseless in their attack.",
+        "exampleTr": "Askerler saldırılarında acımasızdı."
+      },
+      {
+        "tr": "amansız, hiç durmayan",
+        "en": "continuing in a way that cannot be stopped",
+        "exampleEn": "The remorseless advance of technology changes daily life.",
+        "exampleTr": "Teknolojinin amansız ilerleyişi günlük yaşamı değiştiriyor."
+      }
+    ],
+    "synonyms": [
+      "merciless",
+      "ruthless",
+      "relentless"
+    ],
+    "antonyms": [
+      "merciful",
+      "repentant",
+      "contrite"
+    ]
+  },
+  {
+    "id": "w_contritely",
+    "headword": "contritely",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈtraɪtli/",
+    "meanings": [
+      {
+        "tr": "pişmanlıkla, mahcubiyetle",
+        "en": "in a way that shows you feel very sorry for doing something wrong",
+        "exampleEn": "He apologised contritely and promised never to do it again.",
+        "exampleTr": "Pişmanlıkla özür diledi ve bir daha asla yapmayacağına söz verdi."
+      }
+    ],
+    "synonyms": [
+      "remorsefully",
+      "penitently"
+    ],
+    "antonyms": []
+  }
+]

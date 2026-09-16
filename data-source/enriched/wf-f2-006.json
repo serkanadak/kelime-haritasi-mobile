@@ -1,0 +1,1320 @@
+[
+  {
+    "id": "w_judgement",
+    "headword": "judgement",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdʒʌdʒmənt/",
+    "meanings": [
+      {
+        "tr": "muhakeme, sağduyu; karar verme yetisi",
+        "en": "the ability to make good decisions or form sensible opinions",
+        "exampleEn": "She showed excellent judgement in handling the crisis.",
+        "exampleTr": "Krizi ele alışında mükemmel bir muhakeme sergiledi."
+      },
+      {
+        "tr": "yargı, hüküm, karar",
+        "en": "a decision made by a court of law",
+        "exampleEn": "The court will deliver its judgement next week.",
+        "exampleTr": "Mahkeme kararını gelecek hafta açıklayacak."
+      }
+    ],
+    "synonyms": [
+      "discernment",
+      "verdict",
+      "ruling"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_disinter",
+    "headword": "disinter",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdɪsɪnˈtɜːr/",
+    "meanings": [
+      {
+        "tr": "mezardan çıkarmak; gömülü bir şeyi kazıp çıkarmak",
+        "en": "to dig up something, especially a body, that has been buried",
+        "exampleEn": "Investigators decided to disinter the body for a new autopsy.",
+        "exampleTr": "Soruşturmacılar yeni bir otopsi için cesedi mezardan çıkarmaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "exhume",
+      "unearth"
+    ],
+    "antonyms": [
+      "bury",
+      "inter"
+    ]
+  },
+  {
+    "id": "w_migr",
+    "headword": "émigré",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈemɪɡreɪ/",
+    "meanings": [
+      {
+        "tr": "göçmen (özellikle siyasi nedenlerle ülkesini terk eden kişi)",
+        "en": "a person who has left their country, especially for political reasons",
+        "exampleEn": "The novelist was a Russian émigré living in Paris.",
+        "exampleTr": "Romancı, Paris'te yaşayan Rus bir göçmendi."
+      }
+    ],
+    "synonyms": [
+      "emigrant",
+      "expatriate",
+      "exile"
+    ],
+    "antonyms": [
+      "immigrant"
+    ]
+  },
+  {
+    "id": "w_eject",
+    "headword": "eject",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈdʒekt/",
+    "meanings": [
+      {
+        "tr": "dışarı atmak, fırlatmak; çıkarmak",
+        "en": "to force or throw something out, usually suddenly",
+        "exampleEn": "The machine will eject the disc when you press the button.",
+        "exampleTr": "Düğmeye bastığınızda makine diski dışarı çıkaracak."
+      },
+      {
+        "tr": "(bir yerden) çıkarmak, kovmak",
+        "en": "to force someone to leave a place",
+        "exampleEn": "Two fans were ejected from the stadium for fighting.",
+        "exampleTr": "İki taraftar kavga ettikleri için stadyumdan çıkarıldı."
+      }
+    ],
+    "synonyms": [
+      "expel",
+      "discharge",
+      "remove"
+    ],
+    "antonyms": [
+      "insert",
+      "admit"
+    ]
+  },
+  {
+    "id": "w_banish",
+    "headword": "banish",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbænɪʃ/",
+    "meanings": [
+      {
+        "tr": "sürgün etmek, kovmak",
+        "en": "to send someone away from a place as a punishment",
+        "exampleEn": "The king decided to banish the rebel from the kingdom.",
+        "exampleTr": "Kral isyancıyı krallıktan sürgün etmeye karar verdi."
+      },
+      {
+        "tr": "zihinden uzaklaştırmak, defetmek",
+        "en": "to get rid of a thought or feeling",
+        "exampleEn": "Try to banish all negative thoughts from your mind.",
+        "exampleTr": "Tüm olumsuz düşünceleri zihninden uzaklaştırmaya çalış."
+      }
+    ],
+    "synonyms": [
+      "exile",
+      "expel",
+      "dispel"
+    ],
+    "antonyms": [
+      "welcome",
+      "admit"
+    ]
+  },
+  {
+    "id": "w_terminate",
+    "headword": "terminate",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtɜːmɪneɪt/",
+    "meanings": [
+      {
+        "tr": "sona erdirmek, bitirmek",
+        "en": "to end or cause something to end",
+        "exampleEn": "The company decided to terminate the contract early.",
+        "exampleTr": "Şirket sözleşmeyi erken sona erdirmeye karar verdi."
+      },
+      {
+        "tr": "işten çıkarmak, işine son vermek",
+        "en": "to end someone's employment",
+        "exampleEn": "They had to terminate several employees during the downturn.",
+        "exampleTr": "Durgunluk döneminde birkaç çalışanın işine son vermek zorunda kaldılar."
+      }
+    ],
+    "synonyms": [
+      "end",
+      "conclude",
+      "cease"
+    ],
+    "antonyms": [
+      "begin",
+      "start",
+      "continue"
+    ]
+  },
+  {
+    "id": "w_utterable",
+    "headword": "utterable",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʌtərəbl/",
+    "meanings": [
+      {
+        "tr": "söylenebilir, dile getirilebilir",
+        "en": "able to be said or expressed in words",
+        "exampleEn": "Some feelings are barely utterable in everyday language.",
+        "exampleTr": "Bazı duygular gündelik dilde neredeyse dile getirilemez."
+      }
+    ],
+    "synonyms": [
+      "expressible",
+      "speakable"
+    ],
+    "antonyms": [
+      "unutterable",
+      "unspeakable"
+    ]
+  },
+  {
+    "id": "w_emotiveness",
+    "headword": "emotiveness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪˈməʊtɪvnəs/",
+    "meanings": [
+      {
+        "tr": "duygusallık, duygu uyandırıcılık",
+        "en": "the quality of expressing or arousing strong feelings",
+        "exampleEn": "The emotiveness of her speech moved the whole audience.",
+        "exampleTr": "Konuşmasının duygusallığı tüm dinleyicileri etkiledi."
+      }
+    ],
+    "synonyms": [
+      "emotionality",
+      "sentimentality"
+    ],
+    "antonyms": [
+      "impassivity"
+    ]
+  },
+  {
+    "id": "w_blankness",
+    "headword": "blankness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈblæŋknəs/",
+    "meanings": [
+      {
+        "tr": "boşluk, ifadesizlik; boş bakış hali",
+        "en": "the state of being empty or without expression",
+        "exampleEn": "A look of blankness crossed his face when I asked the question.",
+        "exampleTr": "Soruyu sorduğumda yüzünde bir ifadesizlik belirdi."
+      }
+    ],
+    "synonyms": [
+      "emptiness",
+      "vacancy"
+    ],
+    "antonyms": [
+      "expressiveness"
+    ]
+  },
+  {
+    "id": "w_impassivity",
+    "headword": "impassivity",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌɪmpæˈsɪvəti/",
+    "meanings": [
+      {
+        "tr": "duygusuzluk, ifadesizlik, soğukkanlılık",
+        "en": "the quality of not showing emotion or reaction",
+        "exampleEn": "The judge listened with complete impassivity.",
+        "exampleTr": "Yargıç tam bir ifadesizlikle dinledi."
+      }
+    ],
+    "synonyms": [
+      "stoicism",
+      "indifference"
+    ],
+    "antonyms": [
+      "emotiveness"
+    ]
+  },
+  {
+    "id": "w_rehearse",
+    "headword": "rehearse",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈhɜːs/",
+    "meanings": [
+      {
+        "tr": "prova yapmak, alıştırma yapmak",
+        "en": "to practise a play, performance or speech before presenting it",
+        "exampleEn": "The actors rehearse the scene several times before the show.",
+        "exampleTr": "Oyuncular gösteriden önce sahneyi birkaç kez prova ederler."
+      }
+    ],
+    "synonyms": [
+      "practise",
+      "prepare",
+      "drill"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_adjustable",
+    "headword": "adjustable",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈdʒʌstəbl/",
+    "meanings": [
+      {
+        "tr": "ayarlanabilir",
+        "en": "able to be changed to suit particular needs",
+        "exampleEn": "The chair has an adjustable backrest for extra comfort.",
+        "exampleTr": "Sandalyenin ekstra konfor için ayarlanabilir bir sırt desteği var."
+      }
+    ],
+    "synonyms": [
+      "modifiable",
+      "adaptable"
+    ],
+    "antonyms": [
+      "fixed"
+    ]
+  },
+  {
+    "id": "w_annihilate",
+    "headword": "annihilate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈnaɪəleɪt/",
+    "meanings": [
+      {
+        "tr": "yok etmek, imha etmek",
+        "en": "to destroy something completely",
+        "exampleEn": "A single bomb could annihilate the entire city.",
+        "exampleTr": "Tek bir bomba tüm şehri yok edebilirdi."
+      },
+      {
+        "tr": "ezici bir yenilgiye uğratmak",
+        "en": "to defeat someone completely in a game or contest",
+        "exampleEn": "Our team annihilated the opposition six to nil.",
+        "exampleTr": "Takımımız rakibi altı sıfır ezici biçimde yendi."
+      }
+    ],
+    "synonyms": [
+      "destroy",
+      "obliterate",
+      "wipe out"
+    ],
+    "antonyms": [
+      "create",
+      "build"
+    ]
+  },
+  {
+    "id": "w_annihilation",
+    "headword": "annihilation",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˌnaɪəˈleɪʃn/",
+    "meanings": [
+      {
+        "tr": "yok etme, imha, tam yıkım",
+        "en": "complete destruction",
+        "exampleEn": "The war threatened the annihilation of an entire people.",
+        "exampleTr": "Savaş, koca bir halkın yok edilmesi tehdidini taşıyordu."
+      }
+    ],
+    "synonyms": [
+      "destruction",
+      "obliteration",
+      "extermination"
+    ],
+    "antonyms": [
+      "creation"
+    ]
+  },
+  {
+    "id": "w_quenched",
+    "headword": "quenched",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kwentʃt/",
+    "meanings": [
+      {
+        "tr": "(susuzluğu) giderilmiş; söndürülmüş",
+        "en": "satisfied (of thirst) or extinguished (of fire or heat)",
+        "exampleEn": "With his thirst finally quenched, he set down the empty glass.",
+        "exampleTr": "Susuzluğu nihayet giderilince boş bardağı yere bıraktı."
+      }
+    ],
+    "synonyms": [
+      "satisfied",
+      "extinguished"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_doused",
+    "headword": "doused",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/daʊst/",
+    "meanings": [
+      {
+        "tr": "(sıvıyla) ıslatılmış; (ateşi) söndürülmüş",
+        "en": "soaked with liquid, or with a flame put out",
+        "exampleEn": "The doused campfire still gave off a thin trail of smoke.",
+        "exampleTr": "Söndürülmüş kamp ateşi hâlâ ince bir duman çıkarıyordu."
+      }
+    ],
+    "synonyms": [
+      "drenched",
+      "extinguished",
+      "soaked"
+    ],
+    "antonyms": [
+      "ignited"
+    ]
+  },
+  {
+    "id": "w_lit",
+    "headword": "lit",
+    "pos": "adj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/lɪt/",
+    "meanings": [
+      {
+        "tr": "ışıklandırılmış, aydınlatılmış; yanan",
+        "en": "provided with light, or set burning",
+        "exampleEn": "The room was warmly lit by a single lamp.",
+        "exampleTr": "Oda tek bir lambayla sıcak bir şekilde aydınlatılmıştı."
+      }
+    ],
+    "synonyms": [
+      "illuminated",
+      "ignited"
+    ],
+    "antonyms": [
+      "dark",
+      "unlit"
+    ]
+  },
+  {
+    "id": "w_ignited",
+    "headword": "ignited",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪɡˈnaɪtɪd/",
+    "meanings": [
+      {
+        "tr": "tutuşturulmuş, ateşlenmiş",
+        "en": "set on fire or caused to start burning",
+        "exampleEn": "The ignited fuel burst into a bright flame.",
+        "exampleTr": "Tutuşturulan yakıt parlak bir alevle alev aldı."
+      }
+    ],
+    "synonyms": [
+      "lit",
+      "kindled"
+    ],
+    "antonyms": [
+      "extinguished",
+      "doused"
+    ]
+  },
+  {
+    "id": "w_otherworldly",
+    "headword": "otherworldly",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌðəˈwɜːldli/",
+    "meanings": [
+      {
+        "tr": "bu dünyaya ait olmayan, esrarengiz, öteki dünyaya özgü",
+        "en": "seeming to belong to another, imaginary or spiritual world",
+        "exampleEn": "The forest had an otherworldly, dreamlike quality at dawn.",
+        "exampleTr": "Orman şafak vakti öteki dünyaya ait, rüya gibi bir hava taşıyordu."
+      }
+    ],
+    "synonyms": [
+      "ethereal",
+      "supernatural",
+      "unearthly"
+    ],
+    "antonyms": [
+      "earthly",
+      "mundane"
+    ]
+  },
+  {
+    "id": "w_gregarious",
+    "headword": "gregarious",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡrɪˈɡeəriəs/",
+    "meanings": [
+      {
+        "tr": "sosyal, cana yakın, insan arasında olmayı seven",
+        "en": "liking to be with other people; sociable",
+        "exampleEn": "She is a gregarious person who loves parties.",
+        "exampleTr": "O, partileri seven sosyal bir insandır."
+      }
+    ],
+    "synonyms": [
+      "sociable",
+      "outgoing",
+      "convivial"
+    ],
+    "antonyms": [
+      "introverted",
+      "reserved"
+    ]
+  },
+  {
+    "id": "w_introverted",
+    "headword": "introverted",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɪntrəvɜːtɪd/",
+    "meanings": [
+      {
+        "tr": "içe dönük, çekingen",
+        "en": "shy and more interested in your own thoughts than in socialising",
+        "exampleEn": "As an introverted child, he preferred reading to playing outside.",
+        "exampleTr": "İçe dönük bir çocuk olarak dışarıda oynamaktansa okumayı tercih ederdi."
+      }
+    ],
+    "synonyms": [
+      "shy",
+      "reserved",
+      "withdrawn"
+    ],
+    "antonyms": [
+      "extroverted",
+      "gregarious",
+      "outgoing"
+    ]
+  },
+  {
+    "id": "w_concoct",
+    "headword": "concoct",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈkɒkt/",
+    "meanings": [
+      {
+        "tr": "(karıştırarak) hazırlamak, uydurmak (yemek/içecek)",
+        "en": "to make a dish or drink by mixing various ingredients",
+        "exampleEn": "He concocted a strange soup from whatever was in the fridge.",
+        "exampleTr": "Buzdolabında ne varsa ondan garip bir çorba hazırladı."
+      },
+      {
+        "tr": "uydurmak, kafadan atmak (bahane, hikaye)",
+        "en": "to invent a story or plan, especially to deceive",
+        "exampleEn": "They concocted an excuse to explain their absence.",
+        "exampleTr": "Yokluklarını açıklamak için bir bahane uydurdular."
+      }
+    ],
+    "synonyms": [
+      "devise",
+      "invent",
+      "fabricate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_moderator",
+    "headword": "moderator",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmɒdəreɪtər/",
+    "meanings": [
+      {
+        "tr": "oturum yöneticisi, moderatör",
+        "en": "a person who leads a discussion or debate and keeps it orderly",
+        "exampleEn": "The moderator asked each candidate the same question.",
+        "exampleTr": "Moderatör her adaya aynı soruyu sordu."
+      },
+      {
+        "tr": "içerik denetleyicisi (çevrimiçi)",
+        "en": "a person who checks online content to ensure the rules are followed",
+        "exampleEn": "A forum moderator removed the offensive comment.",
+        "exampleTr": "Bir forum moderatörü saldırgan yorumu kaldırdı."
+      }
+    ],
+    "synonyms": [
+      "chairperson",
+      "facilitator",
+      "mediator"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_mediator",
+    "headword": "mediator",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmiːdieɪtər/",
+    "meanings": [
+      {
+        "tr": "arabulucu",
+        "en": "a person who tries to help two sides settle a dispute",
+        "exampleEn": "A neutral mediator helped the two companies reach an agreement.",
+        "exampleTr": "Tarafsız bir arabulucu iki şirketin anlaşmaya varmasına yardım etti."
+      }
+    ],
+    "synonyms": [
+      "arbitrator",
+      "intermediary",
+      "go-between"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_obstructor",
+    "headword": "obstructor",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əbˈstrʌktər/",
+    "meanings": [
+      {
+        "tr": "engelleyici, engel olan kimse",
+        "en": "a person or thing that blocks or hinders progress",
+        "exampleEn": "He was seen as an obstructor of the reform process.",
+        "exampleTr": "Reform sürecinin bir engelleyicisi olarak görülüyordu."
+      }
+    ],
+    "synonyms": [
+      "hinderer",
+      "blocker"
+    ],
+    "antonyms": [
+      "facilitator",
+      "helper"
+    ]
+  },
+  {
+    "id": "w_non_fiction",
+    "headword": "non-fiction",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɒnˈfɪkʃn/",
+    "meanings": [
+      {
+        "tr": "kurgu dışı (gerçeklere dayalı yazın)",
+        "en": "writing that is about real facts and events, not imaginary ones",
+        "exampleEn": "She mostly reads non-fiction, especially history and biography.",
+        "exampleTr": "Çoğunlukla kurgu dışı, özellikle tarih ve biyografi okur."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "fiction"
+    ]
+  },
+  {
+    "id": "w_boldness",
+    "headword": "boldness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbəʊldnəs/",
+    "meanings": [
+      {
+        "tr": "cesaret, cüret, gözü peklik",
+        "en": "the quality of being confident and not afraid to take risks",
+        "exampleEn": "Her boldness in challenging the board impressed everyone.",
+        "exampleTr": "Yönetim kuruluna meydan okumadaki cesareti herkesi etkiledi."
+      }
+    ],
+    "synonyms": [
+      "courage",
+      "audacity",
+      "daring"
+    ],
+    "antonyms": [
+      "timidity",
+      "cowardice"
+    ]
+  },
+  {
+    "id": "w_fidelity",
+    "headword": "fidelity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɪˈdeləti/",
+    "meanings": [
+      {
+        "tr": "sadakat, bağlılık",
+        "en": "loyalty and faithfulness to a person, cause or belief",
+        "exampleEn": "He was praised for his fidelity to the company over thirty years.",
+        "exampleTr": "Otuz yıl boyunca şirkete olan sadakati nedeniyle övüldü."
+      },
+      {
+        "tr": "aslına uygunluk, doğruluk (kopya/aktarım)",
+        "en": "the degree to which something is accurately copied or reproduced",
+        "exampleEn": "The recording reproduces the concert with remarkable fidelity.",
+        "exampleTr": "Kayıt, konseri dikkat çekici bir aslına uygunlukla yeniden üretiyor."
+      }
+    ],
+    "synonyms": [
+      "loyalty",
+      "faithfulness",
+      "accuracy"
+    ],
+    "antonyms": [
+      "infidelity",
+      "disloyalty"
+    ]
+  },
+  {
+    "id": "w_forgery",
+    "headword": "forgery",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɔːdʒəri/",
+    "meanings": [
+      {
+        "tr": "sahtecilik; sahte belge/eser",
+        "en": "the crime of copying something to deceive, or the copy itself",
+        "exampleEn": "The painting turned out to be a clever forgery.",
+        "exampleTr": "Tablonun ustaca yapılmış bir sahte eser olduğu ortaya çıktı."
+      }
+    ],
+    "synonyms": [
+      "counterfeit",
+      "fake",
+      "fraud"
+    ],
+    "antonyms": [
+      "original"
+    ]
+  },
+  {
+    "id": "w_sham",
+    "headword": "sham",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʃæm/",
+    "meanings": [
+      {
+        "tr": "sahtekârlık, göstermelik şey, aldatmaca",
+        "en": "something that is not what it claims to be; a pretence",
+        "exampleEn": "The trial was a sham designed to silence critics.",
+        "exampleTr": "Duruşma, eleştirmenleri susturmak için tasarlanmış bir aldatmacaydı."
+      },
+      {
+        "tr": "sahte, göstermelik",
+        "en": "not genuine; pretended",
+        "exampleEn": "They exposed his sham concern for the workers.",
+        "exampleTr": "İşçilere yönelik sahte kaygısını ifşa ettiler."
+      }
+    ],
+    "synonyms": [
+      "pretence",
+      "fake",
+      "hoax"
+    ],
+    "antonyms": [
+      "genuine article"
+    ]
+  },
+  {
+    "id": "w_untruth",
+    "headword": "untruth",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈtruːθ/",
+    "meanings": [
+      {
+        "tr": "yalan, gerçek dışı ifade",
+        "en": "a statement that is not true; a lie",
+        "exampleEn": "He was accused of telling an untruth to the committee.",
+        "exampleTr": "Komiteye yalan söylemekle suçlandı."
+      }
+    ],
+    "synonyms": [
+      "lie",
+      "falsehood",
+      "fib"
+    ],
+    "antonyms": [
+      "truth",
+      "fact"
+    ]
+  },
+  {
+    "id": "w_forge",
+    "headword": "forge",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔːdʒ/",
+    "meanings": [
+      {
+        "tr": "sahtesini yapmak, taklit etmek (belge, imza)",
+        "en": "to make an illegal copy of something in order to deceive",
+        "exampleEn": "He was jailed for trying to forge a passport.",
+        "exampleTr": "Sahte pasaport yapmaya çalıştığı için hapse atıldı."
+      },
+      {
+        "tr": "(ilişki, gelecek vb.) kurmak, oluşturmak",
+        "en": "to create or develop something, especially a relationship",
+        "exampleEn": "The two nations forged a strong alliance over the years.",
+        "exampleTr": "İki ulus yıllar içinde güçlü bir ittifak kurdu."
+      }
+    ],
+    "synonyms": [
+      "counterfeit",
+      "fake",
+      "establish"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_zealot",
+    "headword": "zealot",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈzelət/",
+    "meanings": [
+      {
+        "tr": "aşırı taraftar, fanatik, bağnaz",
+        "en": "a person who has very strong, often extreme, beliefs",
+        "exampleEn": "He was a religious zealot who refused any compromise.",
+        "exampleTr": "Hiçbir uzlaşmayı reddeden dini bir fanatikti."
+      }
+    ],
+    "synonyms": [
+      "fanatic",
+      "extremist",
+      "radical"
+    ],
+    "antonyms": [
+      "moderate"
+    ]
+  },
+  {
+    "id": "w_extremism",
+    "headword": "extremism",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪkˈstriːmɪzəm/",
+    "meanings": [
+      {
+        "tr": "aşırıcılık, aşırılık (özellikle siyasi/dini)",
+        "en": "the holding of extreme political or religious views",
+        "exampleEn": "The government launched a campaign against violent extremism.",
+        "exampleTr": "Hükümet şiddet içeren aşırıcılığa karşı bir kampanya başlattı."
+      }
+    ],
+    "synonyms": [
+      "radicalism",
+      "fanaticism",
+      "zealotry"
+    ],
+    "antonyms": [
+      "moderation"
+    ]
+  },
+  {
+    "id": "w_zealotry",
+    "headword": "zealotry",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈzelətri/",
+    "meanings": [
+      {
+        "tr": "fanatiklik, aşırı bağnazlık",
+        "en": "excessive and uncompromising commitment to a cause or belief",
+        "exampleEn": "His political zealotry alienated even his closest allies.",
+        "exampleTr": "Siyasi fanatikliği en yakın müttefiklerini bile kendinden uzaklaştırdı."
+      }
+    ],
+    "synonyms": [
+      "fanaticism",
+      "extremism",
+      "militancy"
+    ],
+    "antonyms": [
+      "moderation",
+      "tolerance"
+    ]
+  },
+  {
+    "id": "w_moderation",
+    "headword": "moderation",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌmɒdəˈreɪʃn/",
+    "meanings": [
+      {
+        "tr": "ölçülülük, ılımlılık, aşırıya kaçmama",
+        "en": "the quality of doing something within sensible limits",
+        "exampleEn": "Doctors advise drinking alcohol only in moderation.",
+        "exampleTr": "Doktorlar alkolü yalnızca ölçülü tüketmeyi öneriyor."
+      }
+    ],
+    "synonyms": [
+      "restraint",
+      "temperance",
+      "self-control"
+    ],
+    "antonyms": [
+      "excess",
+      "extremism"
+    ]
+  },
+  {
+    "id": "w_near_sighted",
+    "headword": "near-sighted",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌnɪəˈsaɪtɪd/",
+    "meanings": [
+      {
+        "tr": "miyop, uzağı iyi görememe",
+        "en": "able to see things clearly only when they are close",
+        "exampleEn": "She is near-sighted and cannot read road signs from a distance.",
+        "exampleTr": "O miyop ve uzaktan trafik levhalarını okuyamıyor."
+      },
+      {
+        "tr": "dar görüşlü, ileriyi göremeyen",
+        "en": "lacking foresight; not considering future consequences",
+        "exampleEn": "It was a near-sighted policy that ignored long-term costs.",
+        "exampleTr": "Uzun vadeli maliyetleri göz ardı eden dar görüşlü bir politikaydı."
+      }
+    ],
+    "synonyms": [
+      "myopic",
+      "short-sighted"
+    ],
+    "antonyms": [
+      "far-sighted",
+      "long-sighted"
+    ]
+  },
+  {
+    "id": "w_unfashionably",
+    "headword": "unfashionably",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ʌnˈfæʃnəbli/",
+    "meanings": [
+      {
+        "tr": "modaya aykırı biçimde, demode olarak",
+        "en": "in a way that is not currently popular or in style",
+        "exampleEn": "He remained unfashionably optimistic about the economy.",
+        "exampleTr": "Ekonomi konusunda modaya aykırı biçimde iyimser kaldı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "fashionably"
+    ]
+  },
+  {
+    "id": "w_obesity",
+    "headword": "obesity",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əʊˈbiːsəti/",
+    "meanings": [
+      {
+        "tr": "obezite, aşırı şişmanlık",
+        "en": "the condition of being very overweight in an unhealthy way",
+        "exampleEn": "Childhood obesity has become a serious health concern.",
+        "exampleTr": "Çocukluk çağı obezitesi ciddi bir sağlık sorunu haline geldi."
+      }
+    ],
+    "synonyms": [
+      "corpulence",
+      "fatness"
+    ],
+    "antonyms": [
+      "thinness"
+    ]
+  },
+  {
+    "id": "w_plumpness",
+    "headword": "plumpness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈplʌmpnəs/",
+    "meanings": [
+      {
+        "tr": "tombulluk, dolgunluk",
+        "en": "the quality of being pleasantly round and slightly fat",
+        "exampleEn": "The plumpness of the baby's cheeks made everyone smile.",
+        "exampleTr": "Bebeğin yanaklarının tombulluğu herkesi gülümsetti."
+      }
+    ],
+    "synonyms": [
+      "chubbiness",
+      "roundness"
+    ],
+    "antonyms": [
+      "thinness",
+      "leanness"
+    ]
+  },
+  {
+    "id": "w_carping",
+    "headword": "carping",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkɑːpɪŋ/",
+    "meanings": [
+      {
+        "tr": "sürekli kusur bulan, dırdırcı, mızmız",
+        "en": "continually finding fault in a petty or annoying way",
+        "exampleEn": "I'm tired of his carping criticism of everything I do.",
+        "exampleTr": "Yaptığım her şeye yönelik dırdırcı eleştirilerinden bıktım."
+      }
+    ],
+    "synonyms": [
+      "nitpicking",
+      "cavilling",
+      "fault-finding"
+    ],
+    "antonyms": [
+      "complimentary",
+      "approving"
+    ]
+  },
+  {
+    "id": "w_nepotism",
+    "headword": "nepotism",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈnepətɪzəm/",
+    "meanings": [
+      {
+        "tr": "akraba kayırma, adam kayırmacılık",
+        "en": "the practice of giving jobs or advantages to your own relatives",
+        "exampleEn": "The company was accused of nepotism after hiring the CEO's son.",
+        "exampleTr": "Şirket, CEO'nun oğlunu işe aldıktan sonra akraba kayırmakla suçlandı."
+      }
+    ],
+    "synonyms": [
+      "favouritism",
+      "cronyism"
+    ],
+    "antonyms": [
+      "meritocracy"
+    ]
+  },
+  {
+    "id": "w_practicably",
+    "headword": "practicably",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpræktɪkəbli/",
+    "meanings": [
+      {
+        "tr": "uygulanabilir biçimde, olabildiğince (pratik açıdan mümkün olduğunca)",
+        "en": "in a way that is possible to do or put into practice",
+        "exampleEn": "Please respond as soon as practicably possible.",
+        "exampleTr": "Lütfen uygulanabilir olan en kısa sürede yanıt verin."
+      }
+    ],
+    "synonyms": [
+      "feasibly",
+      "realistically"
+    ],
+    "antonyms": [
+      "impracticably"
+    ]
+  },
+  {
+    "id": "w_realistically",
+    "headword": "realistically",
+    "pos": "adv",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌrɪəˈlɪstɪkli/",
+    "meanings": [
+      {
+        "tr": "gerçekçi biçimde, gerçeğe uygun olarak",
+        "en": "in a way that is sensible and based on what is actually possible",
+        "exampleEn": "Realistically, we can't finish the whole project by Friday.",
+        "exampleTr": "Gerçekçi olmak gerekirse, tüm projeyi cumaya kadar bitiremeyiz."
+      },
+      {
+        "tr": "gerçeğe benzer biçimde (tasvir)",
+        "en": "in a way that represents things as they really are",
+        "exampleEn": "The film portrays war realistically and without glamour.",
+        "exampleTr": "Film savaşı gerçekçi biçimde ve süslemeden tasvir ediyor."
+      }
+    ],
+    "synonyms": [
+      "sensibly",
+      "pragmatically"
+    ],
+    "antonyms": [
+      "unrealistically",
+      "idealistically"
+    ]
+  },
+  {
+    "id": "w_fruitfulness",
+    "headword": "fruitfulness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfruːtflnəs/",
+    "meanings": [
+      {
+        "tr": "verimlilik, bereket, semere verme",
+        "en": "the quality of producing good or useful results",
+        "exampleEn": "The fruitfulness of the collaboration surprised both teams.",
+        "exampleTr": "İş birliğinin verimliliği her iki ekibi de şaşırttı."
+      }
+    ],
+    "synonyms": [
+      "productivity",
+      "fertility",
+      "abundance"
+    ],
+    "antonyms": [
+      "barrenness",
+      "fruitlessness"
+    ]
+  }
+]

@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "w_poor_person",
+    "headword": "poor person",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/pɔː ˈpɜːsn/",
+    "meanings": [
+      {
+        "tr": "yoksul kişi, fakir insan",
+        "en": "a person who has little money or few possessions",
+        "exampleEn": "The charity provides free meals to any poor person who comes to the shelter.",
+        "exampleTr": "Yardım kuruluşu, barınağa gelen her yoksul kişiye ücretsiz yemek veriyor."
+      }
+    ],
+    "synonyms": [
+      "pauper",
+      "beggar"
+    ],
+    "antonyms": [
+      "rich person"
+    ]
+  },
+  {
+    "id": "w_poorly_paid",
+    "headword": "poorly-paid",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpɔːli ˈpeɪd/",
+    "meanings": [
+      {
+        "tr": "düşük ücretli, az maaşlı",
+        "en": "earning or providing a small amount of money for work",
+        "exampleEn": "Many essential workers are still poorly-paid despite their importance.",
+        "exampleTr": "Birçok temel işçi, önemlerine rağmen hâlâ düşük ücretli."
+      }
+    ],
+    "synonyms": [
+      "low-paid",
+      "underpaid"
+    ],
+    "antonyms": [
+      "well-paid",
+      "highly-paid"
+    ]
+  },
+  {
+    "id": "w_populace",
+    "headword": "populace",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɒpjələs/",
+    "meanings": [
+      {
+        "tr": "halk, ahali, nüfus",
+        "en": "all the ordinary people living in a particular country or area",
+        "exampleEn": "The government's decision angered a large part of the populace.",
+        "exampleTr": "Hükümetin kararı halkın büyük bir kısmını öfkelendirdi."
+      }
+    ],
+    "synonyms": [
+      "population",
+      "public",
+      "people"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_popular_music",
+    "headword": "popular music",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpɒpjələ ˈmjuːzɪk/",
+    "meanings": [
+      {
+        "tr": "popüler müzik, pop müzik",
+        "en": "music that appeals to a wide audience and is enjoyed by many people",
+        "exampleEn": "She grew up listening to the popular music of the 1980s.",
+        "exampleTr": "O, 1980'lerin popüler müziğini dinleyerek büyüdü."
+      }
+    ],
+    "synonyms": [
+      "pop music"
+    ],
+    "antonyms": [
+      "classical music"
+    ]
+  },
+  {
+    "id": "w_populated",
+    "headword": "populated",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɒpjuleɪtɪd/",
+    "meanings": [
+      {
+        "tr": "nüfuslu, insan yaşayan",
+        "en": "having people living in a particular area",
+        "exampleEn": "This region is sparsely populated, with only a few small villages.",
+        "exampleTr": "Bu bölge seyrek nüfusludur, sadece birkaç küçük köy vardır."
+      }
+    ],
+    "synonyms": [
+      "inhabited",
+      "settled"
+    ],
+    "antonyms": [
+      "uninhabited",
+      "deserted"
+    ]
+  },
+  {
+    "id": "w_porous",
+    "headword": "porous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpɔːrəs/",
+    "meanings": [
+      {
+        "tr": "gözenekli, sıvı veya hava geçiren",
+        "en": "having many small holes that allow liquid or air to pass through",
+        "exampleEn": "Sandstone is a porous rock that absorbs water easily.",
+        "exampleTr": "Kumtaşı, suyu kolayca emen gözenekli bir kayadır."
+      }
+    ],
+    "synonyms": [
+      "permeable",
+      "absorbent"
+    ],
+    "antonyms": [
+      "impermeable",
+      "waterproof"
+    ]
+  },
+  {
+    "id": "w_portray",
+    "headword": "portray",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pɔːˈtreɪ/",
+    "meanings": [
+      {
+        "tr": "betimlemek, resmetmek, canlandırmak",
+        "en": "to represent or describe someone or something in a particular way",
+        "exampleEn": "The novel portrays life in a small coastal town.",
+        "exampleTr": "Roman, küçük bir kıyı kasabasındaki yaşamı betimliyor."
+      },
+      {
+        "tr": "(bir rolü) oynamak, canlandırmak",
+        "en": "to act the part of a particular character in a film or play",
+        "exampleEn": "She portrays a determined lawyer in her latest film.",
+        "exampleTr": "Son filminde kararlı bir avukatı canlandırıyor."
+      }
+    ],
+    "synonyms": [
+      "depict",
+      "represent",
+      "describe"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_positional",
+    "headword": "positional",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pəˈzɪʃənl/",
+    "meanings": [
+      {
+        "tr": "konumsal, pozisyonla ilgili",
+        "en": "relating to the position of something or someone",
+        "exampleEn": "The chess player gained a positional advantage over his opponent.",
+        "exampleTr": "Satranç oyuncusu rakibine karşı konumsal bir üstünlük elde etti."
+      }
+    ],
+    "synonyms": [
+      "locational"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_posterior",
+    "headword": "posterior",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/pɒˈstɪəriə/",
+    "meanings": [
+      {
+        "tr": "arka, kalça (mizahi kullanım)",
+        "en": "a person's bottom or buttocks (formal or humorous)",
+        "exampleEn": "He landed on his posterior after slipping on the ice.",
+        "exampleTr": "Buzda kayınca kalçasının üstüne düştü."
+      },
+      {
+        "tr": "arka, gerideki (sıfat)",
+        "en": "situated at or towards the back of something",
+        "exampleEn": "The posterior part of the brain controls vision.",
+        "exampleTr": "Beynin arka kısmı görmeyi kontrol eder."
+      }
+    ],
+    "synonyms": [
+      "rear",
+      "behind",
+      "backside"
+    ],
+    "antonyms": [
+      "anterior",
+      "front"
+    ]
+  },
+  {
+    "id": "w_power_cut",
+    "headword": "power cut",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpaʊə kʌt/",
+    "meanings": [
+      {
+        "tr": "elektrik kesintisi",
+        "en": "a temporary interruption in the supply of electricity",
+        "exampleEn": "The storm caused a power cut that lasted several hours.",
+        "exampleTr": "Fırtına, birkaç saat süren bir elektrik kesintisine neden oldu."
+      }
+    ],
+    "synonyms": [
+      "power outage",
+      "blackout"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_practicability",
+    "headword": "practicability",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpræktɪkəˈbɪləti/",
+    "meanings": [
+      {
+        "tr": "uygulanabilirlik, yapılabilirlik",
+        "en": "the state of being able to be done or put into practice successfully",
+        "exampleEn": "Engineers questioned the practicability of building a bridge there.",
+        "exampleTr": "Mühendisler oraya köprü inşa etmenin uygulanabilirliğini sorguladı."
+      }
+    ],
+    "synonyms": [
+      "feasibility",
+      "viability"
+    ],
+    "antonyms": [
+      "impracticability"
+    ]
+  },
+  {
+    "id": "w_prank",
+    "headword": "prank",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/præŋk/",
+    "meanings": [
+      {
+        "tr": "muziplik, şaka, oyun",
+        "en": "a trick played on someone as a joke, usually to make people laugh",
+        "exampleEn": "The students played a harmless prank on their teacher.",
+        "exampleTr": "Öğrenciler öğretmenlerine zararsız bir şaka yaptılar."
+      }
+    ],
+    "synonyms": [
+      "trick",
+      "joke",
+      "practical joke"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_prankster",
+    "headword": "prankster",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpræŋkstə/",
+    "meanings": [
+      {
+        "tr": "muzip kişi, şakacı",
+        "en": "a person who plays tricks or practical jokes on others",
+        "exampleEn": "The office prankster hid everyone's staplers on April Fools' Day.",
+        "exampleTr": "Ofisin şakacısı 1 Nisan'da herkesin zımbasını sakladı."
+      }
+    ],
+    "synonyms": [
+      "joker",
+      "trickster"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_prattle",
+    "headword": "prattle",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈprætl/",
+    "meanings": [
+      {
+        "tr": "gevezelik etmek, boş boş konuşmak",
+        "en": "to talk continuously about unimportant or trivial things",
+        "exampleEn": "She prattled on about the weather while we waited.",
+        "exampleTr": "Biz beklerken o hava durumu hakkında durmadan gevezelik etti."
+      }
+    ],
+    "synonyms": [
+      "chatter",
+      "babble",
+      "blather"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_precariously",
+    "headword": "precariously",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prɪˈkeəriəsli/",
+    "meanings": [
+      {
+        "tr": "tehlikeli biçimde, güvensizce, düşecek gibi",
+        "en": "in a way that is dangerous or likely to fall or fail",
+        "exampleEn": "The vase stood precariously on the edge of the table.",
+        "exampleTr": "Vazo, masanın kenarında düşecek gibi tehlikeli biçimde duruyordu."
+      }
+    ],
+    "synonyms": [
+      "unsteadily",
+      "dangerously"
+    ],
+    "antonyms": [
+      "securely",
+      "safely"
+    ]
+  },
+  {
+    "id": "w_precedency",
+    "headword": "precedency",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpresɪdənsi/",
+    "meanings": [
+      {
+        "tr": "öncelik, öncelik sırası",
+        "en": "the condition of being more important or coming before others in rank or order",
+        "exampleEn": "Matters of national security took precedency over all other issues.",
+        "exampleTr": "Ulusal güvenlik meseleleri diğer tüm konulara öncelik kazandı."
+      }
+    ],
+    "synonyms": [
+      "precedence",
+      "priority"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_precious_stone",
+    "headword": "precious stone",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpreʃəs ˈstəʊn/",
+    "meanings": [
+      {
+        "tr": "değerli taş, kıymetli taş",
+        "en": "a rare and valuable stone, such as a diamond or ruby, used in jewellery",
+        "exampleEn": "The crown was decorated with diamonds and other precious stones.",
+        "exampleTr": "Taç, elmaslar ve diğer değerli taşlarla süslenmişti."
+      }
+    ],
+    "synonyms": [
+      "gem",
+      "gemstone",
+      "jewel"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_precondition",
+    "headword": "precondition",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpriːkənˈdɪʃn/",
+    "meanings": [
+      {
+        "tr": "ön koşul, ön şart",
+        "en": "something that must happen or be true before something else can happen",
+        "exampleEn": "A ceasefire was set as a precondition for peace talks.",
+        "exampleTr": "Ateşkes, barış görüşmeleri için bir ön koşul olarak belirlendi."
+      }
+    ],
+    "synonyms": [
+      "prerequisite",
+      "requirement"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_predate",
+    "headword": "predate",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpriːˈdeɪt/",
+    "meanings": [
+      {
+        "tr": "tarihçe önce gelmek, daha önce var olmak",
+        "en": "to exist or happen at an earlier date than something else",
+        "exampleEn": "These cave paintings predate the invention of writing.",
+        "exampleTr": "Bu mağara resimleri yazının icadından öncedir."
+      }
+    ],
+    "synonyms": [
+      "precede",
+      "antedate"
+    ],
+    "antonyms": [
+      "postdate",
+      "follow"
+    ]
+  },
+  {
+    "id": "w_predator",
+    "headword": "predator",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpredətə/",
+    "meanings": [
+      {
+        "tr": "yırtıcı hayvan, avcı",
+        "en": "an animal that hunts, kills and eats other animals",
+        "exampleEn": "Lions are powerful predators at the top of the food chain.",
+        "exampleTr": "Aslanlar, besin zincirinin tepesinde güçlü yırtıcılardır."
+      }
+    ],
+    "synonyms": [
+      "hunter"
+    ],
+    "antonyms": [
+      "prey"
+    ]
+  },
+  {
+    "id": "w_predictability",
+    "headword": "predictability",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prɪˌdɪktəˈbɪləti/",
+    "meanings": [
+      {
+        "tr": "öngörülebilirlik, tahmin edilebilirlik",
+        "en": "the quality of being able to be known or guessed before it happens",
+        "exampleEn": "The predictability of the tides makes them easy to plan around.",
+        "exampleTr": "Gelgitlerin öngörülebilirliği, onlara göre plan yapmayı kolaylaştırır."
+      }
+    ],
+    "synonyms": [
+      "foreseeability"
+    ],
+    "antonyms": [
+      "unpredictability",
+      "uncertainty"
+    ]
+  },
+  {
+    "id": "w_preeminence",
+    "headword": "preeminence",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/priˈemɪnəns/",
+    "meanings": [
+      {
+        "tr": "üstünlük, seçkinlik, önde gelme",
+        "en": "the fact of being more important, powerful or better than others",
+        "exampleEn": "The city's preeminence as a financial centre lasted for centuries.",
+        "exampleTr": "Şehrin bir finans merkezi olarak üstünlüğü yüzyıllarca sürdü."
+      }
+    ],
+    "synonyms": [
+      "supremacy",
+      "dominance",
+      "superiority"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_preemptively",
+    "headword": "preemptively",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/priˈemptɪvli/",
+    "meanings": [
+      {
+        "tr": "önleyici biçimde, önceden davranarak",
+        "en": "in a way that acts to prevent something before it can happen",
+        "exampleEn": "The company preemptively recalled the product before any complaints arose.",
+        "exampleTr": "Şirket, herhangi bir şikayet ortaya çıkmadan önce ürünü önleyici biçimde geri çağırdı."
+      }
+    ],
+    "synonyms": [
+      "proactively"
+    ],
+    "antonyms": [
+      "reactively"
+    ]
+  },
+  {
+    "id": "w_prehuman",
+    "headword": "prehuman",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpriːˈhjuːmən/",
+    "meanings": [
+      {
+        "tr": "insan öncesi, insandan önceki",
+        "en": "existing before the appearance of human beings",
+        "exampleEn": "Scientists study prehuman species to understand our origins.",
+        "exampleTr": "Bilim insanları, kökenlerimizi anlamak için insan öncesi türleri inceler."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_preowned",
+    "headword": "preowned",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpriːˈəʊnd/",
+    "meanings": [
+      {
+        "tr": "ikinci el, kullanılmış",
+        "en": "having had a previous owner; second-hand",
+        "exampleEn": "The dealership specializes in preowned luxury cars.",
+        "exampleTr": "Galeri, ikinci el lüks arabalar konusunda uzmanlaşmıştır."
+      }
+    ],
+    "synonyms": [
+      "second-hand",
+      "used"
+    ],
+    "antonyms": [
+      "new",
+      "brand-new"
+    ]
+  },
+  {
+    "id": "w_preparedness",
+    "headword": "preparedness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prɪˈpeədnəs/",
+    "meanings": [
+      {
+        "tr": "hazırlıklı olma, hazır bulunuşluk",
+        "en": "the state of being ready to deal with something, especially an emergency",
+        "exampleEn": "The drill improved the city's preparedness for earthquakes.",
+        "exampleTr": "Tatbikat, şehrin depremlere karşı hazırlıklı olma durumunu geliştirdi."
+      }
+    ],
+    "synonyms": [
+      "readiness"
+    ],
+    "antonyms": [
+      "unpreparedness"
+    ]
+  },
+  {
+    "id": "w_preposterous",
+    "headword": "preposterous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prɪˈpɒstərəs/",
+    "meanings": [
+      {
+        "tr": "saçma, gülünç, akıl almaz",
+        "en": "completely unreasonable or ridiculous; hard to believe",
+        "exampleEn": "The idea that he could run a mile in two minutes is preposterous.",
+        "exampleTr": "Bir mili iki dakikada koşabileceği fikri saçmadır."
+      }
+    ],
+    "synonyms": [
+      "absurd",
+      "ridiculous",
+      "ludicrous"
+    ],
+    "antonyms": [
+      "reasonable",
+      "sensible"
+    ]
+  },
+  {
+    "id": "w_preservationist",
+    "headword": "preservationist",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌprezəˈveɪʃənɪst/",
+    "meanings": [
+      {
+        "tr": "koruma yanlısı, koruma savunucusu",
+        "en": "a person who works to protect and preserve historic buildings or the environment",
+        "exampleEn": "Preservationists campaigned to save the old theatre from demolition.",
+        "exampleTr": "Koruma yanlıları, eski tiyatroyu yıkımdan kurtarmak için kampanya yürüttü."
+      }
+    ],
+    "synonyms": [
+      "conservationist"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_presuppose",
+    "headword": "presuppose",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌpriːsəˈpəʊz/",
+    "meanings": [
+      {
+        "tr": "önceden varsaymak, ön kabul olarak almak",
+        "en": "to accept or assume that something is true before considering something else",
+        "exampleEn": "Her argument presupposes that everyone has equal access to education.",
+        "exampleTr": "Onun argümanı, herkesin eğitime eşit erişimi olduğunu önceden varsayar."
+      }
+    ],
+    "synonyms": [
+      "assume",
+      "presume"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pretentious",
+    "headword": "pretentious",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prɪˈtenʃəs/",
+    "meanings": [
+      {
+        "tr": "gösterişçi, hava atan, özentili",
+        "en": "trying to appear more important, intelligent or cultured than one really is",
+        "exampleEn": "The restaurant was too pretentious for a casual dinner.",
+        "exampleTr": "Restoran, sıradan bir akşam yemeği için fazla gösterişçiydi."
+      }
+    ],
+    "synonyms": [
+      "affected",
+      "showy",
+      "snobbish"
+    ],
+    "antonyms": [
+      "modest",
+      "unpretentious"
+    ]
+  },
+  {
+    "id": "w_preventable",
+    "headword": "preventable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prɪˈventəbl/",
+    "meanings": [
+      {
+        "tr": "önlenebilir, engellenebilir",
+        "en": "able to be stopped from happening",
+        "exampleEn": "Many road accidents are preventable with careful driving.",
+        "exampleTr": "Birçok trafik kazası dikkatli sürüşle önlenebilir."
+      }
+    ],
+    "synonyms": [
+      "avoidable"
+    ],
+    "antonyms": [
+      "unavoidable",
+      "inevitable"
+    ]
+  },
+  {
+    "id": "w_preventably",
+    "headword": "preventably",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prɪˈventəbli/",
+    "meanings": [
+      {
+        "tr": "önlenebilir biçimde",
+        "en": "in a way that could have been stopped from happening",
+        "exampleEn": "Thousands of people die preventably each year from lack of clean water.",
+        "exampleTr": "Her yıl binlerce insan temiz su eksikliğinden önlenebilir biçimde ölüyor."
+      }
+    ],
+    "synonyms": [
+      "avoidably"
+    ],
+    "antonyms": [
+      "unavoidably"
+    ]
+  },
+  {
+    "id": "w_primordial",
+    "headword": "primordial",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/praɪˈmɔːdiəl/",
+    "meanings": [
+      {
+        "tr": "ilkel, en eski, başlangıçtaki",
+        "en": "existing at or from the very beginning, especially of the world",
+        "exampleEn": "Life is thought to have begun in a primordial ocean.",
+        "exampleTr": "Yaşamın ilkel bir okyanusta başladığı düşünülüyor."
+      }
+    ],
+    "synonyms": [
+      "primeval",
+      "ancient",
+      "primal"
+    ],
+    "antonyms": [
+      "modern"
+    ]
+  },
+  {
+    "id": "w_printing_press",
+    "headword": "printing press",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈprɪntɪŋ pres/",
+    "meanings": [
+      {
+        "tr": "matbaa, baskı makinesi",
+        "en": "a machine used for printing text or pictures onto paper",
+        "exampleEn": "The printing press revolutionized the spread of knowledge.",
+        "exampleTr": "Matbaa, bilginin yayılmasında devrim yarattı."
+      }
+    ],
+    "synonyms": [
+      "press"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_priory",
+    "headword": "priory",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈpraɪəri/",
+    "meanings": [
+      {
+        "tr": "manastır (bir başrahibin yönettiği), keşişhane",
+        "en": "a religious building where monks or nuns live, governed by a prior or prioress",
+        "exampleEn": "The medieval priory still stands beside the river.",
+        "exampleTr": "Ortaçağdan kalma manastır hâlâ nehrin kenarında duruyor."
+      }
+    ],
+    "synonyms": [
+      "monastery",
+      "convent",
+      "abbey"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_pristine",
+    "headword": "pristine",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈprɪstiːn/",
+    "meanings": [
+      {
+        "tr": "tertemiz, el değmemiş, bozulmamış",
+        "en": "in perfect condition; clean and completely new-looking",
+        "exampleEn": "The vintage car was kept in pristine condition.",
+        "exampleTr": "Klasik araba tertemiz durumda tutulmuştu."
+      },
+      {
+        "tr": "bakir, doğal haliyle kalmış",
+        "en": "not spoiled or changed by people; in its natural state",
+        "exampleEn": "They hiked through a pristine wilderness untouched by development.",
+        "exampleTr": "Yapılaşmadan etkilenmemiş bakir bir doğada yürüyüş yaptılar."
+      }
+    ],
+    "synonyms": [
+      "immaculate",
+      "spotless",
+      "unspoiled"
+    ],
+    "antonyms": [
+      "dirty",
+      "spoiled"
+    ]
+  },
+  {
+    "id": "w_proceed_cautiously",
+    "headword": "proceed cautiously",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/prəˌsiːd ˈkɔːʃəsli/",
+    "meanings": [
+      {
+        "tr": "dikkatli ilerlemek, temkinli davranmak",
+        "en": "to continue or move forward carefully to avoid problems or danger",
+        "exampleEn": "Investors were advised to proceed cautiously in the uncertain market.",
+        "exampleTr": "Yatırımcılara belirsiz piyasada dikkatli ilerlemeleri tavsiye edildi."
+      }
+    ],
+    "synonyms": [
+      "tread carefully",
+      "take care"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_procreation",
+    "headword": "procreation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌprəʊkriˈeɪʃn/",
+    "meanings": [
+      {
+        "tr": "üreme, çoğalma, döl verme",
+        "en": "the process of producing offspring; reproduction",
+        "exampleEn": "In many species, procreation occurs only during a specific season.",
+        "exampleTr": "Birçok türde üreme yalnızca belirli bir mevsimde gerçekleşir."
+      }
+    ],
+    "synonyms": [
+      "reproduction",
+      "breeding"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_procuring",
+    "headword": "procuring",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prəˈkjʊərɪŋ/",
+    "meanings": [
+      {
+        "tr": "tedarik etme, temin etme, edinme",
+        "en": "the act of obtaining or acquiring something, especially with effort",
+        "exampleEn": "The department is responsible for procuring supplies for the whole company.",
+        "exampleTr": "Departman, tüm şirket için malzeme tedarik etmekten sorumludur."
+      }
+    ],
+    "synonyms": [
+      "obtaining",
+      "acquiring",
+      "sourcing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_prod",
+    "headword": "prod",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prɒd/",
+    "meanings": [
+      {
+        "tr": "dürtmek, itmek",
+        "en": "to push someone or something with a finger or pointed object",
+        "exampleEn": "She prodded him gently to wake him up.",
+        "exampleTr": "Onu uyandırmak için hafifçe dürttü."
+      },
+      {
+        "tr": "teşvik etmek, harekete geçirmek için dürtmek",
+        "en": "to encourage or urge someone to do something",
+        "exampleEn": "His parents had to prod him into applying for the job.",
+        "exampleTr": "Ailesinin, işe başvurması için onu dürtmesi gerekti."
+      }
+    ],
+    "synonyms": [
+      "poke",
+      "nudge",
+      "jab"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_profanity",
+    "headword": "profanity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prəˈfænəti/",
+    "meanings": [
+      {
+        "tr": "küfür, ağza alınmayacak söz",
+        "en": "offensive or obscene language; a swear word",
+        "exampleEn": "The film was criticized for its excessive profanity.",
+        "exampleTr": "Film, aşırı küfür içeriği nedeniyle eleştirildi."
+      }
+    ],
+    "synonyms": [
+      "swearing",
+      "obscenity",
+      "cursing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_profit_making",
+    "headword": "profit-making",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈprɒfɪt ˌmeɪkɪŋ/",
+    "meanings": [
+      {
+        "tr": "kâr amaçlı, kazanç getiren",
+        "en": "intended to or succeeding in earning money",
+        "exampleEn": "They converted the charity into a profit-making enterprise.",
+        "exampleTr": "Yardım kuruluşunu kâr amaçlı bir işletmeye dönüştürdüler."
+      }
+    ],
+    "synonyms": [
+      "profitable",
+      "for-profit",
+      "commercial"
+    ],
+    "antonyms": [
+      "non-profit",
+      "loss-making"
+    ]
+  },
+  {
+    "id": "w_prone",
+    "headword": "prone",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prəʊn/",
+    "meanings": [
+      {
+        "tr": "eğilimli, yatkın, meyilli",
+        "en": "likely to do or suffer from something, especially something bad",
+        "exampleEn": "He is prone to making careless mistakes when he is tired.",
+        "exampleTr": "Yorgun olduğunda dikkatsiz hatalar yapmaya eğilimlidir."
+      },
+      {
+        "tr": "yüzüstü yatmış",
+        "en": "lying flat with the front of the body facing downwards",
+        "exampleEn": "The soldier lay prone on the ground to take aim.",
+        "exampleTr": "Asker nişan almak için yüzüstü yere uzandı."
+      }
+    ],
+    "synonyms": [
+      "liable",
+      "susceptible",
+      "inclined"
+    ],
+    "antonyms": [
+      "immune",
+      "resistant",
+      "supine"
+    ]
+  },
+  {
+    "id": "w_proper_use",
+    "headword": "proper use",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌprɒpə ˈjuːs/",
+    "meanings": [
+      {
+        "tr": "doğru kullanım, uygun kullanım",
+        "en": "the correct or intended way of using something",
+        "exampleEn": "The manual explains the proper use of the equipment.",
+        "exampleTr": "Kılavuz, ekipmanın doğru kullanımını açıklıyor."
+      }
+    ],
+    "synonyms": [
+      "correct use",
+      "appropriate use"
+    ],
+    "antonyms": [
+      "misuse"
+    ]
+  },
+  {
+    "id": "w_proportionately",
+    "headword": "proportionately",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/prəˈpɔːʃənətli/",
+    "meanings": [
+      {
+        "tr": "orantılı olarak, oranla",
+        "en": "in a way that corresponds in size or amount to something else",
+        "exampleEn": "As income rises, taxes increase proportionately.",
+        "exampleTr": "Gelir arttıkça, vergiler orantılı olarak artar."
+      }
+    ],
+    "synonyms": [
+      "correspondingly",
+      "relatively"
+    ],
+    "antonyms": [
+      "disproportionately"
+    ]
+  }
+]

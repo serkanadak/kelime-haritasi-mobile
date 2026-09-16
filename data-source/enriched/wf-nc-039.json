@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "w_standardize",
+    "headword": "standardize",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstændədaɪz/",
+    "meanings": [
+      {
+        "tr": "standartlaştırmak, tek tip hale getirmek",
+        "en": "to make things of the same type all have the same features or qualities",
+        "exampleEn": "The company decided to standardize its packaging across all markets.",
+        "exampleTr": "Şirket tüm pazarlarda ambalajını standartlaştırmaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "normalize",
+      "regularize",
+      "systematize"
+    ],
+    "antonyms": [
+      "diversify",
+      "customize"
+    ]
+  },
+  {
+    "id": "w_stark",
+    "headword": "stark",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/stɑːk/",
+    "meanings": [
+      {
+        "tr": "çıplak, sade; keskin, belirgin",
+        "en": "unpleasantly clear, plain, or harsh in appearance",
+        "exampleEn": "The report drew a stark contrast between rich and poor neighborhoods.",
+        "exampleTr": "Rapor zengin ve fakir mahalleler arasında keskin bir tezat ortaya koydu."
+      },
+      {
+        "tr": "tamamen, büsbütün",
+        "en": "complete or extreme",
+        "exampleEn": "He was left in stark poverty after the business failed.",
+        "exampleTr": "İş batınca büsbütün yoksulluk içinde kaldı."
+      }
+    ],
+    "synonyms": [
+      "bleak",
+      "harsh",
+      "sharp"
+    ],
+    "antonyms": [
+      "mild",
+      "subtle"
+    ]
+  },
+  {
+    "id": "w_stash",
+    "headword": "stash",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/stæʃ/",
+    "meanings": [
+      {
+        "tr": "gizlice saklamak, istiflemek",
+        "en": "to store something safely in a hidden place",
+        "exampleEn": "She stashed the money under the mattress.",
+        "exampleTr": "Parayı yatağın altına sakladı."
+      },
+      {
+        "tr": "zula, gizli saklanan miktar",
+        "en": "a secret store of something",
+        "exampleEn": "The police found a stash of stolen goods in the garage.",
+        "exampleTr": "Polis garajda bir zula çalıntı mal buldu."
+      }
+    ],
+    "synonyms": [
+      "hide",
+      "hoard",
+      "cache"
+    ],
+    "antonyms": [
+      "display",
+      "reveal"
+    ]
+  },
+  {
+    "id": "w_state_run",
+    "headword": "state-run",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsteɪt rʌn/",
+    "meanings": [
+      {
+        "tr": "devlet tarafından işletilen, devlete ait",
+        "en": "owned and controlled by the government",
+        "exampleEn": "The story was broadcast on state-run television.",
+        "exampleTr": "Haber devlete ait televizyonda yayınlandı."
+      }
+    ],
+    "synonyms": [
+      "state-owned",
+      "government-run",
+      "public"
+    ],
+    "antonyms": [
+      "private",
+      "privately-owned"
+    ]
+  },
+  {
+    "id": "w_statuette",
+    "headword": "statuette",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌstætʃuˈet/",
+    "meanings": [
+      {
+        "tr": "küçük heykel, heykelcik",
+        "en": "a small statue",
+        "exampleEn": "A bronze statuette stood on the mantelpiece.",
+        "exampleTr": "Şöminenin üzerinde bronz bir heykelcik duruyordu."
+      }
+    ],
+    "synonyms": [
+      "figurine",
+      "statue"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_stay_silent",
+    "headword": "stay silent",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/steɪ ˈsaɪlənt/",
+    "meanings": [
+      {
+        "tr": "sessiz kalmak, susmak",
+        "en": "to say nothing; to not speak or comment",
+        "exampleEn": "He chose to stay silent rather than reveal his source.",
+        "exampleTr": "Kaynağını açıklamaktansa sessiz kalmayı tercih etti."
+      }
+    ],
+    "synonyms": [
+      "keep quiet",
+      "hold one's tongue"
+    ],
+    "antonyms": [
+      "speak up"
+    ]
+  },
+  {
+    "id": "w_staying_power",
+    "headword": "staying power",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsteɪɪŋ ˌpaʊə/",
+    "meanings": [
+      {
+        "tr": "dayanma gücü, sebat",
+        "en": "the ability to continue doing something difficult for a long time",
+        "exampleEn": "Winning a marathon requires real staying power.",
+        "exampleTr": "Bir maraton kazanmak gerçek bir dayanma gücü gerektirir."
+      }
+    ],
+    "synonyms": [
+      "endurance",
+      "stamina",
+      "perseverance"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_steadfast",
+    "headword": "steadfast",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstedfɑːst/",
+    "meanings": [
+      {
+        "tr": "sarsılmaz, sadık, kararlı",
+        "en": "staying firm in belief or purpose; loyal",
+        "exampleEn": "She remained steadfast in her support for the cause.",
+        "exampleTr": "Davaya olan desteğinde sarsılmaz kaldı."
+      }
+    ],
+    "synonyms": [
+      "resolute",
+      "unwavering",
+      "firm"
+    ],
+    "antonyms": [
+      "wavering",
+      "irresolute"
+    ]
+  },
+  {
+    "id": "w_stealthily",
+    "headword": "stealthily",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstelθɪli/",
+    "meanings": [
+      {
+        "tr": "sinsice, gizlice",
+        "en": "in a quiet and secret way to avoid being noticed",
+        "exampleEn": "The cat moved stealthily toward the bird.",
+        "exampleTr": "Kedi sinsice kuşa doğru ilerledi."
+      }
+    ],
+    "synonyms": [
+      "furtively",
+      "secretly",
+      "surreptitiously"
+    ],
+    "antonyms": [
+      "openly",
+      "brazenly"
+    ]
+  },
+  {
+    "id": "w_steam_cooked",
+    "headword": "steam-cooked",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstiːm kʊkt/",
+    "meanings": [
+      {
+        "tr": "buğulama, buharda pişirilmiş",
+        "en": "cooked using steam rather than in water or oil",
+        "exampleEn": "The restaurant serves steam-cooked vegetables to keep them healthy.",
+        "exampleTr": "Restoran, sağlıklı kalmaları için buharda pişirilmiş sebzeler sunuyor."
+      }
+    ],
+    "synonyms": [
+      "steamed"
+    ],
+    "antonyms": [
+      "fried",
+      "boiled"
+    ]
+  },
+  {
+    "id": "w_step_in",
+    "headword": "step in",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/step ɪn/",
+    "meanings": [
+      {
+        "tr": "araya girmek, müdahale etmek, devreye girmek",
+        "en": "to become involved in a difficult situation in order to help",
+        "exampleEn": "When the argument got heated, the manager had to step in.",
+        "exampleTr": "Tartışma kızıştığında müdür devreye girmek zorunda kaldı."
+      }
+    ],
+    "synonyms": [
+      "intervene",
+      "interpose",
+      "mediate"
+    ],
+    "antonyms": [
+      "withdraw",
+      "stand back"
+    ]
+  },
+  {
+    "id": "w_sterile",
+    "headword": "sterile",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsteraɪl/",
+    "meanings": [
+      {
+        "tr": "steril, mikropsuz",
+        "en": "completely clean and free from bacteria",
+        "exampleEn": "Surgeons must work in a sterile environment.",
+        "exampleTr": "Cerrahlar steril bir ortamda çalışmak zorundadır."
+      },
+      {
+        "tr": "kısır, verimsiz",
+        "en": "unable to produce offspring, plants, or results",
+        "exampleEn": "The debate proved sterile and led to no new ideas.",
+        "exampleTr": "Tartışma kısır çıktı ve hiçbir yeni fikre yol açmadı."
+      }
+    ],
+    "synonyms": [
+      "germ-free",
+      "antiseptic",
+      "barren"
+    ],
+    "antonyms": [
+      "fertile",
+      "contaminated"
+    ]
+  },
+  {
+    "id": "w_sternness",
+    "headword": "sternness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstɜːnnəs/",
+    "meanings": [
+      {
+        "tr": "sertlik, ciddiyet, katılık",
+        "en": "the quality of being serious and strict",
+        "exampleEn": "There was a sternness in his voice that silenced the room.",
+        "exampleTr": "Sesinde odayı susturan bir sertlik vardı."
+      }
+    ],
+    "synonyms": [
+      "severity",
+      "strictness",
+      "harshness"
+    ],
+    "antonyms": [
+      "gentleness",
+      "leniency"
+    ]
+  },
+  {
+    "id": "w_stiffness",
+    "headword": "stiffness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstɪfnəs/",
+    "meanings": [
+      {
+        "tr": "katılık, sertlik; tutukluk",
+        "en": "the state of being hard to bend or move easily",
+        "exampleEn": "After the long hike she felt stiffness in her legs.",
+        "exampleTr": "Uzun yürüyüşten sonra bacaklarında tutukluk hissetti."
+      }
+    ],
+    "synonyms": [
+      "rigidity",
+      "tension"
+    ],
+    "antonyms": [
+      "flexibility",
+      "suppleness"
+    ]
+  },
+  {
+    "id": "w_still_water",
+    "headword": "still water",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/stɪl ˈwɔːtə/",
+    "meanings": [
+      {
+        "tr": "durgun su; gazsız su",
+        "en": "water that is not moving, or bottled water without gas",
+        "exampleEn": "Would you like sparkling or still water?",
+        "exampleTr": "Gazlı mı yoksa gazsız su mu istersiniz?"
+      }
+    ],
+    "synonyms": [
+      "flat water"
+    ],
+    "antonyms": [
+      "sparkling water"
+    ]
+  },
+  {
+    "id": "w_stirring",
+    "headword": "stirring",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstɜːrɪŋ/",
+    "meanings": [
+      {
+        "tr": "heyecan verici, duygulandıran, coşturucu",
+        "en": "causing strong feelings of excitement or emotion",
+        "exampleEn": "The general gave a stirring speech before the battle.",
+        "exampleTr": "General savaştan önce coşturucu bir konuşma yaptı."
+      }
+    ],
+    "synonyms": [
+      "rousing",
+      "moving",
+      "inspiring"
+    ],
+    "antonyms": [
+      "dull",
+      "boring"
+    ]
+  },
+  {
+    "id": "w_stopgap",
+    "headword": "stopgap",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstɒpɡæp/",
+    "meanings": [
+      {
+        "tr": "geçici çözüm, geçici önlem",
+        "en": "something used temporarily until a permanent solution is found",
+        "exampleEn": "The loan was only a stopgap until the company found investors.",
+        "exampleTr": "Kredi, şirket yatırımcı bulana kadar sadece geçici bir çözümdü."
+      }
+    ],
+    "synonyms": [
+      "makeshift",
+      "temporary measure",
+      "stand-in"
+    ],
+    "antonyms": [
+      "permanent solution"
+    ]
+  },
+  {
+    "id": "w_stoplight",
+    "headword": "stoplight",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstɒplaɪt/",
+    "meanings": [
+      {
+        "tr": "trafik ışığı, kırmızı ışık",
+        "en": "a traffic light, especially the red one",
+        "exampleEn": "Turn left at the second stoplight.",
+        "exampleTr": "İkinci trafik ışığından sola dön."
+      }
+    ],
+    "synonyms": [
+      "traffic light",
+      "traffic signal"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_stoppage",
+    "headword": "stoppage",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstɒpɪdʒ/",
+    "meanings": [
+      {
+        "tr": "durma, duraklama; iş durdurma",
+        "en": "an occasion when work or activity stops, especially as a protest",
+        "exampleEn": "The strike led to a complete stoppage of production.",
+        "exampleTr": "Grev, üretimin tamamen durmasına yol açtı."
+      }
+    ],
+    "synonyms": [
+      "halt",
+      "shutdown",
+      "suspension"
+    ],
+    "antonyms": [
+      "continuation",
+      "resumption"
+    ]
+  },
+  {
+    "id": "w_stopping",
+    "headword": "stopping",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstɒpɪŋ/",
+    "meanings": [
+      {
+        "tr": "durma, durdurma",
+        "en": "the act of coming to a halt or bringing something to a halt",
+        "exampleEn": "There is no stopping on the highway except in emergencies.",
+        "exampleTr": "Otoyolda acil durumlar dışında durmak yasaktır."
+      }
+    ],
+    "synonyms": [
+      "halting",
+      "ceasing"
+    ],
+    "antonyms": [
+      "starting",
+      "continuing"
+    ]
+  },
+  {
+    "id": "w_storage_device",
+    "headword": "storage device",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstɔːrɪdʒ dɪˌvaɪs/",
+    "meanings": [
+      {
+        "tr": "depolama aygıtı, saklama cihazı",
+        "en": "a piece of equipment used to store computer data",
+        "exampleEn": "He copied the files onto a portable storage device.",
+        "exampleTr": "Dosyaları taşınabilir bir depolama aygıtına kopyaladı."
+      }
+    ],
+    "synonyms": [
+      "drive",
+      "memory device"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_stout",
+    "headword": "stout",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/staʊt/",
+    "meanings": [
+      {
+        "tr": "tıknaz, iri yapılı",
+        "en": "rather fat or heavy and solid",
+        "exampleEn": "A stout man in a grey coat blocked the doorway.",
+        "exampleTr": "Gri paltolu tıknaz bir adam kapı ağzını kapatıyordu."
+      },
+      {
+        "tr": "sağlam, dayanıklı; kararlı",
+        "en": "strong and thick, or brave and determined",
+        "exampleEn": "They put up a stout defense against the attackers.",
+        "exampleTr": "Saldırganlara karşı kararlı bir savunma yaptılar."
+      }
+    ],
+    "synonyms": [
+      "plump",
+      "sturdy",
+      "robust"
+    ],
+    "antonyms": [
+      "slim",
+      "frail"
+    ]
+  },
+  {
+    "id": "w_straggle",
+    "headword": "straggle",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstræɡl/",
+    "meanings": [
+      {
+        "tr": "geride kalmak, dağınık ilerlemek, arkadan sürüklenmek",
+        "en": "to move or spread out in an untidy, irregular way, often falling behind",
+        "exampleEn": "A few tired hikers began to straggle behind the group.",
+        "exampleTr": "Birkaç yorgun yürüyüşçü gruptan geride kalmaya başladı."
+      }
+    ],
+    "synonyms": [
+      "lag",
+      "trail",
+      "dawdle"
+    ],
+    "antonyms": [
+      "keep up"
+    ]
+  },
+  {
+    "id": "w_stratagem",
+    "headword": "stratagem",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstrætədʒəm/",
+    "meanings": [
+      {
+        "tr": "taktik, hile, kurnaz plan",
+        "en": "a clever plan or trick to deceive an enemy or gain an advantage",
+        "exampleEn": "The general used a clever stratagem to outwit his rivals.",
+        "exampleTr": "General rakiplerini alt etmek için kurnaz bir taktik kullandı."
+      }
+    ],
+    "synonyms": [
+      "ploy",
+      "ruse",
+      "scheme"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_streak",
+    "headword": "streak",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/striːk/",
+    "meanings": [
+      {
+        "tr": "çizgi, iz, damar",
+        "en": "a long, thin line or mark of a different color",
+        "exampleEn": "She had a streak of grey in her dark hair.",
+        "exampleTr": "Koyu saçlarında gri bir çizgi vardı."
+      },
+      {
+        "tr": "seri, dönem (galibiyet/mağlubiyet)",
+        "en": "a period of continued success or failure",
+        "exampleEn": "The team is on a winning streak this season.",
+        "exampleTr": "Takım bu sezon galibiyet serisinde."
+      }
+    ],
+    "synonyms": [
+      "stripe",
+      "band",
+      "run"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_strenuous",
+    "headword": "strenuous",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstrenjuəs/",
+    "meanings": [
+      {
+        "tr": "yorucu, zahmetli, çaba gerektiren",
+        "en": "needing or using a lot of physical or mental effort",
+        "exampleEn": "The doctor advised him to avoid strenuous exercise.",
+        "exampleTr": "Doktor ona yorucu egzersizden kaçınmasını önerdi."
+      }
+    ],
+    "synonyms": [
+      "arduous",
+      "demanding",
+      "laborious"
+    ],
+    "antonyms": [
+      "easy",
+      "effortless"
+    ]
+  },
+  {
+    "id": "w_stretchiness",
+    "headword": "stretchiness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstretʃinəs/",
+    "meanings": [
+      {
+        "tr": "esneklik, uzayabilirlik",
+        "en": "the quality of being able to stretch easily",
+        "exampleEn": "The stretchiness of the fabric makes it comfortable to wear.",
+        "exampleTr": "Kumaşın esnekliği onu giymeyi rahat kılıyor."
+      }
+    ],
+    "synonyms": [
+      "elasticity",
+      "flexibility"
+    ],
+    "antonyms": [
+      "rigidity"
+    ]
+  },
+  {
+    "id": "w_strew",
+    "headword": "strew",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/struː/",
+    "meanings": [
+      {
+        "tr": "serpmek, saçmak, dağıtmak",
+        "en": "to scatter things over a surface or area",
+        "exampleEn": "They strew flower petals along the path for the bride.",
+        "exampleTr": "Gelin için yolun boyuna çiçek yaprakları serptiler."
+      }
+    ],
+    "synonyms": [
+      "scatter",
+      "sprinkle",
+      "disperse"
+    ],
+    "antonyms": [
+      "gather",
+      "collect"
+    ]
+  },
+  {
+    "id": "w_strife",
+    "headword": "strife",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/straɪf/",
+    "meanings": [
+      {
+        "tr": "çatışma, çekişme, kavga",
+        "en": "angry or violent disagreement between people or groups",
+        "exampleEn": "The country was torn apart by years of civil strife.",
+        "exampleTr": "Ülke yıllarca süren iç çatışmalarla parçalandı."
+      }
+    ],
+    "synonyms": [
+      "conflict",
+      "discord",
+      "friction"
+    ],
+    "antonyms": [
+      "peace",
+      "harmony"
+    ]
+  },
+  {
+    "id": "w_stripper",
+    "headword": "stripper",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstrɪpə/",
+    "meanings": [
+      {
+        "tr": "striptizci",
+        "en": "a person who takes off their clothes as a performance",
+        "exampleEn": "The club hired a stripper for the bachelor party.",
+        "exampleTr": "Kulüp bekarlığa veda partisi için bir striptizci tuttu."
+      },
+      {
+        "tr": "sökücü, çıkarıcı (madde/alet)",
+        "en": "a substance or tool used to remove paint or a coating",
+        "exampleEn": "Use a paint stripper to remove the old varnish.",
+        "exampleTr": "Eski cilayı çıkarmak için bir boya sökücü kullan."
+      }
+    ],
+    "synonyms": [
+      "remover"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_stronghold",
+    "headword": "stronghold",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstrɒŋhəʊld/",
+    "meanings": [
+      {
+        "tr": "kale, müstahkem mevki; kalesi (destek merkezi)",
+        "en": "a place that is strongly defended, or an area of strong support",
+        "exampleEn": "The city was a stronghold of the rebel forces.",
+        "exampleTr": "Şehir isyancı güçlerin kalesiydi."
+      }
+    ],
+    "synonyms": [
+      "fortress",
+      "bastion",
+      "citadel"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_strongroom",
+    "headword": "strongroom",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstrɒŋruːm/",
+    "meanings": [
+      {
+        "tr": "kasa dairesi, çelik oda",
+        "en": "a room with thick walls where valuable things are kept safely",
+        "exampleEn": "The bank keeps its gold in a secure strongroom.",
+        "exampleTr": "Banka altınını güvenli bir kasa dairesinde saklıyor."
+      }
+    ],
+    "synonyms": [
+      "vault",
+      "safe room"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_structural",
+    "headword": "structural",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstrʌktʃərəl/",
+    "meanings": [
+      {
+        "tr": "yapısal",
+        "en": "relating to the structure or framework of something",
+        "exampleEn": "The building suffered serious structural damage in the earthquake.",
+        "exampleTr": "Bina depremde ciddi yapısal hasar gördü."
+      }
+    ],
+    "synonyms": [
+      "organizational",
+      "framework-related"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_stuffy",
+    "headword": "stuffy",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstʌfi/",
+    "meanings": [
+      {
+        "tr": "havasız, boğucu",
+        "en": "lacking fresh air; hot and uncomfortable",
+        "exampleEn": "Open a window; it's really stuffy in here.",
+        "exampleTr": "Bir pencere aç; burası gerçekten havasız."
+      },
+      {
+        "tr": "eski kafalı, katı, resmi",
+        "en": "formal, boring, and old-fashioned",
+        "exampleEn": "The club has a reputation for being stuffy and elitist.",
+        "exampleTr": "Kulüp eski kafalı ve elitist olmakla tanınıyor."
+      }
+    ],
+    "synonyms": [
+      "airless",
+      "stifling",
+      "stodgy"
+    ],
+    "antonyms": [
+      "airy",
+      "fresh"
+    ]
+  },
+  {
+    "id": "w_subdued",
+    "headword": "subdued",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/səbˈdjuːd/",
+    "meanings": [
+      {
+        "tr": "durgun, keyifsiz, sessiz",
+        "en": "quieter and less lively than usual",
+        "exampleEn": "She seemed subdued after hearing the bad news.",
+        "exampleTr": "Kötü haberi duyduktan sonra durgun görünüyordu."
+      },
+      {
+        "tr": "yumuşak, hafif (ışık/renk)",
+        "en": "soft and not bright or loud",
+        "exampleEn": "The room had subdued lighting that felt relaxing.",
+        "exampleTr": "Odada rahatlatıcı hissettiren yumuşak bir aydınlatma vardı."
+      }
+    ],
+    "synonyms": [
+      "muted",
+      "restrained",
+      "somber"
+    ],
+    "antonyms": [
+      "lively",
+      "bright"
+    ]
+  },
+  {
+    "id": "w_subjugation",
+    "headword": "subjugation",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsʌbdʒʊˈɡeɪʃn/",
+    "meanings": [
+      {
+        "tr": "boyunduruk altına alma, tabi kılma",
+        "en": "the act of bringing someone or something under control by force",
+        "exampleEn": "The empire was built on the subjugation of neighboring peoples.",
+        "exampleTr": "İmparatorluk komşu halkların boyunduruk altına alınması üzerine kuruldu."
+      }
+    ],
+    "synonyms": [
+      "conquest",
+      "domination",
+      "oppression"
+    ],
+    "antonyms": [
+      "liberation",
+      "freedom"
+    ]
+  },
+  {
+    "id": "w_submissiveness",
+    "headword": "submissiveness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/səbˈmɪsɪvnəs/",
+    "meanings": [
+      {
+        "tr": "boyun eğme, itaatkarlık",
+        "en": "the quality of being willing to obey and not resist others",
+        "exampleEn": "Her submissiveness allowed others to take advantage of her.",
+        "exampleTr": "İtaatkarlığı, başkalarının onu istismar etmesine izin verdi."
+      }
+    ],
+    "synonyms": [
+      "obedience",
+      "compliance",
+      "meekness"
+    ],
+    "antonyms": [
+      "defiance",
+      "assertiveness"
+    ]
+  },
+  {
+    "id": "w_subordination",
+    "headword": "subordination",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/səˌbɔːdɪˈneɪʃn/",
+    "meanings": [
+      {
+        "tr": "ast konumunda olma, tabiiyet, alt sıraya koyma",
+        "en": "the state of being lower in rank or of treating something as less important",
+        "exampleEn": "The reform ended the subordination of women in the workplace.",
+        "exampleTr": "Reform, kadınların işyerindeki ast konumuna son verdi."
+      }
+    ],
+    "synonyms": [
+      "subjection",
+      "inferiority"
+    ],
+    "antonyms": [
+      "dominance",
+      "superiority"
+    ]
+  },
+  {
+    "id": "w_succinctly",
+    "headword": "succinctly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/səkˈsɪŋktli/",
+    "meanings": [
+      {
+        "tr": "özlü bir şekilde, kısa ve öz olarak",
+        "en": "in a way that is clearly expressed in a few words",
+        "exampleEn": "She summarized the report succinctly in two sentences.",
+        "exampleTr": "Raporu iki cümlede özlü bir şekilde özetledi."
+      }
+    ],
+    "synonyms": [
+      "concisely",
+      "briefly",
+      "tersely"
+    ],
+    "antonyms": [
+      "verbosely",
+      "wordily"
+    ]
+  },
+  {
+    "id": "w_succumb",
+    "headword": "succumb",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/səˈkʌm/",
+    "meanings": [
+      {
+        "tr": "yenik düşmek, boyun eğmek, teslim olmak",
+        "en": "to lose the determination to resist something; to give in",
+        "exampleEn": "He finally succumbed to the temptation and bought the car.",
+        "exampleTr": "Sonunda cazibeye yenik düştü ve arabayı satın aldı."
+      },
+      {
+        "tr": "(hastalıktan) ölmek",
+        "en": "to die from a disease or injury",
+        "exampleEn": "She succumbed to her illness after a long fight.",
+        "exampleTr": "Uzun bir mücadelenin ardından hastalığından hayatını kaybetti."
+      }
+    ],
+    "synonyms": [
+      "yield",
+      "surrender",
+      "give in"
+    ],
+    "antonyms": [
+      "resist",
+      "overcome"
+    ]
+  },
+  {
+    "id": "w_sugar_substitute",
+    "headword": "sugar substitute",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈʃʊɡə ˌsʌbstɪtjuːt/",
+    "meanings": [
+      {
+        "tr": "şeker yerine geçen madde, tatlandırıcı",
+        "en": "a sweet-tasting substance used instead of sugar",
+        "exampleEn": "She uses a sugar substitute in her coffee to cut calories.",
+        "exampleTr": "Kaloriyi azaltmak için kahvesinde şeker yerine tatlandırıcı kullanıyor."
+      }
+    ],
+    "synonyms": [
+      "sweetener",
+      "artificial sweetener"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_suggestive",
+    "headword": "suggestive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/səˈdʒestɪv/",
+    "meanings": [
+      {
+        "tr": "çağrıştıran, ima eden, düşündüren",
+        "en": "making you think of a particular idea or feeling",
+        "exampleEn": "The symptoms are suggestive of a viral infection.",
+        "exampleTr": "Belirtiler viral bir enfeksiyonu çağrıştırıyor."
+      },
+      {
+        "tr": "müstehcen ima içeren, cinsel çağrışımlı",
+        "en": "hinting at something sexual or improper",
+        "exampleEn": "He made a suggestive remark that made everyone uncomfortable.",
+        "exampleTr": "Herkesi rahatsız eden müstehcen bir ima yaptı."
+      }
+    ],
+    "synonyms": [
+      "evocative",
+      "indicative",
+      "provocative"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_suitability",
+    "headword": "suitability",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsuːtəˈbɪləti/",
+    "meanings": [
+      {
+        "tr": "uygunluk, elverişlilik",
+        "en": "the quality of being right or appropriate for a particular purpose",
+        "exampleEn": "The committee assessed each candidate's suitability for the role.",
+        "exampleTr": "Komite her adayın rol için uygunluğunu değerlendirdi."
+      }
+    ],
+    "synonyms": [
+      "appropriateness",
+      "fitness",
+      "aptness"
+    ],
+    "antonyms": [
+      "unsuitability",
+      "inappropriateness"
+    ]
+  },
+  {
+    "id": "w_sulky",
+    "headword": "sulky",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsʌlki/",
+    "meanings": [
+      {
+        "tr": "somurtkan, surat asan, küskün",
+        "en": "silent and bad-tempered because you are annoyed about something",
+        "exampleEn": "The boy became sulky when he wasn't allowed to play.",
+        "exampleTr": "Oynamasına izin verilmeyince çocuk somurttu."
+      }
+    ],
+    "synonyms": [
+      "moody",
+      "sullen",
+      "petulant"
+    ],
+    "antonyms": [
+      "cheerful",
+      "good-humored"
+    ]
+  },
+  {
+    "id": "w_sunburned",
+    "headword": "sunburned",
+    "pos": "adj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsʌnbɜːnd/",
+    "meanings": [
+      {
+        "tr": "güneş yanığı olmuş, güneşten yanmış",
+        "en": "having red and sore skin from being in the sun too long",
+        "exampleEn": "After a day at the beach, his shoulders were badly sunburned.",
+        "exampleTr": "Plajda geçen bir günün ardından omuzları fena halde güneşten yanmıştı."
+      }
+    ],
+    "synonyms": [
+      "sunburnt"
+    ],
+    "antonyms": []
+  }
+]

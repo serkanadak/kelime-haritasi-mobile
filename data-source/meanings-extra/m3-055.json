@@ -1,0 +1,356 @@
+[
+  {
+    "id": "w_solo",
+    "headword": "solo",
+    "extraMeanings": [
+      {
+        "tr": "solo (müzikte tek kişilik bölüm)",
+        "en": "a piece of music performed by one person",
+        "exampleEn": "She played a beautiful guitar solo during the concert.",
+        "exampleTr": "Konser sırasında güzel bir gitar solosu çaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_span",
+    "headword": "span",
+    "extraMeanings": [
+      {
+        "tr": "süre, zaman aralığı; açıklık, genişlik",
+        "en": "a period of time or the width of something",
+        "exampleEn": "The project was completed within a span of two years.",
+        "exampleTr": "Proje iki yıllık bir süre içinde tamamlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_spare",
+    "headword": "spare",
+    "extraMeanings": [
+      {
+        "tr": "esirgemek, bağışlamak (birini bir şeyden korumak)",
+        "en": "to save someone from having to experience something unpleasant",
+        "exampleEn": "I'll spare you the boring details of the meeting.",
+        "exampleTr": "Seni toplantının sıkıcı ayrıntılarından esirgeyeceğim."
+      },
+      {
+        "tr": "ayırmak (zaman, para vb. vermek)",
+        "en": "to give time or money that you can afford",
+        "exampleEn": "Can you spare a few minutes to help me?",
+        "exampleTr": "Bana yardım etmek için birkaç dakika ayırabilir misin?"
+      }
+    ]
+  },
+  {
+    "id": "w_spark",
+    "headword": "spark",
+    "extraMeanings": [
+      {
+        "tr": "ateşlemek, tetiklemek, yol açmak",
+        "en": "to cause something to start or happen",
+        "exampleEn": "The new law sparked a wave of protests across the country.",
+        "exampleTr": "Yeni yasa ülke genelinde bir protesto dalgasını tetikledi."
+      }
+    ]
+  },
+  {
+    "id": "w_spin",
+    "headword": "spin",
+    "extraMeanings": [
+      {
+        "tr": "eğirmek (iplik yapmak); ağ örmek",
+        "en": "to make thread or a web by twisting fibres",
+        "exampleEn": "The spider spins a web to catch insects.",
+        "exampleTr": "Örümcek böcekleri yakalamak için ağ örer."
+      }
+    ]
+  },
+  {
+    "id": "w_splash",
+    "headword": "splash",
+    "extraMeanings": [
+      {
+        "tr": "su birikintisi, sıçrayan sıvı; ışık/renk lekesi",
+        "en": "a small amount of liquid or a bright patch of colour",
+        "exampleEn": "There was a splash of red paint on the wall.",
+        "exampleTr": "Duvarda bir kırmızı boya lekesi vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_spray",
+    "headword": "spray",
+    "extraMeanings": [
+      {
+        "tr": "püskürtmek, serpmek, sıkmak (fiil)",
+        "en": "to force liquid out in small drops over an area",
+        "exampleEn": "She sprayed perfume on her wrists before leaving.",
+        "exampleTr": "Çıkmadan önce bileklerine parfüm sıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_squash",
+    "headword": "squash",
+    "extraMeanings": [
+      {
+        "tr": "ezmek, sıkıştırmak, bastırmak",
+        "en": "to crush something or press it into a smaller space",
+        "exampleEn": "He squashed the empty can with his foot.",
+        "exampleTr": "Boş kutuyu ayağıyla ezdi."
+      }
+    ]
+  },
+  {
+    "id": "w_squeeze",
+    "headword": "squeeze",
+    "extraMeanings": [
+      {
+        "tr": "sıkıştırıp geçmek, güçlükle sığmak",
+        "en": "to fit into a small space with difficulty",
+        "exampleEn": "We managed to squeeze into the crowded elevator.",
+        "exampleTr": "Kalabalık asansöre zar zor sığmayı başardık."
+      }
+    ]
+  },
+  {
+    "id": "w_stab",
+    "headword": "stab",
+    "extraMeanings": [
+      {
+        "tr": "deneme, girişim (a stab at)",
+        "en": "an attempt to do something",
+        "exampleEn": "I've never cooked this before, but I'll have a stab at it.",
+        "exampleTr": "Bunu daha önce hiç pişirmedim ama bir deneyeceğim."
+      }
+    ]
+  },
+  {
+    "id": "w_stack",
+    "headword": "stack",
+    "extraMeanings": [
+      {
+        "tr": "istiflemek, üst üste yığmak (fiil)",
+        "en": "to arrange things in a pile",
+        "exampleEn": "Please stack the chairs against the wall after the meeting.",
+        "exampleTr": "Toplantıdan sonra lütfen sandalyeleri duvara dayayıp istifleyin."
+      },
+      {
+        "tr": "bir sürü, çok miktarda (stacks of)",
+        "en": "a large amount of something",
+        "exampleEn": "I've got stacks of work to finish before Friday.",
+        "exampleTr": "Cumaya kadar bitirmem gereken bir sürü işim var."
+      }
+    ]
+  },
+  {
+    "id": "w_stagger",
+    "headword": "stagger",
+    "extraMeanings": [
+      {
+        "tr": "sendelemek, yalpalayarak yürümek (fiil)",
+        "en": "to walk unsteadily as if about to fall",
+        "exampleEn": "He staggered home after the long, exhausting journey.",
+        "exampleTr": "Uzun ve yorucu yolculuktan sonra sendeleyerek eve gitti."
+      },
+      {
+        "tr": "hayrete düşürmek, şaşkına çevirmek",
+        "en": "to shock or amaze someone greatly",
+        "exampleEn": "The size of the debt staggered the whole team.",
+        "exampleTr": "Borcun büyüklüğü tüm ekibi hayrete düşürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_stain",
+    "headword": "stain",
+    "extraMeanings": [
+      {
+        "tr": "lekelemek, leke bırakmak (fiil)",
+        "en": "to leave a mark that is difficult to remove",
+        "exampleEn": "The red wine stained the white tablecloth.",
+        "exampleTr": "Kırmızı şarap beyaz masa örtüsünü lekeledi."
+      }
+    ]
+  },
+  {
+    "id": "w_stake",
+    "headword": "stake",
+    "extraMeanings": [
+      {
+        "tr": "kazık, direk",
+        "en": "a strong pointed stick pushed into the ground",
+        "exampleEn": "They drove a wooden stake into the ground to mark the spot.",
+        "exampleTr": "Yeri işaretlemek için toprağa tahta bir kazık çaktılar."
+      }
+    ]
+  },
+  {
+    "id": "w_stalk",
+    "headword": "stalk",
+    "extraMeanings": [
+      {
+        "tr": "sap, gövde (bitkinin)",
+        "en": "the main stem of a plant",
+        "exampleEn": "She cut the flower with a long stalk.",
+        "exampleTr": "Uzun saplı çiçeği kesti."
+      }
+    ]
+  },
+  {
+    "id": "w_standard",
+    "headword": "standard",
+    "extraMeanings": [
+      {
+        "tr": "standart, ölçüt, düzey (isim)",
+        "en": "a level of quality that is considered acceptable",
+        "exampleEn": "The hotel maintains a very high standard of service.",
+        "exampleTr": "Otel çok yüksek bir hizmet standardını korur."
+      }
+    ]
+  },
+  {
+    "id": "w_state",
+    "headword": "state",
+    "extraMeanings": [
+      {
+        "tr": "belirtmek, ifade etmek, beyan etmek (fiil)",
+        "en": "to say or write something clearly and formally",
+        "exampleEn": "Please state your name and address on the form.",
+        "exampleTr": "Lütfen formda adınızı ve adresinizi belirtin."
+      },
+      {
+        "tr": "durum, hal (isim)",
+        "en": "the condition that someone or something is in",
+        "exampleEn": "The car was in a terrible state after the accident.",
+        "exampleTr": "Araba kazadan sonra berbat bir durumdaydı."
+      }
+    ]
+  },
+  {
+    "id": "w_static",
+    "headword": "static",
+    "extraMeanings": [
+      {
+        "tr": "parazit, statik elektrik (isim)",
+        "en": "noise on a radio or TV, or electricity that builds up",
+        "exampleEn": "There was too much static on the radio to hear the news.",
+        "exampleTr": "Radyoda haberleri duyamayacak kadar çok parazit vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_steer",
+    "headword": "steer",
+    "extraMeanings": [
+      {
+        "tr": "yönlendirmek, sevk etmek (bir kişiyi/durumu)",
+        "en": "to guide someone or something in a particular direction",
+        "exampleEn": "The teacher tried to steer the discussion back to the main topic.",
+        "exampleTr": "Öğretmen tartışmayı ana konuya geri yönlendirmeye çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_stew",
+    "headword": "stew",
+    "extraMeanings": [
+      {
+        "tr": "ağır ağır pişirmek, yahni yapmak; kaygıdan içi içini yemek",
+        "en": "to cook slowly in liquid, or to worry about something",
+        "exampleEn": "Let the meat stew for two hours until it is tender.",
+        "exampleTr": "Eti yumuşayana kadar iki saat ağır ağır pişir."
+      }
+    ]
+  },
+  {
+    "id": "w_stick",
+    "headword": "stick",
+    "extraMeanings": [
+      {
+        "tr": "yapışmak, yapıştırmak; saplanmak (fiil)",
+        "en": "to attach or become fixed to something",
+        "exampleEn": "The stamp wouldn't stick to the envelope.",
+        "exampleTr": "Pul zarfa yapışmıyordu."
+      },
+      {
+        "tr": "koymak, sokmak (bir yere hızlıca koymak)",
+        "en": "to put something somewhere, often casually",
+        "exampleEn": "Just stick your coat on the chair.",
+        "exampleTr": "Ceketini sandalyeye bırakıver."
+      }
+    ]
+  },
+  {
+    "id": "w_stiff",
+    "headword": "stiff",
+    "extraMeanings": [
+      {
+        "tr": "tutulmuş, kasılmış (kas/eklem)",
+        "en": "painful and difficult to move (of muscles or joints)",
+        "exampleEn": "My neck feels stiff after sleeping in a strange position.",
+        "exampleTr": "Tuhaf bir pozisyonda uyuduktan sonra boynum tutuldu."
+      },
+      {
+        "tr": "resmi, soğuk, ölçülü (davranış)",
+        "en": "formal and not relaxed or friendly",
+        "exampleEn": "His manner was rather stiff and unfriendly.",
+        "exampleTr": "Tavrı oldukça soğuk ve mesafeliydi."
+      }
+    ]
+  },
+  {
+    "id": "w_stink",
+    "headword": "stink",
+    "extraMeanings": [
+      {
+        "tr": "berbat olmak, iğrenç olmak, hoş olmamak",
+        "en": "to be very bad or unpleasant",
+        "exampleEn": "The whole plan stinks and I don't want to be part of it.",
+        "exampleTr": "Bütün plan berbat ve ben bunun parçası olmak istemiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_stitch",
+    "headword": "stitch",
+    "extraMeanings": [
+      {
+        "tr": "böğür ağrısı, yan ağrısı (koşarken)",
+        "en": "a sudden sharp pain in the side of the body",
+        "exampleEn": "I got a stitch in my side halfway through the run.",
+        "exampleTr": "Koşunun ortasında böğrüme bir ağrı saplandı."
+      }
+    ]
+  },
+  {
+    "id": "w_stroke",
+    "headword": "stroke",
+    "extraMeanings": [
+      {
+        "tr": "okşamak, sıvazlamak (fiil)",
+        "en": "to move your hand gently over a surface",
+        "exampleEn": "She gently stroked the cat's soft fur.",
+        "exampleTr": "Kedinin yumuşak tüylerini nazikçe okşadı."
+      },
+      {
+        "tr": "vuruş, darbe; fırça darbesi",
+        "en": "a single movement, hit, or mark",
+        "exampleEn": "He painted the wall with long, even strokes.",
+        "exampleTr": "Duvarı uzun ve düzgün fırça darbeleriyle boyadı."
+      }
+    ]
+  },
+  {
+    "id": "w_stunt",
+    "headword": "stunt",
+    "extraMeanings": [
+      {
+        "tr": "engellemek, büyümesini durdurmak (fiil)",
+        "en": "to stop something from growing or developing properly",
+        "exampleEn": "Poor nutrition can stunt a child's growth.",
+        "exampleTr": "Kötü beslenme bir çocuğun büyümesini engelleyebilir."
+      }
+    ]
+  }
+]

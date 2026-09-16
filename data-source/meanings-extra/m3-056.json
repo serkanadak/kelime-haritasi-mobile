@@ -1,0 +1,224 @@
+[
+  {
+    "id": "w_submission",
+    "headword": "submission",
+    "extraMeanings": [
+      {
+        "tr": "başvuru, sunulan belge/çalışma",
+        "en": "a document or proposal that is formally sent for consideration",
+        "exampleEn": "The deadline for the submission of your application is Friday.",
+        "exampleTr": "Başvurunuzun teslim tarihi cumadır."
+      }
+    ]
+  },
+  {
+    "id": "w_substance",
+    "headword": "substance",
+    "extraMeanings": [
+      {
+        "tr": "öz, esas, önem",
+        "en": "the most important or main part of something",
+        "exampleEn": "The substance of his argument was that we need more funding.",
+        "exampleTr": "Argümanının özü daha fazla fona ihtiyacımız olduğuydu."
+      }
+    ]
+  },
+  {
+    "id": "w_suck",
+    "headword": "suck",
+    "extraMeanings": [
+      {
+        "tr": "berbat olmak, iğrenç olmak (argo)",
+        "en": "to be very bad or unpleasant",
+        "exampleEn": "This weather really sucks; it's been raining all week.",
+        "exampleTr": "Bu hava gerçekten berbat; bütün hafta yağmur yağıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_surge",
+    "headword": "surge",
+    "extraMeanings": [
+      {
+        "tr": "aniden ileri atılmak, akın etmek",
+        "en": "to move forward quickly and suddenly in a large group",
+        "exampleEn": "The crowd surged toward the stage when the singer appeared.",
+        "exampleTr": "Şarkıcı göründüğünde kalabalık sahneye doğru akın etti."
+      }
+    ]
+  },
+  {
+    "id": "w_surrender",
+    "headword": "surrender",
+    "extraMeanings": [
+      {
+        "tr": "teslim etmek, vermek (bir şeyi)",
+        "en": "to give up something or hand it over, often officially",
+        "exampleEn": "He had to surrender his passport to the police.",
+        "exampleTr": "Pasaportunu polise teslim etmek zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_suspend",
+    "headword": "suspend",
+    "extraMeanings": [
+      {
+        "tr": "asmak, sarkıtmak",
+        "en": "to hang something from above",
+        "exampleEn": "A lamp was suspended from the ceiling.",
+        "exampleTr": "Tavandan bir lamba asılmıştı."
+      },
+      {
+        "tr": "(okuldan/işten) uzaklaştırmak, geçici olarak men etmek",
+        "en": "to officially prevent someone from doing their job or attending for a period",
+        "exampleEn": "The student was suspended from school for a week.",
+        "exampleTr": "Öğrenci bir haftalığına okuldan uzaklaştırıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_sway",
+    "headword": "sway",
+    "extraMeanings": [
+      {
+        "tr": "etkilemek, ikna etmek (fikrini değiştirmek)",
+        "en": "to influence someone's opinion or decision",
+        "exampleEn": "Nothing you say will sway her decision.",
+        "exampleTr": "Söyleyeceğin hiçbir şey onun kararını değiştirmeyecek."
+      }
+    ]
+  },
+  {
+    "id": "w_sweep",
+    "headword": "sweep",
+    "extraMeanings": [
+      {
+        "tr": "hızla yayılmak, kaplamak (bir bölgeyi)",
+        "en": "to spread quickly across an area",
+        "exampleEn": "A wave of panic swept through the city.",
+        "exampleTr": "Şehri bir panik dalgası kapladı."
+      }
+    ]
+  },
+  {
+    "id": "w_swing",
+    "headword": "swing",
+    "extraMeanings": [
+      {
+        "tr": "ani değişim, kayma (görüş/ruh hali)",
+        "en": "a sudden or big change in opinion, mood, or amount",
+        "exampleEn": "There was a big swing in public opinion before the election.",
+        "exampleTr": "Seçimden önce kamuoyunda büyük bir görüş değişimi oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_tail",
+    "headword": "tail",
+    "extraMeanings": [
+      {
+        "tr": "takip etmek, gizlice izlemek",
+        "en": "to follow someone secretly to watch what they do",
+        "exampleEn": "The detective tailed the suspect for hours.",
+        "exampleTr": "Dedektif şüpheliyi saatlerce takip etti."
+      }
+    ]
+  },
+  {
+    "id": "w_tag",
+    "headword": "tag",
+    "extraMeanings": [
+      {
+        "tr": "etiketlemek, işaretlemek (özellikle sosyal medyada)",
+        "en": "to attach a label to something or mark someone in a post",
+        "exampleEn": "She tagged me in the photo she posted online.",
+        "exampleTr": "İnternette paylaştığı fotoğrafta beni etiketledi."
+      }
+    ]
+  },
+  {
+    "id": "w_tender",
+    "headword": "tender",
+    "extraMeanings": [
+      {
+        "tr": "(et için) yumuşak, kolay çiğnenen",
+        "en": "(of food, especially meat) easy to cut or chew, not tough",
+        "exampleEn": "The steak was so tender it melted in my mouth.",
+        "exampleTr": "Biftek o kadar yumuşaktı ki ağzımda dağıldı."
+      },
+      {
+        "tr": "acıyan, hassas (dokunulduğunda)",
+        "en": "(of a part of the body) painful when touched",
+        "exampleEn": "My ankle is still tender after the fall.",
+        "exampleTr": "Düşmeden sonra bileğim hâlâ acıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_terrace",
+    "headword": "terrace",
+    "extraMeanings": [
+      {
+        "tr": "sıra ev, bitişik nizam evler dizisi",
+        "en": "a row of houses joined together",
+        "exampleEn": "They live in a small house in a Victorian terrace.",
+        "exampleTr": "Viktorya dönemi sıra evlerinde küçük bir evde yaşıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w_texture",
+    "headword": "texture",
+    "extraMeanings": [
+      {
+        "tr": "(yiyecek için) kıvam, ağızdaki his",
+        "en": "the way food feels in the mouth",
+        "exampleEn": "The cake had a light, fluffy texture.",
+        "exampleTr": "Kekin hafif, kabarık bir kıvamı vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_thread",
+    "headword": "thread",
+    "extraMeanings": [
+      {
+        "tr": "(iğneye) iplik geçirmek; (dar bir yerden) geçirmek",
+        "en": "to pass thread or something long through a narrow space",
+        "exampleEn": "She threaded the needle carefully.",
+        "exampleTr": "İğneye dikkatlice iplik geçirdi."
+      },
+      {
+        "tr": "(konu/anlatı için) bağlantı, gidişat",
+        "en": "a connected series of ideas or a storyline running through something",
+        "exampleEn": "I lost the thread of the conversation.",
+        "exampleTr": "Konuşmanın gidişatını kaybettim."
+      }
+    ]
+  },
+  {
+    "id": "w_thrill",
+    "headword": "thrill",
+    "extraMeanings": [
+      {
+        "tr": "çok heyecanlandırmak, mutlu etmek",
+        "en": "to make someone feel very excited and pleased",
+        "exampleEn": "It thrilled her to see her name in the newspaper.",
+        "exampleTr": "Adını gazetede görmek onu çok heyecanlandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_thirst",
+    "headword": "thirst",
+    "extraMeanings": [
+      {
+        "tr": "güçlü istek, açlık (mecazi)",
+        "en": "a strong desire for something",
+        "exampleEn": "She has a real thirst for knowledge.",
+        "exampleTr": "Gerçek bir bilgi açlığı var onda."
+      }
+    ]
+  }
+]

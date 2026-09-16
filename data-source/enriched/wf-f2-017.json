@@ -1,0 +1,1347 @@
+[
+  {
+    "id": "w_meagre",
+    "headword": "meagre",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈmiːɡə/",
+    "meanings": [
+      {
+        "tr": "yetersiz, kıt, az",
+        "en": "very small in amount or not enough",
+        "exampleEn": "They survived on a meagre diet of bread and water.",
+        "exampleTr": "Ekmek ve sudan oluşan yetersiz bir beslenmeyle hayatta kaldılar."
+      }
+    ],
+    "synonyms": [
+      "scanty",
+      "paltry",
+      "insufficient",
+      "sparse"
+    ],
+    "antonyms": [
+      "abundant",
+      "plentiful",
+      "ample"
+    ]
+  },
+  {
+    "id": "w_derisive",
+    "headword": "derisive",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈraɪsɪv/",
+    "meanings": [
+      {
+        "tr": "alaycı, küçümseyici",
+        "en": "showing that you think someone or something is ridiculous or worthless",
+        "exampleEn": "He gave a derisive laugh when he heard the excuse.",
+        "exampleTr": "Bahaneyi duyunca alaycı bir kahkaha attı."
+      }
+    ],
+    "synonyms": [
+      "mocking",
+      "scornful",
+      "contemptuous",
+      "sneering"
+    ],
+    "antonyms": [
+      "respectful",
+      "admiring"
+    ]
+  },
+  {
+    "id": "w_squeal",
+    "headword": "squeal",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/skwiːl/",
+    "meanings": [
+      {
+        "tr": "ciyaklamak, tiz ses çıkarmak",
+        "en": "to make a long, high sound",
+        "exampleEn": "The children squealed with delight when they saw the puppy.",
+        "exampleTr": "Çocuklar köpek yavrusunu görünce sevinçle ciyakladı."
+      },
+      {
+        "tr": "ciyaklama, tiz çığlık",
+        "en": "a long, high sound or cry",
+        "exampleEn": "There was a loud squeal of tyres as the car braked.",
+        "exampleTr": "Araba fren yapınca lastiklerin tiz bir gıcırtısı duyuldu."
+      }
+    ],
+    "synonyms": [
+      "shriek",
+      "screech",
+      "yelp"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_tussle",
+    "headword": "tussle",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈtʌsəl/",
+    "meanings": [
+      {
+        "tr": "boğuşma, itiş kakış, mücadele",
+        "en": "a short fight or struggle, especially in order to get something",
+        "exampleEn": "There was a brief tussle over the ball near the goal.",
+        "exampleTr": "Kale önünde top için kısa bir boğuşma yaşandı."
+      },
+      {
+        "tr": "boğuşmak, çekişmek",
+        "en": "to fight or struggle with someone, often for something",
+        "exampleEn": "The two boys tussled over the last piece of cake.",
+        "exampleTr": "İki çocuk son parça kek için itişip kakıştı."
+      }
+    ],
+    "synonyms": [
+      "scuffle",
+      "struggle",
+      "brawl"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_skirmish",
+    "headword": "skirmish",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskɜːmɪʃ/",
+    "meanings": [
+      {
+        "tr": "küçük çatışma, çarpışma",
+        "en": "a short fight between small groups, often part of a larger conflict",
+        "exampleEn": "There was a brief skirmish between the two armies at the border.",
+        "exampleTr": "İki ordu arasında sınırda kısa bir çatışma oldu."
+      },
+      {
+        "tr": "atışma, kısa tartışma",
+        "en": "a short argument or disagreement",
+        "exampleEn": "The debate turned into a verbal skirmish between the candidates.",
+        "exampleTr": "Tartışma adaylar arasında sözlü bir atışmaya döndü."
+      }
+    ],
+    "synonyms": [
+      "clash",
+      "fight",
+      "scuffle",
+      "altercation"
+    ],
+    "antonyms": [
+      "truce",
+      "peace"
+    ]
+  },
+  {
+    "id": "w_tranquillization",
+    "headword": "tranquillization",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌtræŋkwɪlaɪˈzeɪʃən/",
+    "meanings": [
+      {
+        "tr": "sakinleştirme, yatıştırma",
+        "en": "the act of making a person or animal calm, especially with drugs",
+        "exampleEn": "The tranquillization of the wild animal allowed the vets to examine it safely.",
+        "exampleTr": "Vahşi hayvanın sakinleştirilmesi veterinerlerin onu güvenle muayene etmesini sağladı."
+      }
+    ],
+    "synonyms": [
+      "sedation",
+      "calming"
+    ],
+    "antonyms": [
+      "agitation",
+      "stimulation"
+    ]
+  },
+  {
+    "id": "w_desk_bound",
+    "headword": "desk-bound",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdeskbaʊnd/",
+    "meanings": [
+      {
+        "tr": "masa başına bağlı, büro işi olan",
+        "en": "spending most of your working time sitting at a desk rather than being active",
+        "exampleEn": "After years of a desk-bound job, he decided to work outdoors.",
+        "exampleTr": "Yıllarca masa başı bir işte çalıştıktan sonra açık havada çalışmaya karar verdi."
+      }
+    ],
+    "synonyms": [
+      "sedentary",
+      "office-based"
+    ],
+    "antonyms": [
+      "active"
+    ]
+  },
+  {
+    "id": "w_egocentric",
+    "headword": "egocentric",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌiːɡəʊˈsentrɪk/",
+    "meanings": [
+      {
+        "tr": "benmerkezci, bencil",
+        "en": "thinking only about yourself and considering your own interests most important",
+        "exampleEn": "His egocentric attitude made it hard for him to work in a team.",
+        "exampleTr": "Benmerkezci tutumu takım içinde çalışmasını zorlaştırdı."
+      }
+    ],
+    "synonyms": [
+      "self-centred",
+      "selfish",
+      "egotistical"
+    ],
+    "antonyms": [
+      "altruistic",
+      "selfless"
+    ]
+  },
+  {
+    "id": "w_self_sacrifice",
+    "headword": "self-sacrifice",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfˈsækrɪfaɪs/",
+    "meanings": [
+      {
+        "tr": "özveri, fedakârlık",
+        "en": "the act of giving up your own interests or wishes to help others",
+        "exampleEn": "Her success was built on years of self-sacrifice for her family.",
+        "exampleTr": "Başarısı, ailesi için yıllarca yaptığı fedakârlık üzerine kuruluydu."
+      }
+    ],
+    "synonyms": [
+      "selflessness",
+      "altruism"
+    ],
+    "antonyms": [
+      "selfishness",
+      "self-indulgence"
+    ]
+  },
+  {
+    "id": "w_asceticism",
+    "headword": "asceticism",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈsetɪsɪzəm/",
+    "meanings": [
+      {
+        "tr": "çilecilik, zühd",
+        "en": "the practice of avoiding physical pleasures and living a simple life, often for religious reasons",
+        "exampleEn": "The monk's asceticism meant he owned almost nothing.",
+        "exampleTr": "Keşişin çileciliği neredeyse hiçbir şeye sahip olmaması anlamına geliyordu."
+      }
+    ],
+    "synonyms": [
+      "austerity",
+      "self-denial",
+      "abstinence"
+    ],
+    "antonyms": [
+      "hedonism",
+      "self-indulgence"
+    ]
+  },
+  {
+    "id": "w_self_indulgence",
+    "headword": "self-indulgence",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfɪnˈdʌldʒəns/",
+    "meanings": [
+      {
+        "tr": "kendini şımartma, keyfine düşkünlük",
+        "en": "the act of allowing yourself to have or do things you enjoy, often too much",
+        "exampleEn": "A whole day at the spa felt like pure self-indulgence.",
+        "exampleTr": "Kaplıcada geçen koca bir gün tam bir kendini şımartma gibiydi."
+      }
+    ],
+    "synonyms": [
+      "indulgence",
+      "hedonism"
+    ],
+    "antonyms": [
+      "self-denial",
+      "asceticism",
+      "self-discipline"
+    ]
+  },
+  {
+    "id": "w_self_worth",
+    "headword": "self-worth",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfˈwɜːθ/",
+    "meanings": [
+      {
+        "tr": "öz değer, kendine verilen değer",
+        "en": "the value or respect you have for yourself",
+        "exampleEn": "Losing his job badly damaged his sense of self-worth.",
+        "exampleTr": "İşini kaybetmesi öz değer duygusuna ağır zarar verdi."
+      }
+    ],
+    "synonyms": [
+      "self-esteem",
+      "self-respect"
+    ],
+    "antonyms": [
+      "self-doubt",
+      "worthlessness"
+    ]
+  },
+  {
+    "id": "w_hedonistic",
+    "headword": "hedonistic",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌhiːdəˈnɪstɪk/",
+    "meanings": [
+      {
+        "tr": "hazcı, zevke düşkün",
+        "en": "believing that pleasure is the most important thing in life",
+        "exampleEn": "They led a hedonistic lifestyle full of parties and travel.",
+        "exampleTr": "Partiler ve seyahatlerle dolu hazcı bir yaşam sürdüler."
+      }
+    ],
+    "synonyms": [
+      "pleasure-seeking",
+      "self-indulgent"
+    ],
+    "antonyms": [
+      "ascetic",
+      "abstemious"
+    ]
+  },
+  {
+    "id": "w_self_denying",
+    "headword": "self-denying",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfdɪˈnaɪɪŋ/",
+    "meanings": [
+      {
+        "tr": "kendini feda eden, nefsini kısan",
+        "en": "willing to give up things you want or enjoy for the sake of others or a goal",
+        "exampleEn": "She was self-denying, always putting her children's needs first.",
+        "exampleTr": "Kendini feda eden biriydi, her zaman çocuklarının ihtiyaçlarını öne koyardı."
+      }
+    ],
+    "synonyms": [
+      "selfless",
+      "abstinent",
+      "ascetic"
+    ],
+    "antonyms": [
+      "self-indulgent",
+      "hedonistic"
+    ]
+  },
+  {
+    "id": "w_self_hatred",
+    "headword": "self-hatred",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfˈheɪtrɪd/",
+    "meanings": [
+      {
+        "tr": "kendinden nefret",
+        "en": "a strong feeling of dislike or hatred for yourself",
+        "exampleEn": "His constant failures filled him with self-hatred.",
+        "exampleTr": "Sürekli yaşadığı başarısızlıklar onu kendinden nefretle doldurdu."
+      }
+    ],
+    "synonyms": [
+      "self-loathing",
+      "self-disgust"
+    ],
+    "antonyms": [
+      "self-love",
+      "self-esteem"
+    ]
+  },
+  {
+    "id": "w_self_disgust",
+    "headword": "self-disgust",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfdɪsˈɡʌst/",
+    "meanings": [
+      {
+        "tr": "kendinden tiksinme, kendine karşı iğrenme",
+        "en": "a strong feeling of dislike or shame about yourself and your behaviour",
+        "exampleEn": "He was overcome with self-disgust after breaking his promise.",
+        "exampleTr": "Sözünü bozduktan sonra kendinden tiksinme duygusuna kapıldı."
+      }
+    ],
+    "synonyms": [
+      "self-loathing",
+      "self-hatred"
+    ],
+    "antonyms": [
+      "self-love",
+      "self-respect"
+    ]
+  },
+  {
+    "id": "w_self_love",
+    "headword": "self-love",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfˈlʌv/",
+    "meanings": [
+      {
+        "tr": "kendini sevme, öz sevgi",
+        "en": "care and respect for yourself and your own happiness",
+        "exampleEn": "The book teaches readers the importance of self-love and acceptance.",
+        "exampleTr": "Kitap okuyuculara kendini sevmenin ve kabul etmenin önemini öğretiyor."
+      }
+    ],
+    "synonyms": [
+      "self-regard",
+      "self-respect"
+    ],
+    "antonyms": [
+      "self-hatred",
+      "self-loathing"
+    ]
+  },
+  {
+    "id": "w_self_controlled",
+    "headword": "self-controlled",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfkənˈtrəʊld/",
+    "meanings": [
+      {
+        "tr": "kendine hakim, öz denetimli",
+        "en": "able to control your emotions and behaviour even in difficult situations",
+        "exampleEn": "She stayed calm and self-controlled throughout the argument.",
+        "exampleTr": "Tartışma boyunca sakin ve kendine hakim kaldı."
+      }
+    ],
+    "synonyms": [
+      "disciplined",
+      "restrained",
+      "composed"
+    ],
+    "antonyms": [
+      "impulsive",
+      "undisciplined"
+    ]
+  },
+  {
+    "id": "w_self_reliant",
+    "headword": "self-reliant",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌselfrɪˈlaɪənt/",
+    "meanings": [
+      {
+        "tr": "kendine güvenen, kendi kendine yeten",
+        "en": "able to do or decide things by yourself without needing help from others",
+        "exampleEn": "Living alone made her more self-reliant.",
+        "exampleTr": "Yalnız yaşamak onu daha kendine yeter biri yaptı."
+      }
+    ],
+    "synonyms": [
+      "independent",
+      "self-sufficient"
+    ],
+    "antonyms": [
+      "dependent",
+      "reliant"
+    ]
+  },
+  {
+    "id": "w_juniority",
+    "headword": "juniority",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌdʒuːniˈɒrɪti/",
+    "meanings": [
+      {
+        "tr": "kıdemsizlik, alt kademede olma durumu",
+        "en": "the state of being lower in rank, position or age than others",
+        "exampleEn": "Because of his juniority, he was not invited to the board meeting.",
+        "exampleTr": "Kıdemsizliği nedeniyle yönetim kurulu toplantısına çağrılmadı."
+      }
+    ],
+    "synonyms": [
+      "subordination"
+    ],
+    "antonyms": [
+      "seniority"
+    ]
+  },
+  {
+    "id": "w_responsiveness",
+    "headword": "responsiveness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/rɪˈspɒnsɪvnəs/",
+    "meanings": [
+      {
+        "tr": "duyarlılık, tepki verme, ilgililik",
+        "en": "the quality of reacting quickly and positively to something",
+        "exampleEn": "Customers praised the company's responsiveness to their complaints.",
+        "exampleTr": "Müşteriler şirketin şikayetlerine gösterdiği duyarlılığı övdü."
+      }
+    ],
+    "synonyms": [
+      "reactivity",
+      "sensitivity",
+      "attentiveness"
+    ],
+    "antonyms": [
+      "unresponsiveness",
+      "indifference"
+    ]
+  },
+  {
+    "id": "w_insensitivity",
+    "headword": "insensitivity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˌsensəˈtɪvɪti/",
+    "meanings": [
+      {
+        "tr": "duyarsızlık, hissizlik",
+        "en": "a lack of understanding or care about other people's feelings",
+        "exampleEn": "His insensitivity to her grief made things worse.",
+        "exampleTr": "Onun kederine gösterdiği duyarsızlık işleri daha da kötüleştirdi."
+      }
+    ],
+    "synonyms": [
+      "callousness",
+      "indifference",
+      "thoughtlessness"
+    ],
+    "antonyms": [
+      "sensitivity",
+      "compassion"
+    ]
+  },
+  {
+    "id": "w_divider",
+    "headword": "divider",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/dɪˈvaɪdə/",
+    "meanings": [
+      {
+        "tr": "bölme, ayırıcı, ara bölme",
+        "en": "a thing that separates one area or part from another",
+        "exampleEn": "A glass divider separated the two offices.",
+        "exampleTr": "Cam bir bölme iki ofisi ayırıyordu."
+      }
+    ],
+    "synonyms": [
+      "partition",
+      "separator",
+      "screen"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_earnestness",
+    "headword": "earnestness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɜːnɪstnəs/",
+    "meanings": [
+      {
+        "tr": "ciddiyet, samimiyet, içtenlik",
+        "en": "the quality of being serious and sincere",
+        "exampleEn": "She spoke with great earnestness about the need for change.",
+        "exampleTr": "Değişim ihtiyacı hakkında büyük bir ciddiyetle konuştu."
+      }
+    ],
+    "synonyms": [
+      "sincerity",
+      "seriousness",
+      "gravity"
+    ],
+    "antonyms": [
+      "flippancy",
+      "frivolity"
+    ]
+  },
+  {
+    "id": "w_configuration",
+    "headword": "configuration",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˌfɪɡəˈreɪʃən/",
+    "meanings": [
+      {
+        "tr": "yapılandırma, düzen, ayar",
+        "en": "the way in which the parts of something are arranged or set up",
+        "exampleEn": "You can change the configuration of the software in the settings menu.",
+        "exampleTr": "Yazılımın yapılandırmasını ayarlar menüsünden değiştirebilirsiniz."
+      },
+      {
+        "tr": "düzenleniş, biçim",
+        "en": "the particular arrangement of the parts of something",
+        "exampleEn": "The configuration of the furniture made the room feel larger.",
+        "exampleTr": "Mobilyaların düzeni odayı daha geniş hissettiriyordu."
+      }
+    ],
+    "synonyms": [
+      "arrangement",
+      "setup",
+      "layout"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_intensity",
+    "headword": "intensity",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈtensɪti/",
+    "meanings": [
+      {
+        "tr": "yoğunluk, şiddet",
+        "en": "the quality of being felt or done very strongly",
+        "exampleEn": "The intensity of the storm surprised everyone.",
+        "exampleTr": "Fırtınanın şiddeti herkesi şaşırttı."
+      },
+      {
+        "tr": "(ışık, ses vb.) yoğunluk derecesi",
+        "en": "the strength of something such as light, sound or heat",
+        "exampleEn": "You can adjust the intensity of the light with this dial.",
+        "exampleTr": "Bu düğmeyle ışığın yoğunluğunu ayarlayabilirsiniz."
+      }
+    ],
+    "synonyms": [
+      "strength",
+      "force",
+      "severity"
+    ],
+    "antonyms": [
+      "weakness",
+      "mildness"
+    ]
+  },
+  {
+    "id": "w_dubious",
+    "headword": "dubious",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdjuːbiəs/",
+    "meanings": [
+      {
+        "tr": "kuşkulu, emin olmayan",
+        "en": "not certain and slightly suspicious about something",
+        "exampleEn": "I was dubious about the plan from the start.",
+        "exampleTr": "Baştan beri plan konusunda kuşkuluydum."
+      },
+      {
+        "tr": "şüpheli, güvenilmez",
+        "en": "probably not honest, safe or good",
+        "exampleEn": "The company has a dubious reputation for reliability.",
+        "exampleTr": "Şirketin güvenilirlik konusunda şüpheli bir ünü var."
+      }
+    ],
+    "synonyms": [
+      "doubtful",
+      "suspicious",
+      "questionable"
+    ],
+    "antonyms": [
+      "certain",
+      "reliable",
+      "trustworthy"
+    ]
+  },
+  {
+    "id": "w_dodgy",
+    "headword": "dodgy",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "slang",
+    "source": "synant+claude",
+    "pronunciation": "/ˈdɒdʒi/",
+    "meanings": [
+      {
+        "tr": "şüpheli, güvenilmez, kaçamaklı",
+        "en": "seeming dishonest or not able to be trusted (informal, British)",
+        "exampleEn": "He made his money through some dodgy business deals.",
+        "exampleTr": "Parasını bazı şüpheli iş anlaşmalarıyla kazandı."
+      },
+      {
+        "tr": "riskli, sorunlu, bozuk",
+        "en": "not in good condition or likely to cause problems (informal)",
+        "exampleEn": "My knee has been a bit dodgy since the accident.",
+        "exampleTr": "Kazadan beri dizim biraz sorunlu."
+      }
+    ],
+    "synonyms": [
+      "suspicious",
+      "shady",
+      "risky",
+      "unreliable"
+    ],
+    "antonyms": [
+      "reliable",
+      "trustworthy",
+      "safe"
+    ]
+  },
+  {
+    "id": "w_unashamed",
+    "headword": "unashamed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnəˈʃeɪmd/",
+    "meanings": [
+      {
+        "tr": "utanmaz, çekinmeyen, açıkça yapan",
+        "en": "not feeling embarrassed or guilty about something, even if others might",
+        "exampleEn": "She is an unashamed fan of cheesy pop music.",
+        "exampleTr": "Basit pop müziğinin utanmadan hayranı olduğunu söyler."
+      }
+    ],
+    "synonyms": [
+      "unabashed",
+      "shameless",
+      "open"
+    ],
+    "antonyms": [
+      "ashamed",
+      "embarrassed",
+      "guilty"
+    ]
+  },
+  {
+    "id": "w_consignment",
+    "headword": "consignment",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/kənˈsaɪnmənt/",
+    "meanings": [
+      {
+        "tr": "sevkiyat, gönderilen mal partisi",
+        "en": "a quantity of goods that is sent or delivered somewhere",
+        "exampleEn": "A large consignment of coffee arrived at the port this morning.",
+        "exampleTr": "Bu sabah limana büyük bir kahve sevkiyatı geldi."
+      }
+    ],
+    "synonyms": [
+      "shipment",
+      "delivery",
+      "batch"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sloppiness",
+    "headword": "sloppiness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈslɒpinəs/",
+    "meanings": [
+      {
+        "tr": "özensizlik, dikkatsizlik, savsaklık",
+        "en": "a lack of care, effort or neatness in doing something",
+        "exampleEn": "The report was full of errors caused by sheer sloppiness.",
+        "exampleTr": "Rapor tamamen özensizlikten kaynaklanan hatalarla doluydu."
+      }
+    ],
+    "synonyms": [
+      "carelessness",
+      "untidiness",
+      "negligence"
+    ],
+    "antonyms": [
+      "neatness",
+      "carefulness",
+      "precision"
+    ]
+  },
+  {
+    "id": "w_myopic",
+    "headword": "myopic",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/maɪˈɒpɪk/",
+    "meanings": [
+      {
+        "tr": "dar görüşlü, kısa görüşlü",
+        "en": "unable to see or plan sensibly for the future; short-sighted in thinking",
+        "exampleEn": "Their myopic focus on short-term profit hurt the company later.",
+        "exampleTr": "Kısa vadeli kâra odaklı dar görüşlülükleri şirkete sonradan zarar verdi."
+      },
+      {
+        "tr": "miyop, uzağı göremeyen",
+        "en": "not able to see distant things clearly",
+        "exampleEn": "He is so myopic that he cannot read road signs without glasses.",
+        "exampleTr": "O kadar miyop ki gözlüksüz yol tabelalarını okuyamıyor."
+      }
+    ],
+    "synonyms": [
+      "short-sighted",
+      "near-sighted",
+      "narrow-minded"
+    ],
+    "antonyms": [
+      "far-sighted",
+      "visionary"
+    ]
+  },
+  {
+    "id": "w_astute",
+    "headword": "astute",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈstjuːt/",
+    "meanings": [
+      {
+        "tr": "kurnaz, zeki, işini bilen",
+        "en": "able to understand situations quickly and use this to your advantage",
+        "exampleEn": "She is an astute investor who rarely loses money.",
+        "exampleTr": "Nadiren para kaybeden, işini bilen zeki bir yatırımcıdır."
+      }
+    ],
+    "synonyms": [
+      "shrewd",
+      "canny",
+      "perceptive",
+      "sharp"
+    ],
+    "antonyms": [
+      "naive",
+      "obtuse",
+      "gullible"
+    ]
+  },
+  {
+    "id": "w_canny",
+    "headword": "canny",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkæni/",
+    "meanings": [
+      {
+        "tr": "kurnaz, açıkgöz, uyanık",
+        "en": "clever and able to think quickly, especially about money or business",
+        "exampleEn": "A canny buyer always compares prices before deciding.",
+        "exampleTr": "Açıkgöz bir alıcı karar vermeden önce her zaman fiyatları karşılaştırır."
+      }
+    ],
+    "synonyms": [
+      "shrewd",
+      "astute",
+      "sharp"
+    ],
+    "antonyms": [
+      "naive",
+      "foolish"
+    ]
+  },
+  {
+    "id": "w_astutely",
+    "headword": "astutely",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈstjuːtli/",
+    "meanings": [
+      {
+        "tr": "kurnazca, zekice, akıllıca",
+        "en": "in a way that shows a clever understanding of a situation",
+        "exampleEn": "He astutely predicted the collapse of the market.",
+        "exampleTr": "Piyasanın çöküşünü zekice tahmin etti."
+      }
+    ],
+    "synonyms": [
+      "shrewdly",
+      "cannily",
+      "cleverly"
+    ],
+    "antonyms": [
+      "naively",
+      "foolishly"
+    ]
+  },
+  {
+    "id": "w_cannily",
+    "headword": "cannily",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈkænɪli/",
+    "meanings": [
+      {
+        "tr": "kurnazca, açıkgözlülükle",
+        "en": "in a clever and careful way, especially in order to gain an advantage",
+        "exampleEn": "She cannily invested her savings before prices rose.",
+        "exampleTr": "Fiyatlar yükselmeden önce birikimlerini kurnazca yatırdı."
+      }
+    ],
+    "synonyms": [
+      "shrewdly",
+      "astutely",
+      "cleverly"
+    ],
+    "antonyms": [
+      "naively",
+      "carelessly"
+    ]
+  },
+  {
+    "id": "w_astuteness",
+    "headword": "astuteness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈstjuːtnəs/",
+    "meanings": [
+      {
+        "tr": "kurnazlık, zekilik, keskin görüş",
+        "en": "the ability to understand situations quickly and act to your advantage",
+        "exampleEn": "Her business astuteness helped the firm survive the crisis.",
+        "exampleTr": "İş konusundaki keskin zekası firmanın krizi atlatmasına yardımcı oldu."
+      }
+    ],
+    "synonyms": [
+      "shrewdness",
+      "acumen",
+      "perceptiveness"
+    ],
+    "antonyms": [
+      "naivety",
+      "obtuseness"
+    ]
+  },
+  {
+    "id": "w_acumen",
+    "headword": "acumen",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈækjəmən/",
+    "meanings": [
+      {
+        "tr": "sezgi gücü, keskin zeka, isabetli karar yeteneği",
+        "en": "the ability to make good judgments and quick decisions, especially in business",
+        "exampleEn": "His business acumen turned a small shop into a national chain.",
+        "exampleTr": "İş konusundaki keskin zekası küçük bir dükkânı ulusal bir zincire dönüştürdü."
+      }
+    ],
+    "synonyms": [
+      "shrewdness",
+      "astuteness",
+      "insight"
+    ],
+    "antonyms": [
+      "stupidity",
+      "naivety"
+    ]
+  },
+  {
+    "id": "w_spurn",
+    "headword": "spurn",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/spɜːn/",
+    "meanings": [
+      {
+        "tr": "reddetmek, geri çevirmek, tepmek",
+        "en": "to refuse to accept something or someone, especially in a proud or unkind way",
+        "exampleEn": "She spurned all his offers of help.",
+        "exampleTr": "Onun tüm yardım tekliflerini geri çevirdi."
+      }
+    ],
+    "synonyms": [
+      "reject",
+      "rebuff",
+      "snub"
+    ],
+    "antonyms": [
+      "accept",
+      "embrace",
+      "welcome"
+    ]
+  },
+  {
+    "id": "w_ostracize",
+    "headword": "ostracize",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒstrəsaɪz/",
+    "meanings": [
+      {
+        "tr": "dışlamak, toplumdan uzaklaştırmak, aforoz etmek",
+        "en": "to deliberately exclude someone from a group or society",
+        "exampleEn": "After the scandal, he was ostracized by his colleagues.",
+        "exampleTr": "Skandaldan sonra meslektaşları tarafından dışlandı."
+      }
+    ],
+    "synonyms": [
+      "exclude",
+      "shun",
+      "banish",
+      "blackball"
+    ],
+    "antonyms": [
+      "include",
+      "welcome",
+      "embrace"
+    ]
+  },
+  {
+    "id": "w_ostracism",
+    "headword": "ostracism",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɒstrəsɪzəm/",
+    "meanings": [
+      {
+        "tr": "dışlama, toplumdan uzaklaştırma",
+        "en": "the act of deliberately excluding someone from a group or society",
+        "exampleEn": "He faced social ostracism after speaking out against the leaders.",
+        "exampleTr": "Liderlere karşı konuştuktan sonra toplumsal dışlanmayla karşılaştı."
+      }
+    ],
+    "synonyms": [
+      "exclusion",
+      "shunning",
+      "banishment"
+    ],
+    "antonyms": [
+      "inclusion",
+      "acceptance"
+    ]
+  },
+  {
+    "id": "w_encirclement",
+    "headword": "encirclement",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈsɜːkəlmənt/",
+    "meanings": [
+      {
+        "tr": "kuşatma, çevreleme, sarma",
+        "en": "the act of surrounding a place, group or person on all sides",
+        "exampleEn": "The army's encirclement of the city cut off all supplies.",
+        "exampleTr": "Ordunun şehri kuşatması tüm ikmali kesti."
+      }
+    ],
+    "synonyms": [
+      "surrounding",
+      "enclosure",
+      "siege"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_enrollment",
+    "headword": "enrollment",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɪnˈrəʊlmənt/",
+    "meanings": [
+      {
+        "tr": "kayıt, kaydolma",
+        "en": "the act of officially joining a course, school or organization",
+        "exampleEn": "Enrollment for the new semester begins next Monday.",
+        "exampleTr": "Yeni dönem için kayıtlar önümüzdeki Pazartesi başlıyor."
+      },
+      {
+        "tr": "kayıtlı kişi sayısı, öğrenci sayısı",
+        "en": "the number of people who have officially joined something",
+        "exampleEn": "The university reported a record enrollment this year.",
+        "exampleTr": "Üniversite bu yıl rekor bir öğrenci kaydı bildirdi."
+      }
+    ],
+    "synonyms": [
+      "registration",
+      "admission",
+      "sign-up"
+    ],
+    "antonyms": [
+      "withdrawal"
+    ]
+  },
+  {
+    "id": "w_subscription",
+    "headword": "subscription",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/səbˈskrɪpʃən/",
+    "meanings": [
+      {
+        "tr": "abonelik",
+        "en": "an arrangement to receive a product or service regularly by paying in advance",
+        "exampleEn": "I cancelled my magazine subscription last month.",
+        "exampleTr": "Geçen ay dergi aboneliğimi iptal ettim."
+      },
+      {
+        "tr": "abonelik ücreti, üyelik aidatı",
+        "en": "an amount of money you pay regularly to receive a service or be a member",
+        "exampleEn": "The annual subscription costs fifty pounds.",
+        "exampleTr": "Yıllık abonelik ücreti elli sterlin."
+      }
+    ],
+    "synonyms": [
+      "membership",
+      "enrollment"
+    ],
+    "antonyms": [
+      "cancellation",
+      "unsubscription"
+    ]
+  },
+  {
+    "id": "w_unsubscription",
+    "headword": "unsubscription",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌʌnsəbˈskrɪpʃən/",
+    "meanings": [
+      {
+        "tr": "abonelik iptali, abonelikten çıkma",
+        "en": "the act of ending a subscription to a service, list or publication",
+        "exampleEn": "The email included a simple unsubscription link at the bottom.",
+        "exampleTr": "E-postanın altında basit bir abonelik iptali bağlantısı vardı."
+      }
+    ],
+    "synonyms": [
+      "cancellation",
+      "opt-out"
+    ],
+    "antonyms": [
+      "subscription",
+      "sign-up"
+    ]
+  }
+]

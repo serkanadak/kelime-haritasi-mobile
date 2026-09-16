@@ -1,0 +1,914 @@
+[
+  {
+    "id": "w_play",
+    "headword": "play",
+    "extraMeanings": [
+      {
+        "tr": "oynamak (fiil)",
+        "en": "to take part in a game or have fun",
+        "exampleEn": "The children love to play in the park.",
+        "exampleTr": "Çocuklar parkta oynamayı çok severler."
+      },
+      {
+        "tr": "çalmak (müzik aleti)",
+        "en": "to make music with an instrument",
+        "exampleEn": "She can play the piano beautifully.",
+        "exampleTr": "O, piyanoyu çok güzel çalabiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_please",
+    "headword": "please",
+    "extraMeanings": [
+      {
+        "tr": "memnun etmek, hoşnut etmek (fiil)",
+        "en": "to make someone happy or satisfied",
+        "exampleEn": "He always tries to please his parents.",
+        "exampleTr": "O, her zaman ailesini memnun etmeye çalışır."
+      }
+    ]
+  },
+  {
+    "id": "w_point",
+    "headword": "point",
+    "extraMeanings": [
+      {
+        "tr": "işaret etmek, göstermek (fiil)",
+        "en": "to show something with your finger",
+        "exampleEn": "She pointed at the map to show the way.",
+        "exampleTr": "Yolu göstermek için haritayı işaret etti."
+      },
+      {
+        "tr": "amaç, maksat, mesele",
+        "en": "the purpose or main idea of something",
+        "exampleEn": "What is the point of this meeting?",
+        "exampleTr": "Bu toplantının amacı nedir?"
+      }
+    ]
+  },
+  {
+    "id": "w_pool",
+    "headword": "pool",
+    "extraMeanings": [
+      {
+        "tr": "su birikintisi, gölcük",
+        "en": "a small area of still water",
+        "exampleEn": "After the rain, there was a pool of water on the road.",
+        "exampleTr": "Yağmurdan sonra yolda bir su birikintisi vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_poor",
+    "headword": "poor",
+    "extraMeanings": [
+      {
+        "tr": "zavallı, acınacak",
+        "en": "deserving sympathy or pity",
+        "exampleEn": "The poor dog was left out in the cold.",
+        "exampleTr": "Zavallı köpek soğukta dışarıda bırakılmıştı."
+      },
+      {
+        "tr": "kötü, yetersiz, zayıf (kalite)",
+        "en": "of low quality or not good",
+        "exampleEn": "The food at that restaurant was very poor.",
+        "exampleTr": "O restorandaki yemek çok kötüydü."
+      }
+    ]
+  },
+  {
+    "id": "w_pop",
+    "headword": "pop",
+    "extraMeanings": [
+      {
+        "tr": "patlamak, patlatmak (fiil)",
+        "en": "to burst with a short sharp sound",
+        "exampleEn": "The balloon will pop if you press it too hard.",
+        "exampleTr": "Balonu çok sıkarsan patlar."
+      }
+    ]
+  },
+  {
+    "id": "w_post",
+    "headword": "post",
+    "extraMeanings": [
+      {
+        "tr": "göndermek, yollamak; paylaşım yapmak (fiil)",
+        "en": "to send a letter or publish something online",
+        "exampleEn": "I need to post this letter today.",
+        "exampleTr": "Bu mektubu bugün göndermem gerekiyor."
+      },
+      {
+        "tr": "direk, kazık",
+        "en": "a strong upright pole fixed in the ground",
+        "exampleEn": "They tied the horse to a wooden post.",
+        "exampleTr": "Atı ahşap bir direğe bağladılar."
+      }
+    ]
+  },
+  {
+    "id": "w_practice",
+    "headword": "practice",
+    "extraMeanings": [
+      {
+        "tr": "uygulama, hayata geçirme",
+        "en": "the actual doing of something rather than the idea",
+        "exampleEn": "It is a good idea in theory, but hard in practice.",
+        "exampleTr": "Teoride iyi bir fikir ama uygulamada zor."
+      }
+    ]
+  },
+  {
+    "id": "w_pretty",
+    "headword": "pretty",
+    "extraMeanings": [
+      {
+        "tr": "oldukça, epeyce (zarf)",
+        "en": "to a fairly large degree",
+        "exampleEn": "The test was pretty difficult.",
+        "exampleTr": "Sınav oldukça zordu."
+      }
+    ]
+  },
+  {
+    "id": "w_price",
+    "headword": "price",
+    "extraMeanings": [
+      {
+        "tr": "bedel, karşılık (mecazi)",
+        "en": "an unpleasant thing you must accept to get something",
+        "exampleEn": "Loneliness was the price of his success.",
+        "exampleTr": "Yalnızlık, başarısının bedeliydi."
+      }
+    ]
+  },
+  {
+    "id": "w_program",
+    "headword": "program",
+    "extraMeanings": [
+      {
+        "tr": "yazılım, bilgisayar programı",
+        "en": "a set of instructions that a computer follows",
+        "exampleEn": "I installed a new program on my computer.",
+        "exampleTr": "Bilgisayarıma yeni bir program yükledim."
+      }
+    ]
+  },
+  {
+    "id": "w_put",
+    "headword": "put",
+    "extraMeanings": [
+      {
+        "tr": "ifade etmek, dile getirmek",
+        "en": "to express or say something in a particular way",
+        "exampleEn": "Let me put it another way.",
+        "exampleTr": "Bunu başka bir şekilde ifade edeyim."
+      }
+    ]
+  },
+  {
+    "id": "w_question",
+    "headword": "question",
+    "extraMeanings": [
+      {
+        "tr": "sorgulamak, şüphe duymak (fiil)",
+        "en": "to have or express doubt about something",
+        "exampleEn": "I question whether he is telling the truth.",
+        "exampleTr": "Doğruyu söyleyip söylemediğinden şüphe ediyorum."
+      },
+      {
+        "tr": "mesele, sorun, konu",
+        "en": "a matter or problem to be discussed",
+        "exampleEn": "It is a question of money, not time.",
+        "exampleTr": "Bu bir para meselesi, zaman değil."
+      }
+    ]
+  },
+  {
+    "id": "w_quiet",
+    "headword": "quiet",
+    "extraMeanings": [
+      {
+        "tr": "sakin, durgun",
+        "en": "calm and without much activity",
+        "exampleEn": "We spent a quiet evening at home.",
+        "exampleTr": "Evde sakin bir akşam geçirdik."
+      }
+    ]
+  },
+  {
+    "id": "w_rat",
+    "headword": "rat",
+    "extraMeanings": [
+      {
+        "tr": "hain, muhbir, dönek (argo)",
+        "en": "a person who betrays their friends",
+        "exampleEn": "Everyone thought he was a rat for telling the police.",
+        "exampleTr": "Polise söylediği için herkes onu hain olarak gördü."
+      }
+    ]
+  },
+  {
+    "id": "w_read",
+    "headword": "read",
+    "extraMeanings": [
+      {
+        "tr": "yazmak, ifade etmek (yazılı bir şeyde belirtmek)",
+        "en": "to show information in written form",
+        "exampleEn": "The sign reads 'No Entry'.",
+        "exampleTr": "Tabelada 'Giriş Yok' yazıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_ready",
+    "headword": "ready",
+    "extraMeanings": [
+      {
+        "tr": "istekli, gönüllü (bir şey yapmaya)",
+        "en": "willing to do something",
+        "exampleEn": "She is always ready to help others.",
+        "exampleTr": "O, başkalarına yardım etmeye her zaman isteklidir."
+      }
+    ]
+  },
+  {
+    "id": "w_real",
+    "headword": "real",
+    "extraMeanings": [
+      {
+        "tr": "tam, resmen, adeta (vurgu için)",
+        "en": "used to emphasize how great something is",
+        "exampleEn": "He is a real hero.",
+        "exampleTr": "O, tam bir kahraman."
+      }
+    ]
+  },
+  {
+    "id": "w_reason",
+    "headword": "reason",
+    "extraMeanings": [
+      {
+        "tr": "akıl, mantık, muhakeme",
+        "en": "the power of the mind to think and understand",
+        "exampleEn": "He lost his power of reason after the accident.",
+        "exampleTr": "Kazadan sonra muhakeme gücünü kaybetti."
+      }
+    ]
+  },
+  {
+    "id": "w_remember",
+    "headword": "remember",
+    "extraMeanings": [
+      {
+        "tr": "unutmamak, aklında tutmak (bir görevi)",
+        "en": "to not forget to do something",
+        "exampleEn": "Remember to lock the door before you leave.",
+        "exampleTr": "Çıkmadan önce kapıyı kilitlemeyi unutma."
+      }
+    ]
+  },
+  {
+    "id": "w_result",
+    "headword": "result",
+    "extraMeanings": [
+      {
+        "tr": "sonuçlanmak, yol açmak (fiil)",
+        "en": "to happen because of something",
+        "exampleEn": "The accident resulted from careless driving.",
+        "exampleTr": "Kaza, dikkatsiz sürüşten kaynaklandı."
+      }
+    ]
+  },
+  {
+    "id": "w_review",
+    "headword": "review",
+    "extraMeanings": [
+      {
+        "tr": "gözden geçirmek, incelemek (fiil)",
+        "en": "to examine or study something again carefully",
+        "exampleEn": "Let's review the plan before we start.",
+        "exampleTr": "Başlamadan önce planı gözden geçirelim."
+      }
+    ]
+  },
+  {
+    "id": "w_rich",
+    "headword": "rich",
+    "extraMeanings": [
+      {
+        "tr": "bol, zengin (içerik olarak); doyurucu (yemek)",
+        "en": "containing a lot of something; heavy with fat or sugar",
+        "exampleEn": "This cake is very rich and sweet.",
+        "exampleTr": "Bu kek çok ağır ve tatlı."
+      }
+    ]
+  },
+  {
+    "id": "w_ride",
+    "headword": "ride",
+    "extraMeanings": [
+      {
+        "tr": "binmek, sürmek (at, bisiklet vb.)",
+        "en": "to sit on and control a horse, bike, etc.",
+        "exampleEn": "She learned to ride a bike when she was five.",
+        "exampleTr": "Beş yaşındayken bisiklete binmeyi öğrendi."
+      }
+    ]
+  },
+  {
+    "id": "w_right",
+    "headword": "right",
+    "extraMeanings": [
+      {
+        "tr": "sağ (yön)",
+        "en": "on or toward the right side",
+        "exampleEn": "Turn right at the next corner.",
+        "exampleTr": "Bir sonraki köşeden sağa dön."
+      },
+      {
+        "tr": "hak",
+        "en": "something you are morally or legally allowed to have",
+        "exampleEn": "Everyone has the right to speak freely.",
+        "exampleTr": "Herkesin özgürce konuşma hakkı vardır."
+      }
+    ]
+  },
+  {
+    "id": "w_role",
+    "headword": "role",
+    "extraMeanings": [
+      {
+        "tr": "görev, işlev, pay",
+        "en": "the function or part someone or something has",
+        "exampleEn": "Teachers play an important role in society.",
+        "exampleTr": "Öğretmenler toplumda önemli bir rol oynar."
+      }
+    ]
+  },
+  {
+    "id": "w_room",
+    "headword": "room",
+    "extraMeanings": [
+      {
+        "tr": "yer, boşluk, alan",
+        "en": "enough space for something",
+        "exampleEn": "There is no room for another chair here.",
+        "exampleTr": "Burada başka bir sandalye için yer yok."
+      }
+    ]
+  },
+  {
+    "id": "w_rose",
+    "headword": "rose",
+    "extraMeanings": [
+      {
+        "tr": "yükseldi, kalktı (rise fiilinin geçmiş hali)",
+        "en": "past tense of 'rise', to move upward",
+        "exampleEn": "The sun rose early this morning.",
+        "exampleTr": "Güneş bu sabah erken doğdu."
+      }
+    ]
+  },
+  {
+    "id": "w_row",
+    "headword": "row",
+    "extraMeanings": [
+      {
+        "tr": "kürek çekmek (fiil)",
+        "en": "to move a boat using oars",
+        "exampleEn": "They rowed the boat across the lake.",
+        "exampleTr": "Kayığı kürek çekerek gölün karşısına geçirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w_rule",
+    "headword": "rule",
+    "extraMeanings": [
+      {
+        "tr": "yönetmek, hüküm sürmek (fiil)",
+        "en": "to have power over a country or people",
+        "exampleEn": "The king ruled the country for thirty years.",
+        "exampleTr": "Kral ülkeyi otuz yıl yönetti."
+      }
+    ]
+  },
+  {
+    "id": "w_ruler",
+    "headword": "ruler",
+    "extraMeanings": [
+      {
+        "tr": "hükümdar, yönetici",
+        "en": "a person who rules a country",
+        "exampleEn": "He was a wise and fair ruler.",
+        "exampleTr": "O, akıllı ve adil bir hükümdardı."
+      }
+    ]
+  },
+  {
+    "id": "w_run",
+    "headword": "run",
+    "extraMeanings": [
+      {
+        "tr": "koşmak (fiil)",
+        "en": "to move quickly on foot",
+        "exampleEn": "I run every morning before work.",
+        "exampleTr": "Her sabah işten önce koşarım."
+      },
+      {
+        "tr": "işletmek, yönetmek (fiil)",
+        "en": "to be in charge of a business or activity",
+        "exampleEn": "She runs a small bakery in town.",
+        "exampleTr": "O, kasabada küçük bir fırın işletiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_save",
+    "headword": "save",
+    "extraMeanings": [
+      {
+        "tr": "kurtarmak (fiil)",
+        "en": "to rescue someone from danger",
+        "exampleEn": "The firefighter saved the child from the fire.",
+        "exampleTr": "İtfaiyeci çocuğu yangından kurtardı."
+      },
+      {
+        "tr": "kaydetmek (bilgisayarda)",
+        "en": "to store data on a computer",
+        "exampleEn": "Don't forget to save your file.",
+        "exampleTr": "Dosyanı kaydetmeyi unutma."
+      }
+    ]
+  },
+  {
+    "id": "w_saw",
+    "headword": "saw",
+    "extraMeanings": [
+      {
+        "tr": "gördü (see fiilinin geçmiş hali)",
+        "en": "past tense of 'see'",
+        "exampleEn": "I saw him at the station yesterday.",
+        "exampleTr": "Onu dün istasyonda gördüm."
+      }
+    ]
+  },
+  {
+    "id": "w_second",
+    "headword": "second",
+    "extraMeanings": [
+      {
+        "tr": "saniye",
+        "en": "a unit of time equal to 1/60 of a minute",
+        "exampleEn": "Wait a second, I'm almost ready.",
+        "exampleTr": "Bir saniye bekle, neredeyse hazırım."
+      }
+    ]
+  },
+  {
+    "id": "w_see",
+    "headword": "see",
+    "extraMeanings": [
+      {
+        "tr": "anlamak, kavramak",
+        "en": "to understand something",
+        "exampleEn": "I see what you mean now.",
+        "exampleTr": "Şimdi ne demek istediğini anlıyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_shake",
+    "headword": "shake",
+    "extraMeanings": [
+      {
+        "tr": "sallamak, çalkalamak (fiil)",
+        "en": "to move something up and down or side to side quickly",
+        "exampleEn": "Shake the bottle before you open it.",
+        "exampleTr": "Açmadan önce şişeyi çalkala."
+      },
+      {
+        "tr": "titremek (fiil)",
+        "en": "to move with small quick movements, often from cold or fear",
+        "exampleEn": "Her hands were shaking with cold.",
+        "exampleTr": "Elleri soğuktan titriyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_ship",
+    "headword": "ship",
+    "extraMeanings": [
+      {
+        "tr": "göndermek, sevk etmek (fiil)",
+        "en": "to send goods by sea or other transport",
+        "exampleEn": "The company ships its products all over the world.",
+        "exampleTr": "Şirket ürünlerini dünyanın her yerine gönderiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_shop",
+    "headword": "shop",
+    "extraMeanings": [
+      {
+        "tr": "alışveriş yapmak (fiil)",
+        "en": "to buy things from stores",
+        "exampleEn": "We often shop for food on Saturdays.",
+        "exampleTr": "Cumartesileri sık sık yiyecek alışverişi yaparız."
+      }
+    ]
+  },
+  {
+    "id": "w_short",
+    "headword": "short",
+    "extraMeanings": [
+      {
+        "tr": "eksik, yetersiz (miktar)",
+        "en": "not having enough of something",
+        "exampleEn": "I'm a little short of money this month.",
+        "exampleTr": "Bu ay biraz param eksik."
+      }
+    ]
+  },
+  {
+    "id": "w_shoulder",
+    "headword": "shoulder",
+    "extraMeanings": [
+      {
+        "tr": "üstlenmek, omuzlamak (sorumluluk)",
+        "en": "to accept and deal with a difficult responsibility",
+        "exampleEn": "She had to shoulder the blame for the mistake.",
+        "exampleTr": "Hatanın sorumluluğunu üstlenmek zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_shower",
+    "headword": "shower",
+    "extraMeanings": [
+      {
+        "tr": "sağanak, kısa süreli yağmur",
+        "en": "a short period of rain",
+        "exampleEn": "We had a light shower this afternoon.",
+        "exampleTr": "Bu öğleden sonra hafif bir sağanak vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_sick",
+    "headword": "sick",
+    "extraMeanings": [
+      {
+        "tr": "bıkmış, usanmış (of ile)",
+        "en": "annoyed or bored with something",
+        "exampleEn": "I'm sick of waiting for the bus.",
+        "exampleTr": "Otobüsü beklemekten bıktım."
+      },
+      {
+        "tr": "midesi bulanan, kusacak gibi",
+        "en": "feeling like you want to vomit",
+        "exampleEn": "I feel sick after the boat trip.",
+        "exampleTr": "Tekne gezisinden sonra midem bulanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_side",
+    "headword": "side",
+    "extraMeanings": [
+      {
+        "tr": "taraf (bir tartışmada), takım",
+        "en": "one of two opposing groups or teams",
+        "exampleEn": "Which side are you on in this argument?",
+        "exampleTr": "Bu tartışmada hangi taraftasın?"
+      }
+    ]
+  },
+  {
+    "id": "w_sight",
+    "headword": "sight",
+    "extraMeanings": [
+      {
+        "tr": "manzara, görülecek yer",
+        "en": "something that you see, especially something notable",
+        "exampleEn": "We visited the famous sights of the city.",
+        "exampleTr": "Şehrin ünlü görülecek yerlerini ziyaret ettik."
+      }
+    ]
+  },
+  {
+    "id": "w_sign",
+    "headword": "sign",
+    "extraMeanings": [
+      {
+        "tr": "imzalamak (fiil)",
+        "en": "to write your name on a document",
+        "exampleEn": "Please sign here at the bottom.",
+        "exampleTr": "Lütfen buraya, alta imza atın."
+      },
+      {
+        "tr": "belirti, iz, alamet",
+        "en": "something that shows something exists or may happen",
+        "exampleEn": "A high fever can be a sign of illness.",
+        "exampleTr": "Yüksek ateş bir hastalık belirtisi olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w_site",
+    "headword": "site",
+    "extraMeanings": [
+      {
+        "tr": "web sitesi",
+        "en": "a place on the internet",
+        "exampleEn": "I found the recipe on a cooking site.",
+        "exampleTr": "Tarifi bir yemek sitesinde buldum."
+      }
+    ]
+  },
+  {
+    "id": "w_smell",
+    "headword": "smell",
+    "extraMeanings": [
+      {
+        "tr": "koklamak, kokusunu almak (fiil)",
+        "en": "to notice or sense a smell",
+        "exampleEn": "Can you smell the flowers?",
+        "exampleTr": "Çiçekleri koklayabiliyor musun?"
+      },
+      {
+        "tr": "kokmak (kötü koku yaymak)",
+        "en": "to have a bad odor",
+        "exampleEn": "The old cheese smells terrible.",
+        "exampleTr": "Eski peynir berbat kokuyor."
+      }
+    ]
+  },
+  {
+    "id": "w_smile",
+    "headword": "smile",
+    "extraMeanings": [
+      {
+        "tr": "gülümsemek (fiil)",
+        "en": "to make a happy expression with your mouth",
+        "exampleEn": "She smiled when she saw the gift.",
+        "exampleTr": "Hediyeyi görünce gülümsedi."
+      }
+    ]
+  },
+  {
+    "id": "w_smoke",
+    "headword": "smoke",
+    "extraMeanings": [
+      {
+        "tr": "sigara içmek (fiil)",
+        "en": "to breathe in smoke from a cigarette",
+        "exampleEn": "You should not smoke inside the house.",
+        "exampleTr": "Evin içinde sigara içmemelisin."
+      }
+    ]
+  },
+  {
+    "id": "w_snow",
+    "headword": "snow",
+    "extraMeanings": [
+      {
+        "tr": "kar yağmak (fiil)",
+        "en": "for snow to fall from the sky",
+        "exampleEn": "It snowed all night long.",
+        "exampleTr": "Bütün gece kar yağdı."
+      }
+    ]
+  },
+  {
+    "id": "w_soup",
+    "headword": "soup",
+    "extraMeanings": [
+      {
+        "tr": "başı dertte olma, zor durum ('in the soup')",
+        "en": "in a difficult or troublesome situation",
+        "exampleEn": "If we miss the deadline, we'll be in the soup.",
+        "exampleTr": "Son tarihi kaçırırsak başımız dertte olacak."
+      }
+    ]
+  },
+  {
+    "id": "w_special",
+    "headword": "special",
+    "extraMeanings": [
+      {
+        "tr": "belirli, özel bir (belli bir amaca yönelik)",
+        "en": "for a particular purpose",
+        "exampleEn": "You need a special tool for this job.",
+        "exampleTr": "Bu iş için özel bir alet gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_spell",
+    "headword": "spell",
+    "extraMeanings": [
+      {
+        "tr": "harflemek, hecelemek (fiil)",
+        "en": "to say or write the letters of a word",
+        "exampleEn": "How do you spell your name?",
+        "exampleTr": "İsmini nasıl hecelersin?"
+      },
+      {
+        "tr": "süre, dönem, nöbet",
+        "en": "a short period of time",
+        "exampleEn": "We had a warm spell in early spring.",
+        "exampleTr": "İlkbahar başında sıcak bir dönem geçirdik."
+      }
+    ]
+  },
+  {
+    "id": "w_spot",
+    "headword": "spot",
+    "extraMeanings": [
+      {
+        "tr": "fark etmek, görmek, seçmek (fiil)",
+        "en": "to notice or see something suddenly",
+        "exampleEn": "I spotted my friend in the crowd.",
+        "exampleTr": "Arkadaşımı kalabalıkta fark ettim."
+      }
+    ]
+  },
+  {
+    "id": "w_spring",
+    "headword": "spring",
+    "extraMeanings": [
+      {
+        "tr": "yay, zemberek",
+        "en": "a coiled piece of metal that returns to shape",
+        "exampleEn": "The spring in the old clock is broken.",
+        "exampleTr": "Eski saatteki yay kırılmış."
+      },
+      {
+        "tr": "kaynak, pınar",
+        "en": "a place where water comes out of the ground",
+        "exampleEn": "They drank cool water from the mountain spring.",
+        "exampleTr": "Dağ pınarından serin su içtiler."
+      }
+    ]
+  },
+  {
+    "id": "w_spy",
+    "headword": "spy",
+    "extraMeanings": [
+      {
+        "tr": "casusluk yapmak, gözetlemek (fiil)",
+        "en": "to secretly watch someone",
+        "exampleEn": "He was spying on his neighbors.",
+        "exampleTr": "Komşularını gizlice gözetliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_stage",
+    "headword": "stage",
+    "extraMeanings": [
+      {
+        "tr": "aşama, evre, safha",
+        "en": "a period or step in a process",
+        "exampleEn": "The project is still in its early stages.",
+        "exampleTr": "Proje hâlâ ilk aşamalarında."
+      }
+    ]
+  },
+  {
+    "id": "w_stand",
+    "headword": "stand",
+    "extraMeanings": [
+      {
+        "tr": "ayakta durmak, kalkmak (fiil)",
+        "en": "to be on your feet in an upright position",
+        "exampleEn": "Please stand when the teacher enters.",
+        "exampleTr": "Öğretmen girince lütfen ayağa kalkın."
+      },
+      {
+        "tr": "katlanmak, dayanmak, tahammül etmek (fiil)",
+        "en": "to tolerate or endure something",
+        "exampleEn": "I can't stand this hot weather.",
+        "exampleTr": "Bu sıcak havaya dayanamıyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_star",
+    "headword": "star",
+    "extraMeanings": [
+      {
+        "tr": "yıldız, ünlü sanatçı/sporcu",
+        "en": "a famous and successful performer or player",
+        "exampleEn": "She became a movie star at a young age.",
+        "exampleTr": "Genç yaşta bir sinema yıldızı oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_start",
+    "headword": "start",
+    "extraMeanings": [
+      {
+        "tr": "başlamak, başlatmak (fiil)",
+        "en": "to begin doing something",
+        "exampleEn": "We will start the meeting at nine.",
+        "exampleTr": "Toplantıya dokuzda başlayacağız."
+      },
+      {
+        "tr": "çalıştırmak (motor, araç)",
+        "en": "to make a machine or engine begin to work",
+        "exampleEn": "The car won't start in the cold.",
+        "exampleTr": "Araba soğukta çalışmıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_still",
+    "headword": "still",
+    "extraMeanings": [
+      {
+        "tr": "hâlâ, henüz (zarf)",
+        "en": "continuing up to now or a particular time",
+        "exampleEn": "He is still waiting for the bus.",
+        "exampleTr": "Hâlâ otobüsü bekliyor."
+      },
+      {
+        "tr": "yine de, buna rağmen (zarf)",
+        "en": "despite that; nevertheless",
+        "exampleEn": "It was raining, but we still went out.",
+        "exampleTr": "Yağmur yağıyordu ama yine de dışarı çıktık."
+      }
+    ]
+  },
+  {
+    "id": "w_stop",
+    "headword": "stop",
+    "extraMeanings": [
+      {
+        "tr": "durmak, durdurmak (fiil)",
+        "en": "to no longer move or to make something end",
+        "exampleEn": "The bus stopped in front of the school.",
+        "exampleTr": "Otobüs okulun önünde durdu."
+      }
+    ]
+  },
+  {
+    "id": "w_store",
+    "headword": "store",
+    "extraMeanings": [
+      {
+        "tr": "depolamak, saklamak, muhafaza etmek (fiil)",
+        "en": "to keep something for future use",
+        "exampleEn": "We store the winter clothes in the attic.",
+        "exampleTr": "Kışlık kıyafetleri tavan arasında saklarız."
+      }
+    ]
+  },
+  {
+    "id": "w_story",
+    "headword": "story",
+    "extraMeanings": [
+      {
+        "tr": "kat (bina katı)",
+        "en": "a floor or level of a building",
+        "exampleEn": "The building has ten stories.",
+        "exampleTr": "Bina on katlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_strong",
+    "headword": "strong",
+    "extraMeanings": [
+      {
+        "tr": "sert, keskin, koyu (içecek, koku vb.)",
+        "en": "having a powerful taste, smell, or effect",
+        "exampleEn": "I like my coffee strong.",
+        "exampleTr": "Kahvemi koyu severim."
+      }
+    ]
+  },
+  {
+    "id": "w_subject",
+    "headword": "subject",
+    "extraMeanings": [
+      {
+        "tr": "özne (dilbilgisi)",
+        "en": "the word in a sentence that does the action",
+        "exampleEn": "In the sentence 'Cats sleep', 'cats' is the subject.",
+        "exampleTr": "'Kediler uyur' cümlesinde 'kediler' öznedir."
+      },
+      {
+        "tr": "maruz, tabi (subject to)",
+        "en": "likely to be affected by something",
+        "exampleEn": "The plan is subject to change.",
+        "exampleTr": "Plan değişikliğe tabidir."
+      }
+    ]
+  }
+]

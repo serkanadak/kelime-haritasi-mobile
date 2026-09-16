@@ -1,0 +1,1254 @@
+[
+  {
+    "id": "w_someone",
+    "headword": "someone",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsʌmwʌn/",
+    "meanings": [
+      {
+        "tr": "biri, birisi",
+        "en": "an unspecified or unknown person",
+        "exampleEn": "Someone left their umbrella in the office.",
+        "exampleTr": "Biri şemsiyesini ofiste bırakmış."
+      }
+    ],
+    "synonyms": [
+      "somebody"
+    ],
+    "antonyms": [
+      "no one",
+      "nobody"
+    ]
+  },
+  {
+    "id": "w_something",
+    "headword": "something",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsʌmθɪŋ/",
+    "meanings": [
+      {
+        "tr": "bir şey",
+        "en": "an unspecified or unknown thing",
+        "exampleEn": "I need to tell you something important.",
+        "exampleTr": "Sana önemli bir şey söylemem gerek."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "nothing"
+    ]
+  },
+  {
+    "id": "w_sooner",
+    "headword": "sooner",
+    "pos": "adv",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsuːnər/",
+    "meanings": [
+      {
+        "tr": "daha erken, daha çabuk",
+        "en": "comparative of soon; earlier than expected or than another time",
+        "exampleEn": "We should have left sooner to avoid the traffic.",
+        "exampleTr": "Trafiğe yakalanmamak için daha erken çıkmalıydık."
+      }
+    ],
+    "synonyms": [
+      "earlier"
+    ],
+    "antonyms": [
+      "later"
+    ]
+  },
+  {
+    "id": "w_soot",
+    "headword": "soot",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sʊt/",
+    "meanings": [
+      {
+        "tr": "kurum, is",
+        "en": "a black powder produced when coal, wood, etc. is burned",
+        "exampleEn": "The chimney was covered in a thick layer of soot.",
+        "exampleTr": "Baca kalın bir kurum tabakasıyla kaplıydı."
+      }
+    ],
+    "synonyms": [
+      "grime",
+      "carbon"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sought",
+    "headword": "sought",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sɔːt/",
+    "meanings": [
+      {
+        "tr": "aramak, istemek (seek fiilinin geçmiş hali)",
+        "en": "past tense and past participle of seek; tried to find or obtain something",
+        "exampleEn": "She sought advice from a financial expert.",
+        "exampleTr": "Bir mali uzmandan tavsiye istedi."
+      }
+    ],
+    "synonyms": [
+      "searched",
+      "pursued"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sought_after",
+    "headword": "sought-after",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɔːt ˌɑːftər/",
+    "meanings": [
+      {
+        "tr": "çok aranan, rağbet gören, gözde",
+        "en": "wanted by many people and usually of high quality or rare",
+        "exampleEn": "He is one of the most sought-after designers in the industry.",
+        "exampleTr": "Sektördeki en çok aranan tasarımcılardan biridir."
+      }
+    ],
+    "synonyms": [
+      "in demand",
+      "desirable",
+      "coveted"
+    ],
+    "antonyms": [
+      "unwanted"
+    ]
+  },
+  {
+    "id": "w_source_of_income",
+    "headword": "source of income",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsɔːs əv ˈɪŋkʌm/",
+    "meanings": [
+      {
+        "tr": "gelir kaynağı",
+        "en": "a way or activity from which money is regularly earned",
+        "exampleEn": "Renting out the apartment became her main source of income.",
+        "exampleTr": "Daireyi kiraya vermek onun ana gelir kaynağı oldu."
+      }
+    ],
+    "synonyms": [
+      "revenue stream",
+      "livelihood"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sovereign",
+    "headword": "sovereign",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsɒvrɪn/",
+    "meanings": [
+      {
+        "tr": "egemen, bağımsız (devlet)",
+        "en": "having independent power and the right to govern itself",
+        "exampleEn": "Each sovereign state has the right to make its own laws.",
+        "exampleTr": "Her egemen devletin kendi yasalarını yapma hakkı vardır."
+      },
+      {
+        "tr": "hükümdar, kral/kraliçe",
+        "en": "a king or queen; a supreme ruler",
+        "exampleEn": "The sovereign addressed the nation on the anniversary.",
+        "exampleTr": "Hükümdar yıl dönümünde ulusa hitap etti."
+      }
+    ],
+    "synonyms": [
+      "independent",
+      "autonomous",
+      "monarch"
+    ],
+    "antonyms": [
+      "dependent",
+      "subordinate"
+    ]
+  },
+  {
+    "id": "w_spacious",
+    "headword": "spacious",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspeɪʃəs/",
+    "meanings": [
+      {
+        "tr": "ferah, geniş",
+        "en": "having a lot of space; large in area",
+        "exampleEn": "They moved into a spacious apartment with big windows.",
+        "exampleTr": "Büyük pencereli, ferah bir daireye taşındılar."
+      }
+    ],
+    "synonyms": [
+      "roomy",
+      "large",
+      "expansive"
+    ],
+    "antonyms": [
+      "cramped",
+      "narrow"
+    ]
+  },
+  {
+    "id": "w_spare_time",
+    "headword": "spare time",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌspeər ˈtaɪm/",
+    "meanings": [
+      {
+        "tr": "boş zaman, serbest zaman",
+        "en": "time when you are not working and can do what you want",
+        "exampleEn": "In her spare time she enjoys painting and hiking.",
+        "exampleTr": "Boş zamanında resim yapmaktan ve doğa yürüyüşünden hoşlanır."
+      }
+    ],
+    "synonyms": [
+      "free time",
+      "leisure time"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sparingly",
+    "headword": "sparingly",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspeərɪŋli/",
+    "meanings": [
+      {
+        "tr": "idareli, az miktarda, tutumlu bir şekilde",
+        "en": "in small amounts or only when necessary",
+        "exampleEn": "Use the spice sparingly, as it is very strong.",
+        "exampleTr": "Baharatı idareli kullan, çünkü çok yoğun."
+      }
+    ],
+    "synonyms": [
+      "moderately",
+      "frugally"
+    ],
+    "antonyms": [
+      "lavishly",
+      "generously"
+    ]
+  },
+  {
+    "id": "w_sparseness",
+    "headword": "sparseness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspɑːsnəs/",
+    "meanings": [
+      {
+        "tr": "seyreklik, azlık, kıtlık",
+        "en": "the quality of being thinly spread or small in amount",
+        "exampleEn": "The sparseness of the data made analysis difficult.",
+        "exampleTr": "Verilerin seyrekliği analizi zorlaştırdı."
+      }
+    ],
+    "synonyms": [
+      "scarcity",
+      "scantiness"
+    ],
+    "antonyms": [
+      "abundance",
+      "density"
+    ]
+  },
+  {
+    "id": "w_speak_up",
+    "headword": "speak up",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌspiːk ˈʌp/",
+    "meanings": [
+      {
+        "tr": "daha yüksek sesle konuşmak",
+        "en": "to speak more loudly so people can hear you",
+        "exampleEn": "Could you speak up? I can't hear you at the back.",
+        "exampleTr": "Daha yüksek sesle konuşabilir misin? Arkada seni duyamıyorum."
+      },
+      {
+        "tr": "görüşünü açıkça söylemek, sesini yükseltmek",
+        "en": "to express your opinion openly, especially about something wrong",
+        "exampleEn": "She wasn't afraid to speak up against injustice.",
+        "exampleTr": "Adaletsizliğe karşı sesini yükseltmekten korkmadı."
+      }
+    ],
+    "synonyms": [
+      "speak out"
+    ],
+    "antonyms": [
+      "stay silent"
+    ]
+  },
+  {
+    "id": "w_speckled",
+    "headword": "speckled",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspekld/",
+    "meanings": [
+      {
+        "tr": "benekli, lekeli",
+        "en": "covered with small marks or spots",
+        "exampleEn": "The bird laid speckled eggs in the nest.",
+        "exampleTr": "Kuş yuvaya benekli yumurtalar bıraktı."
+      }
+    ],
+    "synonyms": [
+      "spotted",
+      "dappled",
+      "flecked"
+    ],
+    "antonyms": [
+      "plain"
+    ]
+  },
+  {
+    "id": "w_speed_up",
+    "headword": "speed up",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌspiːd ˈʌp/",
+    "meanings": [
+      {
+        "tr": "hızlanmak, hızlandırmak",
+        "en": "to move or happen faster, or to make something do so",
+        "exampleEn": "We need to speed up the process to meet the deadline.",
+        "exampleTr": "Teslim tarihine yetişmek için süreci hızlandırmamız gerekiyor."
+      }
+    ],
+    "synonyms": [
+      "accelerate",
+      "hasten"
+    ],
+    "antonyms": [
+      "slow down",
+      "decelerate"
+    ]
+  },
+  {
+    "id": "w_spiciness",
+    "headword": "spiciness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspaɪsɪnəs/",
+    "meanings": [
+      {
+        "tr": "acılık, baharatlılık",
+        "en": "the quality of having a strong, hot flavour from spices",
+        "exampleEn": "The spiciness of the curry made my eyes water.",
+        "exampleTr": "Köri­nin acılığı gözlerimi yaşarttı."
+      }
+    ],
+    "synonyms": [
+      "hotness",
+      "pungency"
+    ],
+    "antonyms": [
+      "blandness"
+    ]
+  },
+  {
+    "id": "w_spigot",
+    "headword": "spigot",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspɪɡət/",
+    "meanings": [
+      {
+        "tr": "musluk, tapa, vana",
+        "en": "a tap or valve controlling the flow of liquid from a container or pipe",
+        "exampleEn": "He turned the spigot to fill the bucket with water.",
+        "exampleTr": "Kovayı suyla doldurmak için musluğu açtı."
+      }
+    ],
+    "synonyms": [
+      "tap",
+      "faucet",
+      "valve"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_spill_over",
+    "headword": "spill over",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌspɪl ˈəʊvər/",
+    "meanings": [
+      {
+        "tr": "taşmak; (etkisi) yayılmak, sirayet etmek",
+        "en": "to flow over the edge, or to spread beyond its original limits",
+        "exampleEn": "The tensions in the region could spill over into open conflict.",
+        "exampleTr": "Bölgedeki gerginlikler açık bir çatışmaya sirayet edebilir."
+      }
+    ],
+    "synonyms": [
+      "overflow",
+      "spread"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_spin_off",
+    "headword": "spin-off",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspɪn ɒf/",
+    "meanings": [
+      {
+        "tr": "yan ürün, türev; bir şirketten ayrılan yeni şirket",
+        "en": "a product, company or programme derived from an existing one",
+        "exampleEn": "The new company was a spin-off from the university's research lab.",
+        "exampleTr": "Yeni şirket, üniversitenin araştırma laboratuvarından türeyen bir yan kuruluştu."
+      }
+    ],
+    "synonyms": [
+      "offshoot",
+      "byproduct"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_spine",
+    "headword": "spine",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/spaɪn/",
+    "meanings": [
+      {
+        "tr": "omurga, belkemiği",
+        "en": "the row of bones down the middle of the back",
+        "exampleEn": "She injured her spine in the accident.",
+        "exampleTr": "Kazada omurgasını yaraladı."
+      },
+      {
+        "tr": "kitap sırtı",
+        "en": "the narrow part of a book's cover where the pages are joined",
+        "exampleEn": "The title was printed on the spine of the book.",
+        "exampleTr": "Başlık kitabın sırtına basılmıştı."
+      }
+    ],
+    "synonyms": [
+      "backbone"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_spiteful",
+    "headword": "spiteful",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspaɪtfl/",
+    "meanings": [
+      {
+        "tr": "kinci, garezli, kötü niyetli",
+        "en": "deliberately wanting to hurt, annoy or upset someone",
+        "exampleEn": "She made a spiteful remark about his appearance.",
+        "exampleTr": "Onun görünüşü hakkında kinci bir yorum yaptı."
+      }
+    ],
+    "synonyms": [
+      "malicious",
+      "vindictive",
+      "nasty"
+    ],
+    "antonyms": [
+      "kind",
+      "benevolent"
+    ]
+  },
+  {
+    "id": "w_splendour",
+    "headword": "splendour",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsplendər/",
+    "meanings": [
+      {
+        "tr": "ihtişam, görkem, tantana",
+        "en": "magnificent and impressive beauty or grandeur",
+        "exampleEn": "The palace was restored to its former splendour.",
+        "exampleTr": "Saray eski görkemine kavuşturuldu."
+      }
+    ],
+    "synonyms": [
+      "magnificence",
+      "grandeur",
+      "glory"
+    ],
+    "antonyms": [
+      "simplicity",
+      "modesty"
+    ]
+  },
+  {
+    "id": "w_split_up",
+    "headword": "split up",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌsplɪt ˈʌp/",
+    "meanings": [
+      {
+        "tr": "ayrılmak, ilişkiyi bitirmek",
+        "en": "to end a relationship or marriage",
+        "exampleEn": "They split up after ten years together.",
+        "exampleTr": "On yıl birlikte olduktan sonra ayrıldılar."
+      },
+      {
+        "tr": "gruplara ayırmak/ayrılmak, bölmek",
+        "en": "to divide into smaller groups or parts",
+        "exampleEn": "Let's split up and search different parts of the building.",
+        "exampleTr": "Ayrılıp binanın farklı bölümlerini arayalım."
+      }
+    ],
+    "synonyms": [
+      "separate",
+      "break up",
+      "divide"
+    ],
+    "antonyms": [
+      "unite",
+      "merge"
+    ]
+  },
+  {
+    "id": "w_splitting",
+    "headword": "splitting",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsplɪtɪŋ/",
+    "meanings": [
+      {
+        "tr": "(baş ağrısı için) çok şiddetli, çatlatan",
+        "en": "used to describe a very severe headache",
+        "exampleEn": "I had to lie down because of a splitting headache.",
+        "exampleTr": "Çatlayan bir baş ağrısı yüzünden uzanmak zorunda kaldım."
+      }
+    ],
+    "synonyms": [
+      "severe",
+      "pounding"
+    ],
+    "antonyms": [
+      "mild"
+    ]
+  },
+  {
+    "id": "w_splurge",
+    "headword": "splurge",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/splɜːdʒ/",
+    "meanings": [
+      {
+        "tr": "(para) çarçur etmek, savurganca harcamak",
+        "en": "to spend a lot of money on something, especially as a treat",
+        "exampleEn": "We decided to splurge on a luxury hotel for the weekend.",
+        "exampleTr": "Hafta sonu için lüks bir otele savurganca harcama yapmaya karar verdik."
+      }
+    ],
+    "synonyms": [
+      "splash out",
+      "indulge"
+    ],
+    "antonyms": [
+      "save",
+      "economize"
+    ]
+  },
+  {
+    "id": "w_spontaneity",
+    "headword": "spontaneity",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌspɒntəˈneɪəti/",
+    "meanings": [
+      {
+        "tr": "kendiliğindenlik, doğallık, plansızlık",
+        "en": "the quality of doing things naturally, without planning",
+        "exampleEn": "There was a lack of spontaneity in his carefully rehearsed speech.",
+        "exampleTr": "Özenle prova edilmiş konuşmasında bir doğallık eksikliği vardı."
+      }
+    ],
+    "synonyms": [
+      "impulsiveness",
+      "naturalness"
+    ],
+    "antonyms": [
+      "planning",
+      "deliberation"
+    ]
+  },
+  {
+    "id": "w_spooky",
+    "headword": "spooky",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspuːki/",
+    "meanings": [
+      {
+        "tr": "ürkütücü, tekinsiz, korkutucu",
+        "en": "strange and frightening in a way that makes you feel nervous",
+        "exampleEn": "The old house looked spooky in the moonlight.",
+        "exampleTr": "Eski ev ay ışığında ürkütücü görünüyordu."
+      }
+    ],
+    "synonyms": [
+      "eerie",
+      "creepy",
+      "scary"
+    ],
+    "antonyms": [
+      "reassuring"
+    ]
+  },
+  {
+    "id": "w_spool",
+    "headword": "spool",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/spuːl/",
+    "meanings": [
+      {
+        "tr": "makara, bobin",
+        "en": "a cylinder on which thread, wire, film or tape is wound",
+        "exampleEn": "She wound the thread carefully onto the spool.",
+        "exampleTr": "İpliği dikkatlice makaraya sardı."
+      }
+    ],
+    "synonyms": [
+      "reel",
+      "bobbin"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sporadic",
+    "headword": "sporadic",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/spəˈrædɪk/",
+    "meanings": [
+      {
+        "tr": "düzensiz, ara sıra olan, seyrek",
+        "en": "happening occasionally and irregularly, not regularly",
+        "exampleEn": "There were sporadic outbreaks of violence during the night.",
+        "exampleTr": "Gece boyunca düzensiz şiddet olayları yaşandı."
+      }
+    ],
+    "synonyms": [
+      "intermittent",
+      "occasional",
+      "irregular"
+    ],
+    "antonyms": [
+      "frequent",
+      "constant",
+      "regular"
+    ]
+  },
+  {
+    "id": "w_sporadically",
+    "headword": "sporadically",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/spəˈrædɪkli/",
+    "meanings": [
+      {
+        "tr": "ara sıra, düzensiz aralıklarla, seyrek olarak",
+        "en": "occasionally or at irregular intervals",
+        "exampleEn": "He attended the meetings only sporadically.",
+        "exampleTr": "Toplantılara yalnızca ara sıra katıldı."
+      }
+    ],
+    "synonyms": [
+      "occasionally",
+      "intermittently",
+      "irregularly"
+    ],
+    "antonyms": [
+      "regularly",
+      "constantly"
+    ]
+  },
+  {
+    "id": "w_sportsman",
+    "headword": "sportsman",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspɔːtsmən/",
+    "meanings": [
+      {
+        "tr": "sporcu (erkek)",
+        "en": "a man who takes part in sport, especially professionally",
+        "exampleEn": "He was voted sportsman of the year for his achievements.",
+        "exampleTr": "Başarıları nedeniyle yılın sporcusu seçildi."
+      }
+    ],
+    "synonyms": [
+      "athlete"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sportswoman",
+    "headword": "sportswoman",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈspɔːtswʊmən/",
+    "meanings": [
+      {
+        "tr": "sporcu (kadın)",
+        "en": "a woman who takes part in sport, especially professionally",
+        "exampleEn": "She is regarded as the greatest sportswoman of her generation.",
+        "exampleTr": "Kuşağının en büyük kadın sporcusu olarak kabul ediliyor."
+      }
+    ],
+    "synonyms": [
+      "athlete"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sprig",
+    "headword": "sprig",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/sprɪɡ/",
+    "meanings": [
+      {
+        "tr": "filiz, dalcık, küçük dal",
+        "en": "a small stem with leaves taken from a plant",
+        "exampleEn": "Garnish the dish with a sprig of mint.",
+        "exampleTr": "Yemeği bir dal naneyle süsleyin."
+      }
+    ],
+    "synonyms": [
+      "twig",
+      "stem"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_sprocket",
+    "headword": "sprocket",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsprɒkɪt/",
+    "meanings": [
+      {
+        "tr": "zincir dişlisi, dişli çark",
+        "en": "a wheel with teeth around the edge that connects with a chain",
+        "exampleEn": "The bicycle chain slipped off the rear sprocket.",
+        "exampleTr": "Bisiklet zinciri arka dişliden çıktı."
+      }
+    ],
+    "synonyms": [
+      "cog",
+      "gearwheel"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_spry",
+    "headword": "spry",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/spraɪ/",
+    "meanings": [
+      {
+        "tr": "(özellikle yaşlı biri için) çevik, dinç, canlı",
+        "en": "active and energetic, especially for an older person",
+        "exampleEn": "My grandmother is still spry at eighty-five.",
+        "exampleTr": "Büyükannem seksen beş yaşında hâlâ dinç."
+      }
+    ],
+    "synonyms": [
+      "nimble",
+      "agile",
+      "lively"
+    ],
+    "antonyms": [
+      "sluggish",
+      "frail"
+    ]
+  },
+  {
+    "id": "w_squall",
+    "headword": "squall",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/skwɔːl/",
+    "meanings": [
+      {
+        "tr": "ani ve şiddetli fırtına, bora, sağanak",
+        "en": "a sudden strong wind, often with rain or snow",
+        "exampleEn": "A sudden squall hit the boat and tore the sail.",
+        "exampleTr": "Ani bir bora tekneyi vurdu ve yelkeni yırttı."
+      }
+    ],
+    "synonyms": [
+      "gust",
+      "storm",
+      "gale"
+    ],
+    "antonyms": [
+      "calm"
+    ]
+  },
+  {
+    "id": "w_squally",
+    "headword": "squally",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskwɔːli/",
+    "meanings": [
+      {
+        "tr": "boralı, fırtınalı",
+        "en": "marked by sudden strong winds and rain",
+        "exampleEn": "The forecast warned of squally weather along the coast.",
+        "exampleTr": "Hava tahmini kıyı boyunca boralı hava konusunda uyardı."
+      }
+    ],
+    "synonyms": [
+      "stormy",
+      "gusty",
+      "blustery"
+    ],
+    "antonyms": [
+      "calm"
+    ]
+  },
+  {
+    "id": "w_squander",
+    "headword": "squander",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskwɒndər/",
+    "meanings": [
+      {
+        "tr": "(para, zaman, fırsat) çarçur etmek, boşa harcamak",
+        "en": "to waste money, time or opportunities carelessly",
+        "exampleEn": "He squandered his inheritance on gambling.",
+        "exampleTr": "Mirasını kumarda çarçur etti."
+      }
+    ],
+    "synonyms": [
+      "waste",
+      "fritter away",
+      "dissipate"
+    ],
+    "antonyms": [
+      "save",
+      "conserve"
+    ]
+  },
+  {
+    "id": "w_squanderer",
+    "headword": "squanderer",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈskwɒndərər/",
+    "meanings": [
+      {
+        "tr": "savurgan kimse, müsrif",
+        "en": "a person who wastes money, time or resources",
+        "exampleEn": "He was known as a squanderer who never saved a penny.",
+        "exampleTr": "Hiç para biriktirmeyen bir müsrif olarak tanınıyordu."
+      }
+    ],
+    "synonyms": [
+      "spendthrift",
+      "waster"
+    ],
+    "antonyms": [
+      "saver"
+    ]
+  },
+  {
+    "id": "w_stag",
+    "headword": "stag",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/stæɡ/",
+    "meanings": [
+      {
+        "tr": "erkek geyik",
+        "en": "an adult male deer",
+        "exampleEn": "A magnificent stag stood at the edge of the forest.",
+        "exampleTr": "Görkemli bir erkek geyik ormanın kenarında duruyordu."
+      }
+    ],
+    "synonyms": [
+      "buck",
+      "hart"
+    ],
+    "antonyms": [
+      "doe"
+    ]
+  },
+  {
+    "id": "w_stagnant",
+    "headword": "stagnant",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstæɡnənt/",
+    "meanings": [
+      {
+        "tr": "durgun, gelişmeyen, hareketsiz",
+        "en": "not developing, growing or changing; showing no activity",
+        "exampleEn": "The economy has remained stagnant for several years.",
+        "exampleTr": "Ekonomi birkaç yıldır durgun kaldı."
+      },
+      {
+        "tr": "(su) durgun, akmayan, kokuşmuş",
+        "en": "(of water) not flowing and often smelling unpleasant",
+        "exampleEn": "Mosquitoes bred in the stagnant water of the pond.",
+        "exampleTr": "Sivrisinekler göletin durgun suyunda ürüyordu."
+      }
+    ],
+    "synonyms": [
+      "static",
+      "inactive",
+      "stale"
+    ],
+    "antonyms": [
+      "dynamic",
+      "flowing",
+      "thriving"
+    ]
+  },
+  {
+    "id": "w_stalemate",
+    "headword": "stalemate",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsteɪlmeɪt/",
+    "meanings": [
+      {
+        "tr": "çıkmaz, açmaz, kilitlenme",
+        "en": "a situation in which neither side can win or make progress",
+        "exampleEn": "The negotiations reached a stalemate over pay.",
+        "exampleTr": "Müzakereler ücret konusunda bir çıkmaza girdi."
+      }
+    ],
+    "synonyms": [
+      "deadlock",
+      "impasse",
+      "standoff"
+    ],
+    "antonyms": [
+      "breakthrough",
+      "resolution"
+    ]
+  },
+  {
+    "id": "w_staleness",
+    "headword": "staleness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈsteɪlnəs/",
+    "meanings": [
+      {
+        "tr": "bayatlık; tazeliğini yitirmişlik, monotonluk",
+        "en": "the state of being no longer fresh, new or interesting",
+        "exampleEn": "The staleness of the bread made it inedible.",
+        "exampleTr": "Ekmeğin bayatlığı onu yenmez hale getirdi."
+      }
+    ],
+    "synonyms": [
+      "dullness",
+      "flatness"
+    ],
+    "antonyms": [
+      "freshness"
+    ]
+  },
+  {
+    "id": "w_stand_up",
+    "headword": "stand up",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌstænd ˈʌp/",
+    "meanings": [
+      {
+        "tr": "ayağa kalkmak",
+        "en": "to rise to a standing position from sitting or lying",
+        "exampleEn": "Everyone stood up when the judge entered the room.",
+        "exampleTr": "Yargıç odaya girince herkes ayağa kalktı."
+      },
+      {
+        "tr": "(stand up for) savunmak, arka çıkmak",
+        "en": "to defend or support someone or something",
+        "exampleEn": "You should stand up for your rights.",
+        "exampleTr": "Haklarını savunmalısın."
+      }
+    ],
+    "synonyms": [
+      "rise",
+      "get up"
+    ],
+    "antonyms": [
+      "sit down"
+    ]
+  },
+  {
+    "id": "w_standard_price",
+    "headword": "standard-price",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈstændəd praɪs/",
+    "meanings": [
+      {
+        "tr": "standart fiyat, normal satış fiyatı",
+        "en": "the usual or fixed price of a product before any discount",
+        "exampleEn": "The standard-price of the software is higher than the promotional offer.",
+        "exampleTr": "Yazılımın standart fiyatı, promosyon teklifinden daha yüksek."
+      }
+    ],
+    "synonyms": [
+      "list price",
+      "regular price"
+    ],
+    "antonyms": [
+      "discount price"
+    ]
+  }
+]

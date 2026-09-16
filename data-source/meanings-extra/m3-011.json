@@ -1,0 +1,452 @@
+[
+  {
+    "id": "w_hike",
+    "headword": "hike",
+    "extraMeanings": [
+      {
+        "tr": "zam, artış (fiyat/faiz)",
+        "en": "a large increase in prices, taxes, or interest rates",
+        "exampleEn": "There was a sharp hike in fuel prices last month.",
+        "exampleTr": "Geçen ay yakıt fiyatlarında keskin bir zam oldu."
+      }
+    ]
+  },
+  {
+    "id": "w_hire",
+    "headword": "hire",
+    "extraMeanings": [
+      {
+        "tr": "kiralamak (araç, ekipman vb.)",
+        "en": "to pay to use something for a short time",
+        "exampleEn": "We decided to hire a car for the weekend.",
+        "exampleTr": "Hafta sonu için bir araba kiralamaya karar verdik."
+      }
+    ]
+  },
+  {
+    "id": "w_honor",
+    "headword": "honor",
+    "extraMeanings": [
+      {
+        "tr": "onurlandırmak, şereflendirmek (fiil)",
+        "en": "to show great respect for someone, often publicly",
+        "exampleEn": "They held a ceremony to honor the fallen soldiers.",
+        "exampleTr": "Şehit askerleri onurlandırmak için bir tören düzenlediler."
+      },
+      {
+        "tr": "(sözü/anlaşmayı) yerine getirmek",
+        "en": "to keep a promise or agreement",
+        "exampleEn": "The company promised to honor the original contract.",
+        "exampleTr": "Şirket asıl sözleşmeyi yerine getirmeye söz verdi."
+      }
+    ]
+  },
+  {
+    "id": "w_host",
+    "headword": "host",
+    "extraMeanings": [
+      {
+        "tr": "ev sahipliği yapmak, düzenlemek (fiil)",
+        "en": "to organize an event or provide the place for it",
+        "exampleEn": "Our city will host the Olympic Games next year.",
+        "exampleTr": "Şehrimiz gelecek yıl Olimpiyat Oyunlarına ev sahipliği yapacak."
+      }
+    ]
+  },
+  {
+    "id": "w_however",
+    "headword": "however",
+    "extraMeanings": [
+      {
+        "tr": "ne kadar ... olursa olsun, nasıl ... olursa olsun",
+        "en": "to whatever degree or in whatever way",
+        "exampleEn": "However hard I try, I can't fix this problem.",
+        "exampleTr": "Ne kadar uğraşırsam uğraşayım, bu sorunu çözemiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_image",
+    "headword": "image",
+    "extraMeanings": [
+      {
+        "tr": "imaj, izlenim (kişi/kurumun kamuoyundaki algısı)",
+        "en": "the general impression that a person or organization gives to the public",
+        "exampleEn": "The company spent millions to improve its public image.",
+        "exampleTr": "Şirket kamuoyundaki imajını iyileştirmek için milyonlar harcadı."
+      }
+    ]
+  },
+  {
+    "id": "w_impact",
+    "headword": "impact",
+    "extraMeanings": [
+      {
+        "tr": "çarpma, çarpışma (fiziksel)",
+        "en": "the force of one object hitting another",
+        "exampleEn": "The car was badly damaged on impact with the wall.",
+        "exampleTr": "Araba duvara çarpması sonucu ağır hasar gördü."
+      }
+    ]
+  },
+  {
+    "id": "w_influence",
+    "headword": "influence",
+    "extraMeanings": [
+      {
+        "tr": "etkilemek (fiil)",
+        "en": "to affect the way someone or something develops or behaves",
+        "exampleEn": "Advertising can strongly influence what people buy.",
+        "exampleTr": "Reklamlar insanların ne satın alacağını güçlü şekilde etkileyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w_issue",
+    "headword": "issue",
+    "extraMeanings": [
+      {
+        "tr": "(dergi/yayın) sayı, nüsha",
+        "en": "one edition of a magazine or newspaper",
+        "exampleEn": "Did you read the latest issue of the magazine?",
+        "exampleTr": "Derginin en son sayısını okudun mu?"
+      },
+      {
+        "tr": "çıkarmak, yayımlamak, dağıtmak (fiil)",
+        "en": "to officially give out or announce something",
+        "exampleEn": "The police issued a warning about the storm.",
+        "exampleTr": "Polis fırtınayla ilgili bir uyarı yayımladı."
+      }
+    ]
+  },
+  {
+    "id": "w_jam",
+    "headword": "jam",
+    "extraMeanings": [
+      {
+        "tr": "sıkışma, tıkanma (trafik vb.)",
+        "en": "a situation where movement is blocked, especially traffic",
+        "exampleEn": "We were stuck in a traffic jam for two hours.",
+        "exampleTr": "İki saat boyunca trafik sıkışıklığında mahsur kaldık."
+      },
+      {
+        "tr": "sıkıştırmak, tıkamak (fiil)",
+        "en": "to push something into a tight space or make it stuck",
+        "exampleEn": "The paper jammed in the printer again.",
+        "exampleTr": "Kâğıt yazıcıda yine sıkıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_joke",
+    "headword": "joke",
+    "extraMeanings": [
+      {
+        "tr": "şaka yapmak, şakalaşmak (fiil)",
+        "en": "to say funny things or not be serious",
+        "exampleEn": "Don't get angry, I was only joking.",
+        "exampleTr": "Kızma, sadece şaka yapıyordum."
+      }
+    ]
+  },
+  {
+    "id": "w_junior",
+    "headword": "junior",
+    "extraMeanings": [
+      {
+        "tr": "(ABD) lise/üniversite üçüncü sınıf öğrencisi",
+        "en": "a student in the third year of high school or college in the US",
+        "exampleEn": "My sister is a junior at the state university.",
+        "exampleTr": "Kız kardeşim eyalet üniversitesinde üçüncü sınıf öğrencisi."
+      }
+    ]
+  },
+  {
+    "id": "w_knock",
+    "headword": "knock",
+    "extraMeanings": [
+      {
+        "tr": "vurmak, çalmak (kapı); çarpmak (fiil)",
+        "en": "to hit a door or surface to make a noise, or to bump into something",
+        "exampleEn": "Someone knocked on the door late at night.",
+        "exampleTr": "Gece geç saatte birisi kapıyı çaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_labor",
+    "headword": "labor",
+    "extraMeanings": [
+      {
+        "tr": "doğum sancısı, doğum eylemi",
+        "en": "the process of giving birth to a baby",
+        "exampleEn": "She went into labor early this morning.",
+        "exampleTr": "Bu sabah erkenden doğum sancısı başladı."
+      }
+    ]
+  },
+  {
+    "id": "w_lack",
+    "headword": "lack",
+    "extraMeanings": [
+      {
+        "tr": "-den yoksun olmak, eksik olmak (fiil)",
+        "en": "to not have something, or not have enough of it",
+        "exampleEn": "The plan lacks any real detail.",
+        "exampleTr": "Plan gerçek bir ayrıntıdan yoksun."
+      }
+    ]
+  },
+  {
+    "id": "w_landscape",
+    "headword": "landscape",
+    "extraMeanings": [
+      {
+        "tr": "yatay konum (sayfa/ekran yönü)",
+        "en": "a page or image that is wider than it is tall",
+        "exampleEn": "Print the photo in landscape rather than portrait.",
+        "exampleTr": "Fotoğrafı dikey yerine yatay olarak yazdır."
+      }
+    ]
+  },
+  {
+    "id": "w_law",
+    "headword": "law",
+    "extraMeanings": [
+      {
+        "tr": "(bilim) yasa, kural",
+        "en": "a scientific rule that describes how something always happens",
+        "exampleEn": "Newton's law of gravity explains why objects fall.",
+        "exampleTr": "Newton'un yerçekimi yasası nesnelerin neden düştüğünü açıklar."
+      }
+    ]
+  },
+  {
+    "id": "w_lend",
+    "headword": "lend",
+    "extraMeanings": [
+      {
+        "tr": "(banka vb.) kredi/borç vermek",
+        "en": "to give money that must be paid back, usually with interest",
+        "exampleEn": "The bank agreed to lend us the money for the house.",
+        "exampleTr": "Banka ev için bize para vermeyi kabul etti."
+      }
+    ]
+  },
+  {
+    "id": "w_less",
+    "headword": "less",
+    "extraMeanings": [
+      {
+        "tr": "daha az (miktar, sayılamayan için)",
+        "en": "a smaller amount of something",
+        "exampleEn": "You should eat less sugar to stay healthy.",
+        "exampleTr": "Sağlıklı kalmak için daha az şeker yemelisin."
+      }
+    ]
+  },
+  {
+    "id": "w_license",
+    "headword": "license",
+    "extraMeanings": [
+      {
+        "tr": "ruhsat, ehliyet, lisans (isim)",
+        "en": "an official document giving permission to do or own something",
+        "exampleEn": "You need a license to drive a car.",
+        "exampleTr": "Araba kullanmak için bir ehliyete ihtiyacın var."
+      }
+    ]
+  },
+  {
+    "id": "w_likely",
+    "headword": "likely",
+    "extraMeanings": [
+      {
+        "tr": "muhtemelen, büyük olasılıkla (zarf)",
+        "en": "probably",
+        "exampleEn": "It will most likely rain this afternoon.",
+        "exampleTr": "Büyük olasılıkla bu öğleden sonra yağmur yağacak."
+      }
+    ]
+  },
+  {
+    "id": "w_load",
+    "headword": "load",
+    "extraMeanings": [
+      {
+        "tr": "yüklemek (fiil); (yazılım/veri) yüklemek",
+        "en": "to put a large amount of something onto a vehicle, or to fill a program with data",
+        "exampleEn": "They loaded the boxes onto the truck.",
+        "exampleTr": "Kutuları kamyona yüklediler."
+      },
+      {
+        "tr": "bir sürü, bir yığın (gayriresmî)",
+        "en": "a large amount or number of something",
+        "exampleEn": "There were loads of people at the concert.",
+        "exampleTr": "Konserde bir sürü insan vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_local",
+    "headword": "local",
+    "extraMeanings": [
+      {
+        "tr": "yerli, o yörenin insanı (isim)",
+        "en": "a person who lives in a particular area",
+        "exampleEn": "The locals were very friendly to the tourists.",
+        "exampleTr": "Yöre halkı turistlere karşı çok cana yakındı."
+      }
+    ]
+  },
+  {
+    "id": "w_lock",
+    "headword": "lock",
+    "extraMeanings": [
+      {
+        "tr": "kilitlemek (fiil)",
+        "en": "to fasten something with a lock",
+        "exampleEn": "Don't forget to lock the door when you leave.",
+        "exampleTr": "Çıkarken kapıyı kilitlemeyi unutma."
+      }
+    ]
+  },
+  {
+    "id": "w_loud",
+    "headword": "loud",
+    "extraMeanings": [
+      {
+        "tr": "(renk/giysi) cırtlak, göze batan",
+        "en": "too bright or showy in a way that is not attractive",
+        "exampleEn": "He was wearing a loud orange shirt.",
+        "exampleTr": "Cırtlak turuncu bir gömlek giyiyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_low",
+    "headword": "low",
+    "extraMeanings": [
+      {
+        "tr": "(ses) alçak, kalın; kısık",
+        "en": "quiet, or deep in sound",
+        "exampleEn": "She spoke in a low voice so no one could hear.",
+        "exampleTr": "Kimse duymasın diye alçak sesle konuştu."
+      },
+      {
+        "tr": "keyifsiz, moralsiz, üzgün",
+        "en": "feeling sad or without energy",
+        "exampleEn": "He's been feeling low since he lost his job.",
+        "exampleTr": "İşini kaybettiğinden beri kendini moralsiz hissediyor."
+      }
+    ]
+  },
+  {
+    "id": "w_mad",
+    "headword": "mad",
+    "extraMeanings": [
+      {
+        "tr": "-e bayılan, deli gibi seven (about)",
+        "en": "extremely enthusiastic about something",
+        "exampleEn": "She's mad about horses and rides every day.",
+        "exampleTr": "Atlara bayılıyor ve her gün biniyor."
+      }
+    ]
+  },
+  {
+    "id": "w_magic",
+    "headword": "magic",
+    "extraMeanings": [
+      {
+        "tr": "sihir, büyü (isim)",
+        "en": "the use of special powers to make impossible things happen",
+        "exampleEn": "The children believed in magic and fairy tales.",
+        "exampleTr": "Çocuklar sihre ve peri masallarına inanıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_major",
+    "headword": "major",
+    "extraMeanings": [
+      {
+        "tr": "(üniversite) ana dal, bölüm",
+        "en": "the main subject a student studies at university",
+        "exampleEn": "Her major is history at the university.",
+        "exampleTr": "Üniversitedeki ana dalı tarih."
+      }
+    ]
+  },
+  {
+    "id": "w_manner",
+    "headword": "manner",
+    "extraMeanings": [
+      {
+        "tr": "tavır, hal, tutum (kişinin davranış biçimi)",
+        "en": "the way in which a person behaves toward others",
+        "exampleEn": "The doctor had a calm and friendly manner.",
+        "exampleTr": "Doktorun sakin ve cana yakın bir tavrı vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_mark",
+    "headword": "mark",
+    "extraMeanings": [
+      {
+        "tr": "işaretlemek; (sınav) not vermek, değerlendirmek (fiil)",
+        "en": "to make a mark on something, or to check and grade work",
+        "exampleEn": "The teacher marked all the exams over the weekend.",
+        "exampleTr": "Öğretmen hafta sonu tüm sınavları değerlendirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_material",
+    "headword": "material",
+    "extraMeanings": [
+      {
+        "tr": "maddi, mala mülke dair (sıfat)",
+        "en": "relating to physical things and money rather than emotions or ideas",
+        "exampleEn": "Money brought him material comfort but not happiness.",
+        "exampleTr": "Para ona maddi rahatlık getirdi ama mutluluk getirmedi."
+      }
+    ]
+  },
+  {
+    "id": "w_mean",
+    "headword": "mean",
+    "extraMeanings": [
+      {
+        "tr": "anlamına gelmek, kastetmek (fiil)",
+        "en": "to have a particular meaning, or to intend something",
+        "exampleEn": "What does this word mean in English?",
+        "exampleTr": "Bu kelime İngilizcede ne anlama geliyor?"
+      }
+    ]
+  },
+  {
+    "id": "w_mention",
+    "headword": "mention",
+    "extraMeanings": [
+      {
+        "tr": "bahsetmek, söz etmek (fiil)",
+        "en": "to briefly speak or write about something",
+        "exampleEn": "She mentioned that she might be late.",
+        "exampleTr": "Geç kalabileceğinden bahsetti."
+      }
+    ]
+  },
+  {
+    "id": "w_manage",
+    "headword": "manage",
+    "extraMeanings": [
+      {
+        "tr": "idare etmek, geçinmek, üstesinden gelmek",
+        "en": "to succeed in dealing with a difficult situation",
+        "exampleEn": "It's not much money, but we'll manage somehow.",
+        "exampleTr": "Fazla para değil ama bir şekilde idare edeceğiz."
+      }
+    ]
+  }
+]

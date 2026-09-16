@@ -1,0 +1,506 @@
+[
+  {
+    "id": "w_stable",
+    "headword": "stable",
+    "extraMeanings": [
+      {
+        "tr": "ahır",
+        "en": "a building where horses are kept",
+        "exampleEn": "She led the horse back into the stable for the night.",
+        "exampleTr": "Atı gece için ahıra geri götürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_stall",
+    "headword": "stall",
+    "extraMeanings": [
+      {
+        "tr": "(motor) stop etmek, teklemek; oyalamak, zaman kazanmaya çalışmak",
+        "en": "(of an engine) to stop suddenly; or to delay",
+        "exampleEn": "The car stalled at the traffic lights.",
+        "exampleTr": "Araba trafik ışıklarında stop etti."
+      }
+    ]
+  },
+  {
+    "id": "w_standing",
+    "headword": "standing",
+    "extraMeanings": [
+      {
+        "tr": "itibar, mevki, konum (isim)",
+        "en": "reputation or position in society",
+        "exampleEn": "She is a lawyer of high standing in the community.",
+        "exampleTr": "O, toplumda yüksek itibara sahip bir avukattır."
+      }
+    ]
+  },
+  {
+    "id": "w_stay",
+    "headword": "stay",
+    "extraMeanings": [
+      {
+        "tr": "kalmak, durmak (fiil)",
+        "en": "to remain in a place",
+        "exampleEn": "Please stay here until I come back.",
+        "exampleTr": "Ben dönene kadar lütfen burada kal."
+      }
+    ]
+  },
+  {
+    "id": "w_steal",
+    "headword": "stealing",
+    "extraMeanings": [
+      {
+        "tr": "kelepir, çok ucuz alışveriş (steal)",
+        "en": "something very cheap, a bargain",
+        "exampleEn": "At that price, the dress was a real steal.",
+        "exampleTr": "O fiyata elbise tam bir kelepirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_steam",
+    "headword": "steam",
+    "extraMeanings": [
+      {
+        "tr": "buharda pişirmek (fiil)",
+        "en": "to cook food using steam",
+        "exampleEn": "I like to steam the vegetables instead of boiling them.",
+        "exampleTr": "Sebzeleri haşlamak yerine buharda pişirmeyi severim."
+      }
+    ]
+  },
+  {
+    "id": "w_steep",
+    "headword": "steep",
+    "extraMeanings": [
+      {
+        "tr": "fahiş, aşırı yüksek (fiyat)",
+        "en": "(of a price) unreasonably high",
+        "exampleEn": "Twenty dollars for a coffee seems a bit steep.",
+        "exampleTr": "Bir kahveye yirmi dolar biraz fahiş görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w_stem",
+    "headword": "stem",
+    "extraMeanings": [
+      {
+        "tr": "sap, gövde (bitki) (isim)",
+        "en": "the main stalk of a plant",
+        "exampleEn": "She cut the flower with a long stem.",
+        "exampleTr": "Çiçeği uzun bir sapla kesti."
+      }
+    ]
+  },
+  {
+    "id": "w_sting",
+    "headword": "sting",
+    "extraMeanings": [
+      {
+        "tr": "iğne, sokma (isim)",
+        "en": "a wound or pain from a bite or nettle",
+        "exampleEn": "The bee sting on my arm was really painful.",
+        "exampleTr": "Kolumdaki arı sokması gerçekten acı vericiydi."
+      }
+    ]
+  },
+  {
+    "id": "w_stir",
+    "headword": "stir",
+    "extraMeanings": [
+      {
+        "tr": "(duygu) uyandırmak, harekete geçirmek",
+        "en": "to cause a strong feeling or reaction",
+        "exampleEn": "The speech stirred the crowd to action.",
+        "exampleTr": "Konuşma kalabalığı harekete geçirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_stock",
+    "headword": "stock",
+    "extraMeanings": [
+      {
+        "tr": "stok, mevcut mal",
+        "en": "a supply of goods available for sale",
+        "exampleEn": "That item is out of stock at the moment.",
+        "exampleTr": "O ürün şu an stokta yok."
+      },
+      {
+        "tr": "et/tavuk suyu (yemek)",
+        "en": "a liquid made by cooking meat or bones, used in cooking",
+        "exampleEn": "Add some chicken stock to the soup.",
+        "exampleTr": "Çorbaya biraz tavuk suyu ekle."
+      }
+    ]
+  },
+  {
+    "id": "w_strain",
+    "headword": "strain",
+    "extraMeanings": [
+      {
+        "tr": "(sıvıyı) süzmek (fiil)",
+        "en": "to separate liquid from solids through a sieve",
+        "exampleEn": "Strain the pasta before adding the sauce.",
+        "exampleTr": "Sos eklemeden önce makarnanın suyunu süz."
+      },
+      {
+        "tr": "tür, çeşit (virüs/bitki)",
+        "en": "a particular type of a virus, plant or animal",
+        "exampleEn": "A new strain of the flu virus has appeared.",
+        "exampleTr": "Grip virüsünün yeni bir türü ortaya çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_strap",
+    "headword": "strap",
+    "extraMeanings": [
+      {
+        "tr": "kemerle/kayışla bağlamak (fiil)",
+        "en": "to fasten something with a strap",
+        "exampleEn": "He strapped the luggage onto the roof of the car.",
+        "exampleTr": "Bavulları arabanın tavanına kayışla bağladı."
+      }
+    ]
+  },
+  {
+    "id": "w_straw",
+    "headword": "straw",
+    "extraMeanings": [
+      {
+        "tr": "saman rengi, sarımsı (sıfat gibi kullanım)",
+        "en": "the dried stalks of grain crops",
+        "exampleEn": "The animals slept on a bed of straw.",
+        "exampleTr": "Hayvanlar saman yatağında uyudu."
+      }
+    ]
+  },
+  {
+    "id": "w_stream",
+    "headword": "stream",
+    "extraMeanings": [
+      {
+        "tr": "akmak; çevrimiçi yayınlamak (fiil)",
+        "en": "to flow, or to play media over the internet",
+        "exampleEn": "Millions of people stream music every day.",
+        "exampleTr": "Milyonlarca insan her gün müzik yayını dinliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_stress",
+    "headword": "stress",
+    "extraMeanings": [
+      {
+        "tr": "vurgu (dilbilgisi)",
+        "en": "the emphasis given to a syllable or word",
+        "exampleEn": "In 'record', the stress falls on the first syllable.",
+        "exampleTr": "'record' kelimesinde vurgu ilk hecededir."
+      },
+      {
+        "tr": "vurgulamak, önemle belirtmek (fiil)",
+        "en": "to emphasize the importance of something",
+        "exampleEn": "The teacher stressed the need to practice daily.",
+        "exampleTr": "Öğretmen her gün pratik yapmanın gerekliliğini vurguladı."
+      }
+    ]
+  },
+  {
+    "id": "w_stretch",
+    "headword": "stretch",
+    "extraMeanings": [
+      {
+        "tr": "(zaman veya arazi) süre, kesim, uzanan bölüm (isim)",
+        "en": "a continuous area or period of time",
+        "exampleEn": "This is a dangerous stretch of road.",
+        "exampleTr": "Bu, yolun tehlikeli bir kesimidir."
+      }
+    ]
+  },
+  {
+    "id": "w_strip",
+    "headword": "strip",
+    "extraMeanings": [
+      {
+        "tr": "soymak, çıkarmak (fiil)",
+        "en": "to remove clothing or a covering layer",
+        "exampleEn": "They stripped the old paint off the walls.",
+        "exampleTr": "Duvarlardaki eski boyayı kazıdılar."
+      }
+    ]
+  },
+  {
+    "id": "w_struggle",
+    "headword": "struggle",
+    "extraMeanings": [
+      {
+        "tr": "mücadele etmek, zorlanmak (fiil)",
+        "en": "to try hard to do something difficult",
+        "exampleEn": "He struggled to open the heavy door.",
+        "exampleTr": "Ağır kapıyı açmakta zorlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_stuffed",
+    "headword": "stuffed",
+    "extraMeanings": [
+      {
+        "tr": "tıka basa doymuş, çok tok",
+        "en": "having eaten so much that you are completely full",
+        "exampleEn": "I couldn't eat another bite; I'm stuffed.",
+        "exampleTr": "Bir lokma daha yiyemezdim, tıka basa doydum."
+      }
+    ]
+  },
+  {
+    "id": "w_stumble",
+    "headword": "stumble",
+    "extraMeanings": [
+      {
+        "tr": "tesadüfen rastlamak (upon/across)",
+        "en": "to find something by chance",
+        "exampleEn": "I stumbled upon an old photo while cleaning.",
+        "exampleTr": "Temizlik yaparken eski bir fotoğrafa tesadüfen rastladım."
+      }
+    ]
+  },
+  {
+    "id": "w_substitute",
+    "headword": "substitute",
+    "extraMeanings": [
+      {
+        "tr": "yerine koymak, değiştirmek (fiil)",
+        "en": "to use one thing in place of another",
+        "exampleEn": "You can substitute butter with oil in this recipe.",
+        "exampleTr": "Bu tarifte tereyağı yerine yağ kullanabilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w_suit",
+    "headword": "suffer",
+    "extraMeanings": [
+      {
+        "tr": "maruz kalmak, uğramak (kayıp/yenilgi)",
+        "en": "to experience something bad such as a loss or defeat",
+        "exampleEn": "The team suffered a heavy defeat on Saturday.",
+        "exampleTr": "Takım cumartesi ağır bir yenilgiye uğradı."
+      }
+    ]
+  },
+  {
+    "id": "w_summit",
+    "headword": "summit",
+    "extraMeanings": [
+      {
+        "tr": "zirve toplantısı (liderler arası)",
+        "en": "a formal meeting between leaders of governments",
+        "exampleEn": "World leaders gathered for a climate summit.",
+        "exampleTr": "Dünya liderleri bir iklim zirvesi için bir araya geldi."
+      }
+    ]
+  },
+  {
+    "id": "w_suppose",
+    "headword": "suppose",
+    "extraMeanings": [
+      {
+        "tr": "gerekmek, beklenmek (be supposed to)",
+        "en": "to be expected or required to do something",
+        "exampleEn": "You are supposed to arrive by nine o'clock.",
+        "exampleTr": "Saat dokuza kadar varman gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w_surface",
+    "headword": "surface",
+    "extraMeanings": [
+      {
+        "tr": "yüzeye çıkmak, ortaya çıkmak (fiil)",
+        "en": "to come up to the surface or become known",
+        "exampleEn": "New evidence surfaced during the trial.",
+        "exampleTr": "Duruşma sırasında yeni deliller ortaya çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_suspect",
+    "headword": "suspect",
+    "extraMeanings": [
+      {
+        "tr": "şüphelenmek, sanmak (fiil)",
+        "en": "to think that something is probably true",
+        "exampleEn": "I suspect she already knows the answer.",
+        "exampleTr": "Sanırım cevabı zaten biliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_swap",
+    "headword": "swap",
+    "extraMeanings": [
+      {
+        "tr": "takas, değiş tokuş (isim)",
+        "en": "an act of exchanging one thing for another",
+        "exampleEn": "Let's do a swap: my book for your pen.",
+        "exampleTr": "Hadi takas yapalım: benim kitabım, senin kalemin."
+      }
+    ]
+  },
+  {
+    "id": "w_swarm",
+    "headword": "swarm",
+    "extraMeanings": [
+      {
+        "tr": "akın etmek, üşüşmek (fiil)",
+        "en": "to move in a large group; to be crowded",
+        "exampleEn": "Tourists swarmed into the museum.",
+        "exampleTr": "Turistler müzeye akın etti."
+      }
+    ]
+  },
+  {
+    "id": "w_sweat",
+    "headword": "sweat",
+    "extraMeanings": [
+      {
+        "tr": "terlemek (fiil)",
+        "en": "to produce sweat from the skin",
+        "exampleEn": "He was sweating after the long run.",
+        "exampleTr": "Uzun koşudan sonra terliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_swell",
+    "headword": "swell",
+    "extraMeanings": [
+      {
+        "tr": "artmak, çoğalmak, büyümek",
+        "en": "to increase in number or size",
+        "exampleEn": "The crowd swelled to over a thousand people.",
+        "exampleTr": "Kalabalık binden fazla kişiye ulaştı."
+      }
+    ]
+  },
+  {
+    "id": "w_switch",
+    "headword": "switch",
+    "extraMeanings": [
+      {
+        "tr": "geçiş yapmak, değiştirmek (fiil)",
+        "en": "to change from one thing to another",
+        "exampleEn": "She switched from tea to coffee in the mornings.",
+        "exampleTr": "Sabahları çaydan kahveye geçti."
+      }
+    ]
+  },
+  {
+    "id": "w_sympathy",
+    "headword": "sympathy",
+    "extraMeanings": [
+      {
+        "tr": "başsağlığı, taziye",
+        "en": "an expression of sorrow at someone's loss",
+        "exampleEn": "Please accept my deepest sympathy for your loss.",
+        "exampleTr": "Kaybınız için en derin taziyelerimi kabul edin."
+      }
+    ]
+  },
+  {
+    "id": "w_tab",
+    "headword": "tab",
+    "extraMeanings": [
+      {
+        "tr": "tab tuşu (klavye)",
+        "en": "the key on a keyboard used to move to a set position",
+        "exampleEn": "Press the tab key to move to the next field.",
+        "exampleTr": "Bir sonraki alana geçmek için tab tuşuna bas."
+      }
+    ]
+  },
+  {
+    "id": "w_tablet",
+    "headword": "tablet",
+    "extraMeanings": [
+      {
+        "tr": "levha, tablet (taş/kil üzerinde yazılı)",
+        "en": "a flat slab of stone or clay with an inscription",
+        "exampleEn": "Ancient laws were carved on stone tablets.",
+        "exampleTr": "Antik yasalar taş tabletlere kazınmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_take",
+    "headword": "take",
+    "extraMeanings": [
+      {
+        "tr": "hasılat, gelir (isim)",
+        "en": "the amount of money earned by a business",
+        "exampleEn": "The day's take from the shop was quite high.",
+        "exampleTr": "Dükkânın günlük hasılatı oldukça yüksekti."
+      }
+    ]
+  },
+  {
+    "id": "w_taste",
+    "headword": "taste",
+    "extraMeanings": [
+      {
+        "tr": "tatmak, tadına bakmak (fiil)",
+        "en": "to sense flavour, or to try a small amount of food",
+        "exampleEn": "Taste the sauce and tell me if it needs salt.",
+        "exampleTr": "Sosun tadına bak ve tuza ihtiyacı var mı söyle."
+      },
+      {
+        "tr": "zevk, beğeni (isim)",
+        "en": "a person's judgement of what is good in art, style etc.",
+        "exampleEn": "She has excellent taste in music.",
+        "exampleTr": "Müzik konusunda çok iyi bir zevki var."
+      }
+    ]
+  },
+  {
+    "id": "w_tax",
+    "headword": "tax",
+    "extraMeanings": [
+      {
+        "tr": "vergilendirmek; zorlamak, yormak (fiil)",
+        "en": "to impose a tax; or to make heavy demands on",
+        "exampleEn": "The long journey taxed her strength.",
+        "exampleTr": "Uzun yolculuk gücünü zorladı."
+      }
+    ]
+  },
+  {
+    "id": "w_tease",
+    "headword": "tease",
+    "extraMeanings": [
+      {
+        "tr": "takılmak, dalga geçmek, kızdırmak (fiil)",
+        "en": "to make fun of someone in a playful way",
+        "exampleEn": "The kids always tease him about his glasses.",
+        "exampleTr": "Çocuklar gözlükleri yüzünden ona hep takılır."
+      }
+    ]
+  },
+  {
+    "id": "w_tank",
+    "headword": "tank",
+    "extraMeanings": [
+      {
+        "tr": "tank (askeri araç)",
+        "en": "an armoured military vehicle with guns",
+        "exampleEn": "The army sent tanks to the border.",
+        "exampleTr": "Ordu sınıra tanklar gönderdi."
+      }
+    ]
+  }
+]

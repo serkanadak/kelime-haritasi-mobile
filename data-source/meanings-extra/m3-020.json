@@ -1,0 +1,362 @@
+[
+  {
+    "id": "w_decline",
+    "headword": "decline",
+    "extraMeanings": [
+      {
+        "tr": "reddetmek, geri çevirmek (kibarca)",
+        "en": "to politely refuse an offer or invitation",
+        "exampleEn": "She declined the invitation to the party because she was busy.",
+        "exampleTr": "Meşgul olduğu için partiye davetini kibarca geri çevirdi."
+      }
+    ]
+  },
+  {
+    "id": "w_decrease",
+    "headword": "decrease",
+    "extraMeanings": [
+      {
+        "tr": "azaltmak, düşürmek (fiil)",
+        "en": "to make something smaller in amount or number",
+        "exampleEn": "The company decreased its prices to attract more customers.",
+        "exampleTr": "Şirket daha fazla müşteri çekmek için fiyatlarını düşürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_deed",
+    "headword": "deed",
+    "extraMeanings": [
+      {
+        "tr": "tapu, senet (hukuki belge)",
+        "en": "a legal document showing ownership of property",
+        "exampleEn": "They signed the deed when they bought the house.",
+        "exampleTr": "Evi satın aldıklarında tapuyu imzaladılar."
+      }
+    ]
+  },
+  {
+    "id": "w_deliver",
+    "headword": "deliver",
+    "extraMeanings": [
+      {
+        "tr": "(konuşma/söylev) yapmak, sunmak",
+        "en": "to give a speech or make a formal statement",
+        "exampleEn": "The president delivered a powerful speech to the nation.",
+        "exampleTr": "Başkan ulusa güçlü bir konuşma yaptı."
+      },
+      {
+        "tr": "doğurtmak, doğum yaptırmak",
+        "en": "to help a baby to be born",
+        "exampleEn": "The doctor delivered the baby safely.",
+        "exampleTr": "Doktor bebeği güvenle doğurttu."
+      }
+    ]
+  },
+  {
+    "id": "w_delivery",
+    "headword": "delivery",
+    "extraMeanings": [
+      {
+        "tr": "doğum",
+        "en": "the process of giving birth to a baby",
+        "exampleEn": "The delivery went smoothly and both mother and baby are fine.",
+        "exampleTr": "Doğum sorunsuz geçti ve anne ile bebek iyi durumda."
+      }
+    ]
+  },
+  {
+    "id": "w_demonstrate",
+    "headword": "demonstrate",
+    "extraMeanings": [
+      {
+        "tr": "gösteri/protesto yapmak",
+        "en": "to protest publicly in a group",
+        "exampleEn": "Thousands of people demonstrated against the new law.",
+        "exampleTr": "Binlerce insan yeni yasaya karşı gösteri yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w_deposit",
+    "headword": "deposit",
+    "extraMeanings": [
+      {
+        "tr": "(para) yatırmak, hesaba koymak (fiil)",
+        "en": "to put money into a bank account",
+        "exampleEn": "I need to deposit this check at the bank tomorrow.",
+        "exampleTr": "Yarın bu çeki bankaya yatırmam gerekiyor."
+      },
+      {
+        "tr": "(bir yere) bırakmak, koymak; (madde) biriktirmek",
+        "en": "to leave or lay down something in a particular place",
+        "exampleEn": "The river deposits sand along its banks.",
+        "exampleTr": "Nehir kıyıları boyunca kum biriktirir."
+      }
+    ]
+  },
+  {
+    "id": "w_depression",
+    "headword": "depression",
+    "extraMeanings": [
+      {
+        "tr": "ekonomik durgunluk, buhran",
+        "en": "a long period of serious economic decline",
+        "exampleEn": "Many people lost their jobs during the Great Depression.",
+        "exampleTr": "Büyük Buhran sırasında birçok insan işini kaybetti."
+      }
+    ]
+  },
+  {
+    "id": "w_derive",
+    "headword": "derive",
+    "extraMeanings": [
+      {
+        "tr": "(zevk/fayda) elde etmek, çıkarmak",
+        "en": "to get pleasure or benefit from something",
+        "exampleEn": "She derives great pleasure from painting.",
+        "exampleTr": "Resim yapmaktan büyük zevk alır."
+      }
+    ]
+  },
+  {
+    "id": "w_desire",
+    "headword": "desire",
+    "extraMeanings": [
+      {
+        "tr": "arzu etmek, istemek (fiil)",
+        "en": "to want something strongly",
+        "exampleEn": "He desired nothing more than a peaceful life.",
+        "exampleTr": "Huzurlu bir hayattan başka bir şey arzu etmiyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_despair",
+    "headword": "despair",
+    "extraMeanings": [
+      {
+        "tr": "umudunu kesmek, ümitsizliğe kapılmak (fiil)",
+        "en": "to lose all hope",
+        "exampleEn": "Don't despair; things will get better soon.",
+        "exampleTr": "Umudunu kesme; işler yakında düzelecek."
+      }
+    ]
+  },
+  {
+    "id": "w_dedicate",
+    "headword": "dedicate",
+    "extraMeanings": [
+      {
+        "tr": "(kendini) vermek, hasretmek",
+        "en": "to give all your time and energy to something",
+        "exampleEn": "She dedicated her life to helping the poor.",
+        "exampleTr": "Hayatını yoksullara yardım etmeye adadı."
+      }
+    ]
+  },
+  {
+    "id": "w_define",
+    "headword": "define",
+    "extraMeanings": [
+      {
+        "tr": "belirlemek, sınırlarını çizmek",
+        "en": "to describe or mark the limits of something",
+        "exampleEn": "The border between the two countries is clearly defined.",
+        "exampleTr": "İki ülke arasındaki sınır açıkça belirlenmiştir."
+      }
+    ]
+  },
+  {
+    "id": "w_delicate",
+    "headword": "delicate",
+    "extraMeanings": [
+      {
+        "tr": "nazik, hassas (durum/konu)",
+        "en": "needing careful handling because it is sensitive",
+        "exampleEn": "Negotiating peace is a delicate matter.",
+        "exampleTr": "Barış müzakeresi hassas bir konudur."
+      }
+    ]
+  },
+  {
+    "id": "w_dive",
+    "headword": "dive",
+    "extraMeanings": [
+      {
+        "tr": "dalmak, atlamak (fiil)",
+        "en": "to jump into water head first",
+        "exampleEn": "He dived into the pool from the highest board.",
+        "exampleTr": "En yüksek tramplenden havuza daldı."
+      },
+      {
+        "tr": "aniden düşmek, dalış yapmak (fiyat/uçak)",
+        "en": "to fall or drop suddenly and steeply",
+        "exampleEn": "Share prices dived after the bad news.",
+        "exampleTr": "Kötü haberden sonra hisse fiyatları hızla düştü."
+      }
+    ]
+  },
+  {
+    "id": "w_divide",
+    "headword": "divide",
+    "extraMeanings": [
+      {
+        "tr": "bölmek, ayırmak (fiil)",
+        "en": "to separate something into parts",
+        "exampleEn": "We divided the cake into eight pieces.",
+        "exampleTr": "Pastayı sekiz parçaya böldük."
+      },
+      {
+        "tr": "(matematik) bölmek",
+        "en": "to calculate how many times one number goes into another",
+        "exampleEn": "If you divide 12 by 4, you get 3.",
+        "exampleTr": "12'yi 4'e bölerseniz 3 elde edersiniz."
+      }
+    ]
+  },
+  {
+    "id": "w_divine",
+    "headword": "divine",
+    "extraMeanings": [
+      {
+        "tr": "harika, nefis, çok güzel (gayrıresmi)",
+        "en": "extremely good or delightful",
+        "exampleEn": "This chocolate cake tastes absolutely divine.",
+        "exampleTr": "Bu çikolatalı pasta gerçekten nefis."
+      }
+    ]
+  },
+  {
+    "id": "w_dot",
+    "headword": "dot",
+    "extraMeanings": [
+      {
+        "tr": "serpiştirmek, dağıtmak (fiil)",
+        "en": "to spread things across an area",
+        "exampleEn": "Small villages are dotted across the countryside.",
+        "exampleTr": "Kırsalın her yanına küçük köyler serpiştirilmiştir."
+      }
+    ]
+  },
+  {
+    "id": "w_drag",
+    "headword": "drag",
+    "extraMeanings": [
+      {
+        "tr": "(zaman/olay) uzayıp gitmek, çok yavaş geçmek",
+        "en": "to pass very slowly and tediously",
+        "exampleEn": "The boring meeting seemed to drag on forever.",
+        "exampleTr": "Sıkıcı toplantı sonsuza dek sürüyormuş gibi geldi."
+      }
+    ]
+  },
+  {
+    "id": "w_drip",
+    "headword": "drip",
+    "extraMeanings": [
+      {
+        "tr": "serum (tıbbi damlalık)",
+        "en": "a device that slowly puts liquid into a patient's body",
+        "exampleEn": "The patient was put on a drip after surgery.",
+        "exampleTr": "Hasta ameliyattan sonra seruma bağlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_dull",
+    "headword": "dull",
+    "extraMeanings": [
+      {
+        "tr": "kapalı, bulutlu (hava)",
+        "en": "not bright; cloudy and grey",
+        "exampleEn": "It was a dull, grey afternoon with no sunshine.",
+        "exampleTr": "Güneşsiz, kapalı ve gri bir öğleden sonraydı."
+      },
+      {
+        "tr": "künt, hafif (ağrı)",
+        "en": "not sharp or strong (of pain)",
+        "exampleEn": "I felt a dull ache in my lower back.",
+        "exampleTr": "Belimin alt kısmında künt bir ağrı hissettim."
+      }
+    ]
+  },
+  {
+    "id": "w_dump",
+    "headword": "dump",
+    "extraMeanings": [
+      {
+        "tr": "(bir yere) atmak, bırakmak (fiil)",
+        "en": "to get rid of something carelessly",
+        "exampleEn": "He dumped his bag on the floor and sat down.",
+        "exampleTr": "Çantasını yere attı ve oturdu."
+      },
+      {
+        "tr": "(sevgiliyi) terk etmek (gayrıresmi)",
+        "en": "to end a romantic relationship with someone",
+        "exampleEn": "She dumped her boyfriend after the argument.",
+        "exampleTr": "Tartışmadan sonra erkek arkadaşını terk etti."
+      }
+    ]
+  },
+  {
+    "id": "w_duty",
+    "headword": "duty",
+    "extraMeanings": [
+      {
+        "tr": "gümrük vergisi, harç",
+        "en": "a tax paid on goods, especially imports",
+        "exampleEn": "You have to pay duty on cigarettes and alcohol.",
+        "exampleTr": "Sigara ve alkol için gümrük vergisi ödemeniz gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w_distinction",
+    "headword": "distinction",
+    "extraMeanings": [
+      {
+        "tr": "seçkinlik, üstünlük, saygınlık",
+        "en": "the quality of being excellent or special",
+        "exampleEn": "She is a writer of great distinction.",
+        "exampleTr": "O, büyük saygınlığa sahip bir yazardır."
+      }
+    ]
+  },
+  {
+    "id": "w_dressing",
+    "headword": "dressing",
+    "extraMeanings": [
+      {
+        "tr": "giyinme, giydirme",
+        "en": "the act of putting on clothes",
+        "exampleEn": "Dressing quickly, he rushed out of the house.",
+        "exampleTr": "Hızlıca giyinerek evden fırladı."
+      }
+    ]
+  },
+  {
+    "id": "w_declaration",
+    "headword": "declaration",
+    "extraMeanings": [
+      {
+        "tr": "(gümrük/vergi) beyanı, bildirim",
+        "en": "an official statement of goods or income",
+        "exampleEn": "You must fill in a customs declaration at the airport.",
+        "exampleTr": "Havaalanında bir gümrük beyannamesi doldurmalısınız."
+      }
+    ]
+  },
+  {
+    "id": "w_dramatic",
+    "headword": "dramatic",
+    "extraMeanings": [
+      {
+        "tr": "tiyatroya/oyuna ilişkin, dramatik",
+        "en": "relating to drama or the theatre",
+        "exampleEn": "She studied the dramatic works of Shakespeare.",
+        "exampleTr": "Shakespeare'in tiyatro eserlerini inceledi."
+      }
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "w_zeal",
+    "headword": "zeal",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ziːl/",
+    "meanings": [
+      {
+        "tr": "şevk, gayret, coşku",
+        "en": "great energy or enthusiasm in pursuit of a cause or objective",
+        "exampleEn": "She pursued her new career with great zeal and determination.",
+        "exampleTr": "Yeni kariyerini büyük bir şevk ve kararlılıkla sürdürdü."
+      }
+    ],
+    "synonyms": [
+      "enthusiasm",
+      "passion",
+      "fervour",
+      "eagerness"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference"
+    ]
+  },
+  {
+    "id": "w_zebra_crossing",
+    "headword": "zebra crossing",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈzebrə ˌkrɒsɪŋ/",
+    "meanings": [
+      {
+        "tr": "yaya geçidi (siyah-beyaz çizgili)",
+        "en": "a place marked with black and white stripes where vehicles must stop to let pedestrians cross the road",
+        "exampleEn": "Always look both ways before you use the zebra crossing.",
+        "exampleTr": "Yaya geçidini kullanmadan önce her zaman iki tarafa da bak."
+      }
+    ],
+    "synonyms": [
+      "pedestrian crossing",
+      "crosswalk"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_zip_up",
+    "headword": "zip up",
+    "pos": "verb",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/zɪp ʌp/",
+    "meanings": [
+      {
+        "tr": "fermuarını çekmek, fermuarını kapatmak",
+        "en": "to fasten something using a zip",
+        "exampleEn": "It's cold outside, so zip up your jacket before you leave.",
+        "exampleTr": "Dışarısı soğuk, o yüzden çıkmadan önce ceketinin fermuarını çek."
+      }
+    ],
+    "synonyms": [
+      "fasten",
+      "close"
+    ],
+    "antonyms": [
+      "unzip",
+      "open"
+    ]
+  }
+]

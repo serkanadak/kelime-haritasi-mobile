@@ -1,0 +1,260 @@
+[
+  {
+    "id": "w_mighty",
+    "headword": "mighty",
+    "extraMeanings": [
+      {
+        "tr": "çok, son derece (vurgu için)",
+        "en": "very, extremely (informal intensifier)",
+        "exampleEn": "That was mighty kind of you to help us.",
+        "exampleTr": "Bize yardım etmen çok nazikti."
+      }
+    ]
+  },
+  {
+    "id": "w_mill",
+    "headword": "mill",
+    "extraMeanings": [
+      {
+        "tr": "dolaşmak, bir arada dolanmak (mill around/about)",
+        "en": "to move around in a confused mass (mill around)",
+        "exampleEn": "Crowds of people were milling around the entrance.",
+        "exampleTr": "Girişin çevresinde kalabalıklar amaçsızca dolanıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_mimic",
+    "headword": "mimic",
+    "extraMeanings": [
+      {
+        "tr": "taklit etmek",
+        "en": "to copy the way someone speaks or behaves",
+        "exampleEn": "She can mimic the teacher's accent perfectly.",
+        "exampleTr": "Öğretmenin aksanını mükemmel şekilde taklit edebiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_mine",
+    "headword": "mine",
+    "extraMeanings": [
+      {
+        "tr": "benimki (iyelik zamiri)",
+        "en": "the one that belongs to me",
+        "exampleEn": "That book is mine, not yours.",
+        "exampleTr": "O kitap benimki, senin değil."
+      },
+      {
+        "tr": "mayın (patlayıcı)",
+        "en": "a bomb hidden under the ground or in the water",
+        "exampleEn": "The soldiers were careful not to step on a mine.",
+        "exampleTr": "Askerler bir mayına basmamak için dikkatliydi."
+      }
+    ]
+  },
+  {
+    "id": "w_mint",
+    "headword": "mint",
+    "extraMeanings": [
+      {
+        "tr": "nane şekeri, nane şekerlemesi",
+        "en": "a candy flavored with mint",
+        "exampleEn": "She offered me a mint after dinner.",
+        "exampleTr": "Yemekten sonra bana bir nane şekeri ikram etti."
+      },
+      {
+        "tr": "darphane; para basmak",
+        "en": "a place where coins are made; to produce money",
+        "exampleEn": "The coins were struck at the royal mint.",
+        "exampleTr": "Madeni paralar kraliyet darphanesinde basıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_mock",
+    "headword": "mock",
+    "extraMeanings": [
+      {
+        "tr": "alay etmek, dalga geçmek",
+        "en": "to laugh at someone in an unkind way",
+        "exampleEn": "The other kids mocked him for his old clothes.",
+        "exampleTr": "Diğer çocuklar eski kıyafetleri yüzünden onunla alay etti."
+      }
+    ]
+  },
+  {
+    "id": "w_mortar",
+    "headword": "mortar",
+    "extraMeanings": [
+      {
+        "tr": "havan topu",
+        "en": "a short cannon that fires shells high into the air",
+        "exampleEn": "The base came under heavy mortar fire.",
+        "exampleTr": "Üs yoğun havan topu ateşine maruz kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w_motion",
+    "headword": "motion",
+    "extraMeanings": [
+      {
+        "tr": "önerge (toplantıda oylanan teklif)",
+        "en": "a formal proposal put to a vote at a meeting",
+        "exampleEn": "The motion was passed by a large majority.",
+        "exampleTr": "Önerge büyük bir çoğunlukla kabul edildi."
+      },
+      {
+        "tr": "işaret etmek, el kol hareketiyle göstermek",
+        "en": "to signal to someone with a gesture",
+        "exampleEn": "She motioned for me to sit down.",
+        "exampleTr": "Oturmam için bana işaret etti."
+      }
+    ]
+  },
+  {
+    "id": "w_mold",
+    "headword": "mold",
+    "extraMeanings": [
+      {
+        "tr": "biçimlendirmek, şekil vermek",
+        "en": "to shape a soft material; to influence someone's character",
+        "exampleEn": "The teacher helped mold the young students into responsible adults.",
+        "exampleTr": "Öğretmen genç öğrencileri sorumluluk sahibi yetişkinler olacak şekilde biçimlendirmeye yardım etti."
+      }
+    ]
+  },
+  {
+    "id": "w_moral",
+    "headword": "moral",
+    "extraMeanings": [
+      {
+        "tr": "kıssadan hisse, ders (bir hikâyenin verdiği ders)",
+        "en": "a lesson taught by a story or event",
+        "exampleEn": "The moral of the story is that honesty pays off.",
+        "exampleTr": "Hikâyenin kıssadan hissesi, dürüstlüğün karşılığını verdiğidir."
+      }
+    ]
+  },
+  {
+    "id": "w_muse",
+    "headword": "muse",
+    "extraMeanings": [
+      {
+        "tr": "ilham perisi, ilham kaynağı",
+        "en": "a person or thing that inspires an artist",
+        "exampleEn": "The painter said his wife was his greatest muse.",
+        "exampleTr": "Ressam, karısının en büyük ilham kaynağı olduğunu söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w_multiple",
+    "headword": "multiple",
+    "extraMeanings": [
+      {
+        "tr": "kat (matematik: bir sayının katı)",
+        "en": "a number that contains another an exact number of times",
+        "exampleEn": "Twelve is a multiple of three.",
+        "exampleTr": "On iki, üçün bir katıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_navigate",
+    "headword": "navigate",
+    "extraMeanings": [
+      {
+        "tr": "(zor bir durumla) başa çıkmak, üstesinden gelmek",
+        "en": "to deal successfully with a complicated situation",
+        "exampleEn": "It can be hard to navigate the complex tax system.",
+        "exampleTr": "Karmaşık vergi sistemiyle başa çıkmak zor olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w_neat",
+    "headword": "neat",
+    "extraMeanings": [
+      {
+        "tr": "harika, süper (beğeni ifadesi)",
+        "en": "very good, pleasing (informal)",
+        "exampleEn": "That's a really neat idea!",
+        "exampleTr": "Bu gerçekten harika bir fikir!"
+      },
+      {
+        "tr": "sek (içki: karıştırılmamış)",
+        "en": "(of an alcoholic drink) served without ice or water",
+        "exampleEn": "He ordered a whiskey, neat.",
+        "exampleTr": "Sek bir viski söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w_neglect",
+    "headword": "neglect",
+    "extraMeanings": [
+      {
+        "tr": "ihmal etmek, savsaklamak",
+        "en": "to fail to care for or give attention to something",
+        "exampleEn": "He neglected his health while working long hours.",
+        "exampleTr": "Uzun saatler çalışırken sağlığını ihmal etti."
+      },
+      {
+        "tr": "yapmayı ihmal etmek, unutmak",
+        "en": "to fail to do something (neglect to do)",
+        "exampleEn": "She neglected to mention that she would be late.",
+        "exampleTr": "Geç kalacağını söylemeyi ihmal etti."
+      }
+    ]
+  },
+  {
+    "id": "w_nerve",
+    "headword": "nerve",
+    "extraMeanings": [
+      {
+        "tr": "cesaret, yüreklilik",
+        "en": "courage or confidence",
+        "exampleEn": "He didn't have the nerve to ask her out.",
+        "exampleTr": "Ona çıkma teklif edecek cesareti yoktu."
+      },
+      {
+        "tr": "küstahlık, yüzsüzlük (the nerve to)",
+        "en": "rude behavior showing a lack of respect",
+        "exampleEn": "She had the nerve to blame me for her own mistake.",
+        "exampleTr": "Kendi hatası için beni suçlayacak yüzsüzlüğü gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w_net",
+    "headword": "net",
+    "extraMeanings": [
+      {
+        "tr": "ağ (balık, spor vb.)",
+        "en": "a material made of crossed threads with holes between",
+        "exampleEn": "The fisherman pulled the net full of fish onto the boat.",
+        "exampleTr": "Balıkçı balık dolu ağı tekneye çekti."
+      },
+      {
+        "tr": "kazanmak, elde etmek (net kâr olarak)",
+        "en": "to gain something as a profit",
+        "exampleEn": "The company netted a huge profit last year.",
+        "exampleTr": "Şirket geçen yıl büyük bir kâr elde etti."
+      }
+    ]
+  },
+  {
+    "id": "w_nominate",
+    "headword": "nominate",
+    "extraMeanings": [
+      {
+        "tr": "atamak, görevlendirmek",
+        "en": "to officially appoint someone to a position or job",
+        "exampleEn": "She was nominated as the new chairperson of the committee.",
+        "exampleTr": "Komitenin yeni başkanı olarak atandı."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "w_viper",
+    "headword": "viper",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvaɪpər/",
+    "meanings": [
+      {
+        "tr": "engerek (zehirli yılan)",
+        "en": "a poisonous snake with large fangs",
+        "exampleEn": "A viper slithered across the rocky path.",
+        "exampleTr": "Kayalık patikada bir engerek süzülerek geçti."
+      },
+      {
+        "tr": "hain/kalleş kimse",
+        "en": "a treacherous or malicious person",
+        "exampleEn": "He turned out to be a viper who betrayed his closest friends.",
+        "exampleTr": "En yakın dostlarına ihanet eden bir kalleş çıktı."
+      }
+    ],
+    "synonyms": [
+      "adder",
+      "snake",
+      "serpent"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_virtual_school",
+    "headword": "virtual school",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌvɜːtʃuəl ˈskuːl/",
+    "meanings": [
+      {
+        "tr": "sanal okul, çevrimiçi okul",
+        "en": "a school where teaching and learning take place online rather than in person",
+        "exampleEn": "During the pandemic, many children attended a virtual school from home.",
+        "exampleTr": "Pandemi sırasında birçok çocuk evden sanal okula devam etti."
+      }
+    ],
+    "synonyms": [
+      "online school",
+      "e-school"
+    ],
+    "antonyms": [
+      "physical school"
+    ]
+  },
+  {
+    "id": "w_visionary",
+    "headword": "visionary",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvɪʒənəri/",
+    "meanings": [
+      {
+        "tr": "vizyoner, ileri görüşlü kimse",
+        "en": "a person with original ideas about what the future could be like",
+        "exampleEn": "Steve Jobs is often described as a visionary in technology.",
+        "exampleTr": "Steve Jobs teknoloji alanında sık sık bir vizyoner olarak tanımlanır."
+      },
+      {
+        "tr": "ileri görüşlü, hayalperest (sıfat)",
+        "en": "showing clear and original ideas about the future",
+        "exampleEn": "Her visionary leadership transformed the company.",
+        "exampleTr": "Onun vizyoner liderliği şirketi dönüştürdü."
+      }
+    ],
+    "synonyms": [
+      "dreamer",
+      "pioneer",
+      "idealist"
+    ],
+    "antonyms": [
+      "pragmatist"
+    ]
+  },
+  {
+    "id": "w_vista",
+    "headword": "vista",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvɪstə/",
+    "meanings": [
+      {
+        "tr": "manzara, geniş görünüm",
+        "en": "a distant view seen through a long, narrow opening",
+        "exampleEn": "From the hilltop we enjoyed a stunning vista of the valley.",
+        "exampleTr": "Tepenin zirvesinden vadinin muhteşem manzarasının keyfini çıkardık."
+      },
+      {
+        "tr": "olasılıklar dizisi, ufuk (mecazi)",
+        "en": "a range of possibilities that may develop in the future",
+        "exampleEn": "The new technology opens up exciting vistas for research.",
+        "exampleTr": "Yeni teknoloji araştırma için heyecan verici ufuklar açıyor."
+      }
+    ],
+    "synonyms": [
+      "view",
+      "panorama",
+      "scene"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_volley",
+    "headword": "volley",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvɒli/",
+    "meanings": [
+      {
+        "tr": "yaylım ateş, salvo",
+        "en": "a number of bullets or arrows fired at the same time",
+        "exampleEn": "The soldiers fired a volley of shots into the air.",
+        "exampleTr": "Askerler havaya bir yaylım ateş açtı."
+      },
+      {
+        "tr": "vole (topu yere değmeden vurma)",
+        "en": "a hit or kick of the ball before it touches the ground",
+        "exampleEn": "She won the point with a powerful volley at the net.",
+        "exampleTr": "Filenin önünde güçlü bir voleyle sayıyı kazandı."
+      }
+    ],
+    "synonyms": [
+      "barrage",
+      "salvo",
+      "burst"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_voracious",
+    "headword": "voracious",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/vəˈreɪʃəs/",
+    "meanings": [
+      {
+        "tr": "obur, doymak bilmez",
+        "en": "eating or wanting large amounts of food",
+        "exampleEn": "Teenagers often have voracious appetites.",
+        "exampleTr": "Gençlerin çoğu zaman doymak bilmez iştahları vardır."
+      },
+      {
+        "tr": "açgözlü, hevesli (bir şeye)",
+        "en": "very eager for something, especially a lot of it",
+        "exampleEn": "She is a voracious reader who finishes a book every day.",
+        "exampleTr": "Her gün bir kitap bitiren, kitaba doymayan bir okurdur."
+      }
+    ],
+    "synonyms": [
+      "insatiable",
+      "ravenous",
+      "greedy"
+    ],
+    "antonyms": [
+      "satisfied"
+    ]
+  },
+  {
+    "id": "w_vote_against",
+    "headword": "vote against",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/vəʊt əˈɡenst/",
+    "meanings": [
+      {
+        "tr": "aleyhinde oy vermek, karşı oy vermek",
+        "en": "to formally express opposition to something in a vote",
+        "exampleEn": "Most members voted against the proposed budget cuts.",
+        "exampleTr": "Üyelerin çoğu önerilen bütçe kesintilerine karşı oy verdi."
+      }
+    ],
+    "synonyms": [
+      "oppose",
+      "reject"
+    ],
+    "antonyms": [
+      "vote for",
+      "support"
+    ]
+  },
+  {
+    "id": "w_vulnerable",
+    "headword": "vulnerable",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈvʌlnərəbl/",
+    "meanings": [
+      {
+        "tr": "savunmasız, incinebilir, kırılgan",
+        "en": "able to be easily hurt, harmed, or attacked",
+        "exampleEn": "Elderly people are especially vulnerable to the virus.",
+        "exampleTr": "Yaşlı insanlar virüse karşı özellikle savunmasızdır."
+      }
+    ],
+    "synonyms": [
+      "exposed",
+      "defenceless",
+      "susceptible"
+    ],
+    "antonyms": [
+      "protected",
+      "invulnerable",
+      "secure"
+    ]
+  },
+  {
+    "id": "w_walk_in",
+    "headword": "walk in",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/wɔːk ɪn/",
+    "meanings": [
+      {
+        "tr": "içeri girmek (yürüyerek)",
+        "en": "to enter a place on foot, often without an appointment",
+        "exampleEn": "You can just walk in without booking an appointment.",
+        "exampleTr": "Randevu almadan öylece içeri girebilirsiniz."
+      }
+    ],
+    "synonyms": [
+      "enter",
+      "step in"
+    ],
+    "antonyms": [
+      "walk out"
+    ]
+  },
+  {
+    "id": "w_wanness",
+    "headword": "wanness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɒnnəs/",
+    "meanings": [
+      {
+        "tr": "solgunluk, benzi atmışlık",
+        "en": "the state of being pale, especially from illness or tiredness",
+        "exampleEn": "The wanness of her face showed how ill she had been.",
+        "exampleTr": "Yüzünün solgunluğu ne kadar hasta olduğunu gösteriyordu."
+      }
+    ],
+    "synonyms": [
+      "paleness",
+      "pallor"
+    ],
+    "antonyms": [
+      "ruddiness"
+    ]
+  },
+  {
+    "id": "w_warlike",
+    "headword": "warlike",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɔːlaɪk/",
+    "meanings": [
+      {
+        "tr": "savaşçı, savaşa eğilimli",
+        "en": "aggressive and ready or eager to fight a war",
+        "exampleEn": "The tribe had a fierce and warlike reputation.",
+        "exampleTr": "Kabile sert ve savaşçı bir üne sahipti."
+      }
+    ],
+    "synonyms": [
+      "belligerent",
+      "hostile",
+      "aggressive"
+    ],
+    "antonyms": [
+      "peaceful",
+      "peaceable"
+    ]
+  },
+  {
+    "id": "w_warlock",
+    "headword": "warlock",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɔːlɒk/",
+    "meanings": [
+      {
+        "tr": "erkek büyücü, sihirbaz",
+        "en": "a man who is believed to have magic powers; a male witch",
+        "exampleEn": "In the story, a powerful warlock cast a spell on the village.",
+        "exampleTr": "Hikayede güçlü bir büyücü köye bir büyü yaptı."
+      }
+    ],
+    "synonyms": [
+      "sorcerer",
+      "wizard",
+      "magician"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_washout",
+    "headword": "washout",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɒʃaʊt/",
+    "meanings": [
+      {
+        "tr": "fiyasko, başarısızlık",
+        "en": "a complete failure or disappointment",
+        "exampleEn": "The outdoor concert was a total washout because of the rain.",
+        "exampleTr": "Açık hava konseri yağmur yüzünden tam bir fiyaskoydu."
+      }
+    ],
+    "synonyms": [
+      "failure",
+      "fiasco",
+      "flop"
+    ],
+    "antonyms": [
+      "success"
+    ]
+  },
+  {
+    "id": "w_wastage",
+    "headword": "wastage",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈweɪstɪdʒ/",
+    "meanings": [
+      {
+        "tr": "israf, kayıp, fire",
+        "en": "the amount of something that is wasted or lost",
+        "exampleEn": "Better planning could reduce food wastage in restaurants.",
+        "exampleTr": "Daha iyi planlama restoranlarda yiyecek israfını azaltabilir."
+      }
+    ],
+    "synonyms": [
+      "waste",
+      "loss"
+    ],
+    "antonyms": [
+      "conservation"
+    ]
+  },
+  {
+    "id": "w_wastebasket",
+    "headword": "wastebasket",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈweɪstbɑːskɪt/",
+    "meanings": [
+      {
+        "tr": "çöp sepeti (özellikle kağıt için)",
+        "en": "a container for waste paper and small pieces of rubbish",
+        "exampleEn": "She crumpled the letter and tossed it into the wastebasket.",
+        "exampleTr": "Mektubu buruşturup çöp sepetine attı."
+      }
+    ],
+    "synonyms": [
+      "wastepaper basket",
+      "trash can",
+      "bin"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wastrel",
+    "headword": "wastrel",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈweɪstrəl/",
+    "meanings": [
+      {
+        "tr": "müsrif, hovarda, tembel avare",
+        "en": "a person who wastes money, time, or opportunities",
+        "exampleEn": "His father called him a wastrel who never held a steady job.",
+        "exampleTr": "Babası ona, hiç düzenli bir işte çalışmayan bir avare derdi."
+      }
+    ],
+    "synonyms": [
+      "spendthrift",
+      "idler",
+      "good-for-nothing"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_watch_out",
+    "headword": "watch out",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/wɒtʃ aʊt/",
+    "meanings": [
+      {
+        "tr": "dikkat etmek, tetikte olmak",
+        "en": "used to warn someone to be careful about a danger",
+        "exampleEn": "Watch out! There's a car coming.",
+        "exampleTr": "Dikkat et! Bir araba geliyor."
+      }
+    ],
+    "synonyms": [
+      "be careful",
+      "look out",
+      "beware"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_watchman",
+    "headword": "watchman",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɒtʃmən/",
+    "meanings": [
+      {
+        "tr": "bekçi, gece bekçisi",
+        "en": "a person whose job is to guard a building, especially at night",
+        "exampleEn": "The night watchman checked every door before locking up.",
+        "exampleTr": "Gece bekçisi kapatmadan önce her kapıyı kontrol etti."
+      }
+    ],
+    "synonyms": [
+      "guard",
+      "security guard",
+      "sentry"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wayfarer",
+    "headword": "wayfarer",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈweɪfeərər/",
+    "meanings": [
+      {
+        "tr": "yolcu, gezgin (özellikle yaya)",
+        "en": "a person who travels from place to place, especially on foot",
+        "exampleEn": "The old inn once welcomed weary wayfarers on the mountain road.",
+        "exampleTr": "Eski han bir zamanlar dağ yolundaki yorgun yolcuları ağırlardı."
+      }
+    ],
+    "synonyms": [
+      "traveller",
+      "wanderer",
+      "voyager"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_waylay",
+    "headword": "waylay",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/weɪˈleɪ/",
+    "meanings": [
+      {
+        "tr": "pusuya yatıp yolunu kesmek, yolda çevirmek",
+        "en": "to stop someone as they are going somewhere, especially to attack or talk to them",
+        "exampleEn": "Reporters waylaid the minister as he left the building.",
+        "exampleTr": "Muhabirler bakanı binadan çıkarken yolda çevirdiler."
+      }
+    ],
+    "synonyms": [
+      "ambush",
+      "accost",
+      "intercept"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_we",
+    "headword": "we",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wiː/",
+    "meanings": [
+      {
+        "tr": "biz",
+        "en": "used by a speaker to refer to himself/herself and one or more other people",
+        "exampleEn": "We are going to the cinema tonight.",
+        "exampleTr": "Bu gece sinemaya gidiyoruz."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "you",
+      "they"
+    ]
+  },
+  {
+    "id": "w_weakling",
+    "headword": "weakling",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwiːklɪŋ/",
+    "meanings": [
+      {
+        "tr": "zayıf/güçsüz kimse, mızmız",
+        "en": "a person who is physically weak or lacks strength of character",
+        "exampleEn": "He was teased as a weakling because he couldn't lift the box.",
+        "exampleTr": "Kutuyu kaldıramadığı için güçsüz diye alay edildi."
+      }
+    ],
+    "synonyms": [
+      "wimp",
+      "coward"
+    ],
+    "antonyms": [
+      "strongman"
+    ]
+  },
+  {
+    "id": "w_wean",
+    "headword": "wean",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wiːn/",
+    "meanings": [
+      {
+        "tr": "sütten kesmek",
+        "en": "to gradually stop feeding a baby or young animal with its mother's milk",
+        "exampleEn": "Most mothers wean their babies at around six months.",
+        "exampleTr": "Çoğu anne bebeğini altı ay civarında sütten keser."
+      },
+      {
+        "tr": "(bir alışkanlıktan) yavaş yavaş vazgeçirmek",
+        "en": "to make someone gradually stop depending on something",
+        "exampleEn": "The program aims to wean addicts off drugs.",
+        "exampleTr": "Program bağımlıları uyuşturucudan yavaş yavaş vazgeçirmeyi amaçlıyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_weaponless",
+    "headword": "weaponless",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwepənləs/",
+    "meanings": [
+      {
+        "tr": "silahsız",
+        "en": "having no weapon or weapons",
+        "exampleEn": "The weaponless soldiers were forced to surrender.",
+        "exampleTr": "Silahsız askerler teslim olmak zorunda kaldı."
+      }
+    ],
+    "synonyms": [
+      "unarmed",
+      "defenceless"
+    ],
+    "antonyms": [
+      "armed"
+    ]
+  },
+  {
+    "id": "w_weariness",
+    "headword": "weariness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɪərinəs/",
+    "meanings": [
+      {
+        "tr": "yorgunluk, bitkinlik",
+        "en": "the feeling of being very tired",
+        "exampleEn": "A deep weariness came over her after the long journey.",
+        "exampleTr": "Uzun yolculuktan sonra derin bir yorgunluk çöktü üzerine."
+      }
+    ],
+    "synonyms": [
+      "tiredness",
+      "fatigue",
+      "exhaustion"
+    ],
+    "antonyms": [
+      "energy",
+      "vitality"
+    ]
+  },
+  {
+    "id": "w_web_based",
+    "headword": "web-based",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwebbeɪst/",
+    "meanings": [
+      {
+        "tr": "web tabanlı, internet üzerinden çalışan",
+        "en": "available on or operated through the internet",
+        "exampleEn": "The company uses a web-based system to manage orders.",
+        "exampleTr": "Şirket siparişleri yönetmek için web tabanlı bir sistem kullanıyor."
+      }
+    ],
+    "synonyms": [
+      "online",
+      "internet-based",
+      "cloud-based"
+    ],
+    "antonyms": [
+      "offline"
+    ]
+  },
+  {
+    "id": "w_weedy",
+    "headword": "weedy",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwiːdi/",
+    "meanings": [
+      {
+        "tr": "sıska, zayıf ve güçsüz",
+        "en": "thin and weak-looking",
+        "exampleEn": "He was a weedy boy who avoided all sports.",
+        "exampleTr": "Bütün sporlardan kaçınan sıska bir çocuktu."
+      },
+      {
+        "tr": "yabani otlarla dolu",
+        "en": "full of weeds",
+        "exampleEn": "The garden had become weedy after months of neglect.",
+        "exampleTr": "Bahçe aylarca ihmal edildikten sonra yabani otlarla dolmuştu."
+      }
+    ],
+    "synonyms": [
+      "scrawny",
+      "puny"
+    ],
+    "antonyms": [
+      "muscular",
+      "sturdy"
+    ]
+  },
+  {
+    "id": "w_weightlessness",
+    "headword": "weightlessness",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈweɪtləsnəs/",
+    "meanings": [
+      {
+        "tr": "ağırlıksızlık, yer çekimsizlik",
+        "en": "the state of having no weight, especially in space",
+        "exampleEn": "Astronauts must train to cope with weightlessness.",
+        "exampleTr": "Astronotlar ağırlıksızlıkla başa çıkmak için eğitim almalıdır."
+      }
+    ],
+    "synonyms": [
+      "zero gravity"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_weirdness",
+    "headword": "weirdness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɪədnəs/",
+    "meanings": [
+      {
+        "tr": "tuhaflık, gariplik",
+        "en": "the quality of being strange or unusual",
+        "exampleEn": "There was a certain weirdness about the empty town.",
+        "exampleTr": "Boş kasabada belli bir tuhaflık vardı."
+      }
+    ],
+    "synonyms": [
+      "strangeness",
+      "oddness",
+      "peculiarity"
+    ],
+    "antonyms": [
+      "normality"
+    ]
+  },
+  {
+    "id": "w_well_versed",
+    "headword": "well-versed",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌwel ˈvɜːst/",
+    "meanings": [
+      {
+        "tr": "iyi bilen, uzman, deneyimli",
+        "en": "having a lot of knowledge or skill in a particular subject",
+        "exampleEn": "She is well-versed in international law.",
+        "exampleTr": "Uluslararası hukuk konusunda çok bilgilidir."
+      }
+    ],
+    "synonyms": [
+      "knowledgeable",
+      "proficient",
+      "experienced"
+    ],
+    "antonyms": [
+      "ignorant",
+      "inexperienced"
+    ]
+  },
+  {
+    "id": "w_wellness",
+    "headword": "wellness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwelnəs/",
+    "meanings": [
+      {
+        "tr": "sağlıklı olma hali, esenlik",
+        "en": "the state of being healthy in body and mind",
+        "exampleEn": "The company offers a wellness program for its employees.",
+        "exampleTr": "Şirket çalışanları için bir sağlık ve esenlik programı sunuyor."
+      }
+    ],
+    "synonyms": [
+      "health",
+      "wellbeing"
+    ],
+    "antonyms": [
+      "illness",
+      "sickness"
+    ]
+  },
+  {
+    "id": "w_wetness",
+    "headword": "wetness",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwetnəs/",
+    "meanings": [
+      {
+        "tr": "ıslaklık, nem",
+        "en": "the state of being wet or covered with liquid",
+        "exampleEn": "She could feel the wetness of the grass under her feet.",
+        "exampleTr": "Ayaklarının altında çimenlerin ıslaklığını hissedebiliyordu."
+      }
+    ],
+    "synonyms": [
+      "dampness",
+      "moisture",
+      "humidity"
+    ],
+    "antonyms": [
+      "dryness"
+    ]
+  },
+  {
+    "id": "w_what",
+    "headword": "what",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɒt/",
+    "meanings": [
+      {
+        "tr": "ne, hangi",
+        "en": "used to ask for information about something",
+        "exampleEn": "What time is it?",
+        "exampleTr": "Saat kaç?"
+      },
+      {
+        "tr": "olan şey (ilgi zamiri)",
+        "en": "the thing or things that",
+        "exampleEn": "Tell me what you want.",
+        "exampleTr": "Ne istediğini söyle bana."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_whatever",
+    "headword": "whatever",
+    "pos": "pron",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɒtˈevər/",
+    "meanings": [
+      {
+        "tr": "her ne, ne olursa olsun",
+        "en": "anything or everything that; no matter what",
+        "exampleEn": "You can order whatever you like from the menu.",
+        "exampleTr": "Menüden ne istersen sipariş edebilirsin."
+      }
+    ],
+    "synonyms": [
+      "anything",
+      "no matter what"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wheeze",
+    "headword": "wheeze",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wiːz/",
+    "meanings": [
+      {
+        "tr": "hırıltıyla nefes almak",
+        "en": "to breathe with difficulty, making a whistling sound",
+        "exampleEn": "He began to wheeze as he climbed the stairs.",
+        "exampleTr": "Merdivenleri çıkarken hırıltıyla nefes almaya başladı."
+      },
+      {
+        "tr": "hırıltı (isim)",
+        "en": "a whistling sound made when breathing with difficulty",
+        "exampleEn": "The doctor heard a faint wheeze in his chest.",
+        "exampleTr": "Doktor göğsünden gelen hafif bir hırıltı duydu."
+      }
+    ],
+    "synonyms": [
+      "gasp",
+      "pant"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_whelp",
+    "headword": "whelp",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/welp/",
+    "meanings": [
+      {
+        "tr": "yavru (köpek, kurt, aslan vb.)",
+        "en": "a young dog or a young animal of certain wild species",
+        "exampleEn": "The wolf carried her whelp gently in her mouth.",
+        "exampleTr": "Kurt yavrusunu ağzında nazikçe taşıdı."
+      }
+    ],
+    "synonyms": [
+      "puppy",
+      "cub"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_whereas",
+    "headword": "whereas",
+    "pos": "conj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/weərˈæz/",
+    "meanings": [
+      {
+        "tr": "oysa, halbuki, iken (karşıtlık)",
+        "en": "used to compare or contrast two facts",
+        "exampleEn": "Some people prefer tea, whereas others prefer coffee.",
+        "exampleTr": "Bazı insanlar çayı tercih eder, oysa diğerleri kahveyi tercih eder."
+      }
+    ],
+    "synonyms": [
+      "while",
+      "although"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_wherever",
+    "headword": "wherever",
+    "pos": "conj",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/weərˈevər/",
+    "meanings": [
+      {
+        "tr": "her nerede, nereye olursa olsun",
+        "en": "in or to any place or every place",
+        "exampleEn": "You can sit wherever you like.",
+        "exampleTr": "Nereye istersen oturabilirsin."
+      }
+    ],
+    "synonyms": [
+      "anywhere",
+      "no matter where"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_whet",
+    "headword": "whet",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wet/",
+    "meanings": [
+      {
+        "tr": "iştahını/merakını kabartmak",
+        "en": "to increase someone's desire for or interest in something",
+        "exampleEn": "The free sample whetted my appetite for more.",
+        "exampleTr": "Ücretsiz numune daha fazlası için iştahımı kabarttı."
+      },
+      {
+        "tr": "bilemek (bıçak vb.)",
+        "en": "to sharpen the blade of a knife or tool",
+        "exampleEn": "He whetted the knife on a stone.",
+        "exampleTr": "Bıçağı bir taşta biledi."
+      }
+    ],
+    "synonyms": [
+      "sharpen",
+      "stimulate",
+      "arouse"
+    ],
+    "antonyms": [
+      "dull",
+      "blunt"
+    ]
+  },
+  {
+    "id": "w_whether",
+    "headword": "whether",
+    "pos": "conj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈweðər/",
+    "meanings": [
+      {
+        "tr": "-ıp -madığını, olup olmadığı; ister... ister",
+        "en": "used to introduce a choice between two possibilities",
+        "exampleEn": "I don't know whether to accept the offer or not.",
+        "exampleTr": "Teklifi kabul edip etmeyeceğimi bilmiyorum."
+      }
+    ],
+    "synonyms": [
+      "if"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_which",
+    "headword": "which",
+    "pos": "pron",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɪtʃ/",
+    "meanings": [
+      {
+        "tr": "hangi, hangisi",
+        "en": "used to ask about a choice between a limited number of things",
+        "exampleEn": "Which of these books is yours?",
+        "exampleTr": "Bu kitaplardan hangisi senin?"
+      },
+      {
+        "tr": "ki o, olan (ilgi zamiri)",
+        "en": "used to give more information about a thing already mentioned",
+        "exampleEn": "The house, which was built in 1900, is still standing.",
+        "exampleTr": "1900'de yapılan ev hâlâ ayakta."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_whichever",
+    "headword": "whichever",
+    "pos": "pron",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/wɪtʃˈevər/",
+    "meanings": [
+      {
+        "tr": "hangisi olursa, her hangi",
+        "en": "any one or any group from a limited number",
+        "exampleEn": "Choose whichever colour you prefer.",
+        "exampleTr": "Hangi rengi tercih edersen onu seç."
+      }
+    ],
+    "synonyms": [
+      "any",
+      "no matter which"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_while",
+    "headword": "while",
+    "pos": "conj",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/waɪl/",
+    "meanings": [
+      {
+        "tr": "-iken, sırasında",
+        "en": "during the time that something is happening",
+        "exampleEn": "She listened to music while she was cooking.",
+        "exampleTr": "Yemek pişirirken müzik dinledi."
+      },
+      {
+        "tr": "oysa, halbuki (karşıtlık)",
+        "en": "used to contrast two things",
+        "exampleEn": "While I understand your point, I don't agree.",
+        "exampleTr": "Görüşünü anlasam da katılmıyorum."
+      }
+    ],
+    "synonyms": [
+      "whereas",
+      "although",
+      "during"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_whimsical",
+    "headword": "whimsical",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɪmzɪkl/",
+    "meanings": [
+      {
+        "tr": "tuhaf ve eğlenceli, hayali; kaprisli",
+        "en": "unusual and playful in an amusing way; behaving in an unpredictable way",
+        "exampleEn": "The book is full of whimsical drawings of talking animals.",
+        "exampleTr": "Kitap konuşan hayvanların tuhaf ve eğlenceli çizimleriyle dolu."
+      }
+    ],
+    "synonyms": [
+      "fanciful",
+      "playful",
+      "quirky"
+    ],
+    "antonyms": [
+      "serious",
+      "conventional"
+    ]
+  },
+  {
+    "id": "w_whirlwind",
+    "headword": "whirlwind",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈwɜːlwɪnd/",
+    "meanings": [
+      {
+        "tr": "hortum, kasırga",
+        "en": "a column of air that spins round very fast",
+        "exampleEn": "A sudden whirlwind lifted the dust into the air.",
+        "exampleTr": "Ani bir hortum tozu havaya kaldırdı."
+      },
+      {
+        "tr": "baş döndürücü/telaşlı şey (mecazi)",
+        "en": "a situation or series of events full of fast, chaotic activity",
+        "exampleEn": "Their romance was a whirlwind of parties and travel.",
+        "exampleTr": "Aşkları partiler ve seyahatlerle dolu baş döndürücü bir maceraydı."
+      }
+    ],
+    "synonyms": [
+      "tornado",
+      "cyclone"
+    ],
+    "antonyms": [
+      "calm"
+    ]
+  }
+]

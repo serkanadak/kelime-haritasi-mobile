@@ -1,0 +1,350 @@
+[
+  {
+    "id": "w_import",
+    "headword": "import",
+    "extraMeanings": [
+      {
+        "tr": "ithal etmek (fiil)",
+        "en": "to bring goods into a country from abroad",
+        "exampleEn": "The company imports coffee beans from Brazil.",
+        "exampleTr": "Şirket Brezilya'dan kahve çekirdeği ithal eder."
+      }
+    ]
+  },
+  {
+    "id": "w_impression",
+    "headword": "impression",
+    "extraMeanings": [
+      {
+        "tr": "taklit (birini taklit etme, imitasyon)",
+        "en": "an amusing imitation of someone's voice or behaviour",
+        "exampleEn": "He does a hilarious impression of the prime minister.",
+        "exampleTr": "Başbakanın çok komik bir taklidini yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_increase",
+    "headword": "increase",
+    "extraMeanings": [
+      {
+        "tr": "artmak, artırmak (fiil)",
+        "en": "to become or make larger in amount",
+        "exampleEn": "Prices increased sharply last year.",
+        "exampleTr": "Fiyatlar geçen yıl keskin bir şekilde arttı."
+      }
+    ]
+  },
+  {
+    "id": "w_incredible",
+    "headword": "incredible",
+    "extraMeanings": [
+      {
+        "tr": "inanılması güç, inandırıcı olmayan",
+        "en": "impossible or very difficult to believe",
+        "exampleEn": "His story sounded completely incredible.",
+        "exampleTr": "Onun hikâyesi tamamen inanılması güç geliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_independent",
+    "headword": "independent",
+    "extraMeanings": [
+      {
+        "tr": "tarafsız, bağlı olmayan (kuruluş vb.)",
+        "en": "not connected with or influenced by others",
+        "exampleEn": "An independent inquiry was set up to investigate the crash.",
+        "exampleTr": "Kazayı araştırmak için tarafsız bir soruşturma başlatıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_individual",
+    "headword": "individual",
+    "extraMeanings": [
+      {
+        "tr": "birey, kişi (isim)",
+        "en": "a single person, especially considered separately from a group",
+        "exampleEn": "Each individual has the right to vote.",
+        "exampleTr": "Her birey oy verme hakkına sahiptir."
+      }
+    ]
+  },
+  {
+    "id": "w_industry",
+    "headword": "industry",
+    "extraMeanings": [
+      {
+        "tr": "belli bir sektör, iş kolu",
+        "en": "a particular type of business or economic activity",
+        "exampleEn": "The tourism industry is vital to the region's economy.",
+        "exampleTr": "Turizm sektörü bölge ekonomisi için hayati önem taşır."
+      }
+    ]
+  },
+  {
+    "id": "w_inject",
+    "headword": "inject",
+    "extraMeanings": [
+      {
+        "tr": "katmak, kazandırmak (canlılık, para vb.)",
+        "en": "to add a new or exciting quality or money to something",
+        "exampleEn": "The new coach injected some energy into the team.",
+        "exampleTr": "Yeni antrenör takıma biraz enerji kattı."
+      }
+    ]
+  },
+  {
+    "id": "w_insert",
+    "headword": "insert",
+    "extraMeanings": [
+      {
+        "tr": "ek, ilave (gazete/dergi arasına konan) (isim)",
+        "en": "a separate piece of paper placed inside a newspaper or magazine",
+        "exampleEn": "There was an advertising insert in today's newspaper.",
+        "exampleTr": "Bugünkü gazetenin arasında reklam eki vardı."
+      }
+    ]
+  },
+  {
+    "id": "w_insist",
+    "headword": "insist",
+    "extraMeanings": [
+      {
+        "tr": "kesinlikle iddia etmek, üstelemek",
+        "en": "to say firmly that something is true, especially when others doubt it",
+        "exampleEn": "She insisted that she had locked the door.",
+        "exampleTr": "Kapıyı kilitlediğini ısrarla iddia etti."
+      }
+    ]
+  },
+  {
+    "id": "w_install",
+    "headword": "install",
+    "extraMeanings": [
+      {
+        "tr": "göreve getirmek, atamak (resmî olarak)",
+        "en": "to place someone in an official position with a ceremony",
+        "exampleEn": "The new president was installed last week.",
+        "exampleTr": "Yeni başkan geçen hafta göreve getirildi."
+      }
+    ]
+  },
+  {
+    "id": "w_institute",
+    "headword": "institute",
+    "extraMeanings": [
+      {
+        "tr": "başlatmak, uygulamaya koymak (fiil)",
+        "en": "to introduce or establish a system, rule, or plan",
+        "exampleEn": "The company instituted new safety measures.",
+        "exampleTr": "Şirket yeni güvenlik önlemleri başlattı."
+      }
+    ]
+  },
+  {
+    "id": "w_intense",
+    "headword": "intense",
+    "extraMeanings": [
+      {
+        "tr": "ciddi, tutkulu, yoğun duygulu (kişi)",
+        "en": "having very strong feelings or serious in manner",
+        "exampleEn": "He is an intense young man who takes everything seriously.",
+        "exampleTr": "Her şeyi ciddiye alan, yoğun duygulu genç bir adam."
+      }
+    ]
+  },
+  {
+    "id": "w_intern",
+    "headword": "intern",
+    "extraMeanings": [
+      {
+        "tr": "gözaltında tutmak, enterne etmek (fiil)",
+        "en": "to put someone in prison for political reasons, especially during a war",
+        "exampleEn": "Many civilians were interned during the war.",
+        "exampleTr": "Savaş sırasında birçok sivil gözaltında tutuldu."
+      }
+    ]
+  },
+  {
+    "id": "w_internal",
+    "headword": "internal",
+    "extraMeanings": [
+      {
+        "tr": "iç, ülke içi (yurt içi, dış değil)",
+        "en": "relating to the domestic affairs within a country",
+        "exampleEn": "The government refused to discuss internal affairs with foreign leaders.",
+        "exampleTr": "Hükümet, yabancı liderlerle iç işlerini görüşmeyi reddetti."
+      }
+    ]
+  },
+  {
+    "id": "w_interval",
+    "headword": "interval",
+    "extraMeanings": [
+      {
+        "tr": "ara, antrakt (tiyatro/konser molası)",
+        "en": "a short break between the parts of a play or concert",
+        "exampleEn": "We bought ice cream during the interval.",
+        "exampleTr": "Antrakt sırasında dondurma aldık."
+      }
+    ]
+  },
+  {
+    "id": "w_invest",
+    "headword": "invest",
+    "extraMeanings": [
+      {
+        "tr": "zaman/emek harcamak (bir şeye emek vermek)",
+        "en": "to spend time or energy on something you think is worthwhile",
+        "exampleEn": "They invested a lot of time in training the new staff.",
+        "exampleTr": "Yeni personeli eğitmeye çok zaman harcadılar."
+      }
+    ]
+  },
+  {
+    "id": "w_iron",
+    "headword": "iron",
+    "extraMeanings": [
+      {
+        "tr": "ütülemek (fiil)",
+        "en": "to make clothes smooth using a hot iron",
+        "exampleEn": "I need to iron my shirt before the meeting.",
+        "exampleTr": "Toplantıdan önce gömleğimi ütülemem gerek."
+      }
+    ]
+  },
+  {
+    "id": "w_jar",
+    "headword": "jar",
+    "extraMeanings": [
+      {
+        "tr": "rahatsız etmek, sinir bozmak; sarsmak (fiil)",
+        "en": "to have an unpleasant or annoying effect; to shake",
+        "exampleEn": "The loud music jarred on my nerves.",
+        "exampleTr": "Yüksek sesli müzik sinirlerimi bozdu."
+      }
+    ]
+  },
+  {
+    "id": "w_jealous",
+    "headword": "jealous",
+    "extraMeanings": [
+      {
+        "tr": "gıpta eden, imrenen (başkasının sahip olduğuna)",
+        "en": "wanting something that another person has",
+        "exampleEn": "I'm jealous of your new car.",
+        "exampleTr": "Yeni arabana imreniyorum."
+      }
+    ]
+  },
+  {
+    "id": "w_joint",
+    "headword": "joint",
+    "extraMeanings": [
+      {
+        "tr": "eklem (isim)",
+        "en": "a place where two bones meet in the body",
+        "exampleEn": "My knee joint hurts when I run.",
+        "exampleTr": "Koştuğumda diz eklemim ağrıyor."
+      },
+      {
+        "tr": "ek yeri, bağlantı noktası (isim)",
+        "en": "a point where two parts are joined together",
+        "exampleEn": "Water was leaking from the joint in the pipe.",
+        "exampleTr": "Borudaki ek yerinden su sızıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_judge",
+    "headword": "judge",
+    "extraMeanings": [
+      {
+        "tr": "yargılamak, değerlendirmek, hüküm vermek (fiil)",
+        "en": "to form an opinion about someone or something",
+        "exampleEn": "Don't judge people by their appearance.",
+        "exampleTr": "İnsanları görünüşlerine göre yargılama."
+      }
+    ]
+  },
+  {
+    "id": "w_jumper",
+    "headword": "jumper",
+    "extraMeanings": [
+      {
+        "tr": "atlayan kişi/şey; atlayıcı",
+        "en": "a person or animal that jumps",
+        "exampleEn": "That horse is a wonderful jumper.",
+        "exampleTr": "O at harika bir atlayıcıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_land",
+    "headword": "land",
+    "extraMeanings": [
+      {
+        "tr": "iniş yapmak, konmak (uçak vb.); yere inmek (fiil)",
+        "en": "to arrive on the ground, especially from the air",
+        "exampleEn": "The plane landed safely at the airport.",
+        "exampleTr": "Uçak havaalanına güvenle iniş yaptı."
+      },
+      {
+        "tr": "ülke, diyar (isim)",
+        "en": "a country or region",
+        "exampleEn": "They travelled to a distant land.",
+        "exampleTr": "Uzak bir diyara seyahat ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w_last",
+    "headword": "last",
+    "extraMeanings": [
+      {
+        "tr": "sürmek, dayanmak (fiil)",
+        "en": "to continue for a period of time",
+        "exampleEn": "The meeting lasted two hours.",
+        "exampleTr": "Toplantı iki saat sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w_launch",
+    "headword": "launch",
+    "extraMeanings": [
+      {
+        "tr": "lansman, piyasaya sürme; başlatma (isim)",
+        "en": "the act of starting something or making a product available",
+        "exampleEn": "The launch of the new phone attracted huge crowds.",
+        "exampleTr": "Yeni telefonun lansmanı büyük kalabalıklar çekti."
+      }
+    ]
+  },
+  {
+    "id": "w_lay",
+    "headword": "lay",
+    "extraMeanings": [
+      {
+        "tr": "yumurtlamak (fiil)",
+        "en": "to produce an egg",
+        "exampleEn": "Our hens lay several eggs every day.",
+        "exampleTr": "Tavuklarımız her gün birkaç yumurta yumurtlar."
+      }
+    ]
+  },
+  {
+    "id": "w_lead",
+    "headword": "lead",
+    "extraMeanings": [
+      {
+        "tr": "kurşun (metal) (isim)",
+        "en": "a heavy soft grey metal",
+        "exampleEn": "The old pipes were made of lead.",
+        "exampleTr": "Eski borular kurşundan yapılmıştı."
+      }
+    ]
+  }
+]

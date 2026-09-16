@@ -1,0 +1,222 @@
+[
+  {
+    "id": "w_wreck",
+    "headword": "wreck",
+    "pos": "noun",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/rek/",
+    "meanings": [
+      {
+        "tr": "enkaz, kaza sonucu harap olmuş araç/gemi",
+        "en": "a vehicle or ship that has been badly damaged or destroyed",
+        "exampleEn": "Divers explored the wreck of the old ship at the bottom of the sea.",
+        "exampleTr": "Dalgıçlar denizin dibindeki eski geminin enkazını keşfetti."
+      }
+    ],
+    "synonyms": ["ruin", "remains"],
+    "antonyms": []
+  },
+  {
+    "id": "w_wrongly",
+    "headword": "wrongly",
+    "pos": "adv",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈrɒŋli/",
+    "meanings": [
+      {
+        "tr": "yanlışlıkla, haksız yere",
+        "en": "in a way that is incorrect or unjust",
+        "exampleEn": "He was wrongly accused of stealing the money.",
+        "exampleTr": "Parayı çalmakla haksız yere suçlandı."
+      }
+    ],
+    "synonyms": ["incorrectly", "unjustly"],
+    "antonyms": ["rightly", "correctly"]
+  },
+  {
+    "id": "w_x-ray",
+    "headword": "X-ray",
+    "pos": "noun",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈeks reɪ/",
+    "meanings": [
+      {
+        "tr": "röntgen, X ışını görüntüsü",
+        "en": "a photograph of the inside of the body made using radiation",
+        "exampleEn": "The doctor took an X-ray to check if the bone was broken.",
+        "exampleTr": "Doktor kemiğin kırık olup olmadığını kontrol etmek için bir röntgen çekti."
+      }
+    ],
+    "synonyms": ["radiograph"],
+    "antonyms": []
+  },
+  {
+    "id": "w_yacht",
+    "headword": "yacht",
+    "pos": "noun",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/jɒt/",
+    "meanings": [
+      {
+        "tr": "yat",
+        "en": "a large boat used for racing or pleasure",
+        "exampleEn": "They sailed around the islands on a luxury yacht.",
+        "exampleTr": "Lüks bir yatla adaların etrafında yelken açtılar."
+      }
+    ],
+    "synonyms": ["sailboat", "vessel"],
+    "antonyms": []
+  },
+  {
+    "id": "w_yawn",
+    "headword": "yawn",
+    "pos": "noun",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/jɔːn/",
+    "meanings": [
+      {
+        "tr": "esneme",
+        "en": "an act of opening the mouth wide because of tiredness or boredom",
+        "exampleEn": "She tried to hide a yawn during the long meeting.",
+        "exampleTr": "Uzun toplantı sırasında bir esnemeyi gizlemeye çalıştı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_yearn",
+    "headword": "yearn",
+    "pos": "verb",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/jɜːn/",
+    "meanings": [
+      {
+        "tr": "özlemek, hasretini çekmek, çok istemek",
+        "en": "to have a strong feeling of wanting something",
+        "exampleEn": "After years abroad, she began to yearn for her homeland.",
+        "exampleTr": "Yıllarca yurt dışında kaldıktan sonra memleketini özlemeye başladı."
+      }
+    ],
+    "synonyms": ["long", "crave"],
+    "antonyms": []
+  },
+  {
+    "id": "w_youthful",
+    "headword": "youthful",
+    "pos": "adj",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈjuːθfʊl/",
+    "meanings": [
+      {
+        "tr": "genç, gençlik dolu, dinç",
+        "en": "having the freshness or energy of a young person",
+        "exampleEn": "Despite her age, she has a youthful appearance.",
+        "exampleTr": "Yaşına rağmen genç bir görünüşü var."
+      }
+    ],
+    "synonyms": ["young", "fresh"],
+    "antonyms": ["aged", "elderly"]
+  },
+  {
+    "id": "w_yummy",
+    "headword": "yummy",
+    "pos": "adj",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈjʌmi/",
+    "meanings": [
+      {
+        "tr": "çok lezzetli, nefis",
+        "en": "very pleasant to taste",
+        "exampleEn": "This chocolate cake is absolutely yummy.",
+        "exampleTr": "Bu çikolatalı kek gerçekten çok lezzetli."
+      }
+    ],
+    "synonyms": ["delicious", "tasty"],
+    "antonyms": ["disgusting"]
+  },
+  {
+    "id": "w_zebra",
+    "headword": "zebra",
+    "pos": "noun",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/ˈzebrə/",
+    "meanings": [
+      {
+        "tr": "zebra",
+        "en": "an African wild animal like a horse with black and white stripes",
+        "exampleEn": "We saw a herd of zebra grazing on the savanna.",
+        "exampleTr": "Savanada otlayan bir zebra sürüsü gördük."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_zip",
+    "headword": "zip",
+    "pos": "noun",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/zɪp/",
+    "meanings": [
+      {
+        "tr": "fermuar",
+        "en": "a fastener with two rows of teeth joined by a sliding tab",
+        "exampleEn": "The zip on my jacket is broken and won't close.",
+        "exampleTr": "Ceketimin fermuarı bozuk ve kapanmıyor."
+      }
+    ],
+    "synonyms": ["zipper", "fastener"],
+    "antonyms": []
+  },
+  {
+    "id": "w_zoom",
+    "headword": "zoom",
+    "pos": "noun",
+    "level": "B2",
+    "domains": ["general"],
+    "type": "word",
+    "source": "cefrj+claude",
+    "pronunciation": "/zuːm/",
+    "meanings": [
+      {
+        "tr": "yakınlaştırma (mercek/kamera), zum",
+        "en": "the act of making a subject appear closer using a camera lens",
+        "exampleEn": "Use the zoom on your camera to capture the bird in detail.",
+        "exampleTr": "Kuşu ayrıntılı yakalamak için kameranın zumunu kullan."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

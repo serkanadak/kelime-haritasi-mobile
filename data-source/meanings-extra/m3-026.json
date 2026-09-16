@@ -1,0 +1,272 @@
+[
+  {
+    "id": "w_modify",
+    "headword": "modify",
+    "extraMeanings": [
+      {
+        "tr": "nitelemek, tanımlamak (dilbilgisi)",
+        "en": "(grammar) to limit or describe the meaning of another word",
+        "exampleEn": "In \"a red car\", the adjective \"red\" modifies the noun \"car\".",
+        "exampleTr": "\"Kırmızı araba\"da \"kırmızı\" sıfatı \"araba\" ismini niteler."
+      }
+    ]
+  },
+  {
+    "id": "w_monitor",
+    "headword": "monitor",
+    "extraMeanings": [
+      {
+        "tr": "izlemek, gözlemek, takip etmek (fiil)",
+        "en": "to watch and check something over a period of time",
+        "exampleEn": "Doctors carefully monitor the patient's heart rate.",
+        "exampleTr": "Doktorlar hastanın kalp atışını dikkatle izliyor."
+      }
+    ]
+  },
+  {
+    "id": "w_monster",
+    "headword": "monster",
+    "extraMeanings": [
+      {
+        "tr": "kocaman, dev (sıfat olarak)",
+        "en": "extremely large",
+        "exampleEn": "They served us a monster portion of fries.",
+        "exampleTr": "Bize kocaman bir porsiyon patates kızartması getirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w_more",
+    "headword": "more",
+    "extraMeanings": [
+      {
+        "tr": "daha fazla, daha çok (miktar)",
+        "en": "a larger amount or number",
+        "exampleEn": "We need more chairs for the guests.",
+        "exampleTr": "Misafirler için daha fazla sandalyeye ihtiyacımız var."
+      }
+    ]
+  },
+  {
+    "id": "w_mount",
+    "headword": "mount",
+    "extraMeanings": [
+      {
+        "tr": "binmek, üstüne çıkmak (fiil)",
+        "en": "to get up onto a horse, bicycle, or platform",
+        "exampleEn": "She mounted her horse and rode away.",
+        "exampleTr": "Atına bindi ve uzaklaştı."
+      },
+      {
+        "tr": "artmak, yükselmek (fiil)",
+        "en": "to gradually increase in amount or intensity",
+        "exampleEn": "Tension was mounting as the deadline approached.",
+        "exampleTr": "Son tarih yaklaştıkça gerginlik artıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w_nail",
+    "headword": "nail",
+    "extraMeanings": [
+      {
+        "tr": "çivilemek, çakmak (fiil)",
+        "en": "to fasten something with nails",
+        "exampleEn": "He nailed the boards to the wall.",
+        "exampleTr": "Tahtaları duvara çaktı."
+      }
+    ]
+  },
+  {
+    "id": "w_narrow",
+    "headword": "narrow",
+    "extraMeanings": [
+      {
+        "tr": "daraltmak, daralmak (fiil)",
+        "en": "to become or make less wide",
+        "exampleEn": "The road narrows just after the bridge.",
+        "exampleTr": "Yol tam köprüden sonra daralıyor."
+      },
+      {
+        "tr": "kıl payı, ucu ucuna (sıfat)",
+        "en": "only just successful or avoided by a small amount",
+        "exampleEn": "The team had a narrow escape from defeat.",
+        "exampleTr": "Takım yenilgiden kıl payı kurtuldu."
+      }
+    ]
+  },
+  {
+    "id": "w_nap",
+    "headword": "nap",
+    "extraMeanings": [
+      {
+        "tr": "kestirmek, şekerleme yapmak (fiil)",
+        "en": "to sleep for a short time, especially during the day",
+        "exampleEn": "The baby is napping in the next room.",
+        "exampleTr": "Bebek yan odada kestiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w_near",
+    "headword": "near",
+    "extraMeanings": [
+      {
+        "tr": "yaklaşmak (fiil)",
+        "en": "to come close to in space or time",
+        "exampleEn": "As we neared the city, traffic increased.",
+        "exampleTr": "Şehre yaklaştıkça trafik arttı."
+      },
+      {
+        "tr": "neredeyse, az kalsın (zarf)",
+        "en": "almost, nearly",
+        "exampleEn": "The project is near complete.",
+        "exampleTr": "Proje neredeyse tamamlandı."
+      }
+    ]
+  },
+  {
+    "id": "w_nod",
+    "headword": "nod",
+    "extraMeanings": [
+      {
+        "tr": "baş sallamak (onaylamak/selamlamak) (fiil)",
+        "en": "to move your head up and down to show agreement or greeting",
+        "exampleEn": "She nodded to show she understood.",
+        "exampleTr": "Anladığını göstermek için başını salladı."
+      }
+    ]
+  },
+  {
+    "id": "w_objective",
+    "headword": "objective",
+    "extraMeanings": [
+      {
+        "tr": "nesnel, tarafsız (sıfat)",
+        "en": "based on facts rather than personal feelings",
+        "exampleEn": "A good journalist should try to be objective.",
+        "exampleTr": "İyi bir gazeteci nesnel olmaya çalışmalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w_observe",
+    "headword": "observe",
+    "extraMeanings": [
+      {
+        "tr": "(kurala, geleneğe) uymak, riayet etmek (fiil)",
+        "en": "to obey a law, rule, or custom",
+        "exampleEn": "All drivers must observe the speed limit.",
+        "exampleTr": "Tüm sürücüler hız sınırına uymalıdır."
+      },
+      {
+        "tr": "belirtmek, söylemek (fiil)",
+        "en": "to make a remark or comment",
+        "exampleEn": "\"It's getting late,\" she observed.",
+        "exampleTr": "\"Geç oluyor,\" diye belirtti."
+      }
+    ]
+  },
+  {
+    "id": "w_occupy",
+    "headword": "occupy",
+    "extraMeanings": [
+      {
+        "tr": "oturmak, ikamet etmek (bir yeri kullanmak) (fiil)",
+        "en": "to live or stay in a place",
+        "exampleEn": "The family has occupied this house for years.",
+        "exampleTr": "Aile bu evde yıllardır oturuyor."
+      }
+    ]
+  },
+  {
+    "id": "w_occur",
+    "headword": "occur",
+    "extraMeanings": [
+      {
+        "tr": "aklına gelmek, hatıra gelmek (fiil)",
+        "en": "to come into someone's mind, especially suddenly",
+        "exampleEn": "It never occurred to me that she might be lying.",
+        "exampleTr": "Yalan söylüyor olabileceği hiç aklıma gelmedi."
+      }
+    ]
+  },
+  {
+    "id": "w_offensive",
+    "headword": "offensive",
+    "extraMeanings": [
+      {
+        "tr": "saldırı, hücum (isim); saldırıya yönelik (sıfat)",
+        "en": "connected with attacking; an attack",
+        "exampleEn": "The army launched a major offensive at dawn.",
+        "exampleTr": "Ordu şafakta büyük bir saldırı başlattı."
+      }
+    ]
+  },
+  {
+    "id": "w_opening",
+    "headword": "opening",
+    "extraMeanings": [
+      {
+        "tr": "açık iş yeri, kadro, fırsat (isim)",
+        "en": "a job or position that is available",
+        "exampleEn": "There is an opening for a manager at the company.",
+        "exampleTr": "Şirkette bir müdür kadrosu boş."
+      },
+      {
+        "tr": "açılış, başlangıç (sıfat/isim)",
+        "en": "first, beginning part of something",
+        "exampleEn": "The opening scene of the film is very dramatic.",
+        "exampleTr": "Filmin açılış sahnesi çok dramatiktir."
+      }
+    ]
+  },
+  {
+    "id": "w_operation",
+    "headword": "operation",
+    "extraMeanings": [
+      {
+        "tr": "çalışma, işleyiş; yürürlükte olma (isim)",
+        "en": "the way something works or functions",
+        "exampleEn": "The new law comes into operation next month.",
+        "exampleTr": "Yeni yasa gelecek ay yürürlüğe giriyor."
+      }
+    ]
+  },
+  {
+    "id": "w_option",
+    "headword": "option",
+    "extraMeanings": [
+      {
+        "tr": "opsiyon (finans/borsa) (isim)",
+        "en": "the right to buy or sell something at a fixed price within a set time",
+        "exampleEn": "He bought stock options as part of his contract.",
+        "exampleTr": "Sözleşmesinin bir parçası olarak hisse opsiyonları aldı."
+      }
+    ]
+  },
+  {
+    "id": "w_orbit",
+    "headword": "orbit",
+    "extraMeanings": [
+      {
+        "tr": "yörüngede dönmek (fiil)",
+        "en": "to travel around something in a curved path",
+        "exampleEn": "The satellite orbits the Earth every 90 minutes.",
+        "exampleTr": "Uydu Dünya'nın yörüngesinde her 90 dakikada bir döner."
+      }
+    ]
+  },
+  {
+    "id": "w_organ",
+    "headword": "organ",
+    "extraMeanings": [
+      {
+        "tr": "org (müzik aleti) (isim)",
+        "en": "a large musical instrument with keys and pipes",
+        "exampleEn": "She played the organ at the church every Sunday.",
+        "exampleTr": "Her pazar kilisede org çalardı."
+      }
+    ]
+  }
+]

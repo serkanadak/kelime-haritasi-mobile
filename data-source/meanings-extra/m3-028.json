@@ -1,0 +1,404 @@
+[
+  {
+    "id": "w_present",
+    "headword": "present",
+    "extraMeanings": [
+      {
+        "tr": "hediye, armağan",
+        "en": "a gift given to someone",
+        "exampleEn": "She gave me a lovely present for my birthday.",
+        "exampleTr": "Doğum günüm için bana çok güzel bir hediye verdi."
+      },
+      {
+        "tr": "sunmak, takdim etmek (fiil)",
+        "en": "to give or show something formally",
+        "exampleEn": "The manager will present the awards at the ceremony.",
+        "exampleTr": "Müdür törende ödülleri takdim edecek."
+      }
+    ]
+  },
+  {
+    "id": "w_present",
+    "headword": "present",
+    "extraMeanings": [
+      {
+        "tr": "şimdiki zaman, şu an",
+        "en": "the period of time happening now",
+        "exampleEn": "We must focus on the present, not the past.",
+        "exampleTr": "Geçmişe değil, şu ana odaklanmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w_presence",
+    "headword": "presence",
+    "extraMeanings": [
+      {
+        "tr": "karizma, etkileyici duruş",
+        "en": "a strong and impressive quality in a person",
+        "exampleEn": "The actor has a powerful stage presence.",
+        "exampleTr": "Oyuncunun etkileyici bir sahne duruşu var."
+      }
+    ]
+  },
+  {
+    "id": "w_press",
+    "headword": "press",
+    "extraMeanings": [
+      {
+        "tr": "basmak, bastırmak (fiil)",
+        "en": "to push something firmly",
+        "exampleEn": "Press the button to start the machine.",
+        "exampleTr": "Makineyi çalıştırmak için düğmeye bas."
+      },
+      {
+        "tr": "ütülemek",
+        "en": "to make clothes smooth with an iron",
+        "exampleEn": "I need to press my shirt before the meeting.",
+        "exampleTr": "Toplantıdan önce gömleğimi ütülemem gerek."
+      }
+    ]
+  },
+  {
+    "id": "w_preserve",
+    "headword": "preserve",
+    "extraMeanings": [
+      {
+        "tr": "(gıdayı) konserve yapmak, saklamak",
+        "en": "to treat food so it lasts a long time",
+        "exampleEn": "They preserve fruit by making jam.",
+        "exampleTr": "Meyveyi reçel yaparak saklıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w_print",
+    "headword": "print",
+    "extraMeanings": [
+      {
+        "tr": "basmak, yazdırmak (fiil)",
+        "en": "to produce text or images on paper using a machine",
+        "exampleEn": "Can you print this document for me?",
+        "exampleTr": "Bu belgeyi benim için yazdırabilir misin?"
+      },
+      {
+        "tr": "desen, baskı deseni (kumaşta)",
+        "en": "a pattern printed on cloth",
+        "exampleEn": "She wore a dress with a floral print.",
+        "exampleTr": "Çiçek desenli bir elbise giymişti."
+      }
+    ]
+  },
+  {
+    "id": "w_prize",
+    "headword": "prize",
+    "extraMeanings": [
+      {
+        "tr": "çok değerli, el üstünde tutulan (sıfat)",
+        "en": "highly valued or excellent",
+        "exampleEn": "He showed us his prize roses at the garden.",
+        "exampleTr": "Bahçede bize el üstünde tuttuğu güllerini gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w_process",
+    "headword": "process",
+    "extraMeanings": [
+      {
+        "tr": "işlemek, işleme tabi tutmak (fiil)",
+        "en": "to deal with or treat something using a system",
+        "exampleEn": "The bank will process your application within a week.",
+        "exampleTr": "Banka başvurunuzu bir hafta içinde işleme koyacak."
+      }
+    ]
+  },
+  {
+    "id": "w_promote",
+    "headword": "promote",
+    "extraMeanings": [
+      {
+        "tr": "tanıtmak, reklamını yapmak",
+        "en": "to advertise or publicize something",
+        "exampleEn": "They spent a lot of money to promote the new product.",
+        "exampleTr": "Yeni ürünün tanıtımı için çok para harcadılar."
+      },
+      {
+        "tr": "teşvik etmek, desteklemek",
+        "en": "to encourage or support something",
+        "exampleEn": "The campaign aims to promote healthy eating.",
+        "exampleTr": "Kampanya sağlıklı beslenmeyi teşvik etmeyi amaçlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_promotion",
+    "headword": "promotion",
+    "extraMeanings": [
+      {
+        "tr": "tanıtım, reklam kampanyası",
+        "en": "an activity to advertise a product",
+        "exampleEn": "There is a special promotion on all shoes this week.",
+        "exampleTr": "Bu hafta tüm ayakkabılarda özel bir kampanya var."
+      }
+    ]
+  },
+  {
+    "id": "w_proof",
+    "headword": "proof",
+    "extraMeanings": [
+      {
+        "tr": "prova baskısı, tashih baskısı",
+        "en": "a trial print for checking before final printing",
+        "exampleEn": "The editor checked the proofs before publishing.",
+        "exampleTr": "Editör yayımlamadan önce prova baskılarını kontrol etti."
+      }
+    ]
+  },
+  {
+    "id": "w_property",
+    "headword": "property",
+    "extraMeanings": [
+      {
+        "tr": "özellik, nitelik",
+        "en": "a quality or characteristic of something",
+        "exampleEn": "This metal has the property of conducting heat.",
+        "exampleTr": "Bu metalin ısıyı iletme özelliği vardır."
+      }
+    ]
+  },
+  {
+    "id": "w_propose",
+    "headword": "propose",
+    "extraMeanings": [
+      {
+        "tr": "evlenme teklif etmek",
+        "en": "to ask someone to marry you",
+        "exampleEn": "He proposed to her on the beach at sunset.",
+        "exampleTr": "Gün batımında sahilde ona evlenme teklif etti."
+      }
+    ]
+  },
+  {
+    "id": "w_proud",
+    "headword": "proud",
+    "extraMeanings": [
+      {
+        "tr": "kibirli, mağrur",
+        "en": "having too high an opinion of oneself",
+        "exampleEn": "He was too proud to ask for help.",
+        "exampleTr": "Yardım isteyemeyecek kadar kibirliydi."
+      }
+    ]
+  },
+  {
+    "id": "w_prove",
+    "headword": "prove",
+    "extraMeanings": [
+      {
+        "tr": "(sonradan) çıkmak, olduğu ortaya çıkmak",
+        "en": "to turn out to be a certain way",
+        "exampleEn": "The new method proved to be very effective.",
+        "exampleTr": "Yeni yöntem çok etkili çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w_public",
+    "headword": "public",
+    "extraMeanings": [
+      {
+        "tr": "halk, kamu (isim)",
+        "en": "ordinary people in general",
+        "exampleEn": "The museum is open to the public every day.",
+        "exampleTr": "Müze her gün halka açıktır."
+      }
+    ]
+  },
+  {
+    "id": "w_pump",
+    "headword": "pump",
+    "extraMeanings": [
+      {
+        "tr": "pompalamak, pompa ile basmak (fiil)",
+        "en": "to force liquid or air in a direction using a pump",
+        "exampleEn": "He pumped air into the flat tyre.",
+        "exampleTr": "İnik lastiğe hava pompaladı."
+      }
+    ]
+  },
+  {
+    "id": "w_push",
+    "headword": "push",
+    "extraMeanings": [
+      {
+        "tr": "itmek (fiil)",
+        "en": "to move something by pressing against it",
+        "exampleEn": "Push the door hard to open it.",
+        "exampleTr": "Kapıyı açmak için sertçe it."
+      }
+    ]
+  },
+  {
+    "id": "w_puzzle",
+    "headword": "puzzle",
+    "extraMeanings": [
+      {
+        "tr": "şaşırtmak, kafasını karıştırmak (fiil)",
+        "en": "to confuse someone because it is hard to understand",
+        "exampleEn": "Her strange reply puzzled everyone.",
+        "exampleTr": "Garip cevabı herkesin kafasını karıştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w_quarter",
+    "headword": "quarter",
+    "extraMeanings": [
+      {
+        "tr": "mahalle, semt",
+        "en": "a district or part of a town",
+        "exampleEn": "We stayed in the old quarter of the city.",
+        "exampleTr": "Şehrin eski mahallesinde kaldık."
+      },
+      {
+        "tr": "25 sentlik madeni para (ABD)",
+        "en": "a US coin worth 25 cents",
+        "exampleEn": "He put a quarter into the parking meter.",
+        "exampleTr": "Parkmetreye 25 sentlik bir para attı."
+      }
+    ]
+  },
+  {
+    "id": "w_queue",
+    "headword": "queue",
+    "extraMeanings": [
+      {
+        "tr": "sıraya girmek, kuyrukta beklemek (fiil)",
+        "en": "to wait in a line of people",
+        "exampleEn": "We had to queue for an hour to buy tickets.",
+        "exampleTr": "Bilet almak için bir saat sıraya girmek zorunda kaldık."
+      }
+    ]
+  },
+  {
+    "id": "w_race",
+    "headword": "race",
+    "extraMeanings": [
+      {
+        "tr": "ırk",
+        "en": "a group of people with shared physical characteristics",
+        "exampleEn": "The law protects people of every race.",
+        "exampleTr": "Yasa her ırktan insanı korur."
+      },
+      {
+        "tr": "yarışmak, koşmak (fiil)",
+        "en": "to compete in a contest of speed",
+        "exampleEn": "The two boys raced to the end of the street.",
+        "exampleTr": "İki çocuk sokağın sonuna kadar yarıştı."
+      }
+    ]
+  },
+  {
+    "id": "w_rail",
+    "headword": "rail",
+    "extraMeanings": [
+      {
+        "tr": "demiryolu, tren yolu (ulaşım)",
+        "en": "the railway system as a means of transport",
+        "exampleEn": "We travelled across the country by rail.",
+        "exampleTr": "Ülkeyi baştan başa trenle geçtik."
+      }
+    ]
+  },
+  {
+    "id": "w_rank",
+    "headword": "rank",
+    "extraMeanings": [
+      {
+        "tr": "sıralamak, yer almak (fiil)",
+        "en": "to have or give a position in a scale",
+        "exampleEn": "The hotel ranks among the best in the city.",
+        "exampleTr": "Otel şehrin en iyileri arasında yer alıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_rare",
+    "headword": "rare",
+    "extraMeanings": [
+      {
+        "tr": "az pişmiş (et)",
+        "en": "of meat, cooked only a little so still red inside",
+        "exampleEn": "He likes his steak rare.",
+        "exampleTr": "Bifteğini az pişmiş sever."
+      }
+    ]
+  },
+  {
+    "id": "w_reach",
+    "headword": "reach",
+    "extraMeanings": [
+      {
+        "tr": "ulaşmak, varmak (fiil)",
+        "en": "to arrive at a place or point",
+        "exampleEn": "We reached the top of the mountain at noon.",
+        "exampleTr": "Öğleyin dağın zirvesine ulaştık."
+      },
+      {
+        "tr": "uzanmak, el uzatmak (fiil)",
+        "en": "to stretch out your arm to touch or take something",
+        "exampleEn": "She reached for the book on the top shelf.",
+        "exampleTr": "Üst raftaki kitaba uzandı."
+      }
+    ]
+  },
+  {
+    "id": "w_record",
+    "headword": "record",
+    "extraMeanings": [
+      {
+        "tr": "kaydetmek, kayda geçirmek (fiil)",
+        "en": "to store sound, images or information",
+        "exampleEn": "They recorded the concert on video.",
+        "exampleTr": "Konseri videoya kaydettiler."
+      },
+      {
+        "tr": "plak (müzik)",
+        "en": "a round disc for playing music",
+        "exampleEn": "My grandfather still plays his old vinyl records.",
+        "exampleTr": "Büyükbabam hâlâ eski plaklarını çalıyor."
+      }
+    ]
+  },
+  {
+    "id": "w_reception",
+    "headword": "reception",
+    "extraMeanings": [
+      {
+        "tr": "sinyal/çekim gücü (telefon, radyo)",
+        "en": "the quality of a signal that is received",
+        "exampleEn": "The phone reception is very poor in the mountains.",
+        "exampleTr": "Dağlarda telefon çekimi çok kötü."
+      },
+      {
+        "tr": "resepsiyon, tören yemeği/davet",
+        "en": "a formal party to welcome someone",
+        "exampleEn": "The wedding reception was held in a large hall.",
+        "exampleTr": "Düğün resepsiyonu büyük bir salonda yapıldı."
+      }
+    ]
+  },
+  {
+    "id": "w_refuse",
+    "headword": "refuse",
+    "extraMeanings": [
+      {
+        "tr": "reddetmek, kabul etmemek (fiil)",
+        "en": "to say you will not do or accept something",
+        "exampleEn": "She refused to answer any questions.",
+        "exampleTr": "Hiçbir soruyu cevaplamayı reddetti."
+      }
+    ]
+  }
+]

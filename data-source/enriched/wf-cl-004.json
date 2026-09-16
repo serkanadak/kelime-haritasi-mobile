@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "w_awakening",
+    "headword": "awakening",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/əˈweɪkənɪŋ/",
+    "meanings": [
+      {
+        "tr": "uyanış; farkına varma, bilinçlenme",
+        "en": "the act of starting to become aware of or understand something",
+        "exampleEn": "The book led to a political awakening among young readers.",
+        "exampleTr": "Kitap, genç okurlar arasında siyasi bir uyanışa yol açtı."
+      },
+      {
+        "tr": "uyanma (uykudan)",
+        "en": "the act of waking up from sleep",
+        "exampleEn": "Her sudden awakening was caused by a loud noise.",
+        "exampleTr": "Ani uyanışına yüksek bir ses neden oldu."
+      }
+    ],
+    "synonyms": [
+      "realization",
+      "arousal",
+      "revival"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_back_out",
+    "headword": "back out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbæk ˈaʊt/",
+    "meanings": [
+      {
+        "tr": "caymak, sözünden dönmek, vazgeçmek",
+        "en": "to decide not to do something you had agreed to do",
+        "exampleEn": "He backed out of the deal at the last minute.",
+        "exampleTr": "Son dakikada anlaşmadan caydı."
+      }
+    ],
+    "synonyms": [
+      "withdraw",
+      "pull out",
+      "renege"
+    ],
+    "antonyms": [
+      "commit"
+    ]
+  },
+  {
+    "id": "w_backslide",
+    "headword": "backslide",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbækslaɪd/",
+    "meanings": [
+      {
+        "tr": "eski kötü alışkanlıklarına geri dönmek, gerilemek",
+        "en": "to return to a worse or less moral way of behaving after making improvements",
+        "exampleEn": "After a month of dieting, she began to backslide into old habits.",
+        "exampleTr": "Bir aylık diyetin ardından eski alışkanlıklarına geri dönmeye başladı."
+      }
+    ],
+    "synonyms": [
+      "relapse",
+      "regress",
+      "lapse"
+    ],
+    "antonyms": [
+      "improve",
+      "progress"
+    ]
+  },
+  {
+    "id": "w_backward_looking",
+    "headword": "backward-looking",
+    "pos": "adjective",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbækwəd ˈlʊkɪŋ/",
+    "meanings": [
+      {
+        "tr": "geçmişe dönük, geriye bakan; ilerlemeye kapalı",
+        "en": "considering the past rather than planning for the future; not modern",
+        "exampleEn": "Critics called the policy backward-looking and out of touch.",
+        "exampleTr": "Eleştirmenler politikayı geçmişe dönük ve çağdışı olarak nitelendirdi."
+      }
+    ],
+    "synonyms": [
+      "old-fashioned",
+      "regressive"
+    ],
+    "antonyms": [
+      "forward-looking",
+      "progressive"
+    ]
+  },
+  {
+    "id": "w_baddie",
+    "headword": "baddie",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "slang",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbædi/",
+    "meanings": [
+      {
+        "tr": "kötü adam, kötü karakter (film/hikaye)",
+        "en": "a bad or evil character in a film, book, or story",
+        "exampleEn": "In the movie, the baddie is finally defeated by the hero.",
+        "exampleTr": "Filmde kötü adam sonunda kahraman tarafından yenilir."
+      }
+    ],
+    "synonyms": [
+      "villain",
+      "antagonist"
+    ],
+    "antonyms": [
+      "goodie",
+      "hero"
+    ]
+  },
+  {
+    "id": "w_ball_shaped",
+    "headword": "ball-shaped",
+    "pos": "adjective",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbɔːl ʃeɪpt/",
+    "meanings": [
+      {
+        "tr": "top şeklinde, küresel",
+        "en": "having the round shape of a ball",
+        "exampleEn": "The plant produces small, ball-shaped fruits.",
+        "exampleTr": "Bitki küçük, top şeklinde meyveler verir."
+      }
+    ],
+    "synonyms": [
+      "spherical",
+      "round",
+      "globular"
+    ],
+    "antonyms": [
+      "flat"
+    ]
+  },
+  {
+    "id": "w_balustrade",
+    "headword": "balustrade",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbæləˈstreɪd/",
+    "meanings": [
+      {
+        "tr": "korkuluk, tırabzan (parmaklıklı)",
+        "en": "a row of posts with a rail on top, along the edge of stairs, a balcony, or a bridge",
+        "exampleEn": "She leaned against the stone balustrade of the balcony.",
+        "exampleTr": "Balkonun taş korkuluğuna yaslandı."
+      }
+    ],
+    "synonyms": [
+      "railing",
+      "banister",
+      "parapet"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_bandit",
+    "headword": "bandit",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbændɪt/",
+    "meanings": [
+      {
+        "tr": "haydut, eşkıya",
+        "en": "an armed robber, especially one belonging to a group that attacks travelers",
+        "exampleEn": "The travelers were attacked by a bandit on the mountain road.",
+        "exampleTr": "Yolcular dağ yolunda bir haydut tarafından saldırıya uğradı."
+      }
+    ],
+    "synonyms": [
+      "robber",
+      "outlaw",
+      "brigand"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_banter",
+    "headword": "banter",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbæntə/",
+    "meanings": [
+      {
+        "tr": "şakalaşma, takılma, latife",
+        "en": "friendly, playful teasing conversation",
+        "exampleEn": "There was a lot of banter between the two teammates.",
+        "exampleTr": "İki takım arkadaşı arasında bolca şakalaşma vardı."
+      }
+    ],
+    "synonyms": [
+      "repartee",
+      "teasing",
+      "joking"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_barge_in",
+    "headword": "barge in",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbɑːdʒ ˈɪn/",
+    "meanings": [
+      {
+        "tr": "davetsizce içeri dalmak; söze pat diye girmek",
+        "en": "to enter a place or interrupt rudely and suddenly",
+        "exampleEn": "She barged in without knocking on the door.",
+        "exampleTr": "Kapıyı çalmadan içeri daldı."
+      }
+    ],
+    "synonyms": [
+      "intrude",
+      "interrupt",
+      "burst in"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_baron",
+    "headword": "baron",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbærən/",
+    "meanings": [
+      {
+        "tr": "baron (asalet unvanı)",
+        "en": "a man belonging to a low rank of the nobility",
+        "exampleEn": "The baron owned vast areas of land in the region.",
+        "exampleTr": "Baron, bölgede geniş arazilere sahipti."
+      },
+      {
+        "tr": "kodaman, patron (belirli bir sektörde çok güçlü kişi)",
+        "en": "a person who controls a large part of a particular industry",
+        "exampleEn": "He became a powerful media baron in the 1980s.",
+        "exampleTr": "1980'lerde güçlü bir medya kodamanı oldu."
+      }
+    ],
+    "synonyms": [
+      "magnate",
+      "tycoon",
+      "nobleman"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_barren_land",
+    "headword": "barren land",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbærən ˈlænd/",
+    "meanings": [
+      {
+        "tr": "çorak toprak, verimsiz arazi",
+        "en": "land where plants cannot grow because the soil is poor",
+        "exampleEn": "Nothing could grow on the dry, barren land.",
+        "exampleTr": "Kuru, çorak toprakta hiçbir şey yetişemezdi."
+      }
+    ],
+    "synonyms": [
+      "wasteland",
+      "infertile land"
+    ],
+    "antonyms": [
+      "fertile land"
+    ]
+  },
+  {
+    "id": "w_barricade",
+    "headword": "barricade",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbærɪkeɪd/",
+    "meanings": [
+      {
+        "tr": "barikat, engel",
+        "en": "a temporary barrier built to block a road or entrance, especially during fighting",
+        "exampleEn": "Protesters built a barricade across the street.",
+        "exampleTr": "Protestocular sokağa bir barikat kurdular."
+      },
+      {
+        "tr": "barikat kurmak, barikatla kapatmak",
+        "en": "to block or defend something with a barrier",
+        "exampleEn": "They barricaded the door to keep the intruders out.",
+        "exampleTr": "İzinsiz girenleri dışarıda tutmak için kapıyı barikatla kapattılar."
+      }
+    ],
+    "synonyms": [
+      "barrier",
+      "blockade",
+      "obstruction"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_bathers",
+    "headword": "bathers",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbeɪðəz/",
+    "meanings": [
+      {
+        "tr": "denize/havuza girenler, yüzenler",
+        "en": "people who are swimming or relaxing in water for pleasure",
+        "exampleEn": "The beach was full of bathers on the hot summer day.",
+        "exampleTr": "Sıcak yaz gününde plaj yüzen insanlarla doluydu."
+      }
+    ],
+    "synonyms": [
+      "swimmers"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_be_absent",
+    "headword": "be absent",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈæbsənt/",
+    "meanings": [
+      {
+        "tr": "yok olmak, bulunmamak, devamsız olmak",
+        "en": "to not be present in a place",
+        "exampleEn": "Three students were absent from class today.",
+        "exampleTr": "Bugün üç öğrenci derste yoktu."
+      }
+    ],
+    "synonyms": [
+      "be away",
+      "be missing"
+    ],
+    "antonyms": [
+      "be present"
+    ]
+  },
+  {
+    "id": "w_be_born",
+    "headword": "be born",
+    "pos": "phrase",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈbɔːn/",
+    "meanings": [
+      {
+        "tr": "doğmak",
+        "en": "to come into existence by birth",
+        "exampleEn": "She was born in a small village in 1990.",
+        "exampleTr": "1990 yılında küçük bir köyde doğdu."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "die"
+    ]
+  },
+  {
+    "id": "w_be_careful",
+    "headword": "be careful",
+    "pos": "phrase",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈkeəfəl/",
+    "meanings": [
+      {
+        "tr": "dikkatli olmak",
+        "en": "to give attention to what you are doing in order to avoid harm or mistakes",
+        "exampleEn": "Be careful when you cross the busy road.",
+        "exampleTr": "Kalabalık yoldan geçerken dikkatli ol."
+      }
+    ],
+    "synonyms": [
+      "take care",
+      "watch out"
+    ],
+    "antonyms": [
+      "be careless"
+    ]
+  },
+  {
+    "id": "w_be_convinced",
+    "headword": "be convinced",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi kənˈvɪnst/",
+    "meanings": [
+      {
+        "tr": "ikna olmak, emin olmak, inanmak",
+        "en": "to feel certain that something is true",
+        "exampleEn": "I am convinced that he is telling the truth.",
+        "exampleTr": "Onun doğruyu söylediğine eminim."
+      }
+    ],
+    "synonyms": [
+      "be certain",
+      "be sure"
+    ],
+    "antonyms": [
+      "be doubtful"
+    ]
+  },
+  {
+    "id": "w_be_doubtful",
+    "headword": "be doubtful",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈdaʊtfəl/",
+    "meanings": [
+      {
+        "tr": "kuşkulu olmak, şüphe duymak, emin olmamak",
+        "en": "to feel uncertain about something",
+        "exampleEn": "I am doubtful that the plan will work.",
+        "exampleTr": "Planın işe yarayacağından kuşkuluyum."
+      }
+    ],
+    "synonyms": [
+      "be uncertain",
+      "be unsure",
+      "be dubious"
+    ],
+    "antonyms": [
+      "be convinced",
+      "be certain"
+    ]
+  },
+  {
+    "id": "w_be_dubious",
+    "headword": "be dubious",
+    "pos": "phrase",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈdjuːbiəs/",
+    "meanings": [
+      {
+        "tr": "şüpheci olmak, kuşku duymak",
+        "en": "to have doubts about something; to be uncertain",
+        "exampleEn": "She was dubious about the safety of the old bridge.",
+        "exampleTr": "Eski köprünün güvenliğinden kuşkuluydu."
+      }
+    ],
+    "synonyms": [
+      "be doubtful",
+      "be skeptical",
+      "be unsure"
+    ],
+    "antonyms": [
+      "be convinced"
+    ]
+  },
+  {
+    "id": "w_be_imaginative",
+    "headword": "be imaginative",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ɪˈmædʒɪnətɪv/",
+    "meanings": [
+      {
+        "tr": "hayal gücü kuvvetli olmak, yaratıcı olmak",
+        "en": "to be good at thinking of new and original ideas",
+        "exampleEn": "Children tend to be imaginative when they play.",
+        "exampleTr": "Çocuklar oynarken hayal güçleri kuvvetli olma eğilimindedir."
+      }
+    ],
+    "synonyms": [
+      "be creative",
+      "be inventive"
+    ],
+    "antonyms": [
+      "be unimaginative"
+    ]
+  },
+  {
+    "id": "w_be_inventive",
+    "headword": "be inventive",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ɪnˈventɪv/",
+    "meanings": [
+      {
+        "tr": "yaratıcı olmak, buluşçu olmak",
+        "en": "to be good at inventing things or thinking of new ideas",
+        "exampleEn": "You have to be inventive to solve problems with so few resources.",
+        "exampleTr": "Bu kadar az kaynakla sorunları çözmek için yaratıcı olmalısın."
+      }
+    ],
+    "synonyms": [
+      "be creative",
+      "be imaginative",
+      "be resourceful"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_be_responsible",
+    "headword": "be responsible",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi rɪˈspɒnsəbəl/",
+    "meanings": [
+      {
+        "tr": "sorumlu olmak",
+        "en": "to have the duty of dealing with or taking care of something",
+        "exampleEn": "Parents are responsible for their children's safety.",
+        "exampleTr": "Ebeveynler çocuklarının güvenliğinden sorumludur."
+      }
+    ],
+    "synonyms": [
+      "be accountable",
+      "be in charge"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_be_similar",
+    "headword": "be similar",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈsɪmɪlə/",
+    "meanings": [
+      {
+        "tr": "benzer olmak, benzemek",
+        "en": "to share qualities but not be exactly the same",
+        "exampleEn": "The two languages are similar in many ways.",
+        "exampleTr": "İki dil birçok yönden benzerdir."
+      }
+    ],
+    "synonyms": [
+      "be alike",
+      "resemble"
+    ],
+    "antonyms": [
+      "be different"
+    ]
+  },
+  {
+    "id": "w_be_thankful",
+    "headword": "be thankful",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ˈθæŋkfəl/",
+    "meanings": [
+      {
+        "tr": "minnettar olmak, şükretmek",
+        "en": "to feel grateful for something",
+        "exampleEn": "We should be thankful for what we have.",
+        "exampleTr": "Sahip olduklarımız için minnettar olmalıyız."
+      }
+    ],
+    "synonyms": [
+      "be grateful",
+      "be appreciative"
+    ],
+    "antonyms": [
+      "be ungrateful"
+    ]
+  },
+  {
+    "id": "w_be_ungrateful",
+    "headword": "be ungrateful",
+    "pos": "phrase",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bi ʌnˈɡreɪtfəl/",
+    "meanings": [
+      {
+        "tr": "nankör olmak, minnet duymamak",
+        "en": "to not show or feel thanks for something received",
+        "exampleEn": "It would be ungrateful to refuse their generous offer.",
+        "exampleTr": "Cömert tekliflerini reddetmek nankörlük olurdu."
+      }
+    ],
+    "synonyms": [
+      "be unappreciative"
+    ],
+    "antonyms": [
+      "be thankful",
+      "be grateful"
+    ]
+  },
+  {
+    "id": "w_bead",
+    "headword": "bead",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/biːd/",
+    "meanings": [
+      {
+        "tr": "boncuk",
+        "en": "a small, usually round piece of glass, wood, or plastic with a hole through it, used for making jewelry",
+        "exampleEn": "She threaded each bead onto the string to make a necklace.",
+        "exampleTr": "Kolye yapmak için her boncuğu ipe geçirdi."
+      },
+      {
+        "tr": "damla (ter, su vb.)",
+        "en": "a small drop of liquid",
+        "exampleEn": "Beads of sweat formed on his forehead.",
+        "exampleTr": "Alnında ter damlaları oluştu."
+      }
+    ],
+    "synonyms": [
+      "droplet"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_beaten",
+    "headword": "beaten",
+    "pos": "adjective",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbiːtən/",
+    "meanings": [
+      {
+        "tr": "yenilmiş, mağlup",
+        "en": "defeated in a game, fight, or competition",
+        "exampleEn": "The beaten team left the field in silence.",
+        "exampleTr": "Yenilen takım sessizce sahayı terk etti."
+      },
+      {
+        "tr": "dövülmüş, çırpılmış",
+        "en": "mixed or stirred quickly (e.g. eggs)",
+        "exampleEn": "Add the beaten eggs to the flour mixture.",
+        "exampleTr": "Çırpılmış yumurtaları un karışımına ekleyin."
+      }
+    ],
+    "synonyms": [
+      "defeated",
+      "conquered"
+    ],
+    "antonyms": [
+      "victorious"
+    ]
+  },
+  {
+    "id": "w_beauty_products",
+    "headword": "beauty products",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbjuːti ˌprɒdʌkts/",
+    "meanings": [
+      {
+        "tr": "güzellik ürünleri, kozmetik ürünler",
+        "en": "items such as make-up and skin care used to improve appearance",
+        "exampleEn": "The store sells a wide range of beauty products.",
+        "exampleTr": "Mağaza geniş bir yelpazede güzellik ürünleri satıyor."
+      }
+    ],
+    "synonyms": [
+      "cosmetics"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_became_extinct",
+    "headword": "became extinct",
+    "pos": "phrase",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bɪˌkeɪm ɪkˈstɪŋkt/",
+    "meanings": [
+      {
+        "tr": "nesli tükendi, soyu tükendi",
+        "en": "stopped existing as a species (past tense of become extinct)",
+        "exampleEn": "The dinosaurs became extinct millions of years ago.",
+        "exampleTr": "Dinozorların nesli milyonlarca yıl önce tükendi."
+      }
+    ],
+    "synonyms": [
+      "died out",
+      "vanished"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_beggar",
+    "headword": "beggar",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbeɡə/",
+    "meanings": [
+      {
+        "tr": "dilenci",
+        "en": "a person who lives by asking others for money or food",
+        "exampleEn": "A beggar sat outside the station asking for coins.",
+        "exampleTr": "İstasyonun dışında oturan bir dilenci bozuk para istiyordu."
+      }
+    ],
+    "synonyms": [
+      "pauper",
+      "panhandler"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_begin_again",
+    "headword": "begin again",
+    "pos": "phrase",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/bɪˌɡɪn əˈɡen/",
+    "meanings": [
+      {
+        "tr": "yeniden başlamak, baştan başlamak",
+        "en": "to start something once more from the beginning",
+        "exampleEn": "After the mistake, they had to begin again from the start.",
+        "exampleTr": "Hatadan sonra en baştan yeniden başlamak zorunda kaldılar."
+      }
+    ],
+    "synonyms": [
+      "restart",
+      "resume"
+    ],
+    "antonyms": [
+      "finish",
+      "stop"
+    ]
+  },
+  {
+    "id": "w_begun",
+    "headword": "begun",
+    "pos": "verb",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɪˈɡʌn/",
+    "meanings": [
+      {
+        "tr": "başlamış, başlanmış (begin fiilinin geçmiş ortacı)",
+        "en": "past participle of 'begin'; to have started",
+        "exampleEn": "The meeting had already begun when I arrived.",
+        "exampleTr": "Ben vardığımda toplantı çoktan başlamıştı."
+      }
+    ],
+    "synonyms": [
+      "started",
+      "commenced"
+    ],
+    "antonyms": [
+      "ended",
+      "finished"
+    ]
+  },
+  {
+    "id": "w_bell_pepper",
+    "headword": "bell pepper",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbel ˌpepə/",
+    "meanings": [
+      {
+        "tr": "dolmalık biber, kapya biber",
+        "en": "a hollow green, red, or yellow vegetable with a mild flavor",
+        "exampleEn": "She chopped a red bell pepper for the salad.",
+        "exampleTr": "Salata için kırmızı bir dolmalık biber doğradı."
+      }
+    ],
+    "synonyms": [
+      "sweet pepper",
+      "capsicum"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_bellhop",
+    "headword": "bellhop",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈbelhɒp/",
+    "meanings": [
+      {
+        "tr": "otel komisi, otel valesi (bavul taşıyan görevli)",
+        "en": "a hotel employee who carries guests' bags and does small tasks",
+        "exampleEn": "The bellhop carried our luggage up to the room.",
+        "exampleTr": "Otel komisi bavullarımızı odaya kadar taşıdı."
+      }
+    ],
+    "synonyms": [
+      "porter",
+      "bellboy"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_belligerent",
+    "headword": "belligerent",
+    "pos": "adjective",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bəˈlɪdʒərənt/",
+    "meanings": [
+      {
+        "tr": "kavgacı, saldırgan, hırçın",
+        "en": "wishing to fight or argue; hostile and aggressive",
+        "exampleEn": "He became belligerent after a few drinks.",
+        "exampleTr": "Birkaç içkiden sonra saldırganlaştı."
+      }
+    ],
+    "synonyms": [
+      "aggressive",
+      "hostile",
+      "combative"
+    ],
+    "antonyms": [
+      "peaceful",
+      "friendly"
+    ]
+  },
+  {
+    "id": "w_beneficiary",
+    "headword": "beneficiary",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbenɪˈfɪʃəri/",
+    "meanings": [
+      {
+        "tr": "yararlanan kişi, lehtar (miras, sigorta vb.)",
+        "en": "a person who receives money, advantages, or benefits from something",
+        "exampleEn": "She was named as the main beneficiary of the will.",
+        "exampleTr": "Vasiyetnamenin ana lehtarı olarak belirlendi."
+      }
+    ],
+    "synonyms": [
+      "recipient",
+      "heir"
+    ],
+    "antonyms": [
+      "benefactor",
+      "donor"
+    ]
+  },
+  {
+    "id": "w_benign",
+    "headword": "benign",
+    "pos": "adjective",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɪˈnaɪn/",
+    "meanings": [
+      {
+        "tr": "iyi huylu (tümör); zararsız",
+        "en": "not harmful; (of a tumor) not cancerous",
+        "exampleEn": "The tests showed that the tumor was benign.",
+        "exampleTr": "Testler tümörün iyi huylu olduğunu gösterdi."
+      },
+      {
+        "tr": "nazik, müşfik, yumuşak",
+        "en": "kind and gentle in nature",
+        "exampleEn": "He had a benign smile that put everyone at ease.",
+        "exampleTr": "Herkesi rahatlatan müşfik bir gülümsemesi vardı."
+      }
+    ],
+    "synonyms": [
+      "harmless",
+      "gentle",
+      "kindly"
+    ],
+    "antonyms": [
+      "malignant",
+      "harmful"
+    ]
+  },
+  {
+    "id": "w_bequest",
+    "headword": "bequest",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɪˈkwest/",
+    "meanings": [
+      {
+        "tr": "vasiyetle bırakılan miras, vasiyet",
+        "en": "money or property that you leave to someone in your will",
+        "exampleEn": "The museum received a generous bequest from a former patron.",
+        "exampleTr": "Müze, eski bir hamiden cömert bir miras aldı."
+      }
+    ],
+    "synonyms": [
+      "legacy",
+      "inheritance",
+      "endowment"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_berth",
+    "headword": "berth",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɜːθ/",
+    "meanings": [
+      {
+        "tr": "yatak (tren/gemide); ranza",
+        "en": "a bed on a ship or train",
+        "exampleEn": "We booked a cabin with two berths for the overnight journey.",
+        "exampleTr": "Gece yolculuğu için iki yataklı bir kabin ayırttık."
+      },
+      {
+        "tr": "rıhtımda geminin bağlanma yeri, yanaşma yeri",
+        "en": "a place in a port where a ship can stop and stay",
+        "exampleEn": "The ship pulled into its berth at the harbor.",
+        "exampleTr": "Gemi limandaki yanaşma yerine girdi."
+      }
+    ],
+    "synonyms": [
+      "bunk",
+      "mooring"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_beseech",
+    "headword": "beseech",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɪˈsiːtʃ/",
+    "meanings": [
+      {
+        "tr": "yalvarmak, rica etmek, niyaz etmek",
+        "en": "to ask someone for something in an urgent and emotional way",
+        "exampleEn": "She beseeched the judge to show mercy.",
+        "exampleTr": "Yargıçtan merhamet göstermesi için yalvardı."
+      }
+    ],
+    "synonyms": [
+      "beg",
+      "implore",
+      "plead"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_best_wishes",
+    "headword": "best wishes",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbest ˈwɪʃɪz/",
+    "meanings": [
+      {
+        "tr": "en iyi dileklerimle; iyi dilekler",
+        "en": "a friendly expression of hope for someone's happiness or success, often used to end a message",
+        "exampleEn": "Please give my best wishes to your family.",
+        "exampleTr": "Lütfen ailene en iyi dileklerimi ilet."
+      }
+    ],
+    "synonyms": [
+      "regards",
+      "good wishes"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_best_loved",
+    "headword": "best-loved",
+    "pos": "adjective",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌbest ˈlʌvd/",
+    "meanings": [
+      {
+        "tr": "en sevilen, en çok sevilen",
+        "en": "most popular and admired",
+        "exampleEn": "It is one of the country's best-loved children's stories.",
+        "exampleTr": "Ülkenin en sevilen çocuk hikayelerinden biridir."
+      }
+    ],
+    "synonyms": [
+      "most popular",
+      "favorite",
+      "best-liked"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_betrayal",
+    "headword": "betrayal",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɪˈtreɪəl/",
+    "meanings": [
+      {
+        "tr": "ihanet, hainlik",
+        "en": "the act of being disloyal to someone who trusts you",
+        "exampleEn": "She felt his lie was a deep betrayal of their friendship.",
+        "exampleTr": "Onun yalanının dostluklarına derin bir ihanet olduğunu hissetti."
+      }
+    ],
+    "synonyms": [
+      "treachery",
+      "disloyalty",
+      "treason"
+    ],
+    "antonyms": [
+      "loyalty",
+      "faithfulness"
+    ]
+  },
+  {
+    "id": "w_bewail",
+    "headword": "bewail",
+    "pos": "verb",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/bɪˈweɪl/",
+    "meanings": [
+      {
+        "tr": "yas tutmak, ağlayıp sızlamak, hayıflanmak",
+        "en": "to express great sadness or regret about something",
+        "exampleEn": "The workers bewailed the loss of their jobs.",
+        "exampleTr": "İşçiler işlerini kaybetmenin yasını tuttu."
+      }
+    ],
+    "synonyms": [
+      "lament",
+      "mourn",
+      "deplore"
+    ],
+    "antonyms": [
+      "rejoice"
+    ]
+  }
+]

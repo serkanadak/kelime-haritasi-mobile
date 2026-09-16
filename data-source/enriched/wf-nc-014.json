@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "w_for_profit",
+    "headword": "for-profit",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔːr ˈprɒfɪt/",
+    "meanings": [
+      {
+        "tr": "kâr amaçlı, ticari",
+        "en": "intended to make money for its owners",
+        "exampleEn": "She left the charity to run a for-profit healthcare company.",
+        "exampleTr": "Hayır kurumundan ayrılıp kâr amaçlı bir sağlık şirketi yönetmeye başladı."
+      }
+    ],
+    "synonyms": [
+      "commercial"
+    ],
+    "antonyms": [
+      "nonprofit",
+      "charitable"
+    ]
+  },
+  {
+    "id": "w_forager",
+    "headword": "forager",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɒrɪdʒə/",
+    "meanings": [
+      {
+        "tr": "yiyecek arayan kişi veya hayvan, toplayıcı",
+        "en": "a person or animal that searches for food or supplies",
+        "exampleEn": "The squirrel is a skilled forager, storing nuts for the winter.",
+        "exampleTr": "Sincap, kış için fındık depolayan usta bir toplayıcıdır."
+      }
+    ],
+    "synonyms": [
+      "gatherer",
+      "scavenger"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_forbearance",
+    "headword": "forbearance",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔːˈbeərəns/",
+    "meanings": [
+      {
+        "tr": "sabır, hoşgörü, tahammül",
+        "en": "patience and the ability to control your reaction when annoyed",
+        "exampleEn": "He showed great forbearance in dealing with the rude customer.",
+        "exampleTr": "Kaba müşteriyle uğraşırken büyük bir sabır gösterdi."
+      },
+      {
+        "tr": "(borç için) ödeme erteleme, borç ödemesini erteleme",
+        "en": "the act of not enforcing a debt when it is due",
+        "exampleEn": "The bank offered forbearance on the mortgage during the crisis.",
+        "exampleTr": "Banka, kriz sırasında ipotek ödemesi için erteleme sundu."
+      }
+    ],
+    "synonyms": [
+      "patience",
+      "tolerance",
+      "restraint"
+    ],
+    "antonyms": [
+      "impatience",
+      "intolerance"
+    ]
+  },
+  {
+    "id": "w_fore",
+    "headword": "fore",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔː/",
+    "meanings": [
+      {
+        "tr": "ön plan, öne (özellikle 'to the fore' kalıbında)",
+        "en": "a position of importance or prominence",
+        "exampleEn": "The issue of climate change has come to the fore in recent elections.",
+        "exampleTr": "İklim değişikliği konusu son seçimlerde ön plana çıktı."
+      }
+    ],
+    "synonyms": [
+      "front",
+      "forefront"
+    ],
+    "antonyms": [
+      "rear",
+      "background"
+    ]
+  },
+  {
+    "id": "w_foreign_language",
+    "headword": "foreign language",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "communication"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɒrən ˈlæŋɡwɪdʒ/",
+    "meanings": [
+      {
+        "tr": "yabancı dil",
+        "en": "a language spoken in a country other than your own",
+        "exampleEn": "Learning a foreign language can improve your job prospects.",
+        "exampleTr": "Yabancı bir dil öğrenmek iş olanaklarınızı artırabilir."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "mother tongue",
+      "native language"
+    ]
+  },
+  {
+    "id": "w_foremost",
+    "headword": "foremost",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɔːməʊst/",
+    "meanings": [
+      {
+        "tr": "en önde gelen, başlıca, en önemli",
+        "en": "the most important or best",
+        "exampleEn": "She is one of the foremost experts on ancient Rome.",
+        "exampleTr": "Antik Roma konusunda en önde gelen uzmanlardan biridir."
+      }
+    ],
+    "synonyms": [
+      "leading",
+      "principal",
+      "preeminent"
+    ],
+    "antonyms": [
+      "least",
+      "minor"
+    ]
+  },
+  {
+    "id": "w_forename",
+    "headword": "forename",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɔːneɪm/",
+    "meanings": [
+      {
+        "tr": "ön ad, isim (soyadı dışındaki ad)",
+        "en": "the name that comes before your family name; first name",
+        "exampleEn": "Please write your forename and surname on the form.",
+        "exampleTr": "Lütfen forma adınızı ve soyadınızı yazın."
+      }
+    ],
+    "synonyms": [
+      "first name",
+      "given name"
+    ],
+    "antonyms": [
+      "surname",
+      "family name"
+    ]
+  },
+  {
+    "id": "w_foretold",
+    "headword": "foretold",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔːˈtəʊld/",
+    "meanings": [
+      {
+        "tr": "önceden haber verdi, kehanette bulundu (foretell fiilinin geçmiş hali)",
+        "en": "predicted a future event (past tense of foretell)",
+        "exampleEn": "The old prophecy foretold the fall of the empire.",
+        "exampleTr": "Eski kehanet, imparatorluğun çöküşünü önceden haber vermişti."
+      }
+    ],
+    "synonyms": [
+      "predicted",
+      "prophesied",
+      "foresaw"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_forewarn",
+    "headword": "forewarn",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔːˈwɔːn/",
+    "meanings": [
+      {
+        "tr": "önceden uyarmak",
+        "en": "to warn someone about something before it happens",
+        "exampleEn": "They forewarned us about the heavy traffic on the route.",
+        "exampleTr": "Güzergâhtaki yoğun trafik konusunda bizi önceden uyardılar."
+      }
+    ],
+    "synonyms": [
+      "alert",
+      "caution",
+      "warn"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_forged",
+    "headword": "forged",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔːdʒd/",
+    "meanings": [
+      {
+        "tr": "sahte olarak üretti, taklit etti (forge fiilinin geçmiş hali)",
+        "en": "made an illegal copy of something in order to deceive",
+        "exampleEn": "He forged his manager's signature on the document.",
+        "exampleTr": "Belgedeki müdürünün imzasını taklit etti."
+      },
+      {
+        "tr": "(ilişki, anlaşma vb.) kurdu, oluşturdu",
+        "en": "created or developed something, especially a relationship",
+        "exampleEn": "The two nations forged a strong alliance after the war.",
+        "exampleTr": "İki ülke savaştan sonra güçlü bir ittifak kurdu."
+      }
+    ],
+    "synonyms": [
+      "counterfeit",
+      "fake",
+      "establish"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_forgo",
+    "headword": "forgo",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔːˈɡəʊ/",
+    "meanings": [
+      {
+        "tr": "vazgeçmek, feragat etmek, mahrum kalmayı kabul etmek",
+        "en": "to decide not to have or do something you would like",
+        "exampleEn": "She chose to forgo her salary to keep the business running.",
+        "exampleTr": "İşi ayakta tutmak için maaşından vazgeçmeyi seçti."
+      }
+    ],
+    "synonyms": [
+      "relinquish",
+      "waive",
+      "give up"
+    ],
+    "antonyms": [
+      "keep",
+      "retain"
+    ]
+  },
+  {
+    "id": "w_formalwear",
+    "headword": "formalwear",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɔːməlweə/",
+    "meanings": [
+      {
+        "tr": "resmi giysi, özel gün kıyafeti",
+        "en": "clothes that are worn on formal occasions",
+        "exampleEn": "The wedding invitation stated that formalwear was required.",
+        "exampleTr": "Düğün davetiyesinde resmi kıyafetin zorunlu olduğu belirtilmişti."
+      }
+    ],
+    "synonyms": [
+      "evening wear"
+    ],
+    "antonyms": [
+      "casualwear"
+    ]
+  },
+  {
+    "id": "w_formulate",
+    "headword": "formulate",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɔːmjəleɪt/",
+    "meanings": [
+      {
+        "tr": "formüle etmek, açıkça ifade etmek, geliştirmek",
+        "en": "to develop or create something, or to express an idea clearly",
+        "exampleEn": "The committee needs to formulate a new strategy for growth.",
+        "exampleTr": "Komitenin büyüme için yeni bir strateji geliştirmesi gerekiyor."
+      }
+    ],
+    "synonyms": [
+      "devise",
+      "develop",
+      "draft"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_forty",
+    "headword": "forty",
+    "pos": "num",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɔːti/",
+    "meanings": [
+      {
+        "tr": "kırk (40)",
+        "en": "the number 40",
+        "exampleEn": "There were forty people at the meeting.",
+        "exampleTr": "Toplantıda kırk kişi vardı."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_foster",
+    "headword": "foster",
+    "pos": "verb",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfɒstə/",
+    "meanings": [
+      {
+        "tr": "teşvik etmek, geliştirmek, beslemek",
+        "en": "to encourage the development of something, especially something good",
+        "exampleEn": "The program aims to foster creativity in young children.",
+        "exampleTr": "Program, küçük çocuklarda yaratıcılığı geliştirmeyi amaçlıyor."
+      },
+      {
+        "tr": "(bir çocuğu) koruyucu aile olarak bakmak",
+        "en": "to take care of a child as part of your family without adopting them",
+        "exampleEn": "They decided to foster a child in need of a home.",
+        "exampleTr": "Bir yuvaya ihtiyacı olan bir çocuğa koruyucu aile olmaya karar verdiler."
+      }
+    ],
+    "synonyms": [
+      "encourage",
+      "promote",
+      "nurture"
+    ],
+    "antonyms": [
+      "discourage",
+      "suppress"
+    ]
+  },
+  {
+    "id": "w_four",
+    "headword": "four",
+    "pos": "num",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fɔː/",
+    "meanings": [
+      {
+        "tr": "dört (4)",
+        "en": "the number 4",
+        "exampleEn": "The table has four legs.",
+        "exampleTr": "Masanın dört ayağı var."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_fourteen",
+    "headword": "fourteen",
+    "pos": "num",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌfɔːˈtiːn/",
+    "meanings": [
+      {
+        "tr": "on dört (14)",
+        "en": "the number 14",
+        "exampleEn": "My sister is fourteen years old.",
+        "exampleTr": "Kız kardeşim on dört yaşında."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_fraction",
+    "headword": "fraction",
+    "pos": "noun",
+    "level": "B1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfrækʃən/",
+    "meanings": [
+      {
+        "tr": "kesir; küçük bir kısım, cüz'i miktar",
+        "en": "a small part or amount of something",
+        "exampleEn": "Only a small fraction of the budget was spent on marketing.",
+        "exampleTr": "Bütçenin yalnızca küçük bir kısmı pazarlamaya harcandı."
+      },
+      {
+        "tr": "(matematik) kesir",
+        "en": "a number that is not a whole number, such as 1/2",
+        "exampleEn": "Students learned how to add fractions in maths class.",
+        "exampleTr": "Öğrenciler matematik dersinde kesirleri toplamayı öğrendiler."
+      }
+    ],
+    "synonyms": [
+      "portion",
+      "fragment",
+      "part"
+    ],
+    "antonyms": [
+      "whole"
+    ]
+  },
+  {
+    "id": "w_fractionally",
+    "headword": "fractionally",
+    "pos": "adv",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfrækʃənəli/",
+    "meanings": [
+      {
+        "tr": "çok az, azıcık, minik bir farkla",
+        "en": "by a very small amount",
+        "exampleEn": "The new model is fractionally lighter than the old one.",
+        "exampleTr": "Yeni model, eskisinden çok az daha hafif."
+      }
+    ],
+    "synonyms": [
+      "slightly",
+      "marginally"
+    ],
+    "antonyms": [
+      "greatly",
+      "substantially"
+    ]
+  },
+  {
+    "id": "w_fragility",
+    "headword": "fragility",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/frəˈdʒɪləti/",
+    "meanings": [
+      {
+        "tr": "kırılganlık, hassaslık, dayanıksızlık",
+        "en": "the quality of being easily broken or damaged",
+        "exampleEn": "The fragility of the ecosystem worries scientists.",
+        "exampleTr": "Ekosistemin kırılganlığı bilim insanlarını endişelendiriyor."
+      }
+    ],
+    "synonyms": [
+      "frailty",
+      "delicacy",
+      "vulnerability"
+    ],
+    "antonyms": [
+      "strength",
+      "robustness",
+      "durability"
+    ]
+  },
+  {
+    "id": "w_fragmentary",
+    "headword": "fragmentary",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfræɡməntəri/",
+    "meanings": [
+      {
+        "tr": "parça parça, eksik, dağınık",
+        "en": "consisting of small parts that are not connected or complete",
+        "exampleEn": "Our knowledge of the ancient city is still fragmentary.",
+        "exampleTr": "Antik kente dair bilgimiz hâlâ parça parça ve eksik."
+      }
+    ],
+    "synonyms": [
+      "incomplete",
+      "scattered",
+      "piecemeal"
+    ],
+    "antonyms": [
+      "complete",
+      "whole"
+    ]
+  },
+  {
+    "id": "w_frailty",
+    "headword": "frailty",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfreɪlti/",
+    "meanings": [
+      {
+        "tr": "zayıflık, güçsüzlük, kırılganlık",
+        "en": "the condition of being weak and delicate",
+        "exampleEn": "Old age brought a growing frailty to his once-strong body.",
+        "exampleTr": "Yaşlılık, bir zamanlar güçlü olan bedenine giderek artan bir güçsüzlük getirdi."
+      }
+    ],
+    "synonyms": [
+      "weakness",
+      "fragility",
+      "feebleness"
+    ],
+    "antonyms": [
+      "strength",
+      "robustness"
+    ]
+  },
+  {
+    "id": "w_frankness",
+    "headword": "frankness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "communication"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfræŋknəs/",
+    "meanings": [
+      {
+        "tr": "açık sözlülük, dürüstlük, samimiyet",
+        "en": "the quality of being honest and direct in what you say",
+        "exampleEn": "I appreciated her frankness about the company's problems.",
+        "exampleTr": "Şirketin sorunları hakkındaki açık sözlülüğünü takdir ettim."
+      }
+    ],
+    "synonyms": [
+      "candor",
+      "honesty",
+      "directness"
+    ],
+    "antonyms": [
+      "evasiveness",
+      "dishonesty"
+    ]
+  },
+  {
+    "id": "w_fraudulent",
+    "headword": "fraudulent",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "business"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfrɔːdjələnt/",
+    "meanings": [
+      {
+        "tr": "hileli, sahtekârca, dolandırıcılık içeren",
+        "en": "intended to deceive people in a dishonest and illegal way",
+        "exampleEn": "The company was fined for making fraudulent insurance claims.",
+        "exampleTr": "Şirket, hileli sigorta talepleri nedeniyle para cezasına çarptırıldı."
+      }
+    ],
+    "synonyms": [
+      "deceitful",
+      "dishonest",
+      "bogus"
+    ],
+    "antonyms": [
+      "honest",
+      "genuine",
+      "legitimate"
+    ]
+  },
+  {
+    "id": "w_free_movement",
+    "headword": "free movement",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "economics"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˌfriː ˈmuːvmənt/",
+    "meanings": [
+      {
+        "tr": "serbest dolaşım (kişilerin, malların vb. sınırsız hareketi)",
+        "en": "the right to travel and work freely, especially within a group of countries",
+        "exampleEn": "The treaty guarantees the free movement of goods and people.",
+        "exampleTr": "Anlaşma, malların ve insanların serbest dolaşımını güvence altına alıyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "w_freeman",
+    "headword": "freeman",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfriːmən/",
+    "meanings": [
+      {
+        "tr": "özgür kişi; (tarihsel) bir şehrin fahri hemşehrilik hakkına sahip kişi",
+        "en": "a person who is not a slave, or one given honorary rights of a city",
+        "exampleEn": "He was made a freeman of the city for his charitable work.",
+        "exampleTr": "Hayır işleri nedeniyle şehrin fahri hemşehrisi ilan edildi."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "slave"
+    ]
+  },
+  {
+    "id": "w_freethinker",
+    "headword": "freethinker",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˌfriːˈθɪŋkə/",
+    "meanings": [
+      {
+        "tr": "özgür düşünen kişi, dini dogmaları sorgulayan kimse",
+        "en": "a person who forms their own opinions rather than accepting official or religious teaching",
+        "exampleEn": "As a freethinker, she questioned every tradition she was taught.",
+        "exampleTr": "Özgür düşünen biri olarak, kendisine öğretilen her geleneği sorguladı."
+      }
+    ],
+    "synonyms": [
+      "skeptic",
+      "nonconformist"
+    ],
+    "antonyms": [
+      "conformist"
+    ]
+  },
+  {
+    "id": "w_frenzied",
+    "headword": "frenzied",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfrenzid/",
+    "meanings": [
+      {
+        "tr": "çılgınca, kudurmuşçasına, telaşlı",
+        "en": "wild and uncontrolled, full of excited activity",
+        "exampleEn": "There was frenzied trading on the stock market that morning.",
+        "exampleTr": "O sabah borsada çılgınca bir alım satım vardı."
+      }
+    ],
+    "synonyms": [
+      "frantic",
+      "hectic",
+      "wild"
+    ],
+    "antonyms": [
+      "calm",
+      "relaxed"
+    ]
+  },
+  {
+    "id": "w_frigid",
+    "headword": "frigid",
+    "pos": "adj",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfrɪdʒɪd/",
+    "meanings": [
+      {
+        "tr": "buz gibi, çok soğuk",
+        "en": "extremely cold",
+        "exampleEn": "The climbers faced frigid temperatures near the summit.",
+        "exampleTr": "Dağcılar zirveye yakın buz gibi sıcaklıklarla karşılaştı."
+      },
+      {
+        "tr": "soğuk, mesafeli (davranış)",
+        "en": "unfriendly and showing no warmth",
+        "exampleEn": "She gave him a frigid stare and walked away.",
+        "exampleTr": "Ona soğuk bir bakış attı ve uzaklaştı."
+      }
+    ],
+    "synonyms": [
+      "freezing",
+      "icy",
+      "cold"
+    ],
+    "antonyms": [
+      "warm",
+      "hot"
+    ]
+  },
+  {
+    "id": "w_fringe",
+    "headword": "fringe",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/frɪndʒ/",
+    "meanings": [
+      {
+        "tr": "kenar, dış kısım; marjinal kesim",
+        "en": "the outer or less important part of an area, group, or activity",
+        "exampleEn": "The new houses were built on the fringe of the town.",
+        "exampleTr": "Yeni evler kasabanın kenarına inşa edildi."
+      },
+      {
+        "tr": "püskül, saçak (bir kumaşın kenarındaki süs)",
+        "en": "a decorative border of hanging threads on clothing or fabric",
+        "exampleEn": "The scarf had a colorful fringe along its edges.",
+        "exampleTr": "Eşarbın kenarları boyunca renkli bir saçak vardı."
+      }
+    ],
+    "synonyms": [
+      "edge",
+      "margin",
+      "periphery"
+    ],
+    "antonyms": [
+      "center",
+      "core"
+    ]
+  },
+  {
+    "id": "w_frogman",
+    "headword": "frogman",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfrɒɡmæn/",
+    "meanings": [
+      {
+        "tr": "balıkadam, dalgıç (özellikle askeri veya kurtarma dalgıcı)",
+        "en": "a person who works underwater using special breathing equipment and flippers",
+        "exampleEn": "Police frogmen searched the river for the missing weapon.",
+        "exampleTr": "Polis balıkadamları, kayıp silahı bulmak için nehri aradı."
+      }
+    ],
+    "synonyms": [
+      "diver"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_from",
+    "headword": "from",
+    "pos": "prep",
+    "level": "A1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/frɒm/",
+    "meanings": [
+      {
+        "tr": "-den, -dan (başlangıç noktası veya kaynak belirtir)",
+        "en": "used to show the origin, source, or starting point of something",
+        "exampleEn": "She traveled from London to Paris by train.",
+        "exampleTr": "Londra'dan Paris'e trenle seyahat etti."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "to"
+    ]
+  },
+  {
+    "id": "w_frontward",
+    "headword": "frontward",
+    "pos": "adv",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfrʌntwəd/",
+    "meanings": [
+      {
+        "tr": "öne doğru, ön tarafa",
+        "en": "toward the front",
+        "exampleEn": "He leaned frontward to get a better view of the stage.",
+        "exampleTr": "Sahneyi daha iyi görebilmek için öne doğru eğildi."
+      }
+    ],
+    "synonyms": [
+      "forward"
+    ],
+    "antonyms": [
+      "backward"
+    ]
+  },
+  {
+    "id": "w_frostiness",
+    "headword": "frostiness",
+    "pos": "noun",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfrɒstinəs/",
+    "meanings": [
+      {
+        "tr": "soğukluk, buzluluk; (mecazi) mesafeli, soğuk tavır",
+        "en": "the state of being very cold, or unfriendly and cold in manner",
+        "exampleEn": "There was a noticeable frostiness between the two colleagues.",
+        "exampleTr": "İki iş arkadaşı arasında belirgin bir soğukluk vardı."
+      }
+    ],
+    "synonyms": [
+      "coldness",
+      "chilliness"
+    ],
+    "antonyms": [
+      "warmth"
+    ]
+  },
+  {
+    "id": "w_frumpy",
+    "headword": "frumpy",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfrʌmpi/",
+    "meanings": [
+      {
+        "tr": "eski moda ve modası geçmiş giyinen, bakımsız (özellikle giyim tarzı)",
+        "en": "dressed in dull, old-fashioned, and unattractive clothes",
+        "exampleEn": "She felt frumpy in her old coat next to the stylish crowd.",
+        "exampleTr": "Şık kalabalığın yanında eski paltosuyla kendini bakımsız hissetti."
+      }
+    ],
+    "synonyms": [
+      "dowdy",
+      "unfashionable"
+    ],
+    "antonyms": [
+      "stylish",
+      "chic"
+    ]
+  },
+  {
+    "id": "w_fullness",
+    "headword": "fullness",
+    "pos": "noun",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfʊlnəs/",
+    "meanings": [
+      {
+        "tr": "doluluk, tokluk; bütünlük",
+        "en": "the state of being full or complete",
+        "exampleEn": "The meal gave him a pleasant feeling of fullness.",
+        "exampleTr": "Yemek ona hoş bir tokluk hissi verdi."
+      }
+    ],
+    "synonyms": [
+      "completeness",
+      "abundance"
+    ],
+    "antonyms": [
+      "emptiness"
+    ]
+  },
+  {
+    "id": "w_fully_staffed",
+    "headword": "fully staffed",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "business"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfʊli stɑːft/",
+    "meanings": [
+      {
+        "tr": "tam kadro, tüm personeli tamam olan",
+        "en": "having all the employees or workers that are needed",
+        "exampleEn": "The hospital is finally fully staffed after months of shortages.",
+        "exampleTr": "Hastane, aylarca süren eksikliklerden sonra nihayet tam kadro çalışıyor."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "understaffed",
+      "short-staffed"
+    ]
+  },
+  {
+    "id": "w_fully_developed",
+    "headword": "fully-developed",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfʊli dɪˈveləpt/",
+    "meanings": [
+      {
+        "tr": "tam gelişmiş, olgunlaşmış, eksiksiz",
+        "en": "having grown or advanced to a complete or mature state",
+        "exampleEn": "The plan is not yet fully-developed and needs more detail.",
+        "exampleTr": "Plan henüz tam gelişmiş değil ve daha fazla ayrıntıya ihtiyacı var."
+      }
+    ],
+    "synonyms": [
+      "mature",
+      "complete"
+    ],
+    "antonyms": [
+      "underdeveloped",
+      "immature"
+    ]
+  },
+  {
+    "id": "w_fumble",
+    "headword": "fumble",
+    "pos": "verb",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfʌmbəl/",
+    "meanings": [
+      {
+        "tr": "el yordamıyla aramak, beceriksizce dokunmak",
+        "en": "to use your hands in an awkward way while trying to find or hold something",
+        "exampleEn": "He fumbled in his pocket for the keys.",
+        "exampleTr": "Anahtarları bulmak için cebini el yordamıyla aradı."
+      },
+      {
+        "tr": "(sözünü) beceriksizce söylemek, bocalamak",
+        "en": "to say or do something clumsily and with hesitation",
+        "exampleEn": "She fumbled her answer during the interview.",
+        "exampleTr": "Mülakat sırasında cevabını bocalayarak verdi."
+      }
+    ],
+    "synonyms": [
+      "grope",
+      "bungle"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_furrow",
+    "headword": "furrow",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfʌrəʊ/",
+    "meanings": [
+      {
+        "tr": "saban izi, tarla oluğu; (yüzde) derin kırışıklık",
+        "en": "a long narrow cut in the ground, or a deep line on the face",
+        "exampleEn": "The farmer plowed straight furrows across the field.",
+        "exampleTr": "Çiftçi tarlanın karşısına düz saban izleri açtı."
+      }
+    ],
+    "synonyms": [
+      "groove",
+      "rut",
+      "wrinkle"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_fusion",
+    "headword": "fusion",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfjuːʒən/",
+    "meanings": [
+      {
+        "tr": "birleşme, kaynaşma, füzyon",
+        "en": "the process of combining two or more things to form one",
+        "exampleEn": "This dish is a fusion of Thai and Italian cooking.",
+        "exampleTr": "Bu yemek, Tay ve İtalyan mutfağının bir birleşimidir."
+      }
+    ],
+    "synonyms": [
+      "merger",
+      "blend",
+      "combination"
+    ],
+    "antonyms": [
+      "separation",
+      "division"
+    ]
+  },
+  {
+    "id": "w_futility",
+    "headword": "futility",
+    "pos": "noun",
+    "level": "C1",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/fjuːˈtɪləti/",
+    "meanings": [
+      {
+        "tr": "beyhudelik, boşuna oluş, faydasızlık",
+        "en": "the fact of having no effect or achieving nothing",
+        "exampleEn": "He soon realized the futility of arguing with her.",
+        "exampleTr": "Onunla tartışmanın beyhudeliğini kısa sürede anladı."
+      }
+    ],
+    "synonyms": [
+      "pointlessness",
+      "uselessness"
+    ],
+    "antonyms": [
+      "usefulness",
+      "effectiveness"
+    ]
+  },
+  {
+    "id": "w_fuzzy",
+    "headword": "fuzzy",
+    "pos": "adj",
+    "level": "B2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ˈfʌzi/",
+    "meanings": [
+      {
+        "tr": "bulanık, net olmayan, belirsiz",
+        "en": "not clear in shape, sound, or detail",
+        "exampleEn": "The photo was too fuzzy to see anyone's face.",
+        "exampleTr": "Fotoğraf, kimsenin yüzünü görebilmek için fazla bulanıktı."
+      },
+      {
+        "tr": "tüylü, hafif kabarık",
+        "en": "covered with soft, short hairs or fibers",
+        "exampleEn": "The baby wore a fuzzy woolen hat.",
+        "exampleTr": "Bebek tüylü bir yün şapka giymişti."
+      }
+    ],
+    "synonyms": [
+      "blurry",
+      "unclear",
+      "hazy"
+    ],
+    "antonyms": [
+      "clear",
+      "sharp",
+      "distinct"
+    ]
+  },
+  {
+    "id": "w_garbage_can",
+    "headword": "garbage can",
+    "pos": "noun",
+    "level": "A2",
+    "domains": [
+      "general"
+    ],
+    "type": "phrase",
+    "source": "synant+claude",
+    "pronunciation": "/ˈɡɑːbɪdʒ kæn/",
+    "meanings": [
+      {
+        "tr": "çöp kutusu, çöp tenekesi (Amerikan İngilizcesi)",
+        "en": "a container for waste, especially outside a house",
+        "exampleEn": "Please take the garbage can out to the curb tonight.",
+        "exampleTr": "Lütfen bu gece çöp kutusunu kaldırıma çıkar."
+      }
+    ],
+    "synonyms": [
+      "trash can",
+      "dustbin",
+      "bin"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "w_garbed",
+    "headword": "garbed",
+    "pos": "adj",
+    "level": "C2",
+    "domains": [
+      "general"
+    ],
+    "type": "word",
+    "source": "synant+claude",
+    "pronunciation": "/ɡɑːbd/",
+    "meanings": [
+      {
+        "tr": "giyinmiş, giydirilmiş (belirli bir kıyafetle)",
+        "en": "dressed in a particular way (usually followed by 'in')",
+        "exampleEn": "The priests were garbed in long white robes.",
+        "exampleTr": "Rahipler uzun beyaz cübbeler giymişti."
+      }
+    ],
+    "synonyms": [
+      "dressed",
+      "clad",
+      "attired"
+    ],
+    "antonyms": [
+      "naked",
+      "unclothed"
+    ]
+  }
+]
