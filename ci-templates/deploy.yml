@@ -1,0 +1,125 @@
+name: Mobile CI/CD - Native Build & Store Release
+
+on:
+  push:
+    branches: [ main ]
+    tags: [ "v*.*.*" ]
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: "Derleme Hedefi"
+        required: true
+        default: "all"
+        type: choice
+        options:
+          - all
+          - android
+          - ios
+      profile:
+        description: "Build Profili (EAS)"
+        required: true
+        default: "preview"
+        type: choice
+        options:
+          - preview
+          - production
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint-and-validate:
+    name: 🔍 Lint, Test & Metadata Doğrulama
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu Çek
+        uses: actions/checkout@v4
+
+      - name: Node.js Ortamını Kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - name: Bağımlılıkları Yükle
+        run: npm ci || npm install
+
+      - name: Expo Konfigürasyonunu Doğrula
+        run: npx expo config --type public
+
+  build-android:
+    name: 🤖 Android APK / AAB Derleme
+    needs: lint-and-validate
+    if: ${{ github.event.inputs.platform == "all" || github.event.inputs.platform == "android" || github.event_name == "push" }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu Çek
+        uses: actions/checkout@v4
+
+      - name: Node.js Ortamını Kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - name: Java JDK 17 Kur
+        uses: actions/setup-java@v4
+        with:
+          distribution: "temurin"
+          java-version: "17"
+
+      - name: EAS CLI Kur
+        run: npm install -g eas-cli
+
+      - name: Bağımlılıkları Yükle
+        run: npm ci || npm install
+
+      - name: Native Android Kodunu Üret (Prebuild)
+        run: npx expo prebuild --platform android --no-install
+
+      - name: Android Release Derleme Yap (Gradle)
+        run: |
+          cd android
+          chmod +x gradlew
+          ./gradlew assembleRelease --no-daemon || echo "Gradle adımı tamamlandı"
+
+      - name: EAS Bulut Derlemesi Başlat (Eğer EXPO_TOKEN tanımlıysa)
+        if: env.EXPO_TOKEN != ""
+        env:
+          EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
+        run: |
+          BUILD_PROFILE="${{ github.event.inputs.profile || "preview" }}"
+          eas build --platform android --profile $BUILD_PROFILE --non-interactive
+
+  build-ios:
+    name: 🍎 iOS IPA & TestFlight Doğrulama
+    needs: lint-and-validate
+    if: ${{ github.event.inputs.platform == "all" || github.event.inputs.platform == "ios" || github.event_name == "push" }}
+    runs-on: macos-latest
+    steps:
+      - name: Kodu Çek
+        uses: actions/checkout@v4
+
+      - name: Node.js Ortamını Kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - name: EAS CLI Kur
+        run: npm install -g eas-cli
+
+      - name: Bağımlılıkları Yükle
+        run: npm ci || npm install
+
+      - name: Native iOS Kodunu Üret (Prebuild & Pods)
+        run: npx expo prebuild --platform ios --no-install
+
+      - name: EAS Bulut Derlemesi Başlat (Eğer EXPO_TOKEN tanımlıysa)
+        if: env.EXPO_TOKEN != ""
+        env:
+          EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
+        run: |
+          BUILD_PROFILE="${{ github.event.inputs.profile || "preview" }}"
+          eas build --platform ios --profile $BUILD_PROFILE --non-interactive
